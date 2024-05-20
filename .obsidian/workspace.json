@@ -11,9 +11,11 @@
             "id": "219cbe7bcd317e10",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202405201118.excalidraw.md"
+                "file": "Notes/202405200726.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202405201118.excalidraw.md",
+                "file": "Notes/202405200726.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202405201118.excalidraw.md",
+                "file": "Notes/202405200726.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202405201118.excalidraw.md"
+                "file": "Notes/202405200726.md"
               }
             }
           },
@@ -156,6 +158,7 @@
   },
   "active": "219cbe7bcd317e10",
   "lastOpenFiles": [
+    "Images/202405201118.excalidraw.md",
     "Notes/202405200726.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202405201942.md",
@@ -177,7 +180,6 @@
     "Images/202405200640.excalidraw.md",
     "Images/202405200729.excalidraw.md",
     "Images/202405200904.excalidraw.md",
-    "Images/202405201118.excalidraw.md",
     "Notes/202405171734.md",
     "Notes/202405172211.md",
     "Images/202405201830.excalidraw.md"
