@@ -11,8 +11,12 @@
             "id": "8f058cedb0fca130",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Question.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/Templates/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta/Templates/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meta/Templates/Question.md"
+              }
             }
           },
           {
@@ -151,6 +158,10 @@
   },
   "active": "8f058cedb0fca130",
   "lastOpenFiles": [
+    "Images/~syncthing~202405202046.excalidraw.md.tmp",
+    "Meta/tags.md",
+    "Meta/Templates/Question.md",
+    "Meta/Templates/Problem-solution.md",
     "Notes/202405202037.md",
     "Notes/202405200726.md",
     "Notes/202405172223.md",
@@ -167,7 +178,6 @@
     "Images/Pasted image 20240520203312.png",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202405172222.md",
-    "Meta/Templates/Problem-solution.md",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
     "Notes/202405172215.md",
@@ -193,9 +203,6 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Images/202405172240.excalidraw.md",
     "Images/202405181704.excalidraw.md",
-    "Images/202405200640.excalidraw.md",
-    "Images/202405200729.excalidraw.md",
-    "Images/202405200904.excalidraw.md",
-    "Images/202405201830.excalidraw.md"
+    "Images/202405200640.excalidraw.md"
   ]
 }

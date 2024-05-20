@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "94f5ef13d0412ddf",
+        "id": "7aa8b06eac8592ed",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2c6a4db106ccec",
+            "id": "08152b10a6b3e423",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -132,8 +132,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f2c6a4db106ccec",
+  "active": "08152b10a6b3e423",
   "lastOpenFiles": [
+    "Images/202405202046.excalidraw.md",
+    "Meta/Templates/Question.md",
+    "Meta/Templates/Untitled.md",
     "Notes/202405202037.md",
     "Notes/202405171734.md",
     "Documents/ME623/fdgdfgdgf.md",
@@ -160,9 +163,6 @@
     "Notes/202405181653.md",
     "Notes/202405190910.md",
     "Notes/202405190914.md",
-    "Notes/202405172223.md",
-    "Notes/202405180655.md",
-    "Notes/202405180645.md",
     "Meta/References/ME623",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623",

@@ -1,6 +1,7 @@
 #definition
 #theorem
 #property
+#question
 
 #problem-solution
 #problems-list
