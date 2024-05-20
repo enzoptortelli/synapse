@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33d5e8ff69500e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405202037.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405200726.md",
+                "file": "Notes/202405202037.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405200726.md",
+                "file": "Notes/202405202037.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405200726.md"
+                "file": "Notes/202405202037.md"
               }
             }
           },
@@ -157,8 +170,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "219cbe7bcd317e10",
+  "active": "33d5e8ff69500e04",
   "lastOpenFiles": [
+    "Notes/202405200726.md",
+    "Notes/202405202037.md",
     "Notes/202405172223.md",
     "Images/202405201118.excalidraw.md",
     "Images/Pasted image 20240520202824.png",
@@ -183,7 +198,6 @@
     "Notes/202405172211.md",
     "Notes/202405171734.md",
     "Meta/References/Solutions Manual for Statistical Inference.md",
-    "Notes/202405200726.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202405201942.md",
     "Documents/ME623/fdgdfgdgf.md",
