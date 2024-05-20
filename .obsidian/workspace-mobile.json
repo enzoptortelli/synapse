@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7aa8b06eac8592ed",
+        "id": "14218b443ca651b5",
         "type": "tabs",
         "children": [
           {
-            "id": "08152b10a6b3e423",
+            "id": "19c890f7e664692d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -132,7 +132,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08152b10a6b3e423",
+  "active": "19c890f7e664692d",
   "lastOpenFiles": [
     "Images/202405202046.excalidraw.md",
     "Meta/Templates/Question.md",
