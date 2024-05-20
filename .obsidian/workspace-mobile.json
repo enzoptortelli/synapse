@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c18a5f9950a427",
+        "id": "94f5ef13d0412ddf",
         "type": "tabs",
         "children": [
           {
-            "id": "0beb8117c92eb0d0",
+            "id": "3f2c6a4db106ccec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405171734.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405171734.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405171734.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Notes/202405171734.md"
-          }
+          "state": {}
         }
       },
       {
@@ -140,13 +132,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d61445486b64ef3d",
+  "active": "3f2c6a4db106ccec",
   "lastOpenFiles": [
     "Notes/202405202037.md",
+    "Notes/202405171734.md",
     "Documents/ME623/fdgdfgdgf.md",
     "Notes/202405201942.md",
     "Images/202405172240.excalidraw.md",
-    "Notes/202405171734.md",
     "Images/202405200904.excalidraw.md",
     "Notes/202405170738.md",
     "Documents/ME623/ME623_parte04.pdf",
