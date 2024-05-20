@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "0dbcda20487022c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8c18a5f9950a427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0beb8117c92eb0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405171734.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f18d25952c7a2769",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d61445486b64ef3d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse"
+          }
+        }
+      },
+      {
+        "id": "6c5546b9da56d1cf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5814d359307e4734",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3600c4887eaede5d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "230415fbb1f61459",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54b680dc0ca474df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/202405171734.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1548b593c971e2fd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/202405171734.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cfe2c4914bd10db0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/202405171734.md"
+          }
+        }
+      },
+      {
+        "id": "32394f45d554f62e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0beb8117c92eb0d0",
+  "lastOpenFiles": [
+    "Images/202405172240.excalidraw.md",
+    "Notes/202405171734.md",
+    "Images/202405200904.excalidraw.md",
+    "Notes/202405170738.md",
+    "Documents/ME623/ME623_parte04.pdf",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Images/202405201118.excalidraw.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405172211.md",
+    "Notes/202405172212.md",
+    "Notes/202405200650.md",
+    "Meta/Templates/Class Notes.md",
+    "Notes/202405200726.md",
+    "Images/202405200729.excalidraw.md",
+    "Notes/202405200718.md",
+    "Notes/202405172222.md",
+    "Images/202405200640.excalidraw.md",
+    "Notes/202405181656.md",
+    "Images/202405191940.excalidraw.md",
+    "Notes/202405181653.md",
+    "Notes/202405190910.md",
+    "Notes/202405190914.md",
+    "Notes/202405172223.md",
+    "Notes/202405180655.md",
+    "Notes/202405180645.md",
+    "Notes/202405190912.md",
+    "Images/202405190856.excalidraw.md",
+    "Meta/References/ME623",
+    "Documents/ME623/ME623_parte01.pdf",
+    "Documents/ME623",
+    "Documents/ME623/ME623_parte02.pdf",
+    "Documents/ME623/ME623_parte03.pdf",
+    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
+    "Images/Pasted image 20240517223348.png",
+    "Images/Pasted image 20240517223042.png",
+    "Images/Pasted image 20240517222104.png",
+    "Images/Pasted image 20240517222054.png",
+    "Images/Pasted image 20240517222039.png",
+    "Images/Pasted image 20240517222021.png",
+    "Images/Pasted image 20240517221956.png",
+    "Images/Pasted image 20240517221809.png",
+    "Images/Pasted image 20240517221756.png",
+    "Images/Pasted image 20240517221745.png",
+    "Documents/Pinguins_em_Terra_Vitória__descobrindo_o_número_de_espécies_por_meio_da_clusterização_k_medoids.pdf"
+  ]
+}
