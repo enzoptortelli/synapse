@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172223.md",
+                "file": "Notes/202405200726.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#unfinished-flashcard  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172223.md",
+                "file": "Notes/202405200726.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172223.md",
+                "file": "Notes/202405200726.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172223.md"
+                "file": "Notes/202405200726.md"
               }
             }
           },
@@ -158,6 +159,7 @@
   },
   "active": "219cbe7bcd317e10",
   "lastOpenFiles": [
+    "Notes/202405172223.md",
     "Images/202405201118.excalidraw.md",
     "Images/Pasted image 20240520202824.png",
     "Images/Pasted image 20240520202856.png",
@@ -169,7 +171,6 @@
     "Images/Pasted image 20240520203213.png",
     "Images/Pasted image 20240520203243.png",
     "Images/Pasted image 20240520203312.png",
-    "Notes/202405172223.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202405172222.md",
     "Meta/Templates/Problem-solution.md",
