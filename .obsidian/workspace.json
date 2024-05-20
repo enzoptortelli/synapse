@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Solutions Manual for Statistical Inference.md",
+                "file": "Notes/202405172211.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1cdcd6b197e2c3ae",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Solutions Manual for Statistical Inference.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Solutions Manual for Statistical Inference.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Solutions Manual for Statistical Inference.md"
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           },
@@ -157,9 +168,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "219cbe7bcd317e10",
+  "active": "1cdcd6b197e2c3ae",
   "lastOpenFiles": [
+    "Notes/202405172211.md",
+    "Images/Pasted image 20240520202856.png",
+    "Notes/202405171734.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Images/Pasted image 20240520202824.png",
+    "Notes/202405172222.md",
+    "Notes/202405172223.md",
+    "Meta/Templates/Problem-solution.md",
+    "Meta/References/Solutions Manual for Statistical Inference.md",
     "Notes/202405200726.md",
     "Images/202405201118.excalidraw.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
@@ -181,8 +200,6 @@
     "Images/202405200640.excalidraw.md",
     "Images/202405200729.excalidraw.md",
     "Images/202405200904.excalidraw.md",
-    "Notes/202405171734.md",
-    "Notes/202405172211.md",
     "Images/202405201830.excalidraw.md"
   ]
 }
