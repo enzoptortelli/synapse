@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a098d1ef8b865444",
+        "id": "d942a3aae5e6c2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "87355ca17a6577d4",
+            "id": "529d26192a3febc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405210839.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405210839.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405210839.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/202405210839.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "87355ca17a6577d4",
+  "active": "529d26192a3febc7",
   "lastOpenFiles": [
     "Notes/202405210839.md",
+    "Notes/202405210848.md",
+    "Notes/202405200650.md",
     "Notes/202405210835.md",
     "Notes/202405210814.md",
     "Notes/202405210550.md",
@@ -174,7 +168,6 @@
     "Meta/Link-tag/eigenpair.md",
     "Notes/202405172223.md",
     "Notes/202405171734.md",
-    "Notes/202405200650.md",
     "Images/Pasted image 20240521063352.png",
     "Images/Pasted image 20240521062928.png",
     "Images/202405201118.excalidraw.md",
@@ -195,7 +188,6 @@
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202405172222.md",
     "Notes/202405172221.md",
-    "Notes/202405172220.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME623/ME623_parte04.pdf",
