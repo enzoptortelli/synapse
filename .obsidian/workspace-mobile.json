@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14218b443ca651b5",
+        "id": "c0ac5136066bab38",
         "type": "tabs",
         "children": [
           {
-            "id": "19c890f7e664692d",
+            "id": "034199f8c5099908",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -132,8 +132,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19c890f7e664692d",
+  "active": "034199f8c5099908",
   "lastOpenFiles": [
+    "Images/202405201118.excalidraw.md",
     "Images/202405202046.excalidraw.md",
     "Meta/Templates/Question.md",
     "Meta/Templates/Untitled.md",
@@ -147,7 +148,6 @@
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Images/202405201118.excalidraw.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405172211.md",
     "Notes/202405172212.md",
