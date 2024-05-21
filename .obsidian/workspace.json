@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1b8c23234cccf2f8",
+        "id": "a098d1ef8b865444",
         "type": "tabs",
         "children": [
           {
-            "id": "7ac62befcfa5e9b3",
+            "id": "87355ca17a6577d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405210550.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d940d1def3e90f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405210814.md",
+                "file": "Notes/202405210839.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405210814.md",
+                "file": "Notes/202405210839.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405210814.md",
+                "file": "Notes/202405210839.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405210814.md"
+                "file": "Notes/202405210839.md"
               }
             }
           },
@@ -168,12 +154,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6d940d1def3e90f5",
+  "active": "87355ca17a6577d4",
   "lastOpenFiles": [
+    "Notes/202405210839.md",
+    "Notes/202405210835.md",
     "Notes/202405210814.md",
     "Notes/202405210550.md",
-    "Notes/202405210813.md",
     "Notes/202405210738.md",
+    "Notes/202405210813.md",
     "Notes/202405210732.md",
     "Notes/202405200718.md",
     "Notes/202405210750.md",
@@ -208,8 +196,6 @@
     "Notes/202405172222.md",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
-    "Notes/202405172215.md",
-    "Notes/202405172214.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME623/ME623_parte04.pdf",
