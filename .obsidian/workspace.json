@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4dd6054e7f40fd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405200726.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405200718.md",
+                "file": "Notes/202405200726.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405200718.md",
+                "file": "Notes/202405200726.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405200718.md"
+                "file": "Notes/202405200726.md"
               }
             }
           },
@@ -166,11 +179,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f058cedb0fca130",
+  "active": "d4dd6054e7f40fd1",
   "lastOpenFiles": [
     "Notes/202405210715.md",
-    "Meta/tags.md",
     "Notes/202405200718.md",
+    "Meta/tags.md",
     "Meta/Link-tag/eigenpair.md",
     "Notes/202405172223.md",
     "Notes/202405171734.md",
