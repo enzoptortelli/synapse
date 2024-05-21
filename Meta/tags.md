@@ -2,6 +2,7 @@
 #theorem
 #property
 #question
+#no-proof
 
 #problem-solution
 #problems-list
