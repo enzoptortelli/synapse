@@ -37,18 +37,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405200726.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d07a26c5517df50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Notes/202405210732.md",
                 "mode": "source",
                 "source": false
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "82cc200fae25c900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210750.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,14 +203,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d07a26c5517df50",
+  "active": "d4dd6054e7f40fd1",
   "lastOpenFiles": [
+    "Notes/202405210738.md",
+    "Notes/202405210750.md",
+    "Notes/202405210732.md",
+    "Notes/202405200726.md",
     "Images/~syncthing~202405210743.excalidraw.md.tmp",
     "Images/202405210743.excalidraw.md",
     "Notes/~syncthing~202405210732.md.tmp",
-    "Notes/202405210738.md",
-    "Notes/202405210732.md",
-    "Notes/202405200726.md",
     "Notes/202405210715.md",
     "Notes/202405200718.md",
     "Meta/tags.md",
