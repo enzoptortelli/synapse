@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "42d31ad46ba1b990",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202405210743.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202405210743.excalidraw.md",
+            "file": "Notes/202405210732.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202405210743.excalidraw.md",
+            "file": "Notes/202405210732.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202405210743.excalidraw.md"
+            "file": "Notes/202405210732.md"
           }
         }
       },
@@ -151,10 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42d31ad46ba1b990",
+  "active": "034199f8c5099908",
   "lastOpenFiles": [
-    "Notes/202405210732.md",
     "Images/202405210743.excalidraw.md",
+    "Notes/202405210732.md",
     "Notes/202405210738.md",
     "Images/202405201118.excalidraw.md",
     "Images/202405202046.excalidraw.md",
