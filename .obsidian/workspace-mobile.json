@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ad584b2998e08554",
+        "id": "951bb12af09b9367",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6568da64b98d20",
+            "id": "c6f1fa84e90d9774",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210901.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notes/202405210901.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notes/202405210901.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notes/202405210901.md"
+          }
         }
       },
       {
@@ -132,8 +140,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a6568da64b98d20",
+  "active": "c6f1fa84e90d9774",
   "lastOpenFiles": [
+    "Images/202405211339.excalidraw.md",
+    "Notes/202405210901.md",
+    "Notes/202405210903.md",
+    "Images/202405211323.excalidraw.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
@@ -162,9 +174,6 @@
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405172211.md",
     "Notes/202405172212.md",
-    "Notes/202405200650.md",
-    "Meta/Templates/Class Notes.md",
-    "Notes/202405200726.md",
     "Meta/References/ME623",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623",
@@ -178,7 +187,6 @@
     "Images/Pasted image 20240517222039.png",
     "Images/Pasted image 20240517222021.png",
     "Images/Pasted image 20240517221956.png",
-    "Images/Pasted image 20240517221809.png",
     "Documents/Pinguins_em_Terra_Vitória__descobrindo_o_número_de_espécies_por_meio_da_clusterização_k_medoids.pdf"
   ]
 }
