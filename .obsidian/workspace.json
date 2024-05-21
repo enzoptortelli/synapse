@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3d07a26c5517df50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210732.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2e3f22352464c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210738.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405200726.md",
+                "file": "Notes/202405210732.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405200726.md",
+                "file": "Notes/202405210732.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405200726.md"
+                "file": "Notes/202405210732.md"
               }
             }
           },
@@ -179,8 +203,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4dd6054e7f40fd1",
+  "active": "3d07a26c5517df50",
   "lastOpenFiles": [
+    "Notes/202405210738.md",
+    "Notes/202405210732.md",
+    "Notes/202405200726.md",
     "Notes/202405210715.md",
     "Notes/202405200718.md",
     "Meta/tags.md",
@@ -199,7 +226,6 @@
     "Images/~syncthing~202405202046.excalidraw.md.tmp",
     "Meta/Templates/Problem-solution.md",
     "Notes/202405202037.md",
-    "Notes/202405200726.md",
     "Images/Pasted image 20240520202824.png",
     "Images/Pasted image 20240520202856.png",
     "Images/Pasted image 20240520202912.png",
@@ -218,8 +244,6 @@
     "Notes/202405172211.md",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
-    "Notes/202405201942.md",
-    "Documents/ME623/fdgdfgdgf.md",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/ME623/ME623_parte03.pdf",
