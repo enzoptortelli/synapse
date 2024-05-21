@@ -11,9 +11,11 @@
             "id": "8f058cedb0fca130",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202405201118.excalidraw.md"
+                "file": "Notes/202405210550.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202405201118.excalidraw.md",
+                "file": "Notes/202405210550.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202405201118.excalidraw.md",
+                "file": "Notes/202405210550.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202405201118.excalidraw.md"
+                "file": "Notes/202405210550.md"
               }
             }
           },
@@ -156,8 +158,9 @@
   },
   "active": "8f058cedb0fca130",
   "lastOpenFiles": [
-    "Images/202405200904.excalidraw.md",
     "Images/202405201118.excalidraw.md",
+    "Notes/202405210550.md",
+    "Images/202405200904.excalidraw.md",
     "Images/202405202046.excalidraw.md",
     "Images/Pasted image 20240520203312.png",
     "Meta/Templates/Question.md",
@@ -200,7 +203,6 @@
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
-    "Images/202405172240.excalidraw.md",
-    "Images/202405181704.excalidraw.md"
+    "Images/202405172240.excalidraw.md"
   ]
 }
