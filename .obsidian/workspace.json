@@ -11,11 +11,28 @@
             "id": "529d26192a3febc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210901.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63312c2ba82f60fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405210903.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202405210903.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202405210903.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202405210903.md"
+              }
             }
           },
           {
@@ -146,8 +167,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "529d26192a3febc7",
+  "active": "63312c2ba82f60fd",
   "lastOpenFiles": [
+    "Notes/202405210732.md",
+    "Notes/202405210901.md",
+    "Notes/202405210903.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
@@ -159,7 +183,6 @@
     "Notes/202405210550.md",
     "Notes/202405210738.md",
     "Notes/202405210813.md",
-    "Notes/202405210732.md",
     "Notes/202405200718.md",
     "Notes/202405210750.md",
     "Notes/202405210715.md",
@@ -185,9 +208,7 @@
     "Images/Pasted image 20240520202856.png",
     "Images/Pasted image 20240520202912.png",
     "Images/Pasted image 20240520203000.png",
-    "Images/Pasted image 20240520203022.png",
     "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Notes/202405172222.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME623/ME623_parte04.pdf",
