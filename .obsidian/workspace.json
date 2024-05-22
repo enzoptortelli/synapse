@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ee6a3b57ded5afeb",
+        "id": "f317c2199bc0b3dc",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5e8a0edf21dd39",
+            "id": "714683fd07ffaba6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405170738.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0da94ac2f910b93e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc99a57c445b1172",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+              }
             }
           }
         ]
@@ -61,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202405170738.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202405170738.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202405170738.md"
+              }
             }
           },
           {
@@ -133,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +172,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc5e8a0edf21dd39",
+  "active": "714683fd07ffaba6",
   "lastOpenFiles": [
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Notes/202405170738.md",
     "Notes/202405210550.md",
     "Notes/202405212020.md",
     "Notes/202405210901.md",
@@ -179,9 +207,7 @@
     "Images/Pasted image 20240521062928.png",
     "Images/202405201118.excalidraw.md",
     "Images/202405200904.excalidraw.md",
-    "Images/202405202046.excalidraw.md",
     "Images/Pasted image 20240520203312.png",
-    "Meta/Templates/Question.md",
     "Images/~syncthing~202405202046.excalidraw.md.tmp",
     "Images/Pasted image 20240520202824.png",
     "Images/Pasted image 20240520202856.png",
@@ -189,7 +215,6 @@
     "Images/Pasted image 20240520203000.png",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/ME623/ME623_parte03.pdf",
     "Documents/ME623/ME623_parte02.pdf",
