@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405170738.md",
+                "file": "Notes/202405220942.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405170738.md",
+            "file": "Notes/202405220942.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405170738.md",
+            "file": "Notes/202405220942.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405170738.md"
+            "file": "Notes/202405220942.md"
           }
         }
       },
@@ -142,6 +142,8 @@
   },
   "active": "11be977a874ec157",
   "lastOpenFiles": [
+    "Notes/202405170738.md",
+    "Notes/202405220942.md",
     "Notes/202405212020.md",
     "Notes/202405210901.md",
     "Notes/202405212019.md",
@@ -169,11 +171,9 @@
     "Notes/202405201942.md",
     "Images/202405172240.excalidraw.md",
     "Images/202405200904.excalidraw.md",
-    "Notes/202405170738.md",
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Meta/References/ME623",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623",
