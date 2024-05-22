@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "77af0542fafbd40c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202405221255.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202405221255.excalidraw.md",
+            "file": "Notes/202405221940.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202405221255.excalidraw.md",
+            "file": "Notes/202405221940.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202405221255.excalidraw.md"
+            "file": "Notes/202405221940.md"
           }
         }
       },
@@ -151,8 +140,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77af0542fafbd40c",
+  "active": "d61445486b64ef3d",
   "lastOpenFiles": [
+    "Notes/202405222019.md",
+    "Images/202405221255.excalidraw.md",
     "Notes/202405172211.md",
     "Notes/202405212020.md",
     "Notes/202405220942.md",
@@ -166,7 +157,6 @@
     "Notes/202405210901.md",
     "Notes/202405210814.md",
     "Images/202405221330.excalidraw.md",
-    "Images/202405221255.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
     "Notes/202405171734.md",
     "Images/202405200904.excalidraw.md",
@@ -184,7 +174,6 @@
     "Notes/202405210839.md",
     "Notes/202405210835.md",
     "Notes/202405210750.md",
-    "Notes/202405210732.md",
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Meta/References/ME623",
