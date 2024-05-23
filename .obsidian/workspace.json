@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405170738.md",
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405170738.md",
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405170738.md"
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
               }
             }
           },
@@ -174,10 +174,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4f99d692af8f25db",
+  "active": "2d5c7f194edf24ea",
   "lastOpenFiles": [
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202405170738.md",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202405222025.md",
     "Notes/202405221940.md",
     "Notes/202405220942.md",
