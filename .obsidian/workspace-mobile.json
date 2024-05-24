@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8038d107ce6f5e8",
+        "id": "0399a7893bb8d24b",
         "type": "tabs",
         "children": [
           {
-            "id": "ec59f90b5e52246e",
+            "id": "7cd42cdd0ee579cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202405221940.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405221940.md",
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405221940.md",
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405221940.md"
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf"
           }
         }
       },
@@ -140,20 +138,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec59f90b5e52246e",
+  "active": "7cd42cdd0ee579cd",
   "lastOpenFiles": [
-    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
-    "Notes/202405222025.md",
+    "Images/202405231800.excalidraw.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Images/202405231518.excalidraw.md",
+    "Notes/202405221940.md",
     "Notes/202405222019.md",
+    "Notes/202405222025.md",
+    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Images/202405221255.excalidraw.md",
     "Notes/202405172211.md",
     "Notes/202405212020.md",
     "Notes/202405220942.md",
-    "Notes/202405221940.md",
     "Images/202405221953.excalidraw.md",
     "Notes/202405172212.md",
     "Images/202405221332.excalidraw.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/202405221806.excalidraw.md",
     "Notes/202405172213.md",
     "Notes/202405210901.md",
@@ -171,8 +171,6 @@
     "Images/202405211323.excalidraw.md",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
-    "Notes/202405210848.md",
-    "Notes/202405210839.md",
     "Documents/ME623/ME623_parte04.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Meta/References/ME623",

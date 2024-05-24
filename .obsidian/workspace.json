@@ -4,10 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "52fc1b9180847397",
+        "id": "62367b2e3a41373f",
         "type": "tabs",
-        "dimension": 41.3152610441767,
         "children": [
+          {
+            "id": "2d5c7f194edf24ea",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+              }
+            }
+          },
           {
             "id": "4f99d692af8f25db",
             "type": "leaf",
@@ -17,23 +26,6 @@
                 "file": "Notes/202405170738.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "62367b2e3a41373f",
-        "type": "tabs",
-        "dimension": 58.68473895582329,
-        "children": [
-          {
-            "id": "2d5c7f194edf24ea",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
               }
             }
           }
