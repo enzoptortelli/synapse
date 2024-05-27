@@ -11,9 +11,11 @@
             "id": "7cd42cdd0ee579cd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405210903.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -83,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+            "file": "Notes/202405210903.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+            "file": "Notes/202405210903.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+            "file": "Notes/202405210903.md"
           }
         }
       },
@@ -140,35 +143,36 @@
   },
   "active": "7cd42cdd0ee579cd",
   "lastOpenFiles": [
-    "Images/202405231800.excalidraw.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Images/202405231518.excalidraw.md",
+    "Notes/202405210901.md",
+    "Notes/202405210903.md",
+    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
+    "Notes/202405170738.md",
+    "Images/Pasted image 20240522125319.png",
+    "Images/202405250611.excalidraw.md",
+    "Meta/Templates/Sketch.md",
     "Notes/202405221940.md",
+    "Images/202405221953.excalidraw.md",
+    "Images/202405241450.excalidraw.md",
     "Notes/202405222019.md",
     "Notes/202405222025.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Images/202405231800.excalidraw.md",
+    "Images/202405231518.excalidraw.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Images/202405221255.excalidraw.md",
     "Notes/202405172211.md",
     "Notes/202405212020.md",
     "Notes/202405220942.md",
-    "Images/202405221953.excalidraw.md",
     "Notes/202405172212.md",
     "Images/202405221332.excalidraw.md",
     "Images/202405221806.excalidraw.md",
     "Notes/202405172213.md",
-    "Notes/202405210901.md",
     "Notes/202405210814.md",
     "Images/202405221330.excalidraw.md",
-    "Images/Pasted image 20240522125319.png",
     "Notes/202405171734.md",
     "Images/202405200904.excalidraw.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Images/202405221008.excalidraw.md",
-    "Notes/202405170738.md",
-    "Notes/202405212019.md",
-    "Images/202405211339.excalidraw.md",
-    "Notes/202405210903.md",
-    "Images/202405211323.excalidraw.md",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
     "Documents/ME623/ME623_parte04.pdf",
@@ -183,7 +187,6 @@
     "Images/Pasted image 20240517222104.png",
     "Images/Pasted image 20240517222054.png",
     "Images/Pasted image 20240517222039.png",
-    "Images/Pasted image 20240517222021.png",
-    "Documents/Pinguins_em_Terra_Vitória__descobrindo_o_número_de_espécies_por_meio_da_clusterização_k_medoids.pdf"
+    "Images/Pasted image 20240517222021.png"
   ]
 }
