@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405271002.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405271002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405271002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405220942.md"
+                "file": "Notes/202405271002.md"
               }
             }
           },
@@ -158,6 +157,7 @@
   },
   "active": "a194f0a2b075efd1",
   "lastOpenFiles": [
+    "Notes/202405220942.md",
     "Notes/202405170738.md",
     "Images/202405250611.excalidraw.md",
     "Notes/~syncthing~202405202037.md.tmp",
@@ -169,7 +169,6 @@
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202405222025.md",
     "Notes/202405221940.md",
-    "Notes/202405220942.md",
     "Notes/202405222019.md",
     "Notes/202405212020.md",
     "Notes/202405172211.md",
