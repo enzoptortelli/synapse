@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405210903.md",
+                "file": "Notes/202405271002.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62c1ebe265c3701",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+              }
+            }
+          },
+          {
+            "id": "d8b82f63aeabf833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405220942.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +96,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -86,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405210903.md",
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405210903.md",
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405210903.md"
+            "file": "Documents/MS512_2024S1_lista_autopar.pdf"
           }
         }
       },
@@ -141,10 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cd42cdd0ee579cd",
+  "active": "e62c1ebe265c3701",
   "lastOpenFiles": [
-    "Notes/202405210901.md",
+    "Images/202405271002.excalidraw.md",
+    "Notes/202405220942.md",
+    "Meta/Templates/Class Notes.md",
+    "Notes/202405271002.md",
     "Notes/202405210903.md",
+    "Notes/202405210901.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202405170738.md",
     "Images/Pasted image 20240522125319.png",
@@ -162,7 +188,6 @@
     "Images/202405221255.excalidraw.md",
     "Notes/202405172211.md",
     "Notes/202405212020.md",
-    "Notes/202405220942.md",
     "Notes/202405172212.md",
     "Images/202405221332.excalidraw.md",
     "Images/202405221806.excalidraw.md",
@@ -170,9 +195,7 @@
     "Notes/202405210814.md",
     "Images/202405221330.excalidraw.md",
     "Notes/202405171734.md",
-    "Images/202405200904.excalidraw.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
-    "Images/202405221008.excalidraw.md",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
     "Documents/ME623/ME623_parte04.pdf",
