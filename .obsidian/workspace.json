@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Notes/202405220942.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,9 +70,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"link-tags\":eigenpair] -tag:#problem-solution  ",
+                "query": "[\"link-tags\":eigenpair] -tag:#problem-solution,#class-notes",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Notes/202405220942.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Notes/202405220942.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405222025.md"
+                "file": "Notes/202405220942.md"
               }
             }
           },
@@ -177,11 +177,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a194f0a2b075efd1",
+  "active": "5da5bb20117be825",
   "lastOpenFiles": [
-    "Notes/202405222019.md",
-    "Notes/202405222025.md",
     "Notes/202405271002.md",
+    "Notes/202405220942.md",
+    "Notes/202405222025.md",
+    "Notes/202405222019.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405200650.md",
     "Notes/202405200718.md",
@@ -205,7 +206,6 @@
     "Images/202405281449.excalidraw.md",
     "Notes/~syncthing~202405172220.md.tmp",
     "Notes/202405172215.md",
-    "Notes/202405220942.md",
     "Notes/202405170738.md",
     "Images/202405250611.excalidraw.md",
     "Notes/~syncthing~202405202037.md.tmp",
