@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405281715.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "b82e7c2777fe44d4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202405281717.excalidraw.md"
               }
             }
           },
@@ -57,12 +67,12 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "[\"link-tags\":eigenpair] -tag:#problem-solution,#class-notes",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabeticalReverse"
           }
         }
       },
@@ -86,7 +96,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 1
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -98,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405170738.md",
+            "file": "Images/202405281717.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405170738.md",
+            "file": "Images/202405281717.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405170738.md"
+            "file": "Images/202405281717.excalidraw.md"
           }
         }
       },
@@ -153,12 +163,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3600c4887eaede5d",
+  "active": "b82e7c2777fe44d4",
   "lastOpenFiles": [
+    "Notes/202405281715.md",
+    "Images/202405281717.excalidraw.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405171734.md",
+    "Notes/202405172215.md",
+    "Notes/202405170738.md",
+    "Notes/202405281707.md",
     "Notes/202405172222.md",
     "Notes/202405180645.md",
     "Notes/202405220942.md",
-    "Notes/202405172215.md",
     "Images/202405281543.excalidraw.md",
     "Images/202405281039.excalidraw.md",
     "Notes/202405172221.md",
@@ -176,14 +192,8 @@
     "Notes/202405222025.md",
     "Images/202405271002.excalidraw.md",
     "Meta/Templates/Class Notes.md",
-    "Notes/202405210901.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
-    "Notes/202405170738.md",
     "Images/Pasted image 20240522125319.png",
-    "Images/202405250611.excalidraw.md",
-    "Meta/Templates/Sketch.md",
-    "Images/202405221953.excalidraw.md",
-    "Images/202405241450.excalidraw.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "27r5gv5zjog31.png",
