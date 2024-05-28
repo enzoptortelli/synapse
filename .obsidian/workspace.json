@@ -42,30 +42,6 @@
             }
           },
           {
-            "id": "10276a7036f98efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405281707.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "522570cbfdc960f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405281715.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0bff92868cbe77a0",
             "type": "leaf",
             "state": {
@@ -78,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405281707.md",
+                "file": "Notes/202405271002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405281707.md",
+                "file": "Notes/202405271002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405281707.md"
+                "file": "Notes/202405271002.md"
               }
             }
           },
@@ -214,13 +190,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10276a7036f98efd",
+  "active": "fe88e6768784d82c",
   "lastOpenFiles": [
-    "Images/~syncthing~202405281717.excalidraw.md.tmp",
     "Notes/202405281715.md",
+    "Images/~syncthing~202405281717.excalidraw.md.tmp",
+    "Notes/202405281707.md",
     "Images/202405281717.excalidraw.md",
     "Notes/~syncthing~202405281715.md.tmp",
-    "Notes/202405281707.md",
     "Notes/202405271002.md",
     "Notes/202405171734.md",
     "Notes/202405172215.md",
