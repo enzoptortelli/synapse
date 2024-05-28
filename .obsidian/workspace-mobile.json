@@ -11,9 +11,11 @@
             "id": "7cd42cdd0ee579cd",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202405281039.excalidraw.md"
+                "file": "Notes/202405172215.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -39,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202405281039.excalidraw.md",
+            "file": "Images/202405281543.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202405281039.excalidraw.md",
+            "file": "Images/202405281543.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202405281039.excalidraw.md"
+            "file": "Images/202405281543.excalidraw.md"
           }
         }
       },
@@ -160,16 +163,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7cd42cdd0ee579cd",
+  "active": "3294a15a84d10ac7",
   "lastOpenFiles": [
-    "Notes/202405172215.md",
-    "Notes/202405172221.md",
     "Notes/202405220942.md",
     "Images/202405281543.excalidraw.md",
+    "Images/202405281039.excalidraw.md",
+    "Notes/202405172215.md",
+    "Notes/202405172221.md",
     "Notes/202405271002.md",
     "Images/202405281449.excalidraw.md",
     "Notes/202405172220.md",
-    "Images/202405281039.excalidraw.md",
     "Notes/202405172223.md",
     "Notes/202405200650.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
