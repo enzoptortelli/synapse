@@ -16,6 +16,28 @@
         }
       ],
       "title": "Clustering - Trab 2"
+    },
+    {
+      "type": "group",
+      "ctime": 1716924443706,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1716924482001,
+          "path": "Documents/MS512_2024S1_lista_autopar.pdf"
+        },
+        {
+          "type": "file",
+          "ctime": 1716924894113,
+          "path": "Notes/202405210903.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1716924911055,
+          "path": "Notes/202405222019.md"
+        }
+      ],
+      "title": "Análise Numérica (autopar)"
     }
   ]
 }
