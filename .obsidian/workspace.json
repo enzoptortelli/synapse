@@ -23,9 +23,11 @@
             "id": "f411e5d525b04549",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405200726.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405200726.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405200726.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405200726.md"
               }
             }
           },
@@ -152,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,13 +169,14 @@
   },
   "active": "f411e5d525b04549",
   "lastOpenFiles": [
+    "Notes/202405200718.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405281543.excalidraw.md.tmp",
     "Images/202405281543.excalidraw.md",
     "Notes/~syncthing~202405172221.md.tmp",
     "Images/~syncthing~202405281449.excalidraw.md.tmp",
     "Notes/202405210901.md",
     "Notes/202405210903.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/~syncthing~202405212020.md.tmp",
     "Images/202405281449.excalidraw.md",
     "Notes/~syncthing~202405172220.md.tmp",
