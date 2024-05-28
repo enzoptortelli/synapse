@@ -19,7 +19,13 @@
           "type": "search",
           "ctime": 1716926361646,
           "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
-          "title": "Notas de aula (autopares)"
+          "title": "(Autopares) Notas de aula"
+        },
+        {
+          "type": "search",
+          "ctime": 1716926484451,
+          "query": "[\"link-tags\":eigenpair] tag:#problem-solution ",
+          "title": "(Autovalores) Exercícios"
         }
       ],
       "title": "Análise Numérica (autopar)"
