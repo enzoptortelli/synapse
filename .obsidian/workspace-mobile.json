@@ -20,22 +20,12 @@
             }
           },
           {
-            "id": "3294a15a84d10ac7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202405281543.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "d8b82f63aeabf833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405172222.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202405281543.excalidraw.md",
+            "file": "Notes/202405172222.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202405281543.excalidraw.md",
+            "file": "Notes/202405172222.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202405281543.excalidraw.md"
+            "file": "Notes/202405172222.md"
           }
         }
       },
@@ -163,12 +153,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3294a15a84d10ac7",
+  "active": "d8b82f63aeabf833",
   "lastOpenFiles": [
+    "Notes/202405180645.md",
     "Notes/202405220942.md",
+    "Notes/202405172215.md",
     "Images/202405281543.excalidraw.md",
     "Images/202405281039.excalidraw.md",
-    "Notes/202405172215.md",
     "Notes/202405172221.md",
     "Notes/202405271002.md",
     "Images/202405281449.excalidraw.md",
@@ -193,7 +184,6 @@
     "Images/202405221953.excalidraw.md",
     "Images/202405241450.excalidraw.md",
     "Images/202405231800.excalidraw.md",
-    "Images/202405231518.excalidraw.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "27r5gv5zjog31.png",
