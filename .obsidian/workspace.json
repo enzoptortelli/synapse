@@ -35,14 +35,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405210715.md",
+                "file": "Notes/202405271002.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405210715.md",
+                "file": "Notes/202405222025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405210715.md",
+                "file": "Notes/202405222025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405210715.md"
+                "file": "Notes/202405222025.md"
               }
             }
           },
@@ -178,19 +177,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fe88e6768784d82c",
+  "active": "a194f0a2b075efd1",
   "lastOpenFiles": [
+    "Notes/202405271002.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405200650.md",
+    "Notes/202405200718.md",
+    "Notes/202405200726.md",
+    "Notes/202405210550.md",
+    "Notes/202405210715.md",
     "Notes/202405222019.md",
     "Notes/202405221940.md",
     "Notes/202405210903.md",
     "Notes/202405222025.md",
-    "Notes/202405271002.md",
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
-    "Notes/202405200650.md",
-    "Notes/202405200726.md",
     "Notes/202405210814.md",
     "Notes/202405172221.md",
-    "Notes/202405200718.md",
     "Meta/Link-tag/eigenpair.md",
     "Notes/202405171734.md",
     "Notes/202405210901.md",
@@ -214,8 +215,6 @@
     "Notes/202405172211.md",
     "Images/202405221953.excalidraw.md",
     "Notes/202405212019.md",
-    "Notes/202405172214.md",
-    "Notes/202405172213.md",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
