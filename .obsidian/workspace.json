@@ -11,11 +11,9 @@
             "id": "a194f0a2b075efd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202405222025.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405222025.md"
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           },
@@ -157,6 +155,11 @@
   },
   "active": "a194f0a2b075efd1",
   "lastOpenFiles": [
+    "Images/202405281449.excalidraw.md",
+    "Images/~syncthing~202405281449.excalidraw.md.tmp",
+    "Notes/~syncthing~202405172220.md.tmp",
+    "Notes/202405172215.md",
+    "Notes/202405222025.md",
     "Notes/202405271002.md",
     "Notes/202405220942.md",
     "Notes/202405170738.md",
@@ -168,19 +171,15 @@
     "Notes/~syncthing~202405190914.md.tmp",
     "Notes/~syncthing~202405212019.md.tmp",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Notes/202405222025.md",
     "Notes/202405221940.md",
     "Notes/202405222019.md",
     "Notes/202405212020.md",
     "Notes/202405172211.md",
     "Images/~syncthing~202405221255.excalidraw.md.tmp",
-    "Images/~syncthing~202405221953.excalidraw.md.tmp",
     "Images/202405221953.excalidraw.md",
-    "Notes/~syncthing~202405221940.md.tmp",
     "Notes/202405171734.md",
     "Notes/202405210903.md",
     "Notes/202405212019.md",
-    "Notes/202405172215.md",
     "Notes/202405172214.md",
     "Notes/202405172213.md",
     "Notes/202405172212.md",
@@ -195,7 +194,6 @@
     "Notes/202405200650.md",
     "Notes/202405210835.md",
     "Notes/202405210814.md",
-    "Notes/202405210738.md",
     "Images/Pasted image 20240521063352.png",
     "Images/Pasted image 20240521062928.png",
     "Images/Pasted image 20240520203312.png",
