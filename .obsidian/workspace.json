@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "164200e95a9ca6b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405290832.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405290825.md",
+                "file": "Notes/202405290832.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405290825.md",
+                "file": "Notes/202405290832.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405290825.md"
+                "file": "Notes/202405290832.md"
               }
             }
           },
@@ -168,9 +180,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9b949baaecf45c81",
+  "active": "164200e95a9ca6b2",
   "lastOpenFiles": [
     "Notes/202405290825.md",
+    "Notes/202405290832.md",
     "Notes/202405281707.md",
     "Notes/202405281715.md",
     "Notes/202405222025.md",
@@ -199,7 +212,6 @@
     "Notes/~syncthing~202405281715.md.tmp",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
-    "Notes/202405172214.md",
     "Images/~syncthing~202405281543.excalidraw.md.tmp",
     "Images/~syncthing~202405281039.excalidraw.md.tmp",
     "Notes/~syncthing~202405172221.md.tmp",
