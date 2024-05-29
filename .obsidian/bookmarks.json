@@ -11,12 +11,6 @@
         },
         {
           "type": "search",
-          "ctime": 1716926242568,
-          "query": "[\"link-tags\":eigenpair] -tag:#problem-solution,#class-notes",
-          "title": "(Autopares) Teoria"
-        },
-        {
-          "type": "search",
           "ctime": 1716926361646,
           "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
           "title": "(Autopares) Notas de aula"
@@ -25,13 +19,19 @@
           "type": "search",
           "ctime": 1716926484451,
           "query": "[\"link-tags\":eigenpair] tag:#problem-solution ",
-          "title": "(Autovalores) Exercícios"
+          "title": "(Autopares) Exercícios"
         },
         {
           "type": "search",
-          "ctime": 1716981285030,
-          "query": "[\"link-tags\":eigenpair]  -tag:#problem-solution -tag:#class-notes -tag:problem ",
-          "title": "sdf"
+          "ctime": 1716981409094,
+          "query": "[\"link-tags\":eigenpair]  -tag:#problem-solution -tag:#class-notes -tag:#problems-list ",
+          "title": "(Autopares) Teoria"
+        },
+        {
+          "type": "search",
+          "ctime": 1716981574765,
+          "query": "[\"link-tags\":eigenpair]  (tag:#unfinished OR tag:#unfinished-flashcard ",
+          "title": "Incompleto"
         }
       ],
       "title": "Análise Numérica (autopar)"
