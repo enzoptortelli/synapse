@@ -26,6 +26,12 @@
           "ctime": 1716926484451,
           "query": "[\"link-tags\":eigenpair] tag:#problem-solution ",
           "title": "(Autovalores) Exercícios"
+        },
+        {
+          "type": "search",
+          "ctime": 1716981285030,
+          "query": "[\"link-tags\":eigenpair]  -tag:#problem-solution -tag:#class-notes -tag:problem ",
+          "title": "sdf"
         }
       ],
       "title": "Análise Numérica (autopar)"
