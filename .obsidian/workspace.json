@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405222025.md",
+                "file": "Notes/202405281707.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b949baaecf45c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405290825.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405290825.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405290825.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172215.md"
+                "file": "Notes/202405290825.md"
               }
             }
           },
@@ -155,8 +168,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c9b32acd74b79a4",
+  "active": "9b949baaecf45c81",
   "lastOpenFiles": [
+    "Notes/202405290825.md",
+    "Notes/202405281707.md",
+    "Notes/202405281715.md",
+    "Notes/202405222025.md",
+    "Notes/202405172215.md",
     "Notes/202405172222.md",
     "Notes/202405172223.md",
     "Notes/202405200650.md",
@@ -164,8 +182,6 @@
     "Notes/202405220942.md",
     "Notes/202405222019.md",
     "Notes/202405271002.md",
-    "Notes/202405281707.md",
-    "Notes/202405222025.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405210715.md",
     "Notes/202405210732.md",
@@ -173,7 +189,6 @@
     "Notes/202405210901.md",
     "Notes/202405210903.md",
     "Notes/202405221940.md",
-    "Notes/202405281715.md",
     "Notes/202405200718.md",
     "Notes/202405290805.md",
     "Notes/202405171734.md",
@@ -182,11 +197,9 @@
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
     "Images/202405281717.excalidraw.md",
     "Notes/~syncthing~202405281715.md.tmp",
-    "Notes/202405172215.md",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
     "Notes/202405172214.md",
-    "Notes/202405172213.md",
     "Images/~syncthing~202405281543.excalidraw.md.tmp",
     "Images/~syncthing~202405281039.excalidraw.md.tmp",
     "Notes/~syncthing~202405172221.md.tmp",
