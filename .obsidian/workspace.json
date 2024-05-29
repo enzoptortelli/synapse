@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405171734.md",
+                "file": "Notes/202405271002.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
+                "query": "[\"link-tags\":eigenpair] -tag:#problem-solution,#class-notes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,18 +167,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5da5bb20117be825",
+  "active": "a194f0a2b075efd1",
   "lastOpenFiles": [
+    "Notes/202405281707.md",
+    "Notes/202405281715.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405171734.md",
+    "Notes/202405271002.md",
     "Notes/202405220942.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Notes/202405271002.md",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
-    "Notes/202405281715.md",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
-    "Notes/202405281707.md",
     "Images/202405281717.excalidraw.md",
     "Notes/~syncthing~202405281715.md.tmp",
-    "Notes/202405171734.md",
     "Notes/202405172215.md",
     "Notes/202405172221.md",
     "Notes/202405172222.md",
@@ -190,7 +191,6 @@
     "Notes/202405172211.md",
     "Notes/202405222025.md",
     "Notes/202405222019.md",
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405200650.md",
     "Notes/202405200718.md",
     "Notes/202405200726.md",
