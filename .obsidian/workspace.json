@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405271002.md",
+                "file": "Notes/202405222025.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405271002.md",
+                "file": "Notes/202405281707.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405271002.md",
+                "file": "Notes/202405281707.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405271002.md"
+                "file": "Notes/202405281707.md"
               }
             }
           },
@@ -167,13 +168,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a194f0a2b075efd1",
+  "active": "0bff92868cbe77a0",
   "lastOpenFiles": [
+    "Notes/202405290805.md",
     "Notes/202405281707.md",
+    "Notes/202405222025.md",
+    "Notes/202405271002.md",
     "Notes/202405281715.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405171734.md",
-    "Notes/202405271002.md",
     "Notes/202405220942.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
@@ -189,7 +192,6 @@
     "Notes/202405172213.md",
     "Notes/202405172212.md",
     "Notes/202405172211.md",
-    "Notes/202405222025.md",
     "Notes/202405222019.md",
     "Notes/202405200650.md",
     "Notes/202405200718.md",
