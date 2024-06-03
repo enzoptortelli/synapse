@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0399a7893bb8d24b",
+        "id": "84545b5a57cc008c",
         "type": "tabs",
         "children": [
           {
-            "id": "7cd42cdd0ee579cd",
+            "id": "cdf09408d5b771b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405271002.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,7 +69,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405271002.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405271002.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Notes/202405271002.md"
-          }
+          "state": {}
         }
       },
       {
@@ -135,47 +127,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "7cd42cdd0ee579cd",
+  "active": "cdf09408d5b771b1",
   "lastOpenFiles": [
-    "Images/202405271002.excalidraw.md",
-    "Notes/202405271002.md",
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
-    "Notes/202405170738.md",
-    "Notes/202405281715.md",
-    "Images/202405281717.excalidraw.md",
-    "Notes/202405171734.md",
-    "Notes/202405172215.md",
-    "Notes/202405281707.md",
-    "Notes/202405172222.md",
-    "Notes/202405180645.md",
-    "Notes/202405220942.md",
-    "Images/202405281543.excalidraw.md",
-    "Images/202405281039.excalidraw.md",
-    "Notes/202405172221.md",
-    "Images/202405281449.excalidraw.md",
-    "Notes/202405172220.md",
-    "Notes/202405172223.md",
-    "Notes/202405200650.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Notes/202405210903.md",
-    "Notes/202405212019.md",
-    "Notes/202405212020.md",
-    "Notes/202405221940.md",
-    "Notes/202405222019.md",
-    "Notes/202405222025.md",
-    "Meta/Templates/Class Notes.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
+    "Notes/202405311601.md",
+    "Meta/References/Solutions Manual for Statistical Inference.md",
+    "Documents/ME623/ME623_parte04.pdf",
+    "Images/202405301912.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
+    "Images/202405301912.excalidraw.png",
+    "Images/202405301713.excalidraw.md",
+    "Notes/202405290825.md",
+    "Images/202405291312.excalidraw.md",
+    "Notes/202405290843.md",
+    "Notes/202405291009.md",
+    "Notes/202405271002.md",
+    "Notes/Untitled.md",
+    "Images/202405291009.excalidraw.md",
+    "Notes/202405210903.md",
+    "Images/202405281717.excalidraw.md",
+    "Notes/202405281715.md",
+    "Notes/202405172222.md",
+    "Notes/202405281707.md",
+    "Notes/202405172221.md",
+    "Notes/202405172211.md",
+    "Images/202405281039.excalidraw.md",
+    "Notes/202405172215.md",
+    "Images/202405271002.excalidraw.md",
+    "Notes/202405220942.md",
+    "Meta/Link-tag/algebra.md",
+    "Notes/202405290832.md",
+    "Notes/202405290805.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
-    "Documents/ME623/ME623_parte04.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Meta/References/ME623",
     "Documents/ME623/ME623_parte01.pdf",
@@ -186,7 +178,6 @@
     "Images/Pasted image 20240517223042.png",
     "Images/Pasted image 20240517222104.png",
     "Images/Pasted image 20240517222054.png",
-    "Images/Pasted image 20240517222039.png",
-    "Images/Pasted image 20240517222021.png"
+    "Images/Pasted image 20240517222039.png"
   ]
 }
