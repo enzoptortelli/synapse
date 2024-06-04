@@ -11,9 +11,11 @@
             "id": "9cdf66da6f4a2eb6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405172222.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405172222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405172222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405172222.md"
               }
             }
           },
@@ -154,6 +156,9 @@
   },
   "active": "9cdf66da6f4a2eb6",
   "lastOpenFiles": [
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405171734.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405291312.excalidraw.md.tmp",
     "Documents/ME623_Lista02.pdf",
     "Notes/202406041507.md",
@@ -167,7 +172,6 @@
     "Notes/~syncthing~202406041513.md.tmp",
     "Notes/202405172222.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
-    "Notes/202405171734.md",
     "Notes/202405172223.md",
     "Meta/Link-tag/eigenpair.md",
     "Notes/202406030909.md",
@@ -185,11 +189,9 @@
     "Meta/Link-tag/algebra.md",
     "Notes/202405222025.md",
     "Notes/202405172215.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
     "Notes/~syncthing~202405281715.md.tmp",
-    "Images/~syncthing~202405281543.excalidraw.md.tmp",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",

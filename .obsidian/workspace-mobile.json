@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd9f0fc4ac74d270",
+        "id": "011505a2616a804f",
         "type": "tabs",
         "children": [
           {
-            "id": "e888c2a930489fab",
+            "id": "cac8878a5c591c1a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202405291312.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202405291312.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202405291312.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202405291312.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -138,10 +132,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e888c2a930489fab",
+  "active": "cac8878a5c591c1a",
   "lastOpenFiles": [
-    "Notes/202405172222.md",
     "Images/202405291312.excalidraw.md",
+    "Notes/202405172222.md",
     "Notes/202405172223.md",
     "Notes/202406041514.md",
     "Notes/202406041513.md",
