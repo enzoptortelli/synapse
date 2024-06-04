@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0a7c97bc3a19918",
+        "id": "dd9f0fc4ac74d270",
         "type": "tabs",
         "children": [
           {
-            "id": "daf3971da8f91455",
+            "id": "e888c2a930489fab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202406041513.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202405291312.excalidraw.md"
               }
             }
           }
@@ -73,7 +71,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406041513.md",
+            "file": "Images/202405291312.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406041513.md",
+            "file": "Images/202405291312.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406041513.md"
+            "file": "Images/202405291312.excalidraw.md"
           }
         }
       },
@@ -140,15 +138,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "daf3971da8f91455",
+  "active": "e888c2a930489fab",
   "lastOpenFiles": [
-    "Images/202406041516.excalidraw.md",
-    "Notes/202406041513.md",
+    "Notes/202405172222.md",
+    "Images/202405291312.excalidraw.md",
+    "Notes/202405172223.md",
     "Notes/202406041514.md",
+    "Notes/202406041513.md",
+    "Images/202406041516.excalidraw.md",
     "Notes/202406030909.md",
     "Notes/202406041507.md",
     "Notes/202405172221.md",
-    "Notes/202405172222.md",
     "Images/Pasted image 20240522125319.png",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
@@ -170,10 +170,8 @@
     "Images/202405301912.excalidraw.png",
     "Images/202405301713.excalidraw.md",
     "Notes/202405290825.md",
-    "Images/202405291312.excalidraw.md",
     "Notes/202405290843.md",
     "Notes/Untitled.md",
-    "Notes/202405210903.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
