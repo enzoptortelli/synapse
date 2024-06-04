@@ -13,31 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406030909.md",
+                "file": "Notes/202405281707.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "832717b7cf7094df",
+            "id": "6fe8ab6d941abafd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Exercícios de Probabilidade.md",
+                "file": "Notes/202406041507.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b81d2f25dc84ebc",
+            "id": "7de58fb49643ca2d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
+                "file": "Notes/202405290832.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"link-tags\":eigenpair]  (tag:#unfinished OR tag:#unfinished-flashcard ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Exercícios de Probabilidade.md",
+                "file": "Notes/202406041507.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Exercícios de Probabilidade.md",
+                "file": "Notes/202406041507.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Exercícios de Probabilidade.md"
+                "file": "Notes/202406041507.md"
               }
             }
           },
@@ -177,35 +180,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "832717b7cf7094df",
+  "active": "6fe8ab6d941abafd",
   "lastOpenFiles": [
-    "Meta/tags.md",
-    "Notes/202406030909.md",
+    "Notes/202405290832.md",
+    "Notes/202406041507.md",
+    "Notes/202405281707.md",
+    "Notes/202405290825.md",
+    "Notes/202405172222.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
+    "Notes/202405171734.md",
+    "Notes/202405172223.md",
+    "Meta/Link-tag/eigenpair.md",
+    "Notes/202406030909.md",
+    "Notes/202405170738.md",
     "Meta/References/Exercícios de Probabilidade.md",
+    "Meta/tags.md",
     "Notes/202405291009.md",
     "Images/~syncthing~202406040724.excalidraw.md.tmp",
     "Images/202406040724.excalidraw.md",
     "Images/202405291009.excalidraw.md",
-    "Notes/202405290832.md",
     "Notes/202405290843.md",
-    "Notes/202405290825.md",
     "Notes/202405271002.md",
-    "Notes/202405281707.md",
     "Notes/202405281715.md",
     "Notes/202405290805.md",
-    "Meta/Link-tag/eigenpair.md",
     "Meta/Link-tag/algebra.md",
     "Notes/202405222025.md",
     "Notes/202405172215.md",
-    "Notes/202405172222.md",
-    "Notes/202405172223.md",
     "Notes/202405200650.md",
     "Notes/202405210550.md",
     "Notes/202405220942.md",
     "Notes/202405222019.md",
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
-    "Notes/202405210715.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
