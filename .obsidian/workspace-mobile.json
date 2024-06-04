@@ -11,9 +11,9 @@
             "id": "daf3971da8f91455",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Images/202406040724.excalidraw.md"
+                "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406040724.excalidraw.md",
+            "file": "Documents/Livro_Elcio_Lebensztayn.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406040724.excalidraw.md",
+            "file": "Documents/Livro_Elcio_Lebensztayn.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406040724.excalidraw.md"
+            "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
           }
         }
       },
@@ -140,6 +140,7 @@
   },
   "active": "daf3971da8f91455",
   "lastOpenFiles": [
+    "Notes/202406040924.md",
     "Images/202406040724.excalidraw.md",
     "Images/202406031013.excalidraw.md",
     "Notes/202406030909.md",
@@ -170,7 +171,6 @@
     "Notes/202405172221.md",
     "Notes/202405172211.md",
     "Images/202405281039.excalidraw.md",
-    "Notes/202405172215.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",

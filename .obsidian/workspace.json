@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Notes/202406030909.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "832717b7cf7094df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/Exercícios de Probabilidade.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b81d2f25dc84ebc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Meta/References/Exercícios de Probabilidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Meta/References/Exercícios de Probabilidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405291009.md"
+                "file": "Meta/References/Exercícios de Probabilidade.md"
               }
             }
           },
@@ -154,14 +177,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9cdf66da6f4a2eb6",
+  "active": "832717b7cf7094df",
   "lastOpenFiles": [
+    "Meta/tags.md",
+    "Notes/202406030909.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
+    "Meta/References/Exercícios de Probabilidade.md",
+    "Notes/202405291009.md",
     "Images/~syncthing~202406040724.excalidraw.md.tmp",
     "Images/202406040724.excalidraw.md",
     "Images/202405291009.excalidraw.md",
-    "Notes/202405291009.md",
-    "Notes/202406030909.md",
     "Notes/202405290832.md",
     "Notes/202405290843.md",
     "Notes/202405290825.md",
@@ -181,8 +206,6 @@
     "Notes/202405222019.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405210715.md",
-    "Notes/202405210732.md",
-    "Notes/202405210839.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
@@ -191,7 +214,6 @@
     "Images/~syncthing~202405281039.excalidraw.md.tmp",
     "Notes/~syncthing~202405172221.md.tmp",
     "Images/~syncthing~202405281449.excalidraw.md.tmp",
-    "Notes/~syncthing~202405212020.md.tmp",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
