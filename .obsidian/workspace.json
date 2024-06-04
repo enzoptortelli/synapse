@@ -11,8 +11,12 @@
             "id": "7a6d140ebced4a1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406030909.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202406030909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202406030909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202406030909.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "7a6d140ebced4a1c",
   "lastOpenFiles": [
+    "Notes/202406030909.md",
     "Notes/202405290832.md",
     "Notes/202405290825.md",
     "Notes/202405290843.md",
@@ -173,7 +182,6 @@
     "Notes/202405210903.md",
     "Notes/202405221940.md",
     "Notes/202405200718.md",
-    "Notes/202405171734.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
