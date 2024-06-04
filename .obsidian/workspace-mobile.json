@@ -11,9 +11,11 @@
             "id": "daf3971da8f91455",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
+                "file": "Notes/202406030909.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -42,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
+            "query": "[\"link-tags\":eigenpair] tag:#problem-solution ",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Livro_Elcio_Lebensztayn.pdf",
+            "file": "Notes/202406030909.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/Livro_Elcio_Lebensztayn.pdf",
+            "file": "Notes/202406030909.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
+            "file": "Notes/202406030909.md"
           }
         }
       },
@@ -140,6 +142,12 @@
   },
   "active": "daf3971da8f91455",
   "lastOpenFiles": [
+    "Notes/202405172221.md",
+    "Notes/202405172222.md",
+    "Images/Pasted image 20240522125319.png",
+    "Documents/Livro_Elcio_Lebensztayn.pdf",
+    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
+    "Meta/References/Exercícios de Probabilidade.md",
     "Notes/202406040924.md",
     "Images/202406040724.excalidraw.md",
     "Images/202406031013.excalidraw.md",
@@ -151,12 +159,10 @@
     "Notes/202405291009.md",
     "Images/202405271002.excalidraw.md",
     "Images/202405291009.excalidraw.md",
-    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202405311601.md",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Documents/ME623/ME623_parte04.pdf",
     "Images/202405301912.excalidraw.md",
-    "Images/Pasted image 20240522125319.png",
     "Images/202405301912.excalidraw.png",
     "Images/202405301713.excalidraw.md",
     "Notes/202405290825.md",
@@ -166,11 +172,7 @@
     "Notes/202405210903.md",
     "Images/202405281717.excalidraw.md",
     "Notes/202405281715.md",
-    "Notes/202405172222.md",
     "Notes/202405281707.md",
-    "Notes/202405172221.md",
-    "Notes/202405172211.md",
-    "Images/202405281039.excalidraw.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
@@ -180,7 +182,6 @@
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623",
     "Documents/ME623/ME623_parte02.pdf",
-    "Documents/ME623/ME623_parte03.pdf",
     "Images/Pasted image 20240517223348.png",
     "Images/Pasted image 20240517223042.png",
     "Images/Pasted image 20240517222104.png",
