@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5c97f14c2656c268",
+        "id": "a5f2e9b437264015",
         "type": "tabs",
         "children": [
           {
-            "id": "7a6d140ebced4a1c",
+            "id": "9cdf66da6f4a2eb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406030909.md",
+                "file": "Notes/202405291009.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406030909.md",
+                "file": "Notes/202405291009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406030909.md",
+                "file": "Notes/202405291009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406030909.md"
+                "file": "Notes/202405291009.md"
               }
             }
           },
@@ -154,12 +154,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7a6d140ebced4a1c",
+  "active": "9cdf66da6f4a2eb6",
   "lastOpenFiles": [
-    "Notes/202406030909.md",
     "Notes/202405290832.md",
-    "Notes/202405290825.md",
     "Notes/202405290843.md",
+    "Notes/202405291009.md",
+    "Notes/202406030909.md",
+    "Notes/202405290825.md",
     "Notes/202405271002.md",
     "Notes/202405281707.md",
     "Notes/202405281715.md",
@@ -181,7 +182,6 @@
     "Notes/202405210901.md",
     "Notes/202405210903.md",
     "Notes/202405221940.md",
-    "Notes/202405200718.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",

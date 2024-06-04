@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d822c71ee00add",
+        "id": "d7f9c55a68375ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "5632198f52b2d9a7",
+            "id": "f0e0b6c085ace246",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
-              }
-            }
-          },
-          {
-            "id": "bc8ca53e8f3ce65e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406031754.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406031754.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406031754.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202406031754.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -149,14 +132,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bc8ca53e8f3ce65e",
+  "active": "f0e0b6c085ace246",
   "lastOpenFiles": [
+    "Images/202406031013.excalidraw.md",
+    "Notes/202406030909.md",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Images/202406031754.excalidraw.md",
     "Images/202406031453.excalidraw.md",
     "Notes/202405271002.md",
-    "Images/202406031013.excalidraw.md",
-    "Notes/202406030909.md",
     "Notes/202405291009.md",
     "Images/202405271002.excalidraw.md",
     "Images/202405291009.excalidraw.md",
