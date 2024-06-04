@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406030909.md",
+                "file": "Notes/202406041513.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "41b660c7598e3308",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406041516.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406030909.md",
+            "file": "Images/202406041516.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406030909.md",
+            "file": "Images/202406041516.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406030909.md"
+            "file": "Images/202406041516.excalidraw.md"
           }
         }
       },
@@ -140,8 +151,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "daf3971da8f91455",
+  "active": "41b660c7598e3308",
   "lastOpenFiles": [
+    "Notes/202406041513.md",
+    "Images/202406041516.excalidraw.md",
+    "Notes/202406041514.md",
+    "Notes/202406030909.md",
+    "Notes/202406041507.md",
     "Notes/202405172221.md",
     "Notes/202405172222.md",
     "Images/Pasted image 20240522125319.png",
@@ -151,7 +167,6 @@
     "Notes/202406040924.md",
     "Images/202406040724.excalidraw.md",
     "Images/202406031013.excalidraw.md",
-    "Notes/202406030909.md",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Images/202406031754.excalidraw.md",
     "Images/202406031453.excalidraw.md",
@@ -170,9 +185,6 @@
     "Notes/202405290843.md",
     "Notes/Untitled.md",
     "Notes/202405210903.md",
-    "Images/202405281717.excalidraw.md",
-    "Notes/202405281715.md",
-    "Notes/202405281707.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
