@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "6fe8ab6d941abafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406041507.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7de58fb49643ca2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405290832.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8f202db3e12fa449",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406041513.md",
+                "file": "Notes/202406041507.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,15 +180,15 @@
   },
   "active": "9cdf66da6f4a2eb6",
   "lastOpenFiles": [
-    "Images/~syncthing~202406041516.excalidraw.md.tmp",
-    "Notes/202406041507.md",
-    "Notes/202406041513.md",
-    "Notes/202405281707.md",
     "Notes/202405290832.md",
+    "Notes/202406041507.md",
     "Notes/202406041514.md",
+    "Notes/202406041513.md",
+    "Notes/202405290825.md",
+    "Images/~syncthing~202406041516.excalidraw.md.tmp",
+    "Notes/202405281707.md",
     "Images/202406041516.excalidraw.md",
     "Notes/~syncthing~202406041513.md.tmp",
-    "Notes/202405290825.md",
     "Notes/202405172222.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Notes/202405171734.md",
