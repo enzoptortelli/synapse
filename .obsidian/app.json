@@ -5,11 +5,11 @@
   "newFileFolderPath": "Notes",
   "attachmentFolderPath": "Images",
   "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
+    "includeName": false,
+    "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 51
+    "downscalePercent": 100
   },
   "mobileToolbarCommands": [
     "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
