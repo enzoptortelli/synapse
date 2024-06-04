@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405281707.md",
+                "file": "Notes/202405290825.md",
                 "mode": "source",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "defe",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405290832.md",
+                "file": "Notes/202405290825.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405290832.md",
+                "file": "Notes/202405290825.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405290832.md"
+                "file": "Notes/202405290825.md"
               }
             }
           },
@@ -204,16 +203,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7de58fb49643ca2d",
+  "active": "9cdf66da6f4a2eb6",
   "lastOpenFiles": [
     "Images/~syncthing~202406041516.excalidraw.md.tmp",
     "Notes/202406041507.md",
-    "Notes/202405290832.md",
     "Notes/202406041513.md",
+    "Notes/202405281707.md",
+    "Notes/202405290832.md",
     "Notes/202406041514.md",
     "Images/202406041516.excalidraw.md",
     "Notes/~syncthing~202406041513.md.tmp",
-    "Notes/202405281707.md",
     "Notes/202405290825.md",
     "Notes/202405172222.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
