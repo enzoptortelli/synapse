@@ -11,8 +11,10 @@
             "id": "7ed5aa00c4d9134a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406051316.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Images/202406051316.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Images/202406051316.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Images/202406051316.excalidraw.md"
+              }
             }
           },
           {
@@ -142,22 +148,24 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7ed5aa00c4d9134a",
   "lastOpenFiles": [
+    "Images/202406051741.excalidraw.md",
+    "Images/202406051814.excalidraw.md",
+    "Meta/Templates/Excalidraw Template.excalidraw.md",
+    "Meta/Templates/202406051858.excalidraw.md",
     "Notes/202406051848.md",
     "Notes/202406051010.md",
     "Notes/202406051838.md",
-    "Images/202406051814.excalidraw.md",
     "Images/~syncthing~202406051814.excalidraw.md.tmp",
     "Images/202406040724.excalidraw.md",
     "Images/202406041516.excalidraw.md",
     "Images/202406051345.excalidraw.md",
     "Images/202406051316.excalidraw.md",
-    "Images/202406051741.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
     "Notes/202406041514.md",
     "Notes/202406041507.md",
@@ -180,9 +188,7 @@
     "Notes/202405170738.md",
     "Meta/References/Exercícios de Probabilidade.md",
     "Meta/tags.md",
-    "Notes/202405291009.md",
     "Images/~syncthing~202406040724.excalidraw.md.tmp",
-    "Images/202405291009.excalidraw.md",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
