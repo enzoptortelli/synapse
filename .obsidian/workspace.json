@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "356a72f4298fe036",
+        "id": "0997787c77119926",
         "type": "tabs",
         "children": [
           {
-            "id": "9690148f34c530ea",
+            "id": "7ed5aa00c4d9134a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406051814.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "6478c103891679a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406051838.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "586dcdb4960239db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406051848.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406051838.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406051838.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/202406051838.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,12 +146,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6478c103891679a6",
+  "active": "7ed5aa00c4d9134a",
   "lastOpenFiles": [
     "Notes/202406051848.md",
+    "Notes/202406051010.md",
     "Notes/202406051838.md",
-    "Images/~syncthing~202406051814.excalidraw.md.tmp",
     "Images/202406051814.excalidraw.md",
+    "Images/~syncthing~202406051814.excalidraw.md.tmp",
     "Images/202406040724.excalidraw.md",
     "Images/202406041516.excalidraw.md",
     "Images/202406051345.excalidraw.md",
@@ -190,7 +160,6 @@
     "Images/202406051741.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
     "Notes/202406041514.md",
-    "Notes/202406051010.md",
     "Notes/202406041507.md",
     "Notes/202405172222.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
