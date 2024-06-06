@@ -3,7 +3,7 @@
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Meta/Templates/Exalidraw Template.excalidraw",
+  "templateFilePath": "Meta/Templates/Excalidraw Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": true,
   "decompressForMDView": true,
@@ -745,5 +745,5 @@
   "longPressDesktop": 500,
   "longPressMobile": 500,
   "isDebugMode": false,
-  "autosaveInterval": 15000
+  "autosaveInterval": 300000
 }

@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0997787c77119926",
+        "id": "780065c9eafde4ea",
         "type": "tabs",
         "children": [
           {
-            "id": "7ed5aa00c4d9134a",
+            "id": "bd012142c18d8513",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406051316.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202406051316.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202406051316.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/202406051316.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,12 +146,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ed5aa00c4d9134a",
+  "active": "bd012142c18d8513",
   "lastOpenFiles": [
+    "Images/202406051316.excalidraw.md",
     "Images/202406051741.excalidraw.md",
     "Images/202406051814.excalidraw.md",
+    "Images/202406051906.excalidraw.md",
     "Meta/Templates/Excalidraw Template.excalidraw.md",
+    "Images/202406051859.excalidraw.md",
+    "Images/202406051904.excalidraw.md",
     "Meta/Templates/202406051858.excalidraw.md",
+    "Notes/202406051901.md",
+    "Notes/202406051900.md",
     "Notes/202406051848.md",
     "Notes/202406051010.md",
     "Notes/202406051838.md",
@@ -165,7 +165,6 @@
     "Images/202406040724.excalidraw.md",
     "Images/202406041516.excalidraw.md",
     "Images/202406051345.excalidraw.md",
-    "Images/202406051316.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
     "Notes/202406041514.md",
     "Notes/202406041507.md",
@@ -183,11 +182,6 @@
     "Notes/~syncthing~202406041513.md.tmp",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Notes/202405172223.md",
-    "Meta/Link-tag/eigenpair.md",
-    "Notes/202406030909.md",
-    "Notes/202405170738.md",
-    "Meta/References/Exercícios de Probabilidade.md",
-    "Meta/tags.md",
     "Images/~syncthing~202406040724.excalidraw.md.tmp",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
     "Images/~syncthing~202405281717.excalidraw.md.tmp",
