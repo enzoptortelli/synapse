@@ -8,14 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd012142c18d8513",
+            "id": "c3336c767d8ff002",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf"
+              }
+            }
+          },
+          {
+            "id": "981653dc66a97eb2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf"
+              }
             }
           },
           {
@@ -146,8 +163,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd012142c18d8513",
+  "active": "981653dc66a97eb2",
   "lastOpenFiles": [
+    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
+    "Notes/202406060652.md",
+    "Images/202406060535.excalidraw.md",
     "Images/202406051316.excalidraw.md",
     "Images/202406051741.excalidraw.md",
     "Images/202406051814.excalidraw.md",
@@ -176,15 +196,11 @@
     "Documents/ME623_Lista02.pdf",
     "Notes/202405290825.md",
     "Notes/202405290832.md",
-    "Notes/202406041513.md",
     "Images/~syncthing~202406041516.excalidraw.md.tmp",
-    "Notes/202405281707.md",
     "Notes/~syncthing~202406041513.md.tmp",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
-    "Notes/202405172223.md",
     "Images/~syncthing~202406040724.excalidraw.md.tmp",
     "Images/~syncthing~202405271002.excalidraw.md.tmp",
-    "Images/~syncthing~202405281717.excalidraw.md.tmp",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
     "27r5gv5zjog31.png",
     "the_one_ring.png",
