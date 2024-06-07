@@ -1,6 +1,8 @@
 ---
 tags:
   - method
+  - unfinished
+  - unfinished-flashcard
 link-tags: 
 aliases:
 ---
