@@ -11,11 +11,28 @@
             "id": "f91147a22aa024a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406070848.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f968f9a79d0f0ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406071101.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202406071101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202406071101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202406071101.md"
+              }
             }
           },
           {
@@ -146,8 +167,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f91147a22aa024a0",
+  "active": "f968f9a79d0f0ffa",
   "lastOpenFiles": [
+    "Notes/202406071101.md",
     "Notes/202406070848.md",
     "Notes/202406070845.md",
     "Meta/References/Introdução à Inferência Estatística.md",
@@ -182,7 +204,6 @@
     "Images/202406051741.excalidraw.md",
     "Images/202406051814.excalidraw.md",
     "Images/202406051906.excalidraw.md",
-    "Meta/Templates/Excalidraw Template.excalidraw.md",
     "Images/~syncthing~202406051814.excalidraw.md.tmp",
     "Images/Pasted image 20240522125319.png",
     "Documents/MS512_2024S1_lista_autopar.pdf",
