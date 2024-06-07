@@ -30,12 +30,34 @@
             }
           },
           {
+            "id": "ac65f172f1004fbc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte08.pdf"
+              }
+            }
+          },
+          {
             "id": "e00efa5b34298078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/202406071503.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a987e7f4bdafcae3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406071555.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071503.md",
+                "file": "Documents/ME623/ME623_parte08.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071503.md",
+                "file": "Documents/ME623/ME623_parte08.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071503.md"
+                "file": "Documents/ME623/ME623_parte08.pdf"
               }
             }
           },
@@ -177,11 +199,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e00efa5b34298078",
+  "active": "ac65f172f1004fbc",
   "lastOpenFiles": [
-    "Notes/202406071501.md",
-    "Notes/202406071503.md",
     "Documents/ME623/ME623_parte09.pdf",
+    "Notes/202406071555.md",
+    "Notes/202406071503.md",
+    "Notes/202406071501.md",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Images/202406071540.excalidraw.md",
     "Notes/~syncthing~202406071503.md.tmp",
@@ -213,7 +236,6 @@
     "Meta/References/ME623 (parte 8).md",
     "Meta/References/ME623 (parte 1).md",
     "Meta/References/ME623 (lista 2).md",
-    "Meta/References/ME623 (parte 7).md",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623/ME623_parte08.pdf",
     "Images/Pasted image 20240607084650.png",
