@@ -84,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7e8519448ac888a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406071612.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406071612.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406071612.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071555.md"
+                "file": "Notes/202406071612.md"
               }
             }
           },
@@ -221,10 +233,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a987e7f4bdafcae3",
+  "active": "a7e8519448ac888a",
   "lastOpenFiles": [
-    "Notes/202406071503.md",
+    "Notes/202406071612.md",
     "Notes/202406071555.md",
+    "Notes/202406071503.md",
     "Notes/202406071131.md",
     "Notes/202406071501.md",
     "Meta/Templates/Mathematic Theorem.md",
@@ -260,7 +273,6 @@
     "Meta/References/ME623 (parte 9).md",
     "Meta/References/ME623 (parte 8).md",
     "Meta/References/ME623 (parte 1).md",
-    "Meta/References/ME623 (lista 2).md",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
