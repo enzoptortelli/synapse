@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc7902233c49c6e",
+        "id": "5a7c08d9b8bdd3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8b41c570610c18",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf"
-              }
-            }
-          },
-          {
-            "id": "d3278f0d8c4667a6",
+            "id": "92a5b3e1680b821e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406070644.md",
+                "file": "Notes/202406070839.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406070644.md",
+            "file": "Notes/202406070839.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406070644.md",
+            "file": "Notes/202406070839.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406070644.md"
+            "file": "Notes/202406070839.md"
           }
         }
       },
@@ -151,11 +140,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d3278f0d8c4667a6",
+  "active": "92a5b3e1680b821e",
   "lastOpenFiles": [
-    "Images/202406070645.excalidraw.md",
+    "Notes/202406070845.md",
+    "Notes/202406070848.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202406070644.md",
+    "Images/Pasted image 20240607084650.png",
+    "Notes/202406070839.md",
+    "Meta/References/Introdução à Inferência Estatística.md",
+    "Images/202406070645.excalidraw.md",
     "Notes/202406070636.md",
     "Notes/202406060655.md",
     "Meta/Link-tag/inference.md",
@@ -176,10 +170,6 @@
     "Notes/202406051838.md",
     "Images/202406051437.excalidraw.md",
     "Notes/202406051010.md",
-    "Images/202406051010.excalidraw.md",
-    "Images/202406051316.excalidraw.md",
-    "Notes/202405172223.md",
-    "Images/202406051346.excalidraw.md",
     "Images/Pasted image 20240522125319.png",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Documents/ME623/ME623_parte04.pdf",
@@ -196,7 +186,6 @@
     "Images/Pasted image 20240517223348.png",
     "Images/Pasted image 20240517223042.png",
     "Images/Pasted image 20240517222104.png",
-    "Images/Pasted image 20240517222054.png",
-    "Images/Pasted image 20240517222039.png"
+    "Images/Pasted image 20240517222054.png"
   ]
 }
