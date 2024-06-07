@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Templates/Method.md",
+                "file": "Notes/202406071503.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "dfff3fc179087800",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte09.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/Method.md",
+                "file": "Documents/ME623/ME623_parte09.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Templates/Method.md",
+                "file": "Documents/ME623/ME623_parte09.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Templates/Method.md"
+                "file": "Documents/ME623/ME623_parte09.pdf"
               }
             }
           },
@@ -167,12 +177,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e00efa5b34298078",
+  "active": "dfff3fc179087800",
   "lastOpenFiles": [
-    "Meta/Templates/Mathematic Theorem.md",
-    "Meta/Templates/Method.md",
-    "Meta/tags.md",
+    "Notes/202406071503.md",
+    "Documents/ME623/ME623_parte09.pdf",
+    "Notes/202406070848.md",
     "Notes/202406071131.md",
+    "Notes/202406071501.md",
+    "Meta/Templates/Problem.md",
+    "Meta/Templates/~syncthing~Problem.md.tmp",
+    "Meta/Templates/~syncthing~Method.md.tmp",
+    "Notes/~syncthing~202406071501.md.tmp",
+    "Notes/~syncthing~202406071503.md.tmp",
+    "Notes/202406070845.md",
+    "Meta/Templates/Method.md",
+    "Meta/Templates/Mathematic Theorem.md",
+    "Meta/tags.md",
     "Notes/Method.md",
     "Meta/Templates/Reference.md",
     "Meta/Templates/Question.md",
@@ -194,19 +214,8 @@
     "Meta/References/ME623 (parte 7).md",
     "Notes/ME623_parte07.pdf.md",
     "Documents/ME623/ME623_parte01.pdf",
-    "Meta/References/ME623 (parte 6).md",
-    "Meta/References/ME623 (parte 5).md",
-    "Meta/References/ME623 (parte 4).md",
-    "Documents/ME623/ME623_parte09.pdf",
     "Documents/ME623/ME623_parte08.pdf",
     "Documents/ME623/ME623_parte06.pdf",
-    "Documents/ME623/ME623_parte05.pdf",
-    "Meta/References/ME623 (parte 3).md",
-    "Meta/References/ME623 (parte 2).md",
-    "Documents/ME623/ME623_parte02.pdf",
-    "Meta/References/ME623 (parte 10).md",
-    "Documents/ME623/ME623_parte20.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",

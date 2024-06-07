@@ -1,16 +1,10 @@
 ---
 tags:
-  - method
+  - problem
 link-tags: 
 aliases:
 ---
 # Problem
-
-
-# Solution
-
-
-# Why it works
 
 
 # Additional Comments
