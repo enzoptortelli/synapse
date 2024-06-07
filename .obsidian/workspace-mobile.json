@@ -50,9 +50,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0048c1ba5cb9f503",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406071638.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406071503.md",
+            "file": "Images/202406071638.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406071503.md",
+            "file": "Images/202406071638.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406071503.md"
+            "file": "Images/202406071638.excalidraw.md"
           }
         }
       },
@@ -173,11 +183,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fc3d55556ed9cf2d",
+  "active": "0048c1ba5cb9f503",
   "lastOpenFiles": [
+    "Notes/202406071503.md",
+    "Images/202406071638.excalidraw.md",
+    "Meta/Link-tag/statistical model.md",
+    "Notes/202406071612.md",
+    "Notes/202406071555.md",
     "Documents/ME623/ME623_parte09.pdf",
     "Images/202406071540.excalidraw.md",
-    "Notes/202406071503.md",
     "Notes/202406071501.md",
     "Meta/Templates/Method.md",
     "Notes/202406071427.md",
@@ -204,9 +218,6 @@
     "Meta/References/ME623 (parte 11).md",
     "Meta/References/ME623 (parte 12a).md",
     "Meta/References/ME623 (parte 13).md",
-    "Meta/References/ME623 (parte 17).md",
-    "Meta/References/ME623 (parte 16).md",
-    "Meta/References/ME623 (parte 15).md",
     "Documents/ME623/ME623_parte11.pdf",
     "Documents/ME623/ME623_parte17.pdf",
     "Documents/ME623/ME623_parte12a.pdf",
