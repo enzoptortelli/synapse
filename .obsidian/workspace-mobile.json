@@ -40,7 +40,7 @@
             }
           },
           {
-            "id": "7564adfb7c243c0b",
+            "id": "fc3d55556ed9cf2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,19 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b368847fa3c94581",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406071540.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406071540.excalidraw.md",
+            "file": "Notes/202406071503.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406071540.excalidraw.md",
+            "file": "Notes/202406071503.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406071540.excalidraw.md"
+            "file": "Notes/202406071503.md"
           }
         }
       },
@@ -183,16 +173,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b368847fa3c94581",
+  "active": "fc3d55556ed9cf2d",
   "lastOpenFiles": [
-    "Notes/202406071503.md",
+    "Documents/ME623/ME623_parte09.pdf",
     "Images/202406071540.excalidraw.md",
+    "Notes/202406071503.md",
     "Notes/202406071501.md",
     "Meta/Templates/Method.md",
     "Notes/202406071427.md",
     "Meta/Templates/Problem.md",
     "Documents/ME623/ME623_parte10.pdf",
-    "Documents/ME623/ME623_parte09.pdf",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Notes/202406071131.md",
     "Notes/202406071426.md",
@@ -217,7 +207,6 @@
     "Meta/References/ME623 (parte 17).md",
     "Meta/References/ME623 (parte 16).md",
     "Meta/References/ME623 (parte 15).md",
-    "Meta/References/ME623 (parte 19).md",
     "Documents/ME623/ME623_parte11.pdf",
     "Documents/ME623/ME623_parte17.pdf",
     "Documents/ME623/ME623_parte12a.pdf",

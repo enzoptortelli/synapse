@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf",
+                "file": "Notes/202406071503.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf",
+                "file": "Notes/202406071503.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf"
+                "file": "Notes/202406071503.md"
               }
             }
           },
@@ -177,17 +177,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfff3fc179087800",
+  "active": "e00efa5b34298078",
   "lastOpenFiles": [
-    "Images/~syncthing~202406071540.excalidraw.md.tmp",
+    "Notes/202406071501.md",
     "Notes/202406071503.md",
+    "Documents/ME623/ME623_parte09.pdf",
+    "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Images/202406071540.excalidraw.md",
     "Notes/~syncthing~202406071503.md.tmp",
-    "Documents/ME623/ME623_parte09.pdf",
     "Meta/Templates/Class Notes.md",
     "Notes/202406070848.md",
     "Notes/202406071131.md",
-    "Notes/202406071501.md",
     "Meta/Templates/Problem.md",
     "Meta/Templates/~syncthing~Problem.md.tmp",
     "Meta/Templates/~syncthing~Method.md.tmp",
