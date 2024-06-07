@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "dfff3fc179087800",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte09.pdf"
+              }
+            }
+          },
+          {
             "id": "e00efa5b34298078",
             "type": "leaf",
             "state": {
@@ -28,16 +38,6 @@
                 "file": "Notes/202406071503.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "dfff3fc179087800",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf"
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf",
+                "file": "Notes/202406071503.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf",
+                "file": "Notes/202406071503.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte09.pdf"
+                "file": "Notes/202406071503.md"
               }
             }
           },
@@ -177,10 +177,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfff3fc179087800",
+  "active": "e00efa5b34298078",
   "lastOpenFiles": [
-    "Notes/202406071503.md",
+    "Images/202406071540.excalidraw.md",
+    "Images/~syncthing~202406071540.excalidraw.md.tmp",
+    "Notes/~syncthing~202406071503.md.tmp",
     "Documents/ME623/ME623_parte09.pdf",
+    "Meta/Templates/Class Notes.md",
+    "Notes/202406071503.md",
     "Notes/202406070848.md",
     "Notes/202406071131.md",
     "Notes/202406071501.md",
@@ -188,7 +192,6 @@
     "Meta/Templates/~syncthing~Problem.md.tmp",
     "Meta/Templates/~syncthing~Method.md.tmp",
     "Notes/~syncthing~202406071501.md.tmp",
-    "Notes/~syncthing~202406071503.md.tmp",
     "Notes/202406070845.md",
     "Meta/Templates/Method.md",
     "Meta/Templates/Mathematic Theorem.md",
@@ -196,7 +199,6 @@
     "Notes/Method.md",
     "Meta/Templates/Reference.md",
     "Meta/Templates/Question.md",
-    "Meta/Templates/Class Notes.md",
     "Meta/Templates/Excalidraw Template.excalidraw.md",
     "Meta/Templates/Flashcard.md",
     "Meta/Templates/Mathematic Definition.md",
@@ -215,7 +217,6 @@
     "Notes/ME623_parte07.pdf.md",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/ME623/ME623_parte08.pdf",
-    "Documents/ME623/ME623_parte06.pdf",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
