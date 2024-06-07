@@ -1,9 +1,10 @@
 ---
 tags:
-  - slides
-link-tags: "[[design-of-experiments]]"
+  - problems-list
+link-tags:
+  - "[[design-of-experiments]]"
 ---
-**Title**: ME623 (parte 2)
+**Title**: ME623 (lista 2)
 **Author(s)**: Tatiana Benaglia
 **Edition**: First
 **Date of publication**: 2024
