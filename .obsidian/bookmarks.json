@@ -17,12 +17,6 @@
         },
         {
           "type": "search",
-          "ctime": 1716926484451,
-          "query": "[\"link-tags\":eigenpair] tag:#problem-solution ",
-          "title": "(Autopares) Exercícios"
-        },
-        {
-          "type": "search",
           "ctime": 1716981409094,
           "query": "[\"link-tags\":eigenpair]  -tag:#problem-solution -tag:#class-notes -tag:#problems-list ",
           "title": "(Autopares) Teoria"
@@ -32,9 +26,28 @@
           "ctime": 1716981574765,
           "query": "[\"link-tags\":eigenpair]  (tag:#unfinished OR tag:#unfinished-flashcard ",
           "title": "Incompleto"
+        },
+        {
+          "type": "search",
+          "ctime": 1717771215908,
+          "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
+          "title": "(Autopares) Lista"
         }
       ],
-      "title": "Análise Numérica (autopar)"
+      "title": "Análise Numérica (Autopares)"
+    },
+    {
+      "type": "group",
+      "ctime": 1717771138905,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1717771120139,
+          "query": "tag:#problem-solution line:\"ME623 (lista 2)\"",
+          "title": "Soluções lista 2"
+        }
+      ],
+      "title": "Planejamento e Pesquisa"
     }
   ]
 }

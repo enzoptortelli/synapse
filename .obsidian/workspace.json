@@ -11,11 +11,28 @@
             "id": "fd409b67c1215cf3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Class Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e00efa5b34298078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Method.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "defe",
+                "query": "tag:#problem-solution line:\"ME623 (lista 2)\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/Templates/Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta/Templates/Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Meta/Templates/Method.md"
+              }
             }
           },
           {
@@ -146,10 +167,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "e00efa5b34298078",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_Lista02.pdf",
+    "Meta/Templates/Mathematic Theorem.md",
+    "Meta/Templates/Method.md",
+    "Meta/tags.md",
     "Notes/202406071131.md",
+    "Notes/Method.md",
+    "Meta/Templates/Reference.md",
+    "Meta/Templates/Question.md",
+    "Meta/Templates/Class Notes.md",
+    "Meta/Templates/Excalidraw Template.excalidraw.md",
+    "Meta/Templates/Flashcard.md",
+    "Meta/Templates/Mathematic Definition.md",
+    "Meta/Templates/Problem-solution.md",
+    "Documents/ME623/ME623_parte10.pdf",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405172222.md",
+    "Documents/ME623/ME623_Lista02.pdf",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Meta/References/ME623 (parte 9).md",
@@ -170,21 +205,8 @@
     "Meta/References/ME623 (parte 2).md",
     "Documents/ME623/ME623_parte02.pdf",
     "Meta/References/ME623 (parte 10).md",
-    "Meta/References/ME623 (parte 11).md",
-    "Meta/References/ME623 (parte 12a).md",
-    "Meta/References/ME623 (parte 12b).md",
-    "Meta/References/ME623 (parte 13).md",
-    "Meta/References/ME623 (parte 14).md",
-    "Meta/References/ME623 (parte 15).md",
-    "Meta/References/ME623 (parte 16).md",
-    "Meta/References/ME623 (parte 17).md",
-    "Meta/References/ME623 (parte 19).md",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte19.pdf",
-    "Documents/ME623/ME623_parte17.pdf",
-    "Meta/References/ME623 (parte 18).md",
-    "Notes/202406070848.md",
-    "Notes/202406070845.md",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",

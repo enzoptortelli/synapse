@@ -3,6 +3,7 @@
 #property
 #question
 #no-proof
+#method
 
 #problem-solution
 #problems-list
