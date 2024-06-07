@@ -60,45 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1c8a75c7517f1e4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071703.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d552d3f6755100a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071501.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7e8519448ac888a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071612.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem-solution line:\"ME623 (lista 2)\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -144,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -164,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071703.md",
+                "file": "Notes/202406071555.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071703.md",
+                "file": "Notes/202406071555.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071703.md"
+                "file": "Notes/202406071555.md"
               }
             }
           },
@@ -233,16 +198,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c8a75c7517f1e4a",
+  "active": "a987e7f4bdafcae3",
   "lastOpenFiles": [
-    "Notes/202406071131.md",
-    "Notes/202406071612.md",
-    "Notes/202406071501.md",
-    "Notes/202406071709.md",
+    "Notes/202406071503.md",
+    "Notes/202406071555.md",
     "Notes/202406071703.md",
+    "Notes/202406071740.md",
+    "Meta/Templates/Question.md",
+    "Meta/tags.md",
+    "Notes/202406071501.md",
+    "Notes/202406071612.md",
+    "Notes/202406071131.md",
+    "Notes/202406071709.md",
     "Images/~syncthing~202406071638.excalidraw.md.tmp",
     "Images/202406071638.excalidraw.md",
-    "Notes/202406071555.md",
     "Meta/Link-tag/continuous.md",
     "Meta/Link-tag/design-of-experiments.md",
     "Meta/Link-tag/discrete.md",
@@ -257,11 +226,7 @@
     "Meta/Link-tag/random-variable.md",
     "Meta/Link-tag/statistics.md",
     "Meta/Link-tag/statistical model.md",
-    "Notes/202406071503.md",
     "Meta/Templates/Mathematic Theorem.md",
-    "Meta/Templates/Sketch.md",
-    "Meta/Templates/Problem-solution.md",
-    "Meta/Templates/Question.md",
     "Documents/ME623/ME623_parte06.pdf",
     "Documents/ME623/ME623_parte08.pdf",
     "Documents/ME623/ME623_parte09.pdf",
