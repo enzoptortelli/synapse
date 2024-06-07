@@ -38,24 +38,24 @@
             }
           },
           {
-            "id": "e00efa5b34298078",
+            "id": "b2b3333d8e974481",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406071503.md",
+                "file": "Notes/202406071703.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a987e7f4bdafcae3",
+            "id": "a064581c1cfcd3cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406071612.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,8 +108,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406071612.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406071612.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071555.md"
+                "file": "Notes/202406071612.md"
               }
             }
           },
@@ -198,18 +197,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a987e7f4bdafcae3",
+  "active": "a064581c1cfcd3cd",
   "lastOpenFiles": [
-    "Notes/202406071503.md",
     "Notes/202406071555.md",
     "Notes/202406071703.md",
+    "Documents/ME623/ME623_parte06.pdf",
+    "Notes/202406071709.md",
     "Notes/202406071740.md",
+    "Notes/202406071612.md",
+    "Documents/ME623/ME623_parte08.pdf",
+    "Notes/202406071503.md",
     "Meta/Templates/Question.md",
     "Meta/tags.md",
     "Notes/202406071501.md",
-    "Notes/202406071612.md",
     "Notes/202406071131.md",
-    "Notes/202406071709.md",
     "Images/~syncthing~202406071638.excalidraw.md.tmp",
     "Images/202406071638.excalidraw.md",
     "Meta/Link-tag/continuous.md",
@@ -226,9 +227,6 @@
     "Meta/Link-tag/random-variable.md",
     "Meta/Link-tag/statistics.md",
     "Meta/Link-tag/statistical model.md",
-    "Meta/Templates/Mathematic Theorem.md",
-    "Documents/ME623/ME623_parte06.pdf",
-    "Documents/ME623/ME623_parte08.pdf",
     "Documents/ME623/ME623_parte09.pdf",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Notes/~syncthing~202406071503.md.tmp",
