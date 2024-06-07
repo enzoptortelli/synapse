@@ -50,19 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0048c1ba5cb9f503",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406071638.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406071638.excalidraw.md",
+            "file": "Notes/202406071503.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406071638.excalidraw.md",
+            "file": "Notes/202406071503.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406071638.excalidraw.md"
+            "file": "Notes/202406071503.md"
           }
         }
       },
@@ -183,12 +173,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0048c1ba5cb9f503",
+  "active": "fc3d55556ed9cf2d",
   "lastOpenFiles": [
+    "Images/202406071638.excalidraw.md",
     "Notes/202406071709.md",
     "Notes/202406071703.md",
     "Notes/202406071503.md",
-    "Images/202406071638.excalidraw.md",
     "Meta/Link-tag/statistical model.md",
     "Notes/202406071612.md",
     "Notes/202406071555.md",

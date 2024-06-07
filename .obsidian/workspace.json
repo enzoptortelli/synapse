@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406071131.md",
+                "file": "Notes/202406071703.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071131.md",
+                "file": "Notes/202406071703.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071131.md",
+                "file": "Notes/202406071703.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071131.md"
+                "file": "Notes/202406071703.md"
               }
             }
           },
@@ -235,8 +235,9 @@
   },
   "active": "1c8a75c7517f1e4a",
   "lastOpenFiles": [
-    "Notes/202406071501.md",
+    "Notes/202406071131.md",
     "Notes/202406071612.md",
+    "Notes/202406071501.md",
     "Notes/202406071709.md",
     "Notes/202406071703.md",
     "Images/~syncthing~202406071638.excalidraw.md.tmp",
@@ -256,7 +257,6 @@
     "Meta/Link-tag/random-variable.md",
     "Meta/Link-tag/statistics.md",
     "Meta/Link-tag/statistical model.md",
-    "Notes/202406071131.md",
     "Notes/202406071503.md",
     "Meta/Templates/Mathematic Theorem.md",
     "Meta/Templates/Sketch.md",
