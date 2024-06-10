@@ -50,17 +50,17 @@
             }
           },
           {
-            "id": "07d6f41b6a13b3f4",
+            "id": "f4fad9f4bb44fa64",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.6.2"
+                "file": "Images/202405201118.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,8 +195,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "07d6f41b6a13b3f4",
+  "active": "b2b3333d8e974481",
   "lastOpenFiles": [
+    "Images/202405211323.excalidraw.md",
+    "Images/202405210743.excalidraw.md",
+    "Notes/202405171734.md",
+    "Images/202405201118.excalidraw.md",
     "Notes/202406071612.md",
     "Notes/202406071555.md",
     "Notes/202406071703.md",
@@ -222,9 +226,6 @@
     "Meta/Link-tag/numerical-analysis.md",
     "Meta/Link-tag/probability.md",
     "Meta/Link-tag/probability-distribution.md",
-    "Meta/Link-tag/random-variable.md",
-    "Meta/Link-tag/statistics.md",
-    "Meta/Link-tag/statistical model.md",
     "Documents/ME623/ME623_parte09.pdf",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Notes/~syncthing~202406071503.md.tmp",
