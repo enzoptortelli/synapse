@@ -50,14 +50,12 @@
             }
           },
           {
-            "id": "a064581c1cfcd3cd",
+            "id": "07d6f41b6a13b3f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Notes/202406071612.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.6.2"
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071612.md",
+                "file": "Notes/202406071703.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071612.md",
+                "file": "Notes/202406071703.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071612.md"
+                "file": "Notes/202406071703.md"
               }
             }
           },
@@ -197,14 +195,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a064581c1cfcd3cd",
+  "active": "07d6f41b6a13b3f4",
   "lastOpenFiles": [
+    "Notes/202406071612.md",
     "Notes/202406071555.md",
     "Notes/202406071703.md",
     "Documents/ME623/ME623_parte06.pdf",
     "Notes/202406071709.md",
     "Notes/202406071740.md",
-    "Notes/202406071612.md",
     "Documents/ME623/ME623_parte08.pdf",
     "Notes/202406071503.md",
     "Meta/Templates/Question.md",

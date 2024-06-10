@@ -2,7 +2,6 @@
 tags:
   - problem-solution
   - unfinished
-link-tags:
 ---
 # Statement 
 
