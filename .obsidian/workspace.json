@@ -14,33 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "5ba1feead369cdf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405190914.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77838e8ff1f3b70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405180655.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405180655.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405180655.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/202405180655.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +146,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77838e8ff1f3b70b",
+  "active": "1f4991bacaed3d7d",
   "lastOpenFiles": [
-    "Notes/202405190914.md",
     "Notes/202405180655.md",
+    "Notes/202405190914.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
