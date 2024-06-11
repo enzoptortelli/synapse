@@ -14,8 +14,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "396236cd2b96b2bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +155,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f4991bacaed3d7d",
+  "active": "396236cd2b96b2bd",
   "lastOpenFiles": [
     "Notes/202405180655.md",
     "Notes/202405190914.md",
