@@ -7,8 +7,8 @@ link-tags:
 **Title**: Applied Linear Regression
 **Author(s)**: Michael H. Kutner. Christopher J. Nachtsheim, John Neter, William Li
 **Edition**: Fifith
-**Date of publication**: 
+**Date of publication**: 2005
 
-**Link**: 
+**Link**: [[ALSM_5Ed_Kutner.pdf]]
 
 

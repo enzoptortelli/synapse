@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406111448.md",
+                "file": "Meta/References/Applied Linear Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,8 +41,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ALSM_5Ed_Kutner.pdf",
+                "file": "Notes/202406111429.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ALSM_5Ed_Kutner.pdf",
+                "file": "Notes/202406111429.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ALSM_5Ed_Kutner.pdf"
+                "file": "Notes/202406111429.md"
               }
             }
           },
@@ -177,11 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a39393ba10db3247",
+  "active": "1f4991bacaed3d7d",
   "lastOpenFiles": [
-    "Notes/202406111448.md",
-    "Documents/ALSM_5Ed_Kutner.pdf",
+    "Meta/References/Applied Linear Regression.md",
     "Notes/202406111429.md",
+    "Documents/ALSM_5Ed_Kutner.pdf",
     "Notes/202406110604.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202405180655.md",
