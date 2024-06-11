@@ -23,6 +23,18 @@
             "id": "c3c3e377099b8110",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406111448.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a39393ba10db3247",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Documents/ALSM_5Ed_Kutner.pdf"
@@ -30,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,11 +177,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c3c3e377099b8110",
+  "active": "a39393ba10db3247",
   "lastOpenFiles": [
     "Notes/202406111448.md",
-    "Notes/202406111429.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
+    "Notes/202406111429.md",
     "Notes/202406110604.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202405180655.md",
@@ -201,7 +213,6 @@
     "Images/~syncthing~202406071638.excalidraw.md.tmp",
     "Images/202406071638.excalidraw.md",
     "Meta/Link-tag/continuous.md",
-    "Meta/Link-tag/design-of-experiments.md",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
