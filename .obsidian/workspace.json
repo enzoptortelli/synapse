@@ -19,9 +19,11 @@
             "id": "5ba1feead369cdf9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Meta/References/Lista 5 - Probabilidade I.md"
               }
             }
           },
@@ -163,8 +165,10 @@
   },
   "active": "5ba1feead369cdf9",
   "lastOpenFiles": [
-    "Meta/References/Statistical Inference.md",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Meta/References/Statistical Inference.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202406100932.md",
@@ -194,10 +198,8 @@
     "Meta/Link-tag/function.md",
     "Meta/Link-tag/inference.md",
     "Meta/Link-tag/math.md",
-    "Meta/Link-tag/maximum-likelihood-estimation.md",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
     "Notes/~syncthing~202406071503.md.tmp",
-    "Meta/Templates/~syncthing~Problem.md.tmp",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
