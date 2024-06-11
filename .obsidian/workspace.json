@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3c3e377099b8110",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ALSM_5Ed_Kutner.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406111429.md",
+                "file": "Documents/ALSM_5Ed_Kutner.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406111429.md",
+                "file": "Documents/ALSM_5Ed_Kutner.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406111429.md"
+                "file": "Documents/ALSM_5Ed_Kutner.pdf"
               }
             }
           },
@@ -154,11 +165,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f4991bacaed3d7d",
+  "active": "c3c3e377099b8110",
   "lastOpenFiles": [
+    "Notes/202406111448.md",
+    "Notes/202406111429.md",
+    "Documents/ALSM_5Ed_Kutner.pdf",
     "Notes/202406110604.md",
     "Meta/Link-tag/linear regression.md",
-    "Notes/202406111429.md",
     "Notes/202405180655.md",
     "Notes/202405190914.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
@@ -189,9 +202,7 @@
     "Images/202406071638.excalidraw.md",
     "Meta/Link-tag/continuous.md",
     "Meta/Link-tag/design-of-experiments.md",
-    "Meta/Link-tag/discrete.md",
     "Images/~syncthing~202406071540.excalidraw.md.tmp",
-    "Notes/~syncthing~202406071503.md.tmp",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
