@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "02e69504505cecf7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ba1feead369cdf9",
+  "active": "02e69504505cecf7",
   "lastOpenFiles": [
     "Notes/202406100932.md",
     "Documents/ME623/ME623_parte06.pdf",
