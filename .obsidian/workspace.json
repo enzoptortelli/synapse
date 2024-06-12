@@ -30,18 +30,6 @@
             }
           },
           {
-            "id": "271a75a8eba9244d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071501.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6925b9e48f8a49ca",
             "type": "leaf",
             "state": {
@@ -53,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf",
+                "file": "Notes/202406071555.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf",
+                "file": "Notes/202406071555.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf"
+                "file": "Notes/202406071555.md"
               }
             }
           },
@@ -189,12 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80659a2b12577c4f",
+  "active": "e60e16a9c63ba518",
   "lastOpenFiles": [
+    "Notes/202405170738.md",
     "Notes/202406071555.md",
     "Notes/202406071501.md",
-    "Notes/202406120807.md",
     "Documents/ME623/ME623_parte10.pdf",
+    "Notes/202406120807.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/References/Applied Linear Regression.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
@@ -226,7 +216,6 @@
     "Notes/202406071709.md",
     "Notes/202406071740.md",
     "Notes/202406071503.md",
-    "Meta/Templates/Question.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
