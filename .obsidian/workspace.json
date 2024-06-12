@@ -74,9 +74,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c0bd97b00b7aca8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406120923.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406120830.md",
+                "file": "Documents/ME623/ME623_parte11.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406120830.md",
+                "file": "Documents/ME623/ME623_parte11.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406120830.md"
+                "file": "Documents/ME623/ME623_parte11.pdf"
               }
             }
           },
@@ -211,16 +222,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6327ca3079a5391e",
+  "active": "80659a2b12577c4f",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte10.pdf",
+    "Notes/202406120923.md",
     "Documents/ME623/ME623_parte11.pdf",
-    "Notes/202406120852.md",
-    "Notes/202406120830.md",
-    "Documents/ME623/ME623_parte12a.pdf",
-    "Documents/ME623/ME623_parte12b.pdf",
     "Notes/202406120807.md",
     "Notes/202406071555.md",
+    "Notes/202406120830.md",
+    "Documents/ME623/ME623_parte10.pdf",
+    "Notes/202406120852.md",
+    "Documents/ME623/ME623_parte12a.pdf",
+    "Documents/ME623/ME623_parte12b.pdf",
     "Notes/202406071501.md",
     "Documents/ME623/ME623_Lista02.pdf",
     "Notes/202406071703.md",
@@ -247,7 +259,6 @@
     "Meta/References/Statistical Inference.md",
     "Images/202405201118.excalidraw.md",
     "Images/202405211323.excalidraw.md",
-    "Images/202405210743.excalidraw.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
