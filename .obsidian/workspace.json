@@ -52,6 +52,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff86e2c38a371f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406120852.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -190,17 +202,20 @@
   },
   "active": "80659a2b12577c4f",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte10.pdf",
-    "Notes/202406120830.md",
+    "Notes/202406120852.md",
+    "Notes/202406071501.md",
+    "Notes/202406071555.md",
     "Notes/202406120807.md",
+    "Notes/202406120830.md",
+    "Documents/ME623/ME623_parte11.pdf",
+    "Documents/ME623/ME623_Lista02.pdf",
+    "Documents/ME623/ME623_parte10.pdf",
     "Notes/202406071703.md",
     "Notes/202406080635.md",
     "Notes/202406081239.md",
     "Notes/202406100932.md",
     "Notes/202406110604.md",
     "Notes/202406111429.md",
-    "Notes/202406071501.md",
-    "Notes/202406071555.md",
     "Notes/202405170738.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/References/Applied Linear Regression.md",
@@ -219,12 +234,9 @@
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Meta/References/Statistical Inference.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Documents/ME623/ME623_parte06.pdf",
     "Images/202405201118.excalidraw.md",
     "Images/202405211323.excalidraw.md",
     "Images/202405210743.excalidraw.md",
-    "Notes/202405171734.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
