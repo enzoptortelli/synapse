@@ -35,7 +35,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406120807.md",
+                "file": "Notes/202406071501.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6925b9e48f8a49ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406071501.md",
                 "mode": "source",
                 "source": false
               }
@@ -179,9 +191,10 @@
   },
   "active": "80659a2b12577c4f",
   "lastOpenFiles": [
+    "Notes/202406071555.md",
+    "Notes/202406071501.md",
     "Notes/202406120807.md",
     "Documents/ME623/ME623_parte10.pdf",
-    "Notes/202406071555.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/References/Applied Linear Regression.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
