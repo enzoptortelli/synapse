@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406071501.md",
+                "file": "Notes/202406120807.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6327ca3079a5391e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406120830.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -109,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406120830.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406071555.md",
+                "file": "Notes/202406120830.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406071555.md"
+                "file": "Notes/202406120830.md"
               }
             }
           },
@@ -178,13 +189,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e60e16a9c63ba518",
+  "active": "6327ca3079a5391e",
   "lastOpenFiles": [
-    "Notes/202405170738.md",
-    "Notes/202406071555.md",
-    "Notes/202406071501.md",
     "Documents/ME623/ME623_parte10.pdf",
+    "Notes/202406120830.md",
     "Notes/202406120807.md",
+    "Notes/202406071703.md",
+    "Notes/202406080635.md",
+    "Notes/202406081239.md",
+    "Notes/202406100932.md",
+    "Notes/202406110604.md",
+    "Notes/202406111429.md",
+    "Notes/202406071501.md",
+    "Notes/202406071555.md",
+    "Notes/202405170738.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/References/Applied Linear Regression.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
@@ -194,8 +212,6 @@
     "Notes/202405291009.md",
     "Notes/202406030909.md",
     "Notes/202406051010.md",
-    "Notes/202406111429.md",
-    "Notes/202406110604.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202405180655.md",
     "Notes/202405190914.md",
@@ -205,17 +221,11 @@
     "Meta/References/Statistical Inference.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Notes/202406100932.md",
     "Documents/ME623/ME623_parte06.pdf",
-    "Notes/202406071703.md",
     "Images/202405201118.excalidraw.md",
     "Images/202405211323.excalidraw.md",
     "Images/202405210743.excalidraw.md",
     "Notes/202405171734.md",
-    "Notes/202406071612.md",
-    "Notes/202406071709.md",
-    "Notes/202406071740.md",
-    "Notes/202406071503.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
