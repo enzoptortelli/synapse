@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf"
+                "file": "Documents/ME623/ME623_parte12b.pdf"
               }
             }
           },
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf",
+                "file": "Notes/202406120830.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf",
+                "file": "Notes/202406120830.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf"
+                "file": "Notes/202406120830.md"
               }
             }
           },
@@ -200,14 +201,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "80659a2b12577c4f",
+  "active": "6327ca3079a5391e",
   "lastOpenFiles": [
-    "Notes/202406120852.md",
-    "Notes/202406071501.md",
-    "Notes/202406071555.md",
     "Notes/202406120807.md",
     "Notes/202406120830.md",
+    "Notes/202406071555.md",
+    "Notes/202406120852.md",
+    "Documents/ME623/ME623_parte12b.pdf",
+    "Documents/ME623/ME623_parte12a.pdf",
     "Documents/ME623/ME623_parte11.pdf",
+    "Notes/202406071501.md",
     "Documents/ME623/ME623_Lista02.pdf",
     "Documents/ME623/ME623_parte10.pdf",
     "Notes/202406071703.md",
@@ -231,9 +234,7 @@
     "Notes/202405190914.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Meta/References/Statistical Inference.md",
-    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Images/202405201118.excalidraw.md",
     "Images/202405211323.excalidraw.md",
     "Images/202405210743.excalidraw.md",
