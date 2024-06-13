@@ -40,8 +40,31 @@
                 "file": "Images/202406110605.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "75743fd79b06f2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406121009.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fa3cec1c033f073",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406121010.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Meta/References/Introdução à Inferência Estatística.md",
+            "file": "Images/202406121010.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Meta/References/Introdução à Inferência Estatística.md",
+            "file": "Images/202406121010.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -136,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Meta/References/Introdução à Inferência Estatística.md"
+            "file": "Images/202406121010.excalidraw.md"
           }
         }
       },
@@ -162,12 +185,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7e2703cbad442125",
+  "active": "8fa3cec1c033f073",
   "lastOpenFiles": [
+    "Notes/202406121009.md",
+    "Images/202406121010.excalidraw.md",
     "Images/202406110605.excalidraw.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
-    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202406110604.md",
+    "Meta/References/Introdução à Inferência Estatística.md",
+    "Notes/202406120852.md",
+    "Notes/202406120923.md",
+    "Notes/202406120807.md",
+    "Notes/202406120830.md",
+    "Documents/Pinguins_em_Terra_Vitória.pdf",
+    "Meta/References/Applied Linear Regression.md",
+    "Documents/ALSM_5Ed_Kutner.pdf",
+    "Meta/Link-tag/linear regression.md",
+    "Notes/202406111429.md",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Meta/References/Statistical Inference.md",
+    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202406080657.md",
     "Notes/202406100932.md",
     "Notes/202406081239.md",
@@ -180,16 +218,6 @@
     "Notes/202406051010.md",
     "Meta/Templates/Class Notes.md",
     "Meta/Templates/Mathematic Theorem.md",
-    "Images/202406101313.excalidraw.md",
-    "Notes/202406071740.md",
-    "Notes/202405210901.md",
-    "Notes/202405210903.md",
-    "Notes/202406041513.md",
-    "Notes/202406051838.md",
-    "Notes/202406071703.md",
-    "Notes/202405281707.md",
-    "Notes/202405271002.md",
-    "Notes/202405291009.md",
     "Documents/ME623/ME623_parte09.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Documents/ME623/ME623_parte10.pdf",
@@ -198,10 +226,6 @@
     "Documents/ME623/ME623_parte08.pdf",
     "Documents/ME623/ME623_parte05.pdf",
     "Documents/ME623/ME623_parte06.pdf",
-    "Documents/ME623/ME623_parte11.pdf",
-    "Documents/ME623/ME623_parte17.pdf",
-    "Documents/ME623/ME623_parte12a.pdf",
-    "Documents/ME623/ME623_parte12b.pdf",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "Images/202405301912.excalidraw.png",
