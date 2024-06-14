@@ -55,14 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406120923.md",
+                "file": "Notes/202406120830.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be5cdd9f6e0ce58f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406141226.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf",
+                "file": "Notes/202406141226.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf",
+                "file": "Notes/202406141226.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf"
+                "file": "Notes/202406141226.md"
               }
             }
           },
@@ -197,12 +209,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c0bd97b00b7aca8",
+  "active": "be5cdd9f6e0ce58f",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte10.pdf",
-    "Notes/202406120923.md",
     "Notes/202406120830.md",
+    "Notes/202406141226.md",
+    "Notes/202406120923.md",
     "Documents/ME623/ME623_parte11.pdf",
+    "Documents/ME623/ME623_parte10.pdf",
     "Notes/202406141207.md",
     "Documents/ME623/ME623_parte12a.pdf",
     "Documents/ME623/ME623_parte12b.pdf",
