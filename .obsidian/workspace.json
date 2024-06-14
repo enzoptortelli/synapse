@@ -8,26 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd9a00efb67e1760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f3022c7465c64e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202406141554.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202406121010.excalidraw.md"
               }
             }
           }
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406121009.md",
+                "file": "Images/202406121010.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406121009.md",
+                "file": "Images/202406121010.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406121009.md"
+                "file": "Images/202406121010.excalidraw.md"
               }
             }
           },
@@ -166,12 +152,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd9a00efb67e1760",
+  "active": "2f3022c7465c64e4",
   "lastOpenFiles": [
-    "Images/IMG_20240612_105002011.jpg",
-    "Notes/202406120923.md",
+    "Images/Pasted Image 20240614172301_404.jpg",
+    "Images/Pasted Image 20240614172228_372.jpg",
     "Notes/202406121009.md",
+    "Notes/202406120923.md",
     "Notes/202406141226.md",
+    "Notes/202406141554.md",
+    "Images/IMG_20240612_110459484.jpg",
+    "Images/IMG_20240612_105002011.jpg",
+    "Images/202406121010.excalidraw.md",
+    "Images/IMG_20240612_112937848.jpg",
+    "Images/IMG_20240612_112932342.jpg",
     "Notes/202406141207.md",
     "Documents/ME623/ME623_parte14.pdf",
     "Documents/ME623/ME623_parte13.pdf",
@@ -181,7 +174,6 @@
     "Documents/ME623/ME623_parte17.pdf",
     "Documents/ME623/ME623_parte16.pdf",
     "Documents/ME623/ME623_parte15.pdf",
-    "Notes/202406141554.md",
     "Notes/202406141313.md",
     "Documents/ME623/ME623_parte12b.pdf",
     "Documents/ME623/ME623_parte10.pdf",
@@ -203,16 +195,10 @@
     "Meta/References/Applied Linear Regression.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
     "Notes/202405291009.md",
-    "Notes/202406030909.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
-    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
-    "27r5gv5zjog31.png",
-    "the_one_ring.png",
-    "Images/Pasted image 20240521063352.png",
-    "Images/Pasted image 20240521062928.png",
-    "Images/Pasted image 20240520203312.png"
+    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg"
   ]
 }
