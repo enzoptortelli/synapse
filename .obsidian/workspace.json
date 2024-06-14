@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80659a2b12577c4f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf"
-              }
-            }
-          },
-          {
             "id": "fd9a00efb67e1760",
             "type": "leaf",
             "state": {
@@ -33,11 +23,9 @@
             "id": "2f3022c7465c64e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202406141554.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME623/ME623_parte13.pdf"
               }
             }
           }
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf",
+                "file": "Notes/202406141313.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf",
+                "file": "Notes/202406141313.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf"
+                "file": "Notes/202406141313.md"
               }
             }
           },
@@ -176,12 +164,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "80659a2b12577c4f",
+  "active": "fd9a00efb67e1760",
   "lastOpenFiles": [
-    "Notes/202406141554.md",
-    "Documents/ME623/ME623_parte12b.pdf",
-    "Notes/202406141313.md",
     "Documents/ME623/ME623_parte13.pdf",
+    "Notes/202406141554.md",
+    "Notes/202406141313.md",
+    "Documents/ME623/ME623_parte12b.pdf",
     "Documents/ME623/ME623_parte10.pdf",
     "Documents/ME623/ME623_parte12a.pdf",
     "Meta/Link-tag/regression analysis.md",
