@@ -11,11 +11,9 @@
             "id": "fd9a00efb67e1760",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202406141313.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME623/ME623_parte14.pdf"
               }
             }
           },
@@ -23,9 +21,11 @@
             "id": "2f3022c7465c64e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ME623/ME623_parte13.pdf"
+                "file": "Notes/202406141554.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406141313.md",
+                "file": "Documents/ME623/ME623_parte14.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406141313.md",
+                "file": "Documents/ME623/ME623_parte14.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406141313.md"
+                "file": "Documents/ME623/ME623_parte14.pdf"
               }
             }
           },
@@ -167,6 +167,13 @@
   "active": "fd9a00efb67e1760",
   "lastOpenFiles": [
     "Documents/ME623/ME623_parte13.pdf",
+    "Documents/ME623/ME623_parte20.pdf",
+    "Documents/ME623/ME623_parte19.pdf",
+    "Documents/ME623/ME623_parte18.pdf",
+    "Documents/ME623/ME623_parte17.pdf",
+    "Documents/ME623/ME623_parte16.pdf",
+    "Documents/ME623/ME623_parte15.pdf",
+    "Documents/ME623/ME623_parte14.pdf",
     "Notes/202406141554.md",
     "Notes/202406141313.md",
     "Documents/ME623/ME623_parte12b.pdf",
@@ -176,7 +183,6 @@
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120923.md",
     "Notes/202406120830.md",
-    "Documents/ME623/ME623_parte11.pdf",
     "Notes/202406141226.md",
     "Notes/202406141257.md",
     "Notes/202406121009.md",
@@ -185,7 +191,6 @@
     "Notes/202406120807.md",
     "Notes/202406071555.md",
     "Notes/202406071501.md",
-    "Documents/ME623/ME623_Lista02.pdf",
     "Notes/202406071703.md",
     "Notes/202406080635.md",
     "Notes/202406081239.md",
@@ -193,12 +198,8 @@
     "Notes/202406110604.md",
     "Notes/202406111429.md",
     "Notes/202405170738.md",
-    "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/References/Applied Linear Regression.md",
-    "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202405291009.md",
     "Notes/202406030909.md",
     "Images/Pasted image 20240607113227.png",
