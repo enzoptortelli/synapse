@@ -13,43 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf"
-              }
-            }
-          },
-          {
-            "id": "e60e16a9c63ba518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071555.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6925b9e48f8a49ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406120807.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6327ca3079a5391e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406120830.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME623/ME623_parte10.pdf"
               }
             }
           },
@@ -64,24 +28,24 @@
             }
           },
           {
-            "id": "ff86e2c38a371f6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406120852.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c0bd97b00b7aca8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/202406120923.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "394fb48b3be5394a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406141207.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf",
+                "file": "Documents/ME623/ME623_parte10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf",
+                "file": "Documents/ME623/ME623_parte10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte12b.pdf"
+                "file": "Documents/ME623/ME623_parte10.pdf"
               }
             }
           },
@@ -224,15 +188,16 @@
   },
   "active": "80659a2b12577c4f",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte12a.pdf",
-    "Documents/ME623/ME623_parte11.pdf",
-    "Notes/202406120923.md",
-    "Notes/202406120807.md",
-    "Notes/202406071555.md",
-    "Notes/202406120830.md",
+    "Notes/202406141207.md",
     "Documents/ME623/ME623_parte10.pdf",
-    "Notes/202406120852.md",
+    "Documents/ME623/ME623_parte11.pdf",
+    "Documents/ME623/ME623_parte12a.pdf",
     "Documents/ME623/ME623_parte12b.pdf",
+    "Notes/202406120923.md",
+    "Notes/202406120852.md",
+    "Notes/202406120807.md",
+    "Notes/202406120830.md",
+    "Notes/202406071555.md",
     "Notes/202406071501.md",
     "Documents/ME623/ME623_Lista02.pdf",
     "Notes/202406071703.md",
