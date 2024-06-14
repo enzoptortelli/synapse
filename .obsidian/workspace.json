@@ -21,45 +21,9 @@
             "id": "a63c727095b16342",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406120923.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c0bd97b00b7aca8",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte11.pdf"
-              }
-            }
-          },
-          {
-            "id": "a320d1e3b7ce11d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406120830.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be5cdd9f6e0ce58f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406141226.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME623/ME623_parte12a.pdf"
               }
             }
           }
@@ -130,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406120923.md",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406120923.md",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406120923.md"
+                "file": "Documents/ME623/ME623_parte12a.pdf"
               }
             }
           },
@@ -201,14 +165,15 @@
   },
   "active": "a63c727095b16342",
   "lastOpenFiles": [
-    "Notes/202406121009.md",
-    "Notes/202406141207.md",
-    "Notes/202406141226.md",
-    "Documents/ME623/ME623_parte10.pdf",
-    "Documents/ME623/ME623_parte11.pdf",
-    "Notes/202406120830.md",
     "Notes/202406120923.md",
     "Documents/ME623/ME623_parte12a.pdf",
+    "Notes/202406120830.md",
+    "Documents/ME623/ME623_parte11.pdf",
+    "Notes/202406141226.md",
+    "Notes/202406141257.md",
+    "Notes/202406121009.md",
+    "Notes/202406141207.md",
+    "Documents/ME623/ME623_parte10.pdf",
     "Documents/ME623/ME623_parte12b.pdf",
     "Notes/202406120852.md",
     "Notes/202406120807.md",
@@ -234,9 +199,7 @@
     "Meta/Link-tag/linear regression.md",
     "Notes/202405180655.md",
     "Notes/202405190914.md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Meta/References/Statistical Inference.md",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
