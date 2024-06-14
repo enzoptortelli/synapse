@@ -171,16 +171,16 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "fd9a00efb67e1760",
   "lastOpenFiles": [
-    "Meta/Link-tag/regression analysis.md",
-    "Meta/Link-tag/linear regression.md",
     "Documents/ME623/ME623_parte12a.pdf",
     "Notes/202406141313.md",
+    "Meta/Link-tag/regression analysis.md",
+    "Meta/Link-tag/linear regression.md",
     "Notes/202406120923.md",
     "Notes/202406120830.md",
     "Documents/ME623/ME623_parte11.pdf",
