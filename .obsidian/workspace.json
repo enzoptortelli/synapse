@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406141313.md",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406141313.md",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406141313.md"
+                "file": "Documents/ME623/ME623_parte12a.pdf"
               }
             }
           },
@@ -175,10 +175,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd9a00efb67e1760",
+  "active": "a63c727095b16342",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte12a.pdf",
+    "Documents/ME623/ME623_parte10.pdf",
     "Notes/202406141313.md",
+    "Documents/ME623/ME623_parte12a.pdf",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120923.md",
@@ -188,7 +189,6 @@
     "Notes/202406141257.md",
     "Notes/202406121009.md",
     "Notes/202406141207.md",
-    "Documents/ME623/ME623_parte10.pdf",
     "Documents/ME623/ME623_parte12b.pdf",
     "Notes/202406120852.md",
     "Notes/202406120807.md",
