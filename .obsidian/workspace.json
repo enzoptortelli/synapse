@@ -11,9 +11,11 @@
             "id": "2f3022c7465c64e4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202406121010.excalidraw.md"
+                "file": "Notes/202406121009.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202406121010.excalidraw.md",
+                "file": "Notes/202406121009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202406121010.excalidraw.md",
+                "file": "Notes/202406121009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202406121010.excalidraw.md"
+                "file": "Notes/202406121009.md"
               }
             }
           },
@@ -154,6 +156,11 @@
   },
   "active": "2f3022c7465c64e4",
   "lastOpenFiles": [
+    "Images/202406121010.excalidraw.md",
+    "Images/Pasted Image 20240614172528_460.jpg",
+    "Images/Pasted Image 20240614172517_487.jpg",
+    "Images/Pasted Image 20240614172502_477.jpg",
+    "Images/Pasted Image 20240614172446_454.jpg",
     "Images/Pasted Image 20240614172301_404.jpg",
     "Images/Pasted Image 20240614172228_372.jpg",
     "Notes/202406121009.md",
@@ -162,7 +169,6 @@
     "Notes/202406141554.md",
     "Images/IMG_20240612_110459484.jpg",
     "Images/IMG_20240612_105002011.jpg",
-    "Images/202406121010.excalidraw.md",
     "Images/IMG_20240612_112937848.jpg",
     "Images/IMG_20240612_112932342.jpg",
     "Notes/202406141207.md",
@@ -194,11 +200,6 @@
     "Notes/202405170738.md",
     "Meta/References/Applied Linear Regression.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
-    "Notes/202405291009.md",
-    "Images/Pasted image 20240607113227.png",
-    "Images/Pasted image 20240607113201.png",
-    "Images/Pasted image 20240607084650.png",
-    "Images/Pasted image 20240522125319.png",
-    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg"
+    "Notes/202405291009.md"
   ]
 }
