@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9290b41f4ae48163",
+        "id": "64eaf9caab9122dc",
         "type": "tabs",
         "children": [
           {
-            "id": "2f3022c7465c64e4",
+            "id": "d5401a9e6a64518f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -154,7 +150,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2f3022c7465c64e4",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
     "Images/202406121010.excalidraw.md",
     "Images/Pasted Image 20240614172528_460.jpg",
