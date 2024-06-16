@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+                "file": "Notes/202406160716.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+                "file": "Notes/202406160716.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+                "file": "Notes/202406160716.md"
               }
             }
           },
@@ -165,10 +164,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6009a5110656b727",
+  "active": "d5401a9e6a64518f",
   "lastOpenFiles": [
-    "Notes/202406160716.md",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Notes/202406160716.md",
     "Images/202406121010.excalidraw.md",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
