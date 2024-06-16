@@ -11,11 +11,26 @@
             "id": "d5401a9e6a64518f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406160716.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6009a5110656b727",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406121009.md",
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406121009.md",
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406121009.md"
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
               }
             }
           },
@@ -150,8 +165,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "6009a5110656b727",
   "lastOpenFiles": [
+    "Notes/202406160716.md",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Images/202406121010.excalidraw.md",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
@@ -178,7 +195,6 @@
     "Documents/ME623/ME623_parte15.pdf",
     "Notes/202406141313.md",
     "Documents/ME623/ME623_parte12b.pdf",
-    "Documents/ME623/ME623_parte10.pdf",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
@@ -195,7 +211,6 @@
     "Notes/202406111429.md",
     "Notes/202405170738.md",
     "Meta/References/Applied Linear Regression.md",
-    "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
-    "Notes/202405291009.md"
+    "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md"
   ]
 }
