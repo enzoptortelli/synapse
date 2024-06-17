@@ -13,7 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte15.pdf"
+                "file": "Documents/ME623/ME623_parte16.pdf"
+              }
+            }
+          },
+          {
+            "id": "e46bb0bfb83e5097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406171626.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte15.pdf",
+                "file": "Documents/ME623/ME623_parte16.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte15.pdf",
+                "file": "Documents/ME623/ME623_parte16.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte15.pdf"
+                "file": "Documents/ME623/ME623_parte16.pdf"
               }
             }
           },
@@ -154,6 +166,8 @@
   },
   "active": "c538088857e34fc4",
   "lastOpenFiles": [
+    "Documents/ME623/ME623_parte15.pdf",
+    "Notes/202406171626.md",
     "Documents/ME623/ME623_parte14.pdf",
     "Images/202406171234.excalidraw.md",
     "Images/~syncthing~202406110605.excalidraw.md.tmp",
@@ -184,7 +198,6 @@
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte18.pdf",
-    "Documents/ME623/ME623_parte17.pdf",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
@@ -197,7 +210,6 @@
     "Notes/202406080635.md",
     "Notes/202406081239.md",
     "Notes/202406100932.md",
-    "Notes/202406110604.md",
-    "Notes/202406111429.md"
+    "Notes/202406110604.md"
   ]
 }
