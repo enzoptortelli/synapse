@@ -4,57 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "157b6bc79f9ff9c9",
+        "id": "1afb5ef0f73fe956",
         "type": "tabs",
         "children": [
           {
-            "id": "7e2703cbad442125",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/References/Introdução à Inferência Estatística.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb7596a7fbcbe82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406110604.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31b131d0170420eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406110605.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "75743fd79b06f2a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fa3cec1c033f073",
+            "id": "867e8f90f2dd201f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -63,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +42,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -185,13 +138,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8fa3cec1c033f073",
+  "active": "867e8f90f2dd201f",
   "lastOpenFiles": [
-    "Notes/202406121009.md",
+    "Notes/teste.md",
     "Images/202406121010.excalidraw.md",
+    "Notes/202406160716.md",
+    "Images/202406171011.excalidraw.md",
+    "Images/202406171234.excalidraw.md",
+    "Documents/ME623/ME623_parte16.pdf",
+    "Documents/ME623/ME623_parte15.pdf",
+    "Documents/ME623/ME623_parte19.pdf",
+    "Documents/ME623/ME623_parte18.pdf",
+    "Documents/ME623/ME623_parte17.pdf",
+    "Documents/ME623/ME623_parte14.pdf",
+    "Documents/ME623/ME623_parte13.pdf",
+    "Notes/202406171010.md",
+    "Notes/202406121009.md",
+    "Notes/202406141207.md",
+    "Notes/202406141226.md",
+    "Notes/202406141313.md",
+    "Notes/202405172222.md",
+    "Meta/References/Introdução à Inferência Estatística.md",
     "Images/202406110605.excalidraw.md",
     "Notes/202406110604.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
     "Notes/202406120852.md",
     "Notes/202406120923.md",
     "Notes/202406120807.md",
@@ -204,28 +173,12 @@
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Meta/References/Statistical Inference.md",
-    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Notes/202406080657.md",
     "Notes/202406100932.md",
     "Notes/202406081239.md",
-    "Images/202406101008.excalidraw.md",
-    "Meta/Link-tag/non-linear systems.md",
-    "Notes/202405210839.md",
-    "Meta/Link-tag/eigenpair.md",
-    "Meta/tags.md",
-    "Notes/202406101256.md",
-    "Notes/202406051010.md",
-    "Meta/Templates/Class Notes.md",
-    "Meta/Templates/Mathematic Theorem.md",
-    "Documents/ME623/ME623_parte09.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Documents/ME623/ME623_parte10.pdf",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
-    "Documents/ME623/ME623_parte08.pdf",
-    "Documents/ME623/ME623_parte05.pdf",
-    "Documents/ME623/ME623_parte06.pdf",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "Images/202405301912.excalidraw.png",

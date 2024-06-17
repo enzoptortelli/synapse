@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64eaf9caab9122dc",
+        "id": "e89720af41ef194d",
         "type": "tabs",
         "children": [
           {
-            "id": "d5401a9e6a64518f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406160716.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6009a5110656b727",
+            "id": "c538088857e34fc4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+                "file": "Documents/ME623/ME623_parte15.pdf"
               }
             }
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406160716.md",
+                "file": "Documents/ME623/ME623_parte15.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406160716.md",
+                "file": "Documents/ME623/ME623_parte15.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406160716.md"
+                "file": "Documents/ME623/ME623_parte15.pdf"
               }
             }
           },
@@ -164,11 +152,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d5401a9e6a64518f",
+  "active": "c538088857e34fc4",
   "lastOpenFiles": [
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Notes/202406160716.md",
+    "Documents/ME623/ME623_parte14.pdf",
+    "Images/202406171234.excalidraw.md",
+    "Images/~syncthing~202406110605.excalidraw.md.tmp",
+    "Images/~syncthing~202406121010.excalidraw.md.tmp",
+    "Images/~syncthing~202406171234.excalidraw.md.tmp",
+    "Notes/teste.md",
     "Images/202406121010.excalidraw.md",
+    "Notes/202406160716.md",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Images/202406110605.excalidraw.md",
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
+    "Notes/202406141554.md",
+    "Notes/202406141313.md",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
     "Images/Pasted Image 20240614172502_477.jpg",
@@ -178,22 +176,15 @@
     "Notes/202406121009.md",
     "Notes/202406120923.md",
     "Notes/202406141226.md",
-    "Notes/202406141554.md",
     "Images/IMG_20240612_110459484.jpg",
     "Images/IMG_20240612_105002011.jpg",
     "Images/IMG_20240612_112937848.jpg",
-    "Images/IMG_20240612_112932342.jpg",
     "Notes/202406141207.md",
-    "Documents/ME623/ME623_parte14.pdf",
     "Documents/ME623/ME623_parte13.pdf",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte18.pdf",
     "Documents/ME623/ME623_parte17.pdf",
-    "Documents/ME623/ME623_parte16.pdf",
-    "Documents/ME623/ME623_parte15.pdf",
-    "Notes/202406141313.md",
-    "Documents/ME623/ME623_parte12b.pdf",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
@@ -207,9 +198,6 @@
     "Notes/202406081239.md",
     "Notes/202406100932.md",
     "Notes/202406110604.md",
-    "Notes/202406111429.md",
-    "Notes/202405170738.md",
-    "Meta/References/Applied Linear Regression.md",
-    "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md"
+    "Notes/202406111429.md"
   ]
 }
