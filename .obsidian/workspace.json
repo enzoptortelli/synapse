@@ -11,9 +11,9 @@
             "id": "c538088857e34fc4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf"
+                "file": "Images/202406101008.excalidraw.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf",
+                "file": "Images/202406101008.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf",
+                "file": "Images/202406101008.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf"
+                "file": "Images/202406101008.excalidraw.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "c538088857e34fc4",
   "lastOpenFiles": [
+    "Images/202406101008.excalidraw.png",
+    "Documents/ME623/ME623_parte17.pdf",
     "Documents/ME623/ME623_parte16.pdf",
     "Notes/202406171645.md",
     "Notes/202406171626.md",
@@ -223,7 +225,6 @@
     "Notes/202406141207.md",
     "Documents/ME623/ME623_parte13.pdf",
     "Documents/ME623/ME623_parte20.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
