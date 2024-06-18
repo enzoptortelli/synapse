@@ -83,7 +83,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf"
+                "file": "Documents/ME623/ME623_Lista02.pdf"
               }
             }
           },
@@ -218,11 +219,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c538088857e34fc4",
+  "active": "2efc47df39aaef2e",
   "lastOpenFiles": [
     "Images/~syncthing~202406181014.excalidraw.md.tmp",
-    "Documents/ME623/ME623_Lista02.pdf",
     "Documents/ME623/ME623_parte10.pdf",
+    "Documents/ME623/ME623_Lista02.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_parte13.pdf",
     "Documents/ME623/ME623_parte22.pdf",
