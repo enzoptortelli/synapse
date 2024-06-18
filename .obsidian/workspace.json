@@ -13,17 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte21.pdf"
-              }
-            }
-          },
-          {
-            "id": "5fd91a2f04a13fd9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME623/ME623_parte15.pdf"
+                "file": "Documents/ME623/ME623_parte13.pdf"
               }
             }
           },
@@ -94,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,23 +221,24 @@
   },
   "active": "2efc47df39aaef2e",
   "lastOpenFiles": [
-    "Images/~syncthing~202406181014.excalidraw.md.tmp",
     "Documents/ME623/ME623_parte22.pdf",
+    "Notes/202406181013.md",
+    "Documents/ME623/ME623_parte13.pdf",
+    "Images/~syncthing~202406181014.excalidraw.md.tmp",
+    "Documents/ME623/ME623_Lista02.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+    "Documents/ME623/ME623_parte09.pdf",
+    "Documents/ME623/ME623_parte12a.pdf",
+    "Documents/ME623/ME623_parte11.pdf",
+    "Documents/ME623/ME623_parte10.pdf",
+    "Documents/ME623/ME623_parte21.pdf",
+    "Meta/References/ME623 (parte 10).md",
     "Images/202406181014.excalidraw.md",
-    "Notes/~syncthing~202406181013.md.tmp",
     "Notes/202406180803.md",
     "Notes/202406180837.md",
-    "Notes/202406181013.md",
-    "Documents/ME623/ME623_Lista02.pdf",
     "Meta/References/ME623 (lista 2).md",
     "Notes/202406071131.md",
-    "Documents/ME623/ME623_parte21.pdf",
-    "Documents/ME623/ME623_parte15.pdf",
     "Notes/202406141226.md",
-    "Documents/ME623/ME623_parte14.pdf",
-    "Documents/ME623/ME623_parte13.pdf",
-    "Documents/ME623/ME623_parte12b.pdf",
     "Meta/References/ME623 (parte 22).md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
@@ -274,7 +265,6 @@
     "Images/Pasted Image 20240614172502_477.jpg",
     "Images/Pasted Image 20240614172446_454.jpg",
     "Images/Pasted Image 20240614172301_404.jpg",
-    "Images/Pasted Image 20240614172228_372.jpg",
-    "Notes/202406120923.md"
+    "Images/Pasted Image 20240614172228_372.jpg"
   ]
 }
