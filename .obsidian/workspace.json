@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte12a.pdf"
+                "file": "Documents/ME623/ME623_parte13.pdf"
               }
             }
           },
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte12a.pdf",
+                "file": "Documents/ME623/ME623_parte13.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte12a.pdf",
+                "file": "Documents/ME623/ME623_parte13.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte12a.pdf"
+                "file": "Documents/ME623/ME623_parte13.pdf"
               }
             }
           },
@@ -244,10 +244,13 @@
   },
   "active": "c538088857e34fc4",
   "lastOpenFiles": [
+    "Images/~syncthing~202406181014.excalidraw.md.tmp",
+    "Documents/ME623/ME623_parte12b.pdf",
+    "Meta/References/ME623 (parte 12b).md",
+    "Documents/ME623/ME623_parte12a.pdf",
     "Notes/202406141226.md",
     "Notes/202406181520.md",
     "Notes/202406181525.md",
-    "Documents/ME623/ME623_parte12a.pdf",
     "Notes/202406141313.md",
     "Documents/ME623/ME623_Lista02.pdf",
     "Documents/ME623/ME623_parte22.pdf",
@@ -257,7 +260,6 @@
     "Notes/202406181013.md",
     "Documents/ME623/ME623_parte11.pdf",
     "Documents/ME623/ME623_parte10.pdf",
-    "Images/~syncthing~202406181014.excalidraw.md.tmp",
     "Documents/ME623/ME623_parte13.pdf",
     "Documents/ME623/ME623_parte09.pdf",
     "Documents/ME623/ME623_parte21.pdf",
@@ -282,8 +284,6 @@
     "Images/202406101008.excalidraw.png",
     "Notes/202406171645.md",
     "Images/202406171234.excalidraw.md",
-    "Notes/teste.md",
-    "Images/202406121010.excalidraw.md",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
     "Images/Pasted Image 20240614172502_477.jpg",

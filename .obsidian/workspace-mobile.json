@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406181013.md",
+                "file": "Notes/202406071131.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406181014.excalidraw.md",
+            "file": "Notes/202406071131.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406181014.excalidraw.md",
+            "file": "Notes/202406071131.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406181014.excalidraw.md"
+            "file": "Notes/202406071131.md"
           }
         }
       },
@@ -151,10 +150,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8462c64dbbb2c08f",
+  "active": "885e58aadea1155e",
   "lastOpenFiles": [
     "Notes/202406181013.md",
     "Images/202406181014.excalidraw.md",
+    "Notes/202406181525.md",
+    "Notes/202406181520.md",
     "Images/202406121010.excalidraw.md",
     "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte21.pdf",
@@ -187,8 +188,6 @@
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Meta/References/Applied Linear Regression.md",
     "Meta/Link-tag/linear regression.md",
-    "Notes/202406111429.md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
