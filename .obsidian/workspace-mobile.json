@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1afb5ef0f73fe956",
+        "id": "9a9f50e01706a802",
         "type": "tabs",
         "children": [
           {
-            "id": "867e8f90f2dd201f",
+            "id": "885e58aadea1155e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406121010.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406121010.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406121010.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202406121010.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -138,12 +132,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "867e8f90f2dd201f",
+  "active": "885e58aadea1155e",
   "lastOpenFiles": [
+    "Images/202406121010.excalidraw.md",
+    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/ME623/ME623_parte21.pdf",
     "Notes/202406171645.md",
     "Notes/202406171626.md",
     "Notes/teste.md",
-    "Images/202406121010.excalidraw.md",
     "Notes/202406160716.md",
     "Images/202406171011.excalidraw.md",
     "Images/202406171234.excalidraw.md",
@@ -169,13 +165,10 @@
     "Notes/202406120830.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Meta/References/Applied Linear Regression.md",
-    "Documents/ALSM_5Ed_Kutner.pdf",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406111429.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Meta/References/Statistical Inference.md",
-    "Notes/202406080657.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",

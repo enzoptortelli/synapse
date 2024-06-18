@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte18.pdf"
+                "file": "Documents/ME623/ME623_parte20.pdf"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte18.pdf",
+                "file": "Documents/ME623/ME623_parte20.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte18.pdf",
+                "file": "Documents/ME623/ME623_parte20.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte18.pdf"
+                "file": "Documents/ME623/ME623_parte20.pdf"
               }
             }
           },
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,13 +190,13 @@
   },
   "active": "c538088857e34fc4",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte17.pdf",
-    "Documents/ME623/ME623_parte18.pdf",
-    "Documents/ME623/ME623_parte16.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
-    "Documents/ME623/ME623_parte20.pdf",
-    "Documents/ME623/ME623_parte21.pdf",
     "Documents/ME623/ME623_parte22.pdf",
+    "Documents/ME623/ME623_parte21.pdf",
+    "Documents/ME623/ME623_parte20.pdf",
+    "Documents/ME623/ME623_parte19.pdf",
+    "Documents/ME623/ME623_parte18.pdf",
+    "Documents/ME623/ME623_parte17.pdf",
+    "Documents/ME623/ME623_parte16.pdf",
     "Notes/202406171626.md",
     "Notes/202406160716.md",
     "Notes/202406141554.md",
