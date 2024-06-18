@@ -11,11 +11,26 @@
             "id": "885e58aadea1155e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406181013.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8462c64dbbb2c08f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406181014.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/202406181014.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/202406181014.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/202406181014.excalidraw.md"
+          }
         }
       },
       {
@@ -132,8 +151,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "885e58aadea1155e",
+  "active": "8462c64dbbb2c08f",
   "lastOpenFiles": [
+    "Notes/202406181013.md",
+    "Images/202406181014.excalidraw.md",
     "Images/202406121010.excalidraw.md",
     "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte21.pdf",
@@ -168,7 +189,6 @@
     "Meta/Link-tag/linear regression.md",
     "Notes/202406111429.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
-    "Meta/References/Statistical Inference.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
