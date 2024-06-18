@@ -23,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte20.pdf"
+                "file": "Documents/ME623/ME623_parte22.pdf"
               }
             }
           },
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406180803.md",
+                "file": "Documents/ME623/ME623_parte21.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406180803.md",
+                "file": "Documents/ME623/ME623_parte21.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406180803.md"
+                "file": "Documents/ME623/ME623_parte21.pdf"
               }
             }
           },
@@ -185,11 +184,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d01a4a9f79831797",
+  "active": "c538088857e34fc4",
   "lastOpenFiles": [
     "Notes/202406180803.md",
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
+    "Images/Pasted image 20240618082934.png",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_parte21.pdf",
+    "Documents/ME623/ME623_parte22.pdf",
+    "Images/Pasted image 20240618083017.png",
     "Documents/ME623/ME623_parte20.pdf",
     "Meta/References/ME623 (parte 22).md",
     "Meta/References/ME623 (parte 19) 1 1 1.md",
@@ -199,7 +202,6 @@
     "Meta/References/Design and Analysis of Experiments.md",
     "Notes/202406070839.md",
     "Notes/202406171626.md",
-    "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte18.pdf",
     "Documents/ME623/ME623_parte17.pdf",
@@ -217,7 +219,6 @@
     "Notes/teste.md",
     "Images/202406121010.excalidraw.md",
     "Images/202406110605.excalidraw.md",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
     "Images/Pasted Image 20240614172502_477.jpg",
@@ -225,13 +226,10 @@
     "Images/Pasted Image 20240614172301_404.jpg",
     "Images/Pasted Image 20240614172228_372.jpg",
     "Notes/202406120923.md",
-    "Images/IMG_20240612_110459484.jpg",
-    "Images/IMG_20240612_105002011.jpg",
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
     "Notes/202406141257.md",
-    "Notes/202406120852.md",
-    "Notes/202406120807.md"
+    "Notes/202406120852.md"
   ]
 }
