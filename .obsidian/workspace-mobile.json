@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "b14a4ba4d89e8b3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406181530.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "8462c64dbbb2c08f",
             "type": "leaf",
             "state": {
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406071131.md",
+            "file": "Images/202406181530.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406071131.md",
+            "file": "Images/202406181530.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406071131.md"
+            "file": "Images/202406181530.excalidraw.md"
           }
         }
       },
@@ -150,8 +161,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "885e58aadea1155e",
+  "active": "b14a4ba4d89e8b3b",
   "lastOpenFiles": [
+    "Notes/202406071131.md",
+    "Images/202406181530.excalidraw.md",
     "Notes/202406181013.md",
     "Images/202406181014.excalidraw.md",
     "Notes/202406181525.md",
@@ -186,8 +199,6 @@
     "Notes/202406120807.md",
     "Notes/202406120830.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
-    "Meta/References/Applied Linear Regression.md",
-    "Meta/Link-tag/linear regression.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
