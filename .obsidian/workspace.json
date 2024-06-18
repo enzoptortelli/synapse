@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte21.pdf"
+                "file": "Documents/ME623/ME623_parte22.pdf"
               }
             }
           },
@@ -48,8 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c78761b225901f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406180837.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte21.pdf",
+                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte21.pdf",
+                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte21.pdf"
+                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf"
               }
             }
           },
@@ -184,17 +197,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c538088857e34fc4",
+  "active": "f74aeb083672a5e2",
   "lastOpenFiles": [
+    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Notes/202406180803.md",
+    "Notes/202406180837.md",
+    "Documents/ME623/ME623_parte21.pdf",
+    "Meta/References/ME623 (parte 22).md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
-    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
-    "Documents/ME623/ME623_parte21.pdf",
-    "Documents/ME623/ME623_parte22.pdf",
     "Images/Pasted image 20240618083017.png",
     "Documents/ME623/ME623_parte20.pdf",
-    "Meta/References/ME623 (parte 22).md",
     "Meta/References/ME623 (parte 19) 1 1 1.md",
     "Meta/References/ME623 (parte 21).md",
     "Documents/ME623/ME623_parte16 1 1.pdf",
@@ -229,7 +243,6 @@
     "Meta/Link-tag/regression analysis.md",
     "Meta/Link-tag/linear regression.md",
     "Notes/202406120830.md",
-    "Notes/202406141257.md",
-    "Notes/202406120852.md"
+    "Notes/202406141257.md"
   ]
 }
