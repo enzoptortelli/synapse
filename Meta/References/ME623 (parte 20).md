@@ -3,11 +3,11 @@ tags:
   - slides
 link-tags: "[[design-of-experiments]]"
 ---
-**Title**: ME623 (parte 19)
+**Title**: ME623 (parte 20)
 **Author(s)**: Tatiana Benaglia
 **Edition**: First
 **Date of publication**: 2024
 
-**Link**: [[ME623_parte19.pdf]]
+**Link**: [[ME623_parte20.pdf]]
 
 
