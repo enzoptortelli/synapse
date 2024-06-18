@@ -13,7 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME623/ME623_parte10.pdf"
+                "file": "Documents/ME623/ME623_parte12a.pdf"
+              }
+            }
+          },
+          {
+            "id": "3bf9fcd3131745c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406141313.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -82,9 +94,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53e7d861c198d999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406141226.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_Lista02.pdf",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_Lista02.pdf",
+                "file": "Documents/ME623/ME623_parte12a.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_Lista02.pdf"
+                "file": "Documents/ME623/ME623_parte12a.pdf"
               }
             }
           },
@@ -219,26 +242,28 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2efc47df39aaef2e",
+  "active": "c538088857e34fc4",
   "lastOpenFiles": [
+    "Notes/202406141313.md",
+    "Notes/202406141226.md",
+    "Notes/202406181520.md",
+    "Documents/ME623/ME623_parte12a.pdf",
+    "Documents/ME623/ME623_Lista02.pdf",
+    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+    "Notes/202406180803.md",
+    "Notes/202406180837.md",
+    "Notes/202406181013.md",
+    "Documents/ME623/ME623_parte11.pdf",
     "Documents/ME623/ME623_parte10.pdf",
     "Images/~syncthing~202406181014.excalidraw.md.tmp",
-    "Documents/ME623/ME623_Lista02.pdf",
-    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_parte13.pdf",
-    "Documents/ME623/ME623_parte22.pdf",
-    "Notes/202406181013.md",
     "Documents/ME623/ME623_parte09.pdf",
-    "Documents/ME623/ME623_parte12a.pdf",
-    "Documents/ME623/ME623_parte11.pdf",
     "Documents/ME623/ME623_parte21.pdf",
     "Meta/References/ME623 (parte 10).md",
     "Images/202406181014.excalidraw.md",
-    "Notes/202406180803.md",
-    "Notes/202406180837.md",
     "Meta/References/ME623 (lista 2).md",
     "Notes/202406071131.md",
-    "Notes/202406141226.md",
     "Meta/References/ME623 (parte 22).md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
@@ -250,7 +275,6 @@
     "Notes/202406171626.md",
     "Notes/202406160716.md",
     "Notes/202406141554.md",
-    "Notes/202406141313.md",
     "Notes/202406141207.md",
     "Notes/202406121009.md",
     "Images/202406101008.excalidraw.md",
@@ -259,7 +283,6 @@
     "Images/202406171234.excalidraw.md",
     "Notes/teste.md",
     "Images/202406121010.excalidraw.md",
-    "Images/202406110605.excalidraw.md",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
     "Images/Pasted Image 20240614172502_477.jpg",
