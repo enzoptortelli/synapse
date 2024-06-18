@@ -10,4 +10,8 @@ link-tags: "[[design-of-experiments]]"
 
 **Link**: [[ME623_parte15.pdf]]
 
+**Correção**:
+No slide 15, há um erro nos graus de liberdade da SQE. O valor correto é dado por:
+![[202406181728.excalidraw]]
+
 
