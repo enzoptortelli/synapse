@@ -11,11 +11,26 @@
             "id": "3d4a93c0390360ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406190750.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a871e2e760b3d3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406190750.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/202406190750.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/202406190750.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/202406190750.excalidraw.md"
+          }
         }
       },
       {
@@ -132,8 +151,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d4a93c0390360ca",
+  "active": "0a871e2e760b3d3a",
   "lastOpenFiles": [
+    "Notes/202406190750.md",
+    "Images/202406190750.excalidraw.md",
     "Notes/202406181013.md",
     "Notes/202406181520.md",
     "Notes/202406181525.md",
@@ -167,8 +188,6 @@
     "Notes/202406141226.md",
     "Notes/202406141313.md",
     "Notes/202405172222.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
-    "Images/202406110605.excalidraw.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
