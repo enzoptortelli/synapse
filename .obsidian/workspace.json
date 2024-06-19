@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf"
+                "file": "Documents/ME623/ME623_Lista02.pdf"
               }
             }
           },
@@ -264,15 +264,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f74aeb083672a5e2",
+  "active": "2efc47df39aaef2e",
   "lastOpenFiles": [
     "Images/~syncthing~202406190940.excalidraw.md.tmp",
+    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Images/202406190940.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Notes/202406190939.md",
     "Notes/~syncthing~202406190939.md.tmp",
-    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_Lista02.pdf",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte19.pdf",
