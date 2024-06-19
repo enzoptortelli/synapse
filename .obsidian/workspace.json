@@ -8,6 +8,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fca86be080d52db5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte09.pdf"
+              }
+            }
+          },
+          {
             "id": "59cd6659f94a0a2b",
             "type": "leaf",
             "state": {
@@ -88,6 +98,16 @@
             }
           },
           {
+            "id": "4e1ca2c8428c70c8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte22.pdf"
+              }
+            }
+          },
+          {
             "id": "2efc47df39aaef2e",
             "type": "leaf",
             "state": {
@@ -108,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -174,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf",
+                "file": "Documents/ME623/ME623_Lista02.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte17.pdf"
+                "file": "Documents/ME623/ME623_Lista02.pdf"
               }
             }
           },
@@ -243,25 +263,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cd7ea6a84adce9a9",
+  "active": "2efc47df39aaef2e",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte16.pdf",
-    "Documents/ME623/ME623_parte15.pdf",
+    "Images/~syncthing~202406181014.excalidraw.md.tmp",
+    "Documents/ME623/ME623_parte09.pdf",
+    "Documents/ME623/ME623_parte10.pdf",
     "Documents/ME623/ME623_parte14.pdf",
+    "Documents/ME623/ME623_parte15.pdf",
+    "Documents/ME623/ME623_parte16.pdf",
     "Documents/ME623/ME623_parte17.pdf",
-    "Documents/ME623/ME623_parte18.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
-    "Documents/ME623/ME623_parte20.pdf",
-    "Documents/ME623/ME623_parte21.pdf",
     "Documents/ME623/ME623_parte22.pdf",
+    "Documents/ME623/ME623_parte21.pdf",
+    "Documents/ME623/ME623_Lista02.pdf",
+    "Documents/ME623/ME623_parte18.pdf",
     "Notes/202406181013.md",
     "Meta/References/ME623 (parte 20).md",
     "Meta/References/ME623 (parte 18).md",
     "Meta/References/ME623 (parte 19).md",
     "Meta/References/ME623 (parte 15).md",
     "Images/202406181728.excalidraw.md",
-    "Documents/ME623/ME623_Lista02.pdf",
-    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Notes/202406181737.md",
     "Notes/202406181736.md",
     "Notes/202406141226.md",
