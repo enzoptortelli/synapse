@@ -8,39 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "885e58aadea1155e",
+            "id": "06a83ca159939a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406071131.md",
+                "file": "Notes/202406190654.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b14a4ba4d89e8b3b",
+            "id": "9bb46453e578295a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406181530.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8462c64dbbb2c08f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406181014.excalidraw.md"
+                "file": "Images/202406190654.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406181014.excalidraw.md",
+            "file": "Images/202406190654.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406181014.excalidraw.md",
+            "file": "Images/202406190654.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406181014.excalidraw.md"
+            "file": "Images/202406190654.excalidraw.md"
           }
         }
       },
@@ -161,15 +151,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8462c64dbbb2c08f",
+  "active": "9bb46453e578295a",
   "lastOpenFiles": [
+    "Notes/202406190654.md",
+    "Images/202406190654.excalidraw.md",
+    "Images/202406181014.excalidraw.md",
+    "Images/202406181530.excalidraw.md",
+    "Notes/202406071131.md",
     "Images/202406181728.excalidraw.md",
     "Meta/References/ME623 (parte 20).md",
     "Notes/202406181736.md",
-    "Images/202406181530.excalidraw.md",
-    "Notes/202406071131.md",
     "Notes/202406181013.md",
-    "Images/202406181014.excalidraw.md",
     "Notes/202406181525.md",
     "Notes/202406181520.md",
     "Images/202406121010.excalidraw.md",
@@ -196,8 +188,6 @@
     "Notes/202405172222.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Images/202406110605.excalidraw.md",
-    "Notes/202406110604.md",
-    "Notes/202406120852.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
