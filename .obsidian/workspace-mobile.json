@@ -11,11 +11,9 @@
             "id": "3d4a93c0390360ca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202406190750.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202406190940.excalidraw.md"
               }
             }
           },
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +81,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -96,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406190750.excalidraw.md",
+            "file": "Images/202406190940.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406190750.excalidraw.md",
+            "file": "Images/202406190940.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406190750.excalidraw.md"
+            "file": "Images/202406190940.excalidraw.md"
           }
         }
       },
@@ -151,8 +148,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a871e2e760b3d3a",
+  "active": "3d4a93c0390360ca",
   "lastOpenFiles": [
+    "Notes/202406190939.md",
+    "Images/Pasted Image 20240619094152_848.png",
+    "Images/Pasted Image 20240619094035_679.png",
+    "Images/202406190940.excalidraw.md",
     "Notes/202406190750.md",
     "Images/202406190750.excalidraw.md",
     "Notes/202406181013.md",
@@ -185,9 +186,6 @@
     "Notes/202406171010.md",
     "Notes/202406121009.md",
     "Notes/202406141207.md",
-    "Notes/202406141226.md",
-    "Notes/202406141313.md",
-    "Notes/202405172222.md",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240607113227.png",
@@ -196,8 +194,6 @@
     "Images/Pasted image 20240522125319.png",
     "Images/202405301912.excalidraw.png",
     "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
-    "27r5gv5zjog31.png",
-    "the_one_ring.png",
-    "Images/Pasted image 20240517223348.png"
+    "27r5gv5zjog31.png"
   ]
 }
