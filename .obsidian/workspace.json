@@ -88,16 +88,6 @@
             }
           },
           {
-            "id": "c971edded73269dc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME623/ME623_parte22.pdf"
-              }
-            }
-          },
-          {
             "id": "2efc47df39aaef2e",
             "type": "leaf",
             "state": {
@@ -118,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte20.pdf",
+                "file": "Documents/ME623/ME623_parte17.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte20.pdf",
+                "file": "Documents/ME623/ME623_parte17.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte20.pdf"
+                "file": "Documents/ME623/ME623_parte17.pdf"
               }
             }
           },
@@ -253,26 +243,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c538088857e34fc4",
+  "active": "cd7ea6a84adce9a9",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/ME623/ME623_parte16.pdf",
+    "Documents/ME623/ME623_parte15.pdf",
+    "Documents/ME623/ME623_parte14.pdf",
+    "Documents/ME623/ME623_parte17.pdf",
+    "Documents/ME623/ME623_parte18.pdf",
+    "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte21.pdf",
+    "Documents/ME623/ME623_parte22.pdf",
     "Notes/202406181013.md",
     "Meta/References/ME623 (parte 20).md",
     "Meta/References/ME623 (parte 18).md",
     "Meta/References/ME623 (parte 19).md",
-    "Documents/ME623/ME623_parte19.pdf",
-    "Documents/ME623/ME623_parte18.pdf",
-    "Documents/ME623/ME623_parte15.pdf",
     "Meta/References/ME623 (parte 15).md",
     "Images/202406181728.excalidraw.md",
-    "Documents/ME623/ME623_parte14.pdf",
     "Documents/ME623/ME623_Lista02.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Notes/202406181737.md",
     "Notes/202406181736.md",
-    "Images/~syncthing~202406181728.excalidraw.md.tmp",
     "Notes/202406141226.md",
     "Images/202406181014.excalidraw.md",
     "Notes/202406180837.md",
