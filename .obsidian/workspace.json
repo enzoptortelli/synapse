@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b523c7a62fb72db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME623/ME623_parte22.pdf"
-              }
-            }
-          },
-          {
             "id": "b8c5c432a122b4b7",
             "type": "leaf",
             "state": {
@@ -29,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,13 +157,13 @@
   },
   "active": "b8c5c432a122b4b7",
   "lastOpenFiles": [
-    "Meta/Link-tag/conditional probability.md",
+    "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte22.pdf",
     "Notes/202406201526.md",
+    "Meta/Link-tag/conditional probability.md",
     "Images/~syncthing~202406201435.excalidraw.md.tmp",
     "Images/202406201435.excalidraw.md",
     "Documents/ME623/ME623_parte21.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202406171626.md",
