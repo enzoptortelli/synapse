@@ -16,8 +16,21 @@
                 "file": "Documents/ME623/ME623_parte22.pdf"
               }
             }
+          },
+          {
+            "id": "b8c5c432a122b4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406201526.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME623/ME623_parte22.pdf",
+                "file": "Notes/202406201526.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME623/ME623_parte22.pdf",
+                "file": "Notes/202406201526.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME623/ME623_parte22.pdf"
+                "file": "Notes/202406201526.md"
               }
             }
           },
@@ -153,8 +166,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8b523c7a62fb72db",
+  "active": "b8c5c432a122b4b7",
   "lastOpenFiles": [
+    "Notes/202406201526.md",
+    "Documents/ME623/ME623_parte22.pdf",
     "Images/~syncthing~202406201435.excalidraw.md.tmp",
     "Images/202406201435.excalidraw.md",
     "Documents/ME623/ME623_parte21.pdf",
@@ -163,7 +178,6 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202406171626.md",
     "Documents/ME623/ME623_Lista02.pdf",
-    "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/ME623/ME623_parte18.pdf",
     "Documents/ME623/ME623_parte17.pdf",
