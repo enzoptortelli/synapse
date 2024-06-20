@@ -18,27 +18,17 @@
             }
           },
           {
-            "id": "0a871e2e760b3d3a",
+            "id": "a483c9937bb9148c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406190750.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "127e4b5df8bff3a5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406191013.excalidraw.md"
+                "file": "Images/202406201435.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406191013.excalidraw.md",
+            "file": "Images/202406201435.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406191013.excalidraw.md",
+            "file": "Images/202406201435.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -133,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406191013.excalidraw.md"
+            "file": "Images/202406201435.excalidraw.md"
           }
         }
       },
@@ -159,15 +149,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "127e4b5df8bff3a5",
+  "active": "a483c9937bb9148c",
   "lastOpenFiles": [
-    "Notes/202406191013.md",
+    "Images/202406201435.excalidraw.md",
+    "Images/202406190940.excalidraw.md",
+    "Images/202406190750.excalidraw.md",
+    "Notes/202406190750.md",
     "Images/202406191013.excalidraw.md",
+    "Notes/202406191013.md",
     "Meta/References/ME623 (lista 2).md",
     "Notes/202406071131.md",
     "Notes/202406181013.md",
     "Images/202406181014.excalidraw.md",
-    "Images/202406190940.excalidraw.md",
     "Images/202406181530.excalidraw.md",
     "Notes/202405172211.md",
     "Images/202405172240.excalidraw.md",
@@ -175,8 +168,6 @@
     "Notes/202406190939.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
-    "Notes/202406190750.md",
-    "Images/202406190750.excalidraw.md",
     "Notes/202406181520.md",
     "Notes/202406181525.md",
     "Notes/202406190654.md",
@@ -190,7 +181,6 @@
     "Notes/202406171645.md",
     "Notes/202406171626.md",
     "Notes/teste.md",
-    "Notes/202406160716.md",
     "Documents/ME623/ME623_parte16.pdf",
     "Documents/ME623/ME623_parte15.pdf",
     "Documents/ME623/ME623_parte19.pdf",

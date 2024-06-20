@@ -11,8 +11,10 @@
             "id": "8b523c7a62fb72db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME623/ME623_parte22.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documents/ME623/ME623_parte22.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documents/ME623/ME623_parte22.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documents/ME623/ME623_parte22.pdf"
+              }
             }
           },
           {
@@ -149,17 +155,18 @@
   },
   "active": "8b523c7a62fb72db",
   "lastOpenFiles": [
+    "Images/~syncthing~202406201435.excalidraw.md.tmp",
+    "Images/202406201435.excalidraw.md",
+    "Documents/ME623/ME623_parte21.pdf",
+    "Documents/ME623/ME623_parte19.pdf",
+    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202406171626.md",
     "Documents/ME623/ME623_Lista02.pdf",
     "Documents/ME623/ME623_parte22.pdf",
-    "Documents/ME623/ME623_parte21.pdf",
     "Documents/ME623/ME623_parte20.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte18.pdf",
     "Documents/ME623/ME623_parte17.pdf",
-    "Documents/ME623/ME623_parte16.pdf",
-    "Documents/ME623/ME623_parte15.pdf",
-    "Documents/ME623/ME623_parte14.pdf",
     "Notes/202406180837.md",
     "Images/202406191013.excalidraw.md",
     "Notes/202406191013.md",
@@ -185,7 +192,6 @@
     "Notes/202406141313.md",
     "Notes/202406071131.md",
     "Images/202406181530.excalidraw.md",
-    "Notes/202406171645.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
     "Images/Pasted image 20240618083017.png",
