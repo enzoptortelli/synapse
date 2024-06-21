@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405210550.md",
+                "file": "Notes/202405172212.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"link-tags\":eigenpair]  -tag:#problem-solution -tag:#class-notes -tag:#problems-list ",
+                "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405210550.md",
+                "file": "Notes/202405172212.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405210550.md",
+                "file": "Notes/202405172212.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405210550.md"
+                "file": "Notes/202405172212.md"
               }
             }
           },
@@ -243,44 +243,43 @@
   },
   "active": "9f8997bd9d8f9e54",
   "lastOpenFiles": [
+    "Notes/202405172211.md",
+    "Notes/202405171734.md",
+    "Notes/202405172212.md",
+    "Images/~syncthing~202405221255.excalidraw.md.tmp",
+    "Notes/202405172223.md",
+    "Notes/202405172222.md",
+    "Notes/202405172221.md",
+    "Notes/202405172220.md",
+    "Notes/202405172215.md",
+    "Notes/202405172214.md",
+    "Notes/202405172213.md",
+    "Notes/202405210732.md",
+    "Notes/202405221940.md",
+    "Notes/202405210903.md",
+    "Notes/202405210901.md",
+    "Notes/202405210839.md",
+    "Notes/202405210814.md",
+    "Notes/202405210715.md",
+    "Notes/202405290825.md",
+    "Notes/202405281715.md",
+    "Notes/202405281707.md",
+    "Notes/202405222025.md",
+    "Notes/202405222019.md",
+    "Notes/202405210550.md",
     "Notes/202405200726.md",
     "Notes/202405200718.md",
-    "Notes/202405200650.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
-    "Notes/202406121009.md",
-    "Notes/202406100932.md",
-    "Notes/202406051010.md",
-    "Notes/202406030909.md",
-    "Notes/202405291009.md",
-    "Notes/202405271002.md",
-    "Notes/202405220942.md",
-    "Notes/202406201526.md",
-    "Notes/202405172212.md",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte22.pdf",
-    "Meta/Link-tag/conditional probability.md",
     "Images/~syncthing~202406201435.excalidraw.md.tmp",
-    "Images/202406201435.excalidraw.md",
     "Documents/ME623/ME623_parte21.pdf",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Notes/202406171626.md",
     "Documents/ME623/ME623_Lista02.pdf",
-    "Documents/ME623/ME623_parte20.pdf",
-    "Notes/202406180837.md",
-    "Images/202406191013.excalidraw.md",
-    "Notes/202406191013.md",
-    "Images/202406190940.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
-    "Notes/202406190939.md",
-    "Images/202406190750.excalidraw.md",
-    "Notes/202406190750.md",
-    "Notes/202406190654.md",
-    "Images/202406190654.excalidraw.md",
-    "Notes/202406181013.md",
-    "Meta/References/ME623 (parte 20).md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
     "Images/Pasted image 20240618083017.png",

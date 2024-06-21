@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b305329229148307",
+        "id": "b4e5f7f25df297f9",
         "type": "tabs",
         "children": [
           {
-            "id": "3d4a93c0390360ca",
+            "id": "695f364102dc9696",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202406190940.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a483c9937bb9148c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406201435.excalidraw.md"
+                "file": "Notes/202405172212.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:unfinished",
+            "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -82,7 +73,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406201435.excalidraw.md",
+            "file": "Notes/202405172212.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406201435.excalidraw.md",
+            "file": "Notes/202405172212.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406201435.excalidraw.md"
+            "file": "Notes/202405172212.md"
           }
         }
       },
@@ -149,12 +140,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a483c9937bb9148c",
+  "active": "695f364102dc9696",
   "lastOpenFiles": [
+    "Notes/202405172211.md",
+    "Images/202405221255.excalidraw.md",
+    "Images/202406190940.excalidraw.md",
+    "Images/202406201435.excalidraw.md",
     "Meta/Link-tag/conditional probability.md",
     "Notes/202406201526.md",
-    "Images/202406201435.excalidraw.md",
-    "Images/202406190940.excalidraw.md",
     "Images/202406190750.excalidraw.md",
     "Notes/202406190750.md",
     "Images/202406191013.excalidraw.md",
@@ -164,7 +157,6 @@
     "Notes/202406181013.md",
     "Images/202406181014.excalidraw.md",
     "Images/202406181530.excalidraw.md",
-    "Notes/202405172211.md",
     "Images/202405172240.excalidraw.md",
     "Notes/202405171734.md",
     "Notes/202406190939.md",
@@ -180,7 +172,6 @@
     "Images/202406121010.excalidraw.md",
     "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte21.pdf",
-    "Notes/202406171645.md",
     "Documents/ME623/ME623_parte16.pdf",
     "Documents/ME623/ME623_parte15.pdf",
     "Documents/ME623/ME623_parte19.pdf",
