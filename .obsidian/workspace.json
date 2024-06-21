@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172212.md",
+                "file": "Notes/202405172213.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172212.md",
+                "file": "Notes/202405172213.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172212.md",
+                "file": "Notes/202405172213.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172212.md"
+                "file": "Notes/202405172213.md"
               }
             }
           },
@@ -243,13 +243,13 @@
   },
   "active": "9f8997bd9d8f9e54",
   "lastOpenFiles": [
-    "Images/202406211654.excalidraw.md",
     "Images/~syncthing~202406211654.excalidraw.md.tmp",
+    "Notes/202405172212.md",
+    "Images/202406211654.excalidraw.md",
     "Notes/~syncthing~202405172213.md.tmp",
     "Images/~syncthing~202405221332.excalidraw.md.tmp",
     "Notes/202405172211.md",
     "Notes/202405171734.md",
-    "Notes/202405172212.md",
     "Images/~syncthing~202405221255.excalidraw.md.tmp",
     "Notes/202405172223.md",
     "Notes/202405172222.md",
@@ -272,7 +272,6 @@
     "Notes/202405222019.md",
     "Notes/202405210550.md",
     "Notes/202405200726.md",
-    "Notes/202405200718.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/ME623/ME623_parte19.pdf",
