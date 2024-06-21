@@ -11,11 +11,9 @@
             "id": "695f364102dc9696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202405172212.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202405221332.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405172212.md",
+            "file": "Images/202405221332.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405172212.md",
+            "file": "Images/202405221332.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405172212.md"
+            "file": "Images/202405221332.excalidraw.md"
           }
         }
       },
@@ -142,6 +140,7 @@
   },
   "active": "695f364102dc9696",
   "lastOpenFiles": [
+    "Notes/202405172212.md",
     "Notes/202405172211.md",
     "Images/202405221255.excalidraw.md",
     "Images/202406190940.excalidraw.md",
@@ -169,7 +168,6 @@
     "Images/202406181728.excalidraw.md",
     "Meta/References/ME623 (parte 20).md",
     "Notes/202406181736.md",
-    "Images/202406121010.excalidraw.md",
     "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME623/ME623_parte21.pdf",
     "Documents/ME623/ME623_parte16.pdf",
