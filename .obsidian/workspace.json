@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172213.md",
+                "file": "Notes/202405172214.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172213.md",
+                "file": "Notes/202405172214.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172213.md",
+                "file": "Notes/202405172214.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172213.md"
+                "file": "Notes/202405172214.md"
               }
             }
           },
@@ -195,9 +195,12 @@
   },
   "active": "b35c44b7940a9321",
   "lastOpenFiles": [
+    "Images/202406211729.excalidraw.md",
+    "Images/~syncthing~202406211729.excalidraw.md.tmp",
+    "Notes/~syncthing~202405172214.md.tmp",
     "Images/~syncthing~202406211654.excalidraw.md.tmp",
-    "Images/202406211654.excalidraw.md",
     "Notes/202405172213.md",
+    "Images/202406211654.excalidraw.md",
     "Notes/202405291009.md",
     "Notes/202406201526.md",
     "Notes/202406030909.md",
@@ -228,8 +231,6 @@
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte22.pdf",
-    "Images/~syncthing~202406201435.excalidraw.md.tmp",
-    "Documents/ME623/ME623_parte21.pdf",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
