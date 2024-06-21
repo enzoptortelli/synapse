@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3038539e59678a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405172212.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406201526.md",
+                "file": "Notes/202405172212.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406201526.md",
+                "file": "Notes/202405172212.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406201526.md"
+                "file": "Notes/202405172212.md"
               }
             }
           },
@@ -155,11 +168,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b8c5c432a122b4b7",
+  "active": "3038539e59678a45",
   "lastOpenFiles": [
+    "Notes/202406201526.md",
     "Documents/ME623/ME623_parte19.pdf",
     "Documents/ME623/ME623_parte22.pdf",
-    "Notes/202406201526.md",
     "Meta/Link-tag/conditional probability.md",
     "Images/~syncthing~202406201435.excalidraw.md.tmp",
     "Images/202406201435.excalidraw.md",
