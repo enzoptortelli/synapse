@@ -11,8 +11,12 @@
             "id": "868d312aa2412ab5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406201526.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202406201526.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202406201526.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202406201526.md"
+              }
             }
           },
           {
@@ -150,7 +157,19 @@
   },
   "active": "868d312aa2412ab5",
   "lastOpenFiles": [
+    "Documents/Temp/PTT-20240620-WA0021.opus",
     "Notes/202406201526.md",
+    "Documents/Temp/PTT-20240620-WA0025.opus",
+    "Documents/Temp/PTT-20240620-WA0018.opus",
+    "Documents/Temp/PTT-20240620-WA0005.opus",
+    "Documents/Temp/PTT-20240620-WA0017.opus",
+    "Documents/Temp/PTT-20240620-WA0000.opus",
+    "Documents/Temp/PTT-20240620-WA0010.opus",
+    "Documents/Temp/PTT-20240620-WA0007.opus",
+    "Documents/Temp/PTT-20240620-WA0006.opus",
+    "Documents/Temp/PTT-20240620-WA0011.opus",
+    "Notes/202406191013.md",
+    "Notes/202405172223.md",
     "Notes/202405172214.md",
     "Notes/202405172213.md",
     "Notes/202405271002.md",
@@ -158,33 +177,21 @@
     "Notes/202405172221.md",
     "Notes/202405172222.md",
     "Notes/202405172215.md",
-    "Images/~syncthing~202405281039.excalidraw.md.tmp",
-    "Notes/~syncthing~202405172214.md.tmp",
-    "Notes/~syncthing~202405172215.md.tmp",
-    "Images/~syncthing~202406211729.excalidraw.md.tmp",
     "Notes/202405172212.md",
     "Notes/202405172211.md",
     "Notes/202406100932.md",
     "Notes/202406211732.md",
     "Images/202406211731.excalidraw.md",
     "Images/202406211729.excalidraw.md",
-    "Images/~syncthing~202406211654.excalidraw.md.tmp",
     "Images/202406211654.excalidraw.md",
     "Notes/202405291009.md",
     "Notes/202406030909.md",
     "Notes/202406121009.md",
-    "Notes/~syncthing~202405172213.md.tmp",
-    "Images/~syncthing~202405221332.excalidraw.md.tmp",
     "Notes/202405171734.md",
-    "Images/~syncthing~202405221255.excalidraw.md.tmp",
-    "Notes/202405172223.md",
     "Notes/202405210732.md",
     "Notes/202405221940.md",
     "Notes/202405210903.md",
     "Notes/202405210901.md",
-    "Notes/202405210839.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
