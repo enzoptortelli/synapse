@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405172221.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405172221.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172215.md",
+                "file": "Notes/202405172221.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172215.md"
+                "file": "Notes/202405172221.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "acd148ab96e51151",
   "lastOpenFiles": [
+    "Notes/202405172220.md",
+    "Notes/202405172215.md",
     "Images/~syncthing~202405281039.excalidraw.md.tmp",
     "Notes/202405172214.md",
     "Notes/~syncthing~202405172214.md.tmp",
@@ -203,7 +205,6 @@
     "Notes/202405172213.md",
     "Notes/202405172212.md",
     "Notes/202405172211.md",
-    "Notes/202405172215.md",
     "Notes/202406100932.md",
     "Notes/202406211732.md",
     "Images/202406211731.excalidraw.md",
@@ -222,7 +223,6 @@
     "Notes/202405172223.md",
     "Notes/202405172222.md",
     "Notes/202405172221.md",
-    "Notes/202405172220.md",
     "Notes/202405210732.md",
     "Notes/202405221940.md",
     "Notes/202405210903.md",
@@ -230,7 +230,6 @@
     "Notes/202405210839.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
-    "Documents/ME623/ME623_parte19.pdf",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
