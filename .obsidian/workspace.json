@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202406121009.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f8997bd9d8f9e54",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405220942.md"
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           },
@@ -229,8 +238,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "96df2dbd514f1b3f",
+  "active": "9f8997bd9d8f9e54",
   "lastOpenFiles": [
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406121009.md",
     "Notes/202406100932.md",
     "Notes/202406051010.md",
@@ -268,7 +278,6 @@
     "Meta/References/ME623 (parte 20).md",
     "Meta/References/ME623 (parte 18).md",
     "Meta/References/ME623 (parte 19).md",
-    "Meta/References/ME623 (parte 15).md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
     "Images/Pasted image 20240618083017.png",
