@@ -20,48 +20,12 @@
             }
           },
           {
-            "id": "268fcc07cbaf67e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96df2dbd514f1b3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b91fe0e1db62afa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406030909.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b35c44b7940a9321",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Notes/202405172213.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9f8997bd9d8f9e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405172213.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,11 +193,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f8997bd9d8f9e54",
+  "active": "b35c44b7940a9321",
   "lastOpenFiles": [
+    "Images/202406211654.excalidraw.md",
+    "Notes/202405172213.md",
+    "Notes/202405291009.md",
+    "Notes/202406201526.md",
+    "Notes/202406030909.md",
+    "Notes/202406121009.md",
+    "Notes/202406100932.md",
+    "Notes/202405271002.md",
     "Images/~syncthing~202406211654.excalidraw.md.tmp",
     "Notes/202405172212.md",
-    "Images/202406211654.excalidraw.md",
     "Notes/~syncthing~202405172213.md.tmp",
     "Images/~syncthing~202405221332.excalidraw.md.tmp",
     "Notes/202405172211.md",
@@ -257,7 +216,6 @@
     "Notes/202405172220.md",
     "Notes/202405172215.md",
     "Notes/202405172214.md",
-    "Notes/202405172213.md",
     "Notes/202405210732.md",
     "Notes/202405221940.md",
     "Notes/202405210903.md",
@@ -267,11 +225,6 @@
     "Notes/202405210715.md",
     "Notes/202405290825.md",
     "Notes/202405281715.md",
-    "Notes/202405281707.md",
-    "Notes/202405222025.md",
-    "Notes/202405222019.md",
-    "Notes/202405210550.md",
-    "Notes/202405200726.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/ME623/ME623_parte19.pdf",
