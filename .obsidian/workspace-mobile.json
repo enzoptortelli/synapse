@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "fcd50d2764e6863e",
+            "id": "d57ae3e18a20db8b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406221337.excalidraw.md"
+                "file": "Images/202406221425.excalidraw.md"
               }
             }
           },
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406221337.excalidraw.md",
+            "file": "Images/202406221425.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406221337.excalidraw.md",
+            "file": "Images/202406221425.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406221337.excalidraw.md"
+            "file": "Images/202406221425.excalidraw.md"
           }
         }
       },
@@ -161,9 +161,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fcd50d2764e6863e",
+  "active": "d57ae3e18a20db8b",
   "lastOpenFiles": [
     "Notes/202405172223.md",
+    "Images/202406221425.excalidraw.md",
     "Images/202406221337.excalidraw.md",
     "Images/202406221321.excalidraw.md",
     "Images/202406051316.excalidraw.md",
@@ -198,7 +199,6 @@
     "Images/202406190940.excalidraw.md",
     "Images/202406201435.excalidraw.md",
     "Meta/Link-tag/conditional probability.md",
-    "Notes/202406201526.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
