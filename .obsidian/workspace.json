@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "282698aa6c166521",
+        "id": "43799b750e578091",
         "type": "tabs",
         "children": [
           {
-            "id": "868d312aa2412ab5",
+            "id": "127bc58848842396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406201526.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,11 +151,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "868d312aa2412ab5",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Notes/202406201526.md",
-    "Documents/Temp/PTT-20240620-WA0025.opus",
+    "Documents/Audios/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
     "Documents/Temp/PTT-20240620-WA0005.opus",
     "Documents/Temp/PTT-20240620-WA0017.opus",
