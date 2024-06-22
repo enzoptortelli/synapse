@@ -11,9 +11,11 @@
             "id": "127bc58848842396",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405172222.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -63,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405172222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
+                "file": "Notes/202405172222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
+                "file": "Notes/202405172222.md"
               }
             }
           },
@@ -156,14 +159,16 @@
   "active": "127bc58848842396",
   "lastOpenFiles": [
     "Images/~syncthing~202405291312.excalidraw.md.tmp",
+    "Notes/202405172221.md",
+    "Notes/202405172220.md",
+    "Notes/202405172222.md",
+    "Notes/202405172223.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Images/~syncthing~202406220810.excalidraw.md.tmp",
     "Images/202406220810.excalidraw.md",
     "Notes/~syncthing~202405172220.md.tmp",
     "Images/~syncthing~202405281449.excalidraw.md.tmp",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
-    "Notes/202405172222.md",
-    "Notes/202405172221.md",
-    "Notes/202405172220.md",
     "Notes/202405172215.md",
     "Notes/202405172214.md",
     "Notes/202405172213.md",
@@ -175,10 +180,7 @@
     "Documents/Audios/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
     "Documents/Temp/PTT-20240620-WA0005.opus",
-    "Documents/Temp/PTT-20240620-WA0017.opus",
-    "Documents/Temp/PTT-20240620-WA0000.opus",
     "Notes/202406191013.md",
-    "Notes/202405172223.md",
     "Notes/202405271002.md",
     "Notes/202406100932.md",
     "Notes/202406211732.md",
