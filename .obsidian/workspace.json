@@ -11,11 +11,9 @@
             "id": "127bc58848842396",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202405172212.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           }
@@ -65,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172212.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172212.md",
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172212.md"
+                "file": "Documents/MS512_2024S1_lista_autopar.pdf"
               }
             }
           },
@@ -158,6 +155,14 @@
   },
   "active": "127bc58848842396",
   "lastOpenFiles": [
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Notes/202405172222.md",
+    "Notes/202405172221.md",
+    "Notes/202405172220.md",
+    "Notes/202405172215.md",
+    "Notes/202405172214.md",
+    "Notes/202405172213.md",
+    "Notes/202405172212.md",
     "Notes/202405172211.md",
     "Notes/202405171734.md",
     "Documents/Temp/PTT-20240620-WA0021.opus",
@@ -173,14 +178,7 @@
     "Documents/Temp/PTT-20240620-WA0011.opus",
     "Notes/202406191013.md",
     "Notes/202405172223.md",
-    "Notes/202405172214.md",
-    "Notes/202405172213.md",
     "Notes/202405271002.md",
-    "Notes/202405172220.md",
-    "Notes/202405172221.md",
-    "Notes/202405172222.md",
-    "Notes/202405172215.md",
-    "Notes/202405172212.md",
     "Notes/202406100932.md",
     "Notes/202406211732.md",
     "Images/202406211731.excalidraw.md",
