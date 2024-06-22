@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4e5f7f25df297f9",
+        "id": "b865d73417705b74",
         "type": "tabs",
         "children": [
           {
-            "id": "695f364102dc9696",
+            "id": "67c92238643c6c92",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -138,11 +138,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "695f364102dc9696",
+  "active": "67c92238643c6c92",
   "lastOpenFiles": [
     "Notes/202405172222.md",
-    "Notes/202405172223.md",
     "Images/202405291312.excalidraw.md",
+    "Notes/202405172223.md",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
     "Images/202406220810.excalidraw.md",
