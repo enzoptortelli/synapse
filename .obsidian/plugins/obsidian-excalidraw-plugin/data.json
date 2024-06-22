@@ -23,7 +23,7 @@
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
-  "previewMatchObsidianTheme": true,
+  "previewMatchObsidianTheme": false,
   "width": "900",
   "height": "",
   "dynamicStyling": "colorful",
