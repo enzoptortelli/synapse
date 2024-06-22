@@ -11,8 +11,12 @@
             "id": "127bc58848842396",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405172212.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406201526.md",
+                "file": "Notes/202405172212.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406201526.md",
+                "file": "Notes/202405172212.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406201526.md"
+                "file": "Notes/202405172212.md"
               }
             }
           },
@@ -151,8 +156,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "127bc58848842396",
   "lastOpenFiles": [
+    "Notes/202405172211.md",
+    "Notes/202405171734.md",
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Notes/202406201526.md",
     "Documents/Audios/PTT-20240620-WA0025.opus",
@@ -174,7 +181,6 @@
     "Notes/202405172222.md",
     "Notes/202405172215.md",
     "Notes/202405172212.md",
-    "Notes/202405172211.md",
     "Notes/202406100932.md",
     "Notes/202406211732.md",
     "Images/202406211731.excalidraw.md",
@@ -183,7 +189,6 @@
     "Notes/202405291009.md",
     "Notes/202406030909.md",
     "Notes/202406121009.md",
-    "Notes/202405171734.md",
     "Notes/202405210732.md",
     "Notes/202405221940.md",
     "Notes/202405210903.md",
