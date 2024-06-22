@@ -11,8 +11,10 @@
             "id": "48b9d3af70d95c09",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202405172240.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/202405172240.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/202405172240.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/202405172240.excalidraw.md"
+          }
         }
       },
       {
@@ -134,6 +140,7 @@
   },
   "active": "48b9d3af70d95c09",
   "lastOpenFiles": [
+    "Notes/202405171734.md",
     "Images/202406221321.excalidraw.md",
     "Notes/202405172223.md",
     "Images/202406221425.excalidraw.md",
@@ -169,7 +176,6 @@
     "Images/202405221255.excalidraw.md",
     "Images/202406190940.excalidraw.md",
     "Images/202406201435.excalidraw.md",
-    "Meta/Link-tag/conditional probability.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",

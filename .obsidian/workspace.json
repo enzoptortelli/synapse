@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405171734.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
+                "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405171734.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405220942.md",
+                "file": "Notes/202405171734.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405220942.md"
+                "file": "Notes/202405171734.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "127bc58848842396",
   "lastOpenFiles": [
+    "Images/~syncthing~202405172240.excalidraw.md.tmp",
+    "Notes/202405220942.md",
     "Images/~syncthing~202406221425.excalidraw.md.tmp",
     "Images/202406221425.excalidraw.md",
     "Notes/~syncthing~202405172223.md.tmp",
@@ -167,7 +169,6 @@
     "Images/202406221321.excalidraw.md",
     "Images/~syncthing~202406051316.excalidraw.md.tmp",
     "Images/202405221008.excalidraw.md",
-    "Notes/202405220942.md",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
