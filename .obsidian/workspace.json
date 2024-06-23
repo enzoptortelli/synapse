@@ -6,7 +6,7 @@
       {
         "id": "43799b750e578091",
         "type": "tabs",
-        "dimension": 36.22679377822378,
+        "dimension": 63.22127446061214,
         "children": [
           {
             "id": "aa796319b17d95ef",
@@ -105,20 +105,20 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "67352ea111eb41fc",
         "type": "tabs",
-        "dimension": 63.77320622177621,
+        "dimension": 36.77872553938786,
         "children": [
           {
             "id": "0346ae77ad211ea1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Images/202406231608.excalidraw.md"
+                "file": "Documents/MS512_2024S1_lista_svd.pdf"
               }
             }
           }
@@ -168,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405271002.md",
+                "file": "Notes/202406030909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405271002.md",
+                "file": "Notes/202406030909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405271002.md"
+                "file": "Notes/202406030909.md"
               }
             }
           },
@@ -259,15 +258,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "179a936e9cd91adf",
+  "active": "29e40cae2dbbf450",
   "lastOpenFiles": [
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Images/202406231608.excalidraw.md",
+    "Notes/202405271002.md",
     "Images/~syncthing~202406231608.excalidraw.md.tmp",
     "Notes/202405291009.md",
     "Notes/202405220942.md",
-    "Notes/202405271002.md",
-    "Images/202406231608.excalidraw.md",
     "Notes/202406231607.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Notes/202406230935.md",
     "Notes/202406230937.md",
