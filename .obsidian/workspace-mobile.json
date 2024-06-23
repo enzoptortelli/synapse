@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406230935.md",
+                "file": "Notes/202406230937.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "d75413c2022124b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406231003.excalidraw.md"
               }
             }
           },
@@ -96,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406230940.excalidraw.md",
+            "file": "Images/202406231003.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406230940.excalidraw.md",
+            "file": "Images/202406231003.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406230940.excalidraw.md"
+            "file": "Images/202406231003.excalidraw.md"
           }
         }
       },
@@ -151,12 +161,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ef3a117a9606ffa6",
+  "active": "d75413c2022124b7",
   "lastOpenFiles": [
+    "Notes/202406230937.md",
+    "Images/202406231003.excalidraw.md",
     "Notes/202406230935.md",
     "Images/202406230940.excalidraw.md",
     "Notes/202406230938.md",
-    "Notes/202406230937.md",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
@@ -188,7 +199,6 @@
     "Documents/Temp/PTT-20240620-WA0007.opus",
     "Documents/Temp/PTT-20240620-WA0006.opus",
     "Images/202405281039.excalidraw.md",
-    "Notes/202405172214.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
