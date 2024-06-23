@@ -100,9 +100,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "965d1c5d38df468e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406231121.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405271002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405271002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202405271002.md"
               }
             }
           },
@@ -238,15 +249,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa796319b17d95ef",
+  "active": "2b992e641a7e2f50",
   "lastOpenFiles": [
-    "Images/~syncthing~202406230940.excalidraw.md.tmp",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Notes/202406231121.md",
+    "Images/202406231122.excalidraw.md",
+    "Notes/~syncthing~202406230938.md.tmp",
+    "Images/~syncthing~202406231122.excalidraw.md.tmp",
+    "Notes/202406230935.md",
     "Notes/202406121009.md",
+    "Images/~syncthing~202406230940.excalidraw.md.tmp",
     "Images/~syncthing~202405200904.excalidraw.md.tmp",
     "Notes/202406100932.md",
     "Images/~syncthing~202406231003.excalidraw.md.tmp",
-    "Notes/202406230935.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Images/202406231003.excalidraw.md",
     "Notes/~syncthing~202406230937.md.tmp",
     "Images/202406230940.excalidraw.md",
@@ -260,10 +275,8 @@
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202406230926.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
-    "Notes/~syncthing~202406230926.md.tmp",
     "Meta/Link-tag/singular value decomposition.md",
     "Notes/202406051010.md",
-    "Images/~syncthing~202406230725.excalidraw.md.tmp",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
     "Notes/202405271002.md",
@@ -273,8 +286,6 @@
     "Images/202405172240.excalidraw.md",
     "Images/202406221425.excalidraw.md",
     "Images/202406221337.excalidraw.md",
-    "Images/202406221321.excalidraw.md",
-    "Images/202405221008.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
