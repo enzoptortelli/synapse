@@ -144,8 +144,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406100932.md",
+                "file": "Documents/MS512_2024S1_lista_svd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406100932.md",
+                "file": "Documents/MS512_2024S1_lista_svd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406100932.md"
+                "file": "Documents/MS512_2024S1_lista_svd.pdf"
               }
             }
           },
@@ -281,16 +280,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a810164baf8e38c1",
+  "active": "0346ae77ad211ea1",
   "lastOpenFiles": [
     "Images/~syncthing~202406231822.excalidraw.md.tmp",
+    "Notes/202406100932.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406121009.md",
     "Notes/202406231821.md",
     "Images/202406231822.excalidraw.md",
     "Notes/~syncthing~202406231821.md.tmp",
-    "Notes/202406100932.md",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
     "Images/~syncthing~202406231608.excalidraw.md.tmp",
