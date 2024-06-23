@@ -83,9 +83,9 @@
             "id": "aa796319b17d95ef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Images/202406231356.excalidraw.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Images/202406231356.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Images/202406231356.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Images/202406231356.excalidraw.md"
               }
             }
           },
@@ -251,12 +251,13 @@
   },
   "active": "aa796319b17d95ef",
   "lastOpenFiles": [
+    "Notes/202406230938.md",
     "Images/~syncthing~202406231356.excalidraw.md.tmp",
+    "Notes/202406231121.md",
+    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202405271002.md",
     "Notes/202405291009.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406121009.md",
-    "Notes/202406231121.md",
     "Notes/202406230935.md",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
@@ -275,7 +276,6 @@
     "Notes/~syncthing~202406230937.md.tmp",
     "Images/202406230940.excalidraw.md",
     "Notes/~syncthing~202406230935.md.tmp",
-    "Notes/202406230938.md",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Notes/202406230937.md",
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
