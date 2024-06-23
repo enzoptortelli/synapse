@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406100932.md",
+                "file": "Notes/202406121009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406100932.md",
+                "file": "Notes/202406121009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406100932.md"
+                "file": "Notes/202406121009.md"
               }
             }
           },
@@ -238,11 +238,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b7495ed94f98a58f",
+  "active": "02984d09765ce126",
   "lastOpenFiles": [
     "Images/~syncthing~202405200904.excalidraw.md.tmp",
-    "Images/~syncthing~202406231003.excalidraw.md.tmp",
+    "Notes/202406100932.md",
     "Notes/202406121009.md",
+    "Images/~syncthing~202406231003.excalidraw.md.tmp",
     "Notes/202406230935.md",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Images/202406231003.excalidraw.md",
@@ -263,7 +264,6 @@
     "Meta/Link-tag/singular value decomposition.md",
     "Notes/202406051010.md",
     "Images/~syncthing~202406230725.excalidraw.md.tmp",
-    "Notes/202406100932.md",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
     "Notes/202405271002.md",
@@ -271,7 +271,6 @@
     "Notes/202405220942.md",
     "Notes/202405171734.md",
     "Images/202405172240.excalidraw.md",
-    "Images/~syncthing~202405172240.excalidraw.md.tmp",
     "Images/202406221425.excalidraw.md",
     "Images/202406221337.excalidraw.md",
     "Images/202406221321.excalidraw.md",
