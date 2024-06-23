@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+                "file": "Notes/202406231821.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+                "file": "Notes/202406231821.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf"
+                "file": "Notes/202406231821.md"
               }
             }
           },
@@ -281,13 +281,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0eaaea1783f9c756",
+  "active": "ad2cbb12621bff4c",
   "lastOpenFiles": [
+    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+    "Images/202406231822.excalidraw.md",
+    "Notes/~syncthing~202406231821.md.tmp",
+    "Images/~syncthing~202406231822.excalidraw.md.tmp",
     "Notes/202406231821.md",
     "Notes/202406121009.md",
     "Notes/202406100932.md",
     "Documents/MS512_2024S1_lista_svd.pdf",
-    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
     "Images/~syncthing~202406231608.excalidraw.md.tmp",
@@ -309,8 +312,6 @@
     "Images/~syncthing~202406231356.excalidraw.md.tmp",
     "Images/202406231356.excalidraw.md",
     "Notes/~syncthing~202406230938.md.tmp",
-    "Images/~syncthing~202406231122.excalidraw.md.tmp",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Meta/Link-tag/singular value decomposition.md",
     "Notes/202406230926.md",
     "Images/202406231122.excalidraw.md",
@@ -318,8 +319,6 @@
     "Images/202406230940.excalidraw.md",
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
-    "Meta/References/Untitled.md",
-    "Images/202406230725.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
