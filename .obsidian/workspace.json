@@ -113,8 +113,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405271002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405271002.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202405271002.md"
               }
             }
           },
@@ -249,12 +248,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa796319b17d95ef",
+  "active": "2b992e641a7e2f50",
   "lastOpenFiles": [
     "Images/~syncthing~202406231356.excalidraw.md.tmp",
-    "Notes/202405271002.md",
-    "Notes/202405291009.md",
     "Documents/MS512_2024S1_lista_svd.pdf",
+    "Notes/202405291009.md",
+    "Notes/202405271002.md",
     "Notes/202406121009.md",
     "Notes/202406231121.md",
     "Notes/202406230935.md",
