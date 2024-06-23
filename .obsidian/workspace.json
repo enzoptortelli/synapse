@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406051010.md",
+                "file": "Meta/Link-tag/singular value decomposition.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Meta/Link-tag/singular value decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405291009.md",
+                "file": "Meta/Link-tag/singular value decomposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405291009.md"
+                "file": "Meta/Link-tag/singular value decomposition.md"
               }
             }
           },
@@ -217,16 +216,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "127bc58848842396",
+  "active": "5f59c8bda014d89d",
   "lastOpenFiles": [
-    "Images/~syncthing~202406230725.excalidraw.md.tmp",
-    "Images/202406230725.excalidraw.md",
     "Notes/202406051010.md",
+    "Meta/Link-tag/singular value decomposition.md",
+    "Notes/~syncthing~202406230926.md.tmp",
+    "Notes/202406230926.md",
+    "Images/~syncthing~202406230725.excalidraw.md.tmp",
+    "Notes/202406100932.md",
+    "Notes/202406121009.md",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
-    "Notes/202406121009.md",
     "Notes/202405271002.md",
-    "Notes/202406100932.md",
+    "Images/202406230725.excalidraw.md",
     "Notes/202405220942.md",
     "Notes/202405171734.md",
     "Images/202405172240.excalidraw.md",
@@ -246,14 +248,12 @@
     "Notes/202405172220.md",
     "Notes/202405172223.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Images/~syncthing~202406220810.excalidraw.md.tmp",
     "Images/202406220810.excalidraw.md",
     "Notes/202405172215.md",
     "Notes/202405172214.md",
     "Notes/202405172213.md",
     "Notes/202405172212.md",
     "Notes/202405172211.md",
-    "Notes/202406201526.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
