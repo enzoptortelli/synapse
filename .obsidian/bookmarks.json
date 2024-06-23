@@ -32,6 +32,12 @@
           "ctime": 1717771215908,
           "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
           "title": "(Autopares) Lista"
+        },
+        {
+          "type": "search",
+          "ctime": 1719146320411,
+          "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
+          "title": "Lista de SVD"
         }
       ],
       "title": "Análise Numérica (Autopares)"

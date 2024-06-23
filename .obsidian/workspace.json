@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa796319b17d95ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406230937.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b77a76165fe1651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406230937.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -109,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#class-notes",
+                "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -126,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406230926.md",
+                "file": "Notes/202406230937.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406230926.md",
+                "file": "Notes/202406230937.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406230926.md"
+                "file": "Notes/202406230937.md"
               }
             }
           },
@@ -202,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,15 +240,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f59c8bda014d89d",
+  "active": "1b77a76165fe1651",
   "lastOpenFiles": [
+    "Notes/202406230935.md",
+    "Notes/202406230938.md",
+    "Notes/202406230937.md",
+    "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
+    "Notes/202406121009.md",
+    "Meta/References/MS512_2024S1 Lista de SVD.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Meta/References/Untitled.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Notes/202406230926.md",
+    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/~syncthing~202406230926.md.tmp",
     "Meta/Link-tag/singular value decomposition.md",
     "Notes/202406051010.md",
-    "Notes/202406230926.md",
     "Images/~syncthing~202406230725.excalidraw.md.tmp",
     "Notes/202406100932.md",
-    "Notes/202406121009.md",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
     "Notes/202405271002.md",
@@ -240,19 +274,10 @@
     "Images/202406221337.excalidraw.md",
     "Images/~syncthing~202406221321.excalidraw.md.tmp",
     "Images/202406221321.excalidraw.md",
-    "Images/~syncthing~202406051316.excalidraw.md.tmp",
     "Images/202405221008.excalidraw.md",
     "Notes/202405172222.md",
-    "Images/~syncthing~202405291312.excalidraw.md.tmp",
     "Notes/202405172221.md",
     "Notes/202405172220.md",
-    "Notes/202405172223.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Images/202406220810.excalidraw.md",
-    "Notes/202405172215.md",
-    "Notes/202405172214.md",
-    "Notes/202405172213.md",
-    "Notes/202405172212.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
