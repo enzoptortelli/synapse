@@ -12,9 +12,11 @@
             "id": "aa796319b17d95ef",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Meta/References/MS512_2024S1 Lista de SVD.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -103,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "67352ea111eb41fc",
@@ -187,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405291009.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202405291009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202405291009.md"
               }
             }
           },
@@ -257,20 +259,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0346ae77ad211ea1",
+  "active": "c39af69534c6e647",
   "lastOpenFiles": [
+    "Meta/References/MS512_2024S1 Lista de SVD.md",
+    "Notes/202406230935.md",
+    "Notes/202406230937.md",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Notes/202405220942.md",
     "Images/~syncthing~202406231608.excalidraw.md.tmp",
+    "Notes/202405271002.md",
     "Notes/202406051010.md",
     "Notes/202406100932.md",
     "Notes/202406121009.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
-    "Notes/202405220942.md",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
-    "Notes/202405271002.md",
     "Notes/202406231607.md",
     "Notes/202406230938.md",
-    "Notes/202406230935.md",
     "Notes/202406231121.md",
     "Images/202406231608.excalidraw.md",
     "Notes/~syncthing~202406231607.md.tmp",
@@ -289,8 +293,6 @@
     "Images/~syncthing~202406230940.excalidraw.md.tmp",
     "Images/202406231003.excalidraw.md",
     "Images/202406230940.excalidraw.md",
-    "Meta/References/MS512_2024S1 Lista de SVD.md",
-    "Notes/202406230937.md",
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Meta/References/Untitled.md",
