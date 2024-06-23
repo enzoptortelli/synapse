@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0786e7085de8465f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406230725.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202405171734.md",
+            "file": "Images/202406230725.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202405171734.md",
+            "file": "Images/202406230725.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202405171734.md"
+            "file": "Images/202406230725.excalidraw.md"
           }
         }
       },
@@ -140,10 +151,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "48b9d3af70d95c09",
+  "active": "0786e7085de8465f",
   "lastOpenFiles": [
-    "Images/202405172240.excalidraw.md",
     "Notes/202405171734.md",
+    "Images/202406230725.excalidraw.md",
+    "Images/202405172240.excalidraw.md",
     "Images/202406221321.excalidraw.md",
     "Notes/202405172223.md",
     "Images/202406221425.excalidraw.md",
@@ -177,7 +189,6 @@
     "Images/202405221332.excalidraw.md",
     "Notes/202405172211.md",
     "Images/202405221255.excalidraw.md",
-    "Images/202406190940.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
