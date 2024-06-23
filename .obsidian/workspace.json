@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406051010.md",
+                "file": "Notes/202406030909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406051010.md",
+                "file": "Notes/202406030909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406051010.md"
+                "file": "Notes/202406030909.md"
               }
             }
           },
@@ -249,11 +249,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f59c8bda014d89d",
+  "active": "375cffdc17af1e35",
   "lastOpenFiles": [
-    "Documents/MS512_2024S1_lista_svd.pdf",
-    "Images/~syncthing~202406231547.excalidraw.md.tmp",
     "Notes/202406051010.md",
+    "Images/~syncthing~202406231547.excalidraw.md.tmp",
+    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406030909.md",
     "Notes/202405291009.md",
     "Notes/202406230935.md",
@@ -276,7 +276,6 @@
     "Images/~syncthing~202405200904.excalidraw.md.tmp",
     "Images/~syncthing~202406231003.excalidraw.md.tmp",
     "Images/202406231003.excalidraw.md",
-    "Notes/~syncthing~202406230937.md.tmp",
     "Images/202406230940.excalidraw.md",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Notes/202406230937.md",
