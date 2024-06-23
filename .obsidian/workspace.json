@@ -90,6 +90,18 @@
             }
           },
           {
+            "id": "b3cf4184a738c275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202406231121.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1b77a76165fe1651",
             "type": "leaf",
             "state": {
@@ -251,16 +263,17 @@
   },
   "active": "aa796319b17d95ef",
   "lastOpenFiles": [
+    "Notes/202406231121.md",
+    "Images/202406231547.excalidraw.md",
+    "Images/Pasted Image 20240623160521_964.png",
+    "Documents/MS512_2024S1_lista_svd.pdf",
     "Images/~syncthing~202406231547.excalidraw.md.tmp",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202405291009.md",
     "Notes/202406230935.md",
     "Notes/202406230938.md",
-    "Images/202406231547.excalidraw.md",
     "Notes/~syncthing~202406231121.md.tmp",
-    "Notes/202406231121.md",
     "Images/~syncthing~202406231356.excalidraw.md.tmp",
     "Images/202406231356.excalidraw.md",
     "Notes/202405271002.md",
@@ -294,7 +307,6 @@
     "Images/202406101008.excalidraw.png",
     "Images/Pasted Image 20240614172528_460.jpg",
     "Images/Pasted Image 20240614172517_487.jpg",
-    "Images/Pasted Image 20240614172502_477.jpg",
-    "Images/Pasted Image 20240614172446_454.jpg"
+    "Images/Pasted Image 20240614172502_477.jpg"
   ]
 }

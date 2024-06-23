@@ -11,26 +11,13 @@
             "id": "ef3a117a9606ffa6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406231121.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5fecfcbad23473f",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Images/202406231547.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,9 +138,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f5fecfcbad23473f",
+  "active": "ef3a117a9606ffa6",
   "lastOpenFiles": [
     "Notes/202406231121.md",
+    "Images/Pasted Image 20240623160521_964.png",
     "Images/202406231547.excalidraw.md",
     "Notes/202406230938.md",
     "Images/202406231356.excalidraw.md",
@@ -180,7 +168,6 @@
     "Images/202406221337.excalidraw.md",
     "Images/202406051316.excalidraw.md",
     "Notes/202405172222.md",
-    "Images/202405291312.excalidraw.md",
     "Documents/Temp/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
@@ -197,7 +184,6 @@
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
     "Images/202405301912.excalidraw.png",
-    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg",
-    "27r5gv5zjog31.png"
+    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg"
   ]
 }
