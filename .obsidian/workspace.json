@@ -28,8 +28,19 @@
                 "file": "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf"
               }
             }
+          },
+          {
+            "id": "3e2a66b5e5308f38",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406230935.md",
+                "file": "Documents/MS512_2024S1_lista_svd.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406230935.md",
+                "file": "Documents/MS512_2024S1_lista_svd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406230935.md"
+                "file": "Documents/MS512_2024S1_lista_svd.pdf"
               }
             }
           },
@@ -166,13 +176,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0346ae77ad211ea1",
+  "active": "3e2a66b5e5308f38",
   "lastOpenFiles": [
+    "Images/~syncthing~202406231608.excalidraw.md.tmp",
+    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+    "Notes/202406230935.md",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Notes/202405220942.md",
     "Images/~syncthing~202406230940.excalidraw.md.tmp",
-    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Notes/202406231607.md",
     "Images/~syncthing~202406231822.excalidraw.md.tmp",
     "Notes/202406100932.md",
@@ -182,11 +194,9 @@
     "Notes/~syncthing~202406231821.md.tmp",
     "Notes/202406051010.md",
     "Notes/202406030909.md",
-    "Images/~syncthing~202406231608.excalidraw.md.tmp",
     "Images/202406231608.excalidraw.md",
     "Notes/202405271002.md",
     "Notes/202405291009.md",
-    "Notes/202406230935.md",
     "Notes/202406230937.md",
     "Notes/202406230938.md",
     "Notes/202406231121.md",
