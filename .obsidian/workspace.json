@@ -4,133 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "43799b750e578091",
-        "type": "tabs",
-        "dimension": 47.96788760662318,
-        "children": [
-          {
-            "id": "aa796319b17d95ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/References/MS512_2024S1 Lista de SVD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56f524bf0c1b7194",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405220942.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "04633b27297c0baa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405291009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "179a936e9cd91adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202405271002.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29e40cae2dbbf450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406030909.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05ec08da58054571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406051010.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a810164baf8e38c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406100932.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b894e25c9dc6f921",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406121009.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2cbb12621bff4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406231821.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
         "id": "67352ea111eb41fc",
         "type": "tabs",
-        "dimension": 52.03211239337682,
         "children": [
           {
             "id": "0346ae77ad211ea1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202406230935.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -211,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406230935.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406230935.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202406230935.md"
               }
             }
           },
@@ -283,9 +168,11 @@
   },
   "active": "0346ae77ad211ea1",
   "lastOpenFiles": [
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Meta/References/MS512_2024S1 Lista de SVD.md",
+    "Notes/202405220942.md",
     "Images/~syncthing~202406230940.excalidraw.md.tmp",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406231607.md",
     "Images/~syncthing~202406231822.excalidraw.md.tmp",
     "Notes/202406100932.md",
@@ -299,8 +186,6 @@
     "Images/202406231608.excalidraw.md",
     "Notes/202405271002.md",
     "Notes/202405291009.md",
-    "Notes/202405220942.md",
-    "Meta/References/MS512_2024S1 Lista de SVD.md",
     "Notes/202406230935.md",
     "Notes/202406230937.md",
     "Notes/202406230938.md",
