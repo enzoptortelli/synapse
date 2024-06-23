@@ -11,11 +11,9 @@
             "id": "8a7867e45d84c589",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202406230937.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202405200904.excalidraw.md"
               }
             }
           },
@@ -54,7 +52,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
+            "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Autopares\"",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -95,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406230937.md",
+            "file": "Images/202405200904.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406230937.md",
+            "file": "Images/202405200904.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406230937.md"
+            "file": "Images/202405200904.excalidraw.md"
           }
         }
       },
@@ -152,8 +150,10 @@
   },
   "active": "8a7867e45d84c589",
   "lastOpenFiles": [
-    "Images/202406231003.excalidraw.md",
+    "Notes/202405171734.md",
+    "Images/202405172240.excalidraw.md",
     "Notes/202406230937.md",
+    "Images/202406231003.excalidraw.md",
     "Notes/202406230935.md",
     "Images/202406230940.excalidraw.md",
     "Notes/202406230938.md",
@@ -161,12 +161,10 @@
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
-    "Notes/202405171734.md",
     "Notes/202406230926.md",
     "Images/202406230725.excalidraw.md",
     "Notes/1734.md",
     "Meta/Link-tag/singular value decomposition.md",
-    "Images/202405172240.excalidraw.md",
     "Images/202406221321.excalidraw.md",
     "Notes/202405172223.md",
     "Images/202406221425.excalidraw.md",
