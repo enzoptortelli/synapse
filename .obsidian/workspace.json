@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406051010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406051010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202406051010.md"
               }
             }
           },
@@ -249,15 +249,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "aa796319b17d95ef",
+  "active": "5f59c8bda014d89d",
   "lastOpenFiles": [
+    "Images/~syncthing~202406231356.excalidraw.md.tmp",
+    "Notes/202406030909.md",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Notes/202405291009.md",
+    "Notes/202405271002.md",
     "Images/202406231356.excalidraw.md",
     "Notes/~syncthing~202406230938.md.tmp",
     "Images/~syncthing~202406231122.excalidraw.md.tmp",
-    "Notes/202405271002.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
-    "Notes/202405291009.md",
-    "Notes/202406030909.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202406051010.md",
     "Meta/Link-tag/singular value decomposition.md",
@@ -280,13 +281,11 @@
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Meta/References/Untitled.md",
-    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Images/202406230725.excalidraw.md",
     "Notes/202405220942.md",
     "Notes/202405171734.md",
     "Images/202405172240.excalidraw.md",
     "Images/202406221425.excalidraw.md",
-    "Images/202406221337.excalidraw.md",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
