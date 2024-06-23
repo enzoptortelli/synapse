@@ -38,6 +38,12 @@
           "ctime": 1719146320411,
           "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
           "title": "Lista de SVD"
+        },
+        {
+          "type": "search",
+          "ctime": 1719177740935,
+          "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de Sistemas Não Lineares\"",
+          "title": "Lista SNL"
         }
       ],
       "title": "Análise Numérica (Autopares)"
