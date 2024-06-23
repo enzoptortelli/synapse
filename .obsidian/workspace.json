@@ -160,8 +160,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,15 +251,16 @@
   },
   "active": "aa796319b17d95ef",
   "lastOpenFiles": [
-    "Notes/202406051010.md",
     "Images/~syncthing~202406231122.excalidraw.md.tmp",
+    "Notes/202405291009.md",
+    "Notes/202406030909.md",
+    "Notes/202405271002.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Notes/202406051010.md",
     "Meta/Link-tag/singular value decomposition.md",
     "Notes/202406230926.md",
     "Notes/202406100932.md",
-    "Notes/202406030909.md",
-    "Notes/202405291009.md",
-    "Notes/202405271002.md",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406230935.md",
     "Notes/202406231121.md",
     "Images/202406231122.excalidraw.md",
@@ -279,7 +279,6 @@
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Meta/References/Untitled.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Images/202406230725.excalidraw.md",
     "Notes/202405220942.md",
