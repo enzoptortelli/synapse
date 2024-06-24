@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406232200.md",
+                "file": "Notes/202406232242.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f1ff16ec122acddd",
+            "id": "e921fdcc7aa7a54c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406232200.excalidraw.md"
+                "file": "Images/202406232243.excalidraw.md"
               }
             }
           },
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406232200.excalidraw.md",
+            "file": "Images/202406232243.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406232200.excalidraw.md",
+            "file": "Images/202406232243.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406232200.excalidraw.md"
+            "file": "Images/202406232243.excalidraw.md"
           }
         }
       },
@@ -161,11 +161,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f1ff16ec122acddd",
+  "active": "e921fdcc7aa7a54c",
   "lastOpenFiles": [
+    "Notes/202406232242.md",
+    "Images/202406232243.excalidraw.md",
+    "Notes/202406231607.md",
     "Notes/202406232200.md",
     "Images/202406232200.excalidraw.md",
-    "Notes/202406231607.md",
     "Images/202406231822.excalidraw.md",
     "Images/202406231608.excalidraw.md",
     "Notes/202406231121.md",
@@ -190,8 +192,6 @@
     "Notes/202406230926.md",
     "Images/202406230725.excalidraw.md",
     "Notes/1734.md",
-    "Meta/Link-tag/singular value decomposition.md",
-    "Images/202406221321.excalidraw.md",
     "Documents/Temp/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
