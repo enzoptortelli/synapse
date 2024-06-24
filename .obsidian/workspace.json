@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406231607.md",
+                "file": "Notes/202406051010.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
+                "query": "tag:#class-notes -tag:#problems-list ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -97,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406051010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf",
+                "file": "Notes/202406051010.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MS512_2024S1_lista_svd.pdf"
+                "file": "Notes/202406051010.md"
               }
             }
           },
@@ -187,15 +189,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0346ae77ad211ea1",
+  "active": "3e2a66b5e5308f38",
   "lastOpenFiles": [
     "Images/~syncthing~202406232243.excalidraw.md.tmp",
-    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+    "Notes/202406100932.md",
+    "Notes/202406121009.md",
     "Notes/202406231607.md",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Notes/202406232242.md",
     "Images/202406232243.excalidraw.md",
     "Notes/~syncthing~202406232242.md.tmp",
-    "Documents/MS512_2024S1_lista_svd.pdf",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/202406230935.md",
     "Notes/202406232200.md",
@@ -207,8 +211,6 @@
     "Notes/202405220942.md",
     "Images/~syncthing~202406230940.excalidraw.md.tmp",
     "Images/~syncthing~202406231822.excalidraw.md.tmp",
-    "Notes/202406100932.md",
-    "Notes/202406121009.md",
     "Notes/202406231821.md",
     "Images/202406231822.excalidraw.md",
     "Notes/202406051010.md",
