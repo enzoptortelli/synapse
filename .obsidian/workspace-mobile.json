@@ -11,11 +11,9 @@
             "id": "0ee980c3f16029ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202406232242.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202406051010.excalidraw.md"
               }
             }
           },
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -55,7 +52,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
+            "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
             "matchingCase": true,
             "explainSearch": false,
             "collapseAll": false,
@@ -96,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406231822.excalidraw.md",
+            "file": "Images/202406051010.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406231822.excalidraw.md",
+            "file": "Images/202406051010.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406231822.excalidraw.md"
+            "file": "Images/202406051010.excalidraw.md"
           }
         }
       },
@@ -151,14 +148,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "baa5e28b5e8e0021",
+  "active": "0ee980c3f16029ad",
   "lastOpenFiles": [
+    "Notes/202406051010.md",
     "Notes/202406232242.md",
+    "Images/202406231822.excalidraw.md",
     "Images/202406232243.excalidraw.md",
     "Notes/202406231607.md",
     "Notes/202406232200.md",
     "Images/202406232200.excalidraw.md",
-    "Images/202406231822.excalidraw.md",
     "Images/202406231608.excalidraw.md",
     "Notes/202406231121.md",
     "Notes/202406230935.md",
@@ -181,7 +179,6 @@
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Notes/202406230926.md",
     "Images/202406230725.excalidraw.md",
-    "Notes/1734.md",
     "Documents/Temp/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
