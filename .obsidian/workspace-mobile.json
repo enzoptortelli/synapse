@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "3d10dcae2a362e2e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406250831.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "218c9275ce7320c9",
             "type": "leaf",
             "state": {
@@ -136,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406250807.excalidraw.md",
+            "file": "Images/202406250831.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406250807.excalidraw.md",
+            "file": "Images/202406250831.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406250807.excalidraw.md"
+            "file": "Images/202406250831.excalidraw.md"
           }
         }
       },
@@ -191,11 +201,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "218c9275ce7320c9",
+  "active": "3d10dcae2a362e2e",
   "lastOpenFiles": [
-    "Images/202406250737.excalidraw.md",
-    "Images/202406250807.excalidraw.md",
     "Notes/202406250711.md",
+    "Images/202406250831.excalidraw.md",
+    "Images/202406250807.excalidraw.md",
+    "Images/202406250737.excalidraw.md",
     "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Notes/202406250645.md",
@@ -220,7 +231,6 @@
     "Images/202406231122.excalidraw.md",
     "Notes/202406230937.md",
     "Notes/202405172212.md",
-    "Images/202405200904.excalidraw.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Documents/Temp/PTT-20240620-WA0025.opus",
