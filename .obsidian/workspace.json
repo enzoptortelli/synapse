@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27724c71a7ab4008",
+        "id": "90f45517c0d6c823",
         "type": "tabs",
         "children": [
           {
-            "id": "26f146a7fbab63db",
+            "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,17 +20,14 @@
             }
           },
           {
-            "id": "b2151c3ef1e4858a",
+            "id": "c47311f6dee3fb5d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,16 +164,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b2151c3ef1e4858a",
+  "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
-    "Notes/202406250645.md",
+    "Notes/202406250922.md",
     "Notes/202406250711.md",
+    "Notes/202406250645.md",
+    "Notes/202406251451.md",
+    "Images/202406250712.excalidraw.md",
+    "Notes/202406251727.md",
     "Images/202406250807.excalidraw.md",
     "Notes/202406251505.md",
     "Notes/202406251608.md",
-    "Notes/202406251451.md",
-    "Notes/202406250922.md",
-    "Notes/202406251727.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Notes/~syncthing~202406251727.md.tmp",
@@ -197,7 +195,6 @@
     "Images/202406250906.excalidraw.md",
     "Images/202406250831.excalidraw.md",
     "Images/202406250737.excalidraw.md",
-    "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/202406240748.excalidraw.md",
     "Notes/202406231121.md",
