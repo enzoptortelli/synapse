@@ -33,26 +33,22 @@
             "id": "fd0ef7544fb7f44b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406250711.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69f4bba3a0705788",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Images/202406250712.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "8b2eec561e9a57e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,9 +169,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "69f4bba3a0705788",
+  "active": "fd0ef7544fb7f44b",
   "lastOpenFiles": [
     "Notes/202406250711.md",
+    "Images/Pasted Image 20240625072117_189.png",
     "Images/202406250712.excalidraw.md",
     "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
@@ -201,7 +198,6 @@
     "Notes/202405172212.md",
     "Images/202405200904.excalidraw.md",
     "Notes/202405171734.md",
-    "Images/202405172240.excalidraw.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Documents/Temp/PTT-20240620-WA0025.opus",
@@ -219,7 +215,6 @@
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
     "Images/Pasted image 20240522125319.png",
-    "Images/202405301912.excalidraw.png",
-    "soap-bubble-modern-art-painting-vibrant-plant-illustration-4635x1752-7116.jpg"
+    "Images/202405301912.excalidraw.png"
   ]
 }

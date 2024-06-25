@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "file": "Notes/202406250711.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "26f146a7fbab63db",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "file": "Notes/202406250711.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "file": "Notes/202406250711.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md"
+                "file": "Notes/202406250711.md"
               }
             }
           },
@@ -157,9 +165,11 @@
   },
   "active": "44a809a2cb2b4359",
   "lastOpenFiles": [
-    "Images/~syncthing~202406250712.excalidraw.md.tmp",
-    "Notes/202406250711.md",
     "Images/202406250712.excalidraw.md",
+    "Images/Pasted Image 20240625072117_189.png",
+    "Notes/202406250711.md",
+    "Images/~syncthing~202406250712.excalidraw.md.tmp",
+    "Meta/References/Lista 5 - Probabilidade I.md",
     "Notes/~syncthing~202406250711.md.tmp",
     "Notes/~syncthing~202406250645.md.tmp",
     "Images/202406240748.excalidraw.md",
@@ -193,14 +203,12 @@
     "Images/202406231608.excalidraw.md",
     "Notes/202405271002.md",
     "Notes/202405291009.md",
-    "Notes/202406230937.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240618082934.png",
     "Images/Pasted image 20240618083017.png",
-    "Images/202406101008.excalidraw.png",
-    "Images/Pasted Image 20240614172528_460.jpg"
+    "Images/202406101008.excalidraw.png"
   ]
 }
