@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406250922.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406250922.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406250922.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406250711.md"
+                "file": "Notes/202406250922.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "44a809a2cb2b4359",
   "lastOpenFiles": [
-    "Notes/~syncthing~202406250711.md.tmp",
-    "Meta/References/Lista 5 - Probabilidade I.md",
     "Notes/202406250711.md",
-    "Images/~syncthing~202406250906.excalidraw.md.tmp",
+    "Notes/202406250922.md",
     "Images/202406250906.excalidraw.md",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Notes/~syncthing~202406250711.md.tmp",
+    "Images/~syncthing~202406250906.excalidraw.md.tmp",
     "Images/~syncthing~202406250831.excalidraw.md.tmp",
     "Images/~syncthing~202406250737.excalidraw.md.tmp",
     "Images/202406250831.excalidraw.md",
