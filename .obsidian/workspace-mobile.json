@@ -18,31 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b08040a5b1c1cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406251451.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad5437793d3e1a4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406251452.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406251452.excalidraw.md",
+            "file": "Notes/202406250922.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406251452.excalidraw.md",
+            "file": "Notes/202406250922.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406251452.excalidraw.md"
+            "file": "Notes/202406250922.md"
           }
         }
       },
@@ -163,8 +140,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dad5437793d3e1a4",
+  "active": "542c4f2b75ed06f2",
   "lastOpenFiles": [
+    "Notes/202406251505.md",
     "Notes/202406251451.md",
     "Images/202406251452.excalidraw.md",
     "Notes/202406250922.md",
@@ -191,7 +169,6 @@
     "Notes/202406230935.md",
     "Images/202406230940.excalidraw.md",
     "Notes/202406231821.md",
-    "Images/202406231547.excalidraw.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
