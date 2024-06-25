@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "022f17125f2d4155",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406250932.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406250922.md",
+            "file": "Images/202406250932.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406250922.md",
+            "file": "Images/202406250932.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406250922.md"
+            "file": "Images/202406250932.excalidraw.md"
           }
         }
       },
@@ -140,9 +151,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "542c4f2b75ed06f2",
+  "active": "022f17125f2d4155",
   "lastOpenFiles": [
     "Notes/202406250922.md",
+    "Images/202406250932.excalidraw.md",
     "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
     "Notes/202406250711.md",
@@ -169,7 +181,6 @@
     "Images/Pasted Image 20240623160521_964.png",
     "Notes/202406230938.md",
     "Images/202406231356.excalidraw.md",
-    "Images/202406231122.excalidraw.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Documents/Temp/PTT-20240620-WA0025.opus",
