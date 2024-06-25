@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "b4d74f4c95c2f8a2",
+        "id": "7333eb4a8d45c6b1",
         "type": "tabs",
         "children": [
           {
-            "id": "0ee980c3f16029ad",
+            "id": "470c2e9b6b773283",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202406051010.excalidraw.md"
+                "file": "Notes/202406250645.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "baa5e28b5e8e0021",
+            "id": "9d1031644e95b8ea",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406231822.excalidraw.md"
+                "file": "Images/202406250645.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406051010.excalidraw.md",
+            "file": "Images/202406250645.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406051010.excalidraw.md",
+            "file": "Images/202406250645.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406051010.excalidraw.md"
+            "file": "Images/202406250645.excalidraw.md"
           }
         }
       },
@@ -148,11 +151,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0ee980c3f16029ad",
+  "active": "9d1031644e95b8ea",
   "lastOpenFiles": [
+    "Notes/202406250645.md",
+    "Images/202406250645.excalidraw.md",
+    "Images/202406231822.excalidraw.md",
+    "Images/202406051010.excalidraw.md",
     "Notes/202406051010.md",
     "Notes/202406232242.md",
-    "Images/202406231822.excalidraw.md",
     "Images/202406232243.excalidraw.md",
     "Notes/202406231607.md",
     "Notes/202406232200.md",
@@ -174,11 +180,8 @@
     "Images/202405172240.excalidraw.md",
     "Images/202406231003.excalidraw.md",
     "Meta/References/MS512_2024S1 Lista de SVD.md",
-    "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
-    "Notes/202406230926.md",
-    "Images/202406230725.excalidraw.md",
     "Documents/Temp/PTT-20240620-WA0025.opus",
     "Documents/Temp/PTT-20240620-WA0021.opus",
     "Documents/Temp/PTT-20240620-WA0018.opus",
