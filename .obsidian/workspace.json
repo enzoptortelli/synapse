@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2151c3ef1e4858a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.5110359191895
+    "width": 369.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -156,11 +167,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "26f146a7fbab63db",
+  "active": "b2151c3ef1e4858a",
   "lastOpenFiles": [
-    "Images/202406250807.excalidraw.md",
-    "Notes/202406250711.md",
     "Notes/202406250645.md",
+    "Notes/202406250711.md",
+    "Images/202406250807.excalidraw.md",
     "Notes/202406251505.md",
     "Notes/202406251608.md",
     "Notes/202406251451.md",
