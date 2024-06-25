@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "44a809a2cb2b4359",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406251451.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "26f146a7fbab63db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "43bc706a13de9a5b",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406251727.md",
-                "mode": "source",
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406251727.md",
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406251727.md",
+                "file": "Meta/References/Lista 5 - Probabilidade I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406251727.md"
+                "file": "Meta/References/Lista 5 - Probabilidade I.md"
               }
             }
           },
@@ -176,25 +156,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "43bc706a13de9a5b",
+  "active": "26f146a7fbab63db",
   "lastOpenFiles": [
+    "Notes/202406251727.md",
+    "Notes/202406251608.md",
+    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
+    "Notes/202406251451.md",
     "Notes/~syncthing~202406251727.md.tmp",
     "Images/~syncthing~202406251729.excalidraw.md.tmp",
-    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Images/202406251729.excalidraw.md",
     "Notes/202406250922.md",
-    "Notes/202406251727.md",
     "Images/~syncthing~202406251608.excalidraw.md.tmp",
     "Notes/~syncthing~202406251608.md.tmp",
     "Images/202406251608.excalidraw.md",
-    "Notes/202406251608.md",
     "Notes/~syncthing~202406251505.md.tmp",
     "Images/~syncthing~202406251507.excalidraw.md.tmp",
     "Notes/202406250711.md",
     "Notes/202406251505.md",
     "Meta/Templates/~syncthing~Excalidraw Template.excalidraw.md.tmp",
     "Images/202406251507.excalidraw.md",
-    "Notes/202406251451.md",
     "Images/202406251452.excalidraw.md",
     "Images/~syncthing~202406251452.excalidraw.md.tmp",
     "Notes/~syncthing~202406251451.md.tmp",
