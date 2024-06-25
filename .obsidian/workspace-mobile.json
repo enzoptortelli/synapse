@@ -40,57 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7318f6ea172f5acd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406250906.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "3d10dcae2a362e2e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406250831.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "218c9275ce7320c9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406250807.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "13f79b79c8303bab",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406250737.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "8b2eec561e9a57e5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406250906.excalidraw.md",
+            "file": "Notes/202406250711.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -173,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406250906.excalidraw.md",
+            "file": "Notes/202406250711.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -185,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406250906.excalidraw.md"
+            "file": "Notes/202406250711.md"
           }
         }
       },
@@ -211,13 +163,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7318f6ea172f5acd",
+  "active": "fd0ef7544fb7f44b",
   "lastOpenFiles": [
     "Notes/202406250711.md",
-    "Images/202406250906.excalidraw.md",
-    "Images/202406250831.excalidraw.md",
     "Images/202406250737.excalidraw.md",
     "Images/202406250807.excalidraw.md",
+    "Images/202406250831.excalidraw.md",
+    "Images/202406250906.excalidraw.md",
     "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Notes/202406250645.md",
