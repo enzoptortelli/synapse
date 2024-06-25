@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406251505.md",
+                "file": "Notes/202406250711.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406251505.md",
+                "file": "Notes/202406250711.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406251505.md",
+                "file": "Notes/202406250711.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406251505.md"
+                "file": "Notes/202406250711.md"
               }
             }
           },
@@ -158,12 +158,13 @@
   },
   "active": "26f146a7fbab63db",
   "lastOpenFiles": [
-    "Notes/202406251608.md",
-    "Notes/202406251505.md",
-    "Notes/202406251451.md",
-    "Notes/202406250922.md",
+    "Images/202406250807.excalidraw.md",
     "Notes/202406250711.md",
     "Notes/202406250645.md",
+    "Notes/202406251505.md",
+    "Notes/202406251608.md",
+    "Notes/202406251451.md",
+    "Notes/202406250922.md",
     "Notes/202406251727.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
@@ -184,7 +185,6 @@
     "Images/202406250932.excalidraw.md",
     "Images/202406250906.excalidraw.md",
     "Images/202406250831.excalidraw.md",
-    "Images/202406250807.excalidraw.md",
     "Images/202406250737.excalidraw.md",
     "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
