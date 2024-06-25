@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406251608.md",
+                "file": "Notes/202406251727.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e184cb99d5ee2325",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406251729.excalidraw.md"
               }
             }
           },
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406251608.md",
+            "file": "Images/202406251729.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406251608.md",
+            "file": "Images/202406251729.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406251608.md"
+            "file": "Images/202406251729.excalidraw.md"
           }
         }
       },
@@ -150,10 +161,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "542c4f2b75ed06f2",
+  "active": "e184cb99d5ee2325",
   "lastOpenFiles": [
-    "Images/202406251608.excalidraw.md",
+    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
+    "Notes/202406251727.md",
+    "Images/202406251729.excalidraw.md",
     "Notes/202406251608.md",
+    "Images/202406251608.excalidraw.md",
     "Notes/202406251505.md",
     "Images/202406251507.excalidraw.md",
     "Meta/Templates/Excalidraw Template.excalidraw.md",
@@ -176,9 +190,6 @@
     "Notes/202406232242.md",
     "Images/202406232243.excalidraw.md",
     "Notes/202406231607.md",
-    "Notes/202406232200.md",
-    "Images/202406232200.excalidraw.md",
-    "Images/202406231608.excalidraw.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
