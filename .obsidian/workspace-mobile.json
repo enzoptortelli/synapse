@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "218c9275ce7320c9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406250807.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "13f79b79c8303bab",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202406250711.md",
+            "file": "Images/202406250807.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202406250711.md",
+            "file": "Images/202406250807.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202406250711.md"
+            "file": "Images/202406250807.excalidraw.md"
           }
         }
       },
@@ -181,9 +191,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd0ef7544fb7f44b",
+  "active": "218c9275ce7320c9",
   "lastOpenFiles": [
     "Images/202406250737.excalidraw.md",
+    "Images/202406250807.excalidraw.md",
     "Notes/202406250711.md",
     "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
@@ -210,7 +221,6 @@
     "Notes/202406230937.md",
     "Notes/202405172212.md",
     "Images/202405200904.excalidraw.md",
-    "Notes/202405171734.md",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
     "Documents/Temp/PTT-20240620-WA0025.opus",
