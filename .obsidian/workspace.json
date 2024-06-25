@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
-                "mode": "preview",
+                "file": "Notes/202406251505.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem-solution line:\"MS512_2024S1 Lista de SVD\"",
+                "query": "tag:#problem-solution line:\"Lista 5 - Probabilidade I\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 599.5110359191895
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "file": "Notes/202406251505.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md",
+                "file": "Notes/202406251505.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Lista 5 - Probabilidade I.md"
+                "file": "Notes/202406251505.md"
               }
             }
           },
@@ -158,21 +158,23 @@
   },
   "active": "26f146a7fbab63db",
   "lastOpenFiles": [
-    "Notes/202406251727.md",
     "Notes/202406251608.md",
-    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
+    "Notes/202406251505.md",
     "Notes/202406251451.md",
+    "Notes/202406250922.md",
+    "Notes/202406250711.md",
+    "Notes/202406250645.md",
+    "Notes/202406251727.md",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Notes/~syncthing~202406251727.md.tmp",
     "Images/~syncthing~202406251729.excalidraw.md.tmp",
     "Images/202406251729.excalidraw.md",
-    "Notes/202406250922.md",
     "Images/~syncthing~202406251608.excalidraw.md.tmp",
     "Notes/~syncthing~202406251608.md.tmp",
     "Images/202406251608.excalidraw.md",
     "Notes/~syncthing~202406251505.md.tmp",
     "Images/~syncthing~202406251507.excalidraw.md.tmp",
-    "Notes/202406250711.md",
-    "Notes/202406251505.md",
     "Meta/Templates/~syncthing~Excalidraw Template.excalidraw.md.tmp",
     "Images/202406251507.excalidraw.md",
     "Images/202406251452.excalidraw.md",
@@ -181,7 +183,6 @@
     "Notes/~syncthing~202406250922.md.tmp",
     "Images/202406250932.excalidraw.md",
     "Images/202406250906.excalidraw.md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
     "Images/202406250831.excalidraw.md",
     "Images/202406250807.excalidraw.md",
     "Images/202406250737.excalidraw.md",
