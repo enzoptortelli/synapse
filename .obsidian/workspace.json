@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406251505.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406251505.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406250711.md",
+                "file": "Notes/202406251505.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406250711.md"
+                "file": "Notes/202406251505.md"
               }
             }
           },
@@ -166,15 +166,16 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
+    "Images/202406251507.excalidraw.md",
+    "Notes/202406251505.md",
+    "Notes/202406251451.md",
+    "Notes/202406251727.md",
+    "Notes/202406251608.md",
     "Notes/202406250922.md",
     "Notes/202406250711.md",
     "Notes/202406250645.md",
-    "Notes/202406251451.md",
     "Images/202406250712.excalidraw.md",
-    "Notes/202406251727.md",
     "Images/202406250807.excalidraw.md",
-    "Notes/202406251505.md",
-    "Notes/202406251608.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Notes/~syncthing~202406251727.md.tmp",
@@ -186,7 +187,6 @@
     "Notes/~syncthing~202406251505.md.tmp",
     "Images/~syncthing~202406251507.excalidraw.md.tmp",
     "Meta/Templates/~syncthing~Excalidraw Template.excalidraw.md.tmp",
-    "Images/202406251507.excalidraw.md",
     "Images/202406251452.excalidraw.md",
     "Images/~syncthing~202406251452.excalidraw.md.tmp",
     "Notes/~syncthing~202406251451.md.tmp",
