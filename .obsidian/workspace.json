@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406260759.md",
+                "file": "Notes/202406260648.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c47311f6dee3fb5d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -34,8 +26,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "1b2b4e045d02904e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406260759.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406260759.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406260759.md"
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
               }
             }
           },
@@ -171,34 +174,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8779fa6f2a3b2dff",
+  "active": "1b2b4e045d02904e",
   "lastOpenFiles": [
+    "Notes/202406260648.md",
+    "Notes/202406260759.md",
     "Notes/202406261218.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Notes/202406250711.md",
+    "Notes/202406250922.md",
+    "Notes/202406251451.md",
+    "Notes/202406251505.md",
+    "Notes/202406251608.md",
+    "Notes/202406251727.md",
     "Images/202406261218.excalidraw.md",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
     "Notes/~syncthing~202406261218.md.tmp",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Images/~syncthing~202406251608.excalidraw.md.tmp",
-    "Notes/202406260759.md",
     "Images/202406260759.excalidraw.md",
     "Images/~syncthing~202406260759.excalidraw.md.tmp",
     "Notes/~syncthing~202406260759.md.tmp",
     "Notes/~syncthing~202406260648.md.tmp",
     "Images/202406260648.excalidraw.md",
-    "Notes/202406260648.md",
     "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
     "Images/Pasted Image 20240626054615_333.png",
-    "Notes/202406251451.md",
-    "Notes/202406250922.md",
-    "Notes/202406250711.md",
     "Images/Pasted Image 20240626054228_728.png",
-    "Notes/202406251505.md",
     "Images/202406251507.excalidraw.md",
-    "Notes/202406251727.md",
-    "Notes/202406251608.md",
     "Images/202406250712.excalidraw.md",
     "Images/202406250807.excalidraw.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
