@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202406250645.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202406250645.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202406250645.md"
+              }
             }
           },
           {
@@ -160,7 +163,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c47311f6dee3fb5d",
+  "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Notes/202406250645.md",
