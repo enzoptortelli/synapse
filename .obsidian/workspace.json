@@ -11,9 +11,11 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Notes/202406260759.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Notes/202406260759.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Notes/202406260759.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Notes/202406260759.md"
               }
             }
           },
@@ -171,13 +173,13 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
-    "Images/~syncthing~202406260759.excalidraw.md.tmp",
     "Images/202406260759.excalidraw.md",
-    "Notes/~syncthing~202406260759.md.tmp",
     "Notes/202406260759.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Images/~syncthing~202406260759.excalidraw.md.tmp",
+    "Notes/~syncthing~202406260759.md.tmp",
     "Notes/~syncthing~202406260648.md.tmp",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/202406260648.excalidraw.md",
     "Notes/202406260648.md",
     "Notes/202406250645.md",
