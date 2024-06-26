@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e184cb99d5ee2325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406260759.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e622ebc075765ee4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406260759.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "32abe5c983469f15",
             "type": "leaf",
             "state": {
@@ -49,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406260759.excalidraw.md",
+            "file": "Images/202406260648.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406260759.excalidraw.md",
+            "file": "Images/202406260648.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406260759.excalidraw.md"
+            "file": "Images/202406260648.excalidraw.md"
           }
         }
       },
@@ -171,7 +148,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e622ebc075765ee4",
+  "active": "32abe5c983469f15",
   "lastOpenFiles": [
     "Notes/202406260759.md",
     "Images/202406260759.excalidraw.md",
