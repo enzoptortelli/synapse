@@ -11,11 +11,9 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202406251505.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
               }
             }
           },
@@ -73,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406251505.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406251505.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406251505.md"
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
               }
             }
           },
@@ -166,8 +163,9 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
-    "Images/202406251507.excalidraw.md",
+    "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Notes/202406251505.md",
+    "Images/202406251507.excalidraw.md",
     "Notes/202406251451.md",
     "Notes/202406251727.md",
     "Notes/202406251608.md",
@@ -204,7 +202,6 @@
     "Notes/202406231607.md",
     "Notes/202406232242.md",
     "Notes/202405172222.md",
-    "Notes/202406231821.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
