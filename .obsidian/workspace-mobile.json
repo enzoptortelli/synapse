@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "542c4f2b75ed06f2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406250645.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "e184cb99d5ee2325",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202406251729.excalidraw.md"
+                "file": "Images/202406250645.excalidraw.md"
               }
             }
           },
@@ -158,23 +148,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "542c4f2b75ed06f2",
+  "active": "e184cb99d5ee2325",
   "lastOpenFiles": [
     "Notes/202406250645.md",
+    "Notes/202406250922.md",
+    "Images/Pasted Image 20240626054228_728.png",
+    "Images/202406251729.excalidraw.md",
+    "Images/202406250645.excalidraw.md",
     "Notes/202406240747.md",
     "Notes/202406251608.md",
     "Notes/202406251727.md",
-    "Images/202406251729.excalidraw.md",
     "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Images/202406251608.excalidraw.md",
     "Notes/202406251505.md",
     "Images/202406251507.excalidraw.md",
     "Meta/Templates/Excalidraw Template.excalidraw.md",
-    "Notes/202406250922.md",
     "Notes/202406251451.md",
     "Images/202406251452.excalidraw.md",
     "Images/202406250932.excalidraw.md",
-    "Images/202406250645.excalidraw.md",
     "Notes/202406250711.md",
     "Images/202406250737.excalidraw.md",
     "Images/202406250807.excalidraw.md",
@@ -186,7 +177,6 @@
     "Images/202406051010.excalidraw.md",
     "Notes/202406051010.md",
     "Notes/202406232242.md",
-    "Images/202406232243.excalidraw.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
@@ -204,7 +194,6 @@
     "Images/Pasted image 20240607113227.png",
     "Images/Pasted image 20240607113201.png",
     "Images/Pasted image 20240607084650.png",
-    "Images/Pasted image 20240522125319.png",
-    "Images/202405301912.excalidraw.png"
+    "Images/Pasted image 20240522125319.png"
   ]
 }

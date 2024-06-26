@@ -11,9 +11,9 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Images/202406250645.excalidraw.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Images/202406250645.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Images/202406250645.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Images/202406250645.excalidraw.md"
               }
             }
           },
@@ -163,15 +163,17 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
+    "Images/Pasted Image 20240626054228_728.png",
+    "Notes/202406250645.md",
+    "Notes/202406250711.md",
+    "Notes/202406250922.md",
+    "Notes/202406251451.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Notes/202406251505.md",
     "Images/202406251507.excalidraw.md",
-    "Notes/202406251451.md",
     "Notes/202406251727.md",
     "Notes/202406251608.md",
-    "Notes/202406250922.md",
-    "Notes/202406250711.md",
-    "Notes/202406250645.md",
     "Images/202406250712.excalidraw.md",
     "Images/202406250807.excalidraw.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
@@ -187,8 +189,6 @@
     "Meta/Templates/~syncthing~Excalidraw Template.excalidraw.md.tmp",
     "Images/202406251452.excalidraw.md",
     "Images/~syncthing~202406251452.excalidraw.md.tmp",
-    "Notes/~syncthing~202406251451.md.tmp",
-    "Notes/~syncthing~202406250922.md.tmp",
     "Images/202406250932.excalidraw.md",
     "Images/202406250906.excalidraw.md",
     "Images/202406250831.excalidraw.md",
