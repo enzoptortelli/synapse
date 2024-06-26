@@ -33,8 +33,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+              }
             }
           },
           {
@@ -166,7 +169,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "abf4c6550f53a998",
+  "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
