@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406260648.md",
+                "file": "Notes/202406260759.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "e622ebc075765ee4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202406260759.excalidraw.md"
               }
             }
           },
@@ -106,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202406260648.excalidraw.md",
+            "file": "Images/202406260759.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202406260648.excalidraw.md",
+            "file": "Images/202406260759.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202406260648.excalidraw.md"
+            "file": "Images/202406260759.excalidraw.md"
           }
         }
       },
@@ -161,11 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "32abe5c983469f15",
+  "active": "e622ebc075765ee4",
   "lastOpenFiles": [
+    "Notes/202406260759.md",
+    "Images/202406260759.excalidraw.md",
+    "Notes/202406250645.md",
     "Notes/202406260648.md",
     "Images/202406260648.excalidraw.md",
-    "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
     "Images/202406251608.excalidraw.md",
     "Images/Pasted Image 20240626054615_333.png",
@@ -190,8 +202,6 @@
     "Images/202406250712.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/202406231822.excalidraw.md",
-    "Images/202406051010.excalidraw.md",
-    "Notes/202406051010.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
     "Documents/MS512_2024S1_lista_svd.pdf",
