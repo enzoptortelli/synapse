@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Notes/202406260648.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Notes/202406260648.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Notes/202406260648.md"
               }
             }
           },
@@ -174,14 +173,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b2b4e045d02904e",
+  "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406260648.md",
     "Images/202406260648.excalidraw.md",
     "Notes/202406260759.md",
     "Notes/202406261218.md",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406250711.md",
     "Notes/202406250922.md",
     "Notes/202406251451.md",
