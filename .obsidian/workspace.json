@@ -11,11 +11,9 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202406250645.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
               }
             }
           },
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406250645.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406250645.md",
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406250645.md"
+                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
               }
             }
           },
@@ -165,8 +163,12 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
-    "Images/~syncthing~202406250645.excalidraw.md.tmp",
+    "Images/~syncthing~202406260648.excalidraw.md.tmp",
+    "Images/202406260648.excalidraw.md",
+    "Notes/202406260648.md",
+    "Notes/~syncthing~202406260648.md.tmp",
     "Notes/202406250645.md",
+    "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/202406250645.excalidraw.md",
     "Images/Pasted Image 20240626054615_333.png",
     "Notes/202406251451.md",
@@ -190,9 +192,7 @@
     "Images/202406251608.excalidraw.md",
     "Notes/~syncthing~202406251505.md.tmp",
     "Images/~syncthing~202406251507.excalidraw.md.tmp",
-    "Meta/Templates/~syncthing~Excalidraw Template.excalidraw.md.tmp",
     "Images/202406251452.excalidraw.md",
-    "Images/~syncthing~202406251452.excalidraw.md.tmp",
     "Images/202406250932.excalidraw.md",
     "Images/202406250906.excalidraw.md",
     "Images/202406250831.excalidraw.md",
@@ -203,8 +203,6 @@
     "Notes/202406240747.md",
     "Images/Pasted Image 20240624074924_106.png",
     "Images/Pasted Image 20240624074912_854.png",
-    "Notes/202406231607.md",
-    "Notes/202406232242.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
