@@ -11,9 +11,11 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202406250645.excalidraw.md"
+                "file": "Notes/202406250645.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -25,7 +27,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202406250645.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202406250645.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/202406250645.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,15 +160,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8779fa6f2a3b2dff",
+  "active": "c47311f6dee3fb5d",
   "lastOpenFiles": [
-    "Images/Pasted Image 20240626054228_728.png",
     "Notes/202406250645.md",
-    "Notes/202406250711.md",
-    "Notes/202406250922.md",
+    "Images/202406250645.excalidraw.md",
+    "Images/Pasted Image 20240626054615_333.png",
+    "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Notes/202406251451.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
-    "Images/~syncthing~202406250645.excalidraw.md.tmp",
+    "Notes/202406250922.md",
+    "Notes/202406250711.md",
+    "Images/Pasted Image 20240626054228_728.png",
     "Notes/202406251505.md",
     "Images/202406251507.excalidraw.md",
     "Notes/202406251727.md",
@@ -201,13 +202,10 @@
     "Images/Pasted Image 20240624074912_854.png",
     "Notes/202406231607.md",
     "Notes/202406232242.md",
-    "Notes/202405172222.md",
     "Images/Pasted Image 20240623160521_964.png",
     "Images/Pasted Image 20240619094152_848.png",
     "Images/Pasted Image 20240619094035_679.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/Pasted image 20240618082934.png",
-    "Images/Pasted image 20240618083017.png",
-    "Images/202406101008.excalidraw.png"
+    "Images/Pasted image 20240618082934.png"
   ]
 }
