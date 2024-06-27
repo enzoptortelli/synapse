@@ -21,24 +21,14 @@
             "id": "abf4c6550f53a998",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1b2b4e045d02904e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Meta/Templates/Problem-solution.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202406060535.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem-solution line:\"Lista 5 - Probabilidade I\"",
+                "query": "tag:#problem-solution",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -88,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.51103591918945
+    "width": 410.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Templates/Problem-solution.md",
+                "file": "Images/202406060535.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Templates/Problem-solution.md",
+                "file": "Images/202406060535.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Templates/Problem-solution.md"
+                "file": "Images/202406060535.excalidraw.md"
               }
             }
           },
@@ -174,10 +164,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1b2b4e045d02904e",
+  "active": "abf4c6550f53a998",
   "lastOpenFiles": [
-    "Meta/Templates/Problem.md",
+    "Images/202406051814.excalidraw.md",
+    "Images/202406060535.excalidraw.md",
+    "Images/202406060656.excalidraw.md",
+    "Images/202406051741.excalidraw.md",
+    "Images/202406261218.excalidraw.md",
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
+    "Images/Pasted Image 20240626054615_333.png",
+    "Images/Pasted Image 20240626054228_728.png",
+    "Images/Pasted Image 20240624074912_854.png",
+    "Images/202406060535.excalidraw.svg",
+    "Notes/202406060652.md",
+    "Notes/202405172220.md",
+    "Images/202405281449.excalidraw.md",
+    "Notes/202406080657.md",
+    "Notes/202406260759.md",
+    "Notes/202406261218.md",
     "Meta/Templates/Problem-solution.md",
+    "Meta/Templates/Method.md",
+    "Meta/Templates/Problem.md",
     "Meta/Templates/Question.md",
     "Meta/References/Exercícios de Probabilidade.md",
     "Meta/References/Introdução à Inferência Estatística.md",
@@ -191,36 +198,19 @@
     "Notes/202406250711.md",
     "Images/202406250712.excalidraw.md",
     "Notes/202406251505.md",
-    "Notes/202406251608.md",
-    "Notes/202406251727.md",
-    "Notes/202406260648.md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
-    "Images/202406260648.excalidraw.md",
-    "Notes/202406260759.md",
-    "Notes/202406261218.md",
-    "Notes/202406250922.md",
-    "Notes/202406251451.md",
-    "Images/202406261218.excalidraw.md",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
     "Notes/~syncthing~202406261218.md.tmp",
     "Images/~syncthing~202406251608.excalidraw.md.tmp",
-    "Images/202406260759.excalidraw.md",
     "Images/~syncthing~202406260759.excalidraw.md.tmp",
     "Notes/~syncthing~202406260759.md.tmp",
     "Notes/~syncthing~202406260648.md.tmp",
-    "Images/Pasted Image 20240626054615_333.png",
-    "Images/Pasted Image 20240626054228_728.png",
-    "Images/202406251507.excalidraw.md",
-    "Images/202406250807.excalidraw.md",
     "Notes/~syncthing~202406251727.md.tmp",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240624074924_106.png",
-    "Images/Pasted Image 20240624074912_854.png",
     "Images/Pasted Image 20240623160521_964.png",
     "Images/Pasted Image 20240619094152_848.png",
-    "Images/Pasted Image 20240619094035_679.png",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/Pasted image 20240618082934.png"
+    "Images/Pasted Image 20240619094035_679.png"
   ]
 }
