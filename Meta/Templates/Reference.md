@@ -1,12 +1,11 @@
 ---
 tags: 
-link-tags:
+link-tags: 
+author: 
+edition: 
+publication-date: 
+link:
 ---
-**Title**: 
-**Author(s)**: 
-**Edition**: 
-**Date of publication**: 
 
-**Link**: 
 
 

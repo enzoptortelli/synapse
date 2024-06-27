@@ -1,14 +1,15 @@
-**Title**: Pinguins em Terra Vitória: descobrindo o número de espécies por meio da clusterização k-medoids
-**Author(s)**: Enzo Putton Tortelli
-**Edition**: First
-**Date of publication**: 2024-04-23
-
-**Link**: [[Pinguins_em_Terra_Vitória.pdf]]
-
-
 ---
-**Tag(s)**: #article
+tags:
+  - article
+link-tags:
+  - "[[clustering]]"
+author:
+  - Enzo Putton Tortelli
+edition: First
+publication-date: 2024-04-23
+link:
+  - "[[Pinguins_em_Terra_Vitória.pdf]]"
+---
 
-**Link-tag(s)**: [[clustering]] 
 
 
