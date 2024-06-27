@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172222.md",
+                "file": "Meta/References/MS512_2024S1A.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172222.md",
+                "file": "Meta/References/MS512_2024S1A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172222.md",
+                "file": "Meta/References/MS512_2024S1A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172222.md"
+                "file": "Meta/References/MS512_2024S1A.md"
               }
             }
           },
@@ -241,8 +241,8 @@
   },
   "active": "b699a3bfe104a57d",
   "lastOpenFiles": [
-    "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405172222.md",
+    "Meta/References/MS512_2024S1 Lista de Autopares.md",
     "Notes/202405172223.md",
     "Notes/202405172221.md",
     "Notes/202405172215.md",
