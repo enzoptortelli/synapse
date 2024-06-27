@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/ME623 (lista 2).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa767423df966d5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406181013.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a05d57ef75ac668b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202406071131.md",
+                "file": "Meta/References/2024S1_ME623A.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406181013.md",
+                "file": "Meta/References/2024S1_ME623A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406181013.md",
+                "file": "Meta/References/2024S1_ME623A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406181013.md"
+                "file": "Meta/References/2024S1_ME623A.md"
               }
             }
           },
@@ -179,11 +154,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fa767423df966d5b",
+  "active": "2076d7424a8e619c",
   "lastOpenFiles": [
-    "Meta/References/ME623 (lista 2).md",
+    "Notes/ME623 (lista 2).md",
     "Meta/References/2024S1_ME623A.md",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Meta/References/ME623 (lista 2).md",
     "Notes/202406071131.md",
+    "Notes/202406181013.md",
+    "Notes/202406190654.md",
+    "Notes/202406190939.md",
+    "Notes/202406191013.md",
+    "Notes/[2024S1_ME623A.md",
     "Meta/References/Model-based clustering and classification for Data Science.md",
     "Meta/References/ME623 (parte 1).md",
     "Meta/References/ME623 (parte 8).md",
@@ -200,13 +182,6 @@
     "Meta/References/ME623 (parte 15).md",
     "Notes/202406171626.md",
     "Meta/References/ME623 (parte 14).md",
-    "Meta/References/ME623 (parte 12b).md",
-    "Notes/202406141554.md",
-    "Notes/202406141313.md",
-    "Notes/202406181520.md",
-    "Notes/202406181525.md",
-    "Meta/References/ME623 (parte 11).md",
-    "Notes/202406120852.md",
     "Documents/ME623/ME623_parte05.pdf",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
