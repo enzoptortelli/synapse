@@ -29,9 +29,11 @@
             "id": "1b2b4e045d02904e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Meta/Templates/Problem-solution.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Meta/Templates/Problem-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf",
+                "file": "Meta/Templates/Problem-solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
+                "file": "Meta/Templates/Problem-solution.md"
               }
             }
           },
@@ -174,6 +176,16 @@
   },
   "active": "1b2b4e045d02904e",
   "lastOpenFiles": [
+    "Meta/Templates/Problem.md",
+    "Meta/Templates/Problem-solution.md",
+    "Meta/Templates/Question.md",
+    "Meta/References/Exercícios de Probabilidade.md",
+    "Meta/References/Introdução à Inferência Estatística.md",
+    "Meta/References/Lista 5 - Probabilidade I.md",
+    "Meta/References/ME623 (parte 16).md",
+    "Meta/References/ME623 (parte 21).md",
+    "Meta/References/Statistical Inference.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
     "Notes/202406250711.md",
@@ -183,7 +195,6 @@
     "Notes/202406251727.md",
     "Notes/202406260648.md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/202406260648.excalidraw.md",
     "Notes/202406260759.md",
     "Notes/202406261218.md",
@@ -202,15 +213,7 @@
     "Images/Pasted Image 20240626054228_728.png",
     "Images/202406251507.excalidraw.md",
     "Images/202406250807.excalidraw.md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
-    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Notes/~syncthing~202406251727.md.tmp",
-    "Images/202406251729.excalidraw.md",
-    "Images/202406251608.excalidraw.md",
-    "Images/202406251452.excalidraw.md",
-    "Images/202406250932.excalidraw.md",
-    "Images/202406250906.excalidraw.md",
-    "Images/202406250831.excalidraw.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240624074924_106.png",
     "Images/Pasted Image 20240624074912_854.png",
