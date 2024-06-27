@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/ME623 (parte 1).md",
+                "file": "Meta/References/ME623 (lista 2).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/ME623 (parte 1).md",
+                "file": "Meta/References/ME623 (lista 2).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/ME623 (parte 1).md",
+                "file": "Meta/References/ME623 (lista 2).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/ME623 (parte 1).md"
+                "file": "Meta/References/ME623 (lista 2).md"
               }
             }
           },
@@ -156,43 +156,43 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
+    "Meta/References/Model-based clustering and classification for Data Science.md",
     "Meta/References/ME623 (lista 2).md",
-    "Notes/202406191013.md",
-    "Meta/References/2024S1_ME623A.md",
+    "Meta/References/ME623 (parte 1).md",
+    "Meta/References/ME623 (parte 8).md",
+    "Meta/References/ME623 (parte 12a).md",
+    "Meta/References/ME623 (parte 13).md",
+    "Meta/References/ME623 (parte 16).md",
+    "Meta/References/ME623 (parte 17).md",
+    "Meta/References/ME623 (parte 19).md",
+    "Meta/References/ME623 (parte 20).md",
+    "Meta/References/ME623 (parte 21).md",
+    "Meta/References/ME623 (parte 22).md",
+    "Meta/References/ME623 (parte 18).md",
+    "Notes/202406071131.md",
+    "Notes/202406171645.md",
+    "Meta/References/ME623 (parte 15).md",
+    "Notes/202406171626.md",
+    "Meta/References/ME623 (parte 14).md",
+    "Meta/References/ME623 (parte 12b).md",
+    "Notes/202406141554.md",
+    "Notes/202406141313.md",
+    "Notes/202406181520.md",
+    "Notes/202406181525.md",
+    "Meta/References/ME623 (parte 11).md",
+    "Notes/202406120852.md",
+    "Notes/202406120923.md",
     "Documents/ME623/ME623_parte05.pdf",
     "Documents/ME623/ME623_parte01.pdf",
-    "Meta/Templates/Problem-solution.md",
-    "Meta/Templates/Question.md",
-    "Meta/Templates/Reference.md",
-    "Meta/Templates/Sketch.md",
-    "Meta/Templates/Problem.md",
-    "Meta/Templates/Method.md",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Notes/202405172211.md",
-    "Notes/202405171734.md",
-    "Notes/202405170738.md",
-    "Notes/202406260648.md",
-    "Notes/202406260759.md",
-    "Notes/202406261218.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
-    "Images/202406060535.excalidraw.md",
-    "Images/202406051814.excalidraw.md",
-    "Images/202406060656.excalidraw.md",
-    "Images/202406051741.excalidraw.md",
-    "Images/202406261218.excalidraw.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
     "Images/Pasted Image 20240624074912_854.png",
     "Images/202406060535.excalidraw.svg",
-    "Notes/202406060652.md",
-    "Notes/202405172220.md",
-    "Images/202405281449.excalidraw.md",
-    "Notes/202406080657.md",
-    "Meta/References/Exercícios de Probabilidade.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
