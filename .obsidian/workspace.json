@@ -13,91 +13,91 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/MS512_2024S1A.md",
+                "file": "Meta/References/MS512_2024S1 Lista de Autopares.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca0153ca584c4626",
+            "id": "b699a3bfe104a57d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406240747.md",
+                "file": "Notes/202405172222.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "436d3d4f143d28de",
+            "id": "4583ec371cef882e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406232242.md",
+                "file": "Notes/202405172223.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "da13894f2cf44db0",
+            "id": "b190886468dfbaeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406231607.md",
+                "file": "Notes/202405172221.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cfc6d36306dcf317",
+            "id": "61975f30b528b72f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406231121.md",
+                "file": "Notes/202405172215.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2b2128e170228245",
+            "id": "9bbd9030314a393e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406230938.md",
+                "file": "Notes/202405172213.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efc5f6b5f3aa19d0",
+            "id": "08e1b473a2ad478b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406230937.md",
+                "file": "Notes/202405172211.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bbea1c9409b5962a",
+            "id": "9cb0340569833f65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202406230935.md",
+                "file": "Notes/202405171734.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406240747.md",
+                "file": "Notes/202405172222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406240747.md",
+                "file": "Notes/202405172222.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406240747.md"
+                "file": "Notes/202405172222.md"
               }
             }
           },
@@ -239,17 +239,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca0153ca584c4626",
+  "active": "b699a3bfe104a57d",
   "lastOpenFiles": [
-    "Meta/References/MS512_2024S1A.md",
-    "Notes/202406232242.md",
-    "Notes/202406231607.md",
-    "Notes/202406231121.md",
-    "Notes/202406230938.md",
-    "Notes/202406230937.md",
-    "Notes/202406230935.md",
     "Meta/References/MS512_2024S1 Lista de Autopares.md",
+    "Notes/202405172222.md",
+    "Notes/202405172223.md",
+    "Notes/202405172221.md",
+    "Notes/202405172215.md",
+    "Notes/202405172213.md",
+    "Notes/202405172211.md",
+    "Notes/202405171734.md",
+    "Meta/References/MS512_2024S1A.md",
     "Meta/References/MS512_2024S1 Lista de Sistemas Não Lineares.md",
+    "Notes/202406230935.md",
+    "Notes/202406230937.md",
+    "Notes/202406230938.md",
+    "Notes/202406231121.md",
+    "Images/202406231547.excalidraw.md",
+    "Notes/202406231607.md",
+    "Images/202406231608.excalidraw.md",
+    "Notes/202406232242.md",
+    "Notes/202406240747.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Meta/References/Statistical Inference.md",
@@ -257,16 +267,6 @@
     "Meta/References/dsf.md",
     "Meta/References/2024S1_ME623A.md",
     "Meta/References/Applied Linear Regression.md",
-    "Notes/ME623 (lista 2).md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
-    "Meta/References/ME623 (lista 2).md",
-    "Notes/202406071131.md",
-    "Notes/202406181013.md",
-    "Notes/202406190654.md",
-    "Notes/202406190939.md",
-    "Notes/202406191013.md",
-    "Notes/[2024S1_ME623A.md",
-    "Meta/References/Model-based clustering and classification for Data Science.md",
     "Documents/ME623/ME623_parte05.pdf",
     "Documents/ME623/ME623_parte01.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
