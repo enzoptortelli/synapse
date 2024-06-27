@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89c11cb9d5fc2eb0",
+        "id": "05e7d7c1dbf7557a",
         "type": "tabs",
         "children": [
           {
-            "id": "2510268a1cc5fc3e",
+            "id": "50b983c269093c31",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405200650.md",
+                "file": "Notes/202406120852.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405200650.md",
+                "file": "Notes/202406120852.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405200650.md"
+                "file": "Notes/202406120852.md"
               }
             }
           },
@@ -138,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,8 +150,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4c9b32acd74b79a4",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
+    "Meta/References/2024S1_ME623A.md",
     "Notes/202405172223.md",
     "Notes/202406261218.md",
     "Meta/tags.md",
@@ -171,7 +170,6 @@
     "Meta/References/Design and Analysis of Experiments.md",
     "Meta/References/Applied Linear Regression.md",
     "Meta/References/2024S1_ME210A.md",
-    "Meta/References/2024S1_ME623A.md",
     "Notes/202406260759.md",
     "Notes/202406260648.md",
     "Notes/202406251727.md",
