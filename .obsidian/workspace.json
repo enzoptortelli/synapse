@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90f45517c0d6c823",
+        "id": "be69b41549f40e0c",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7eb86b886cca4f",
+            "id": "a00d59a4fb447dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Model-based clustering and classification for Data Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f74390ccb4fef0bc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e89f2406ebda8ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/References/Statistical Inference.md",
+                "file": "Meta/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#problem-solution",
+                "query": "tag:#problem-solution line:\"2024S1_ME210A\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -83,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -103,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Statistical Inference.md",
+                "file": "Meta/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Statistical Inference.md",
+                "file": "Meta/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Statistical Inference.md"
+                "file": "Meta/tags.md"
               }
             }
           },
@@ -173,12 +156,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e89f2406ebda8ade",
+  "active": "5da5bb20117be825",
   "lastOpenFiles": [
+    "Meta/References/Model-based clustering and classification for Data Science.md",
+    "Meta/Templates/Reference.md",
+    "Documents/2024S1_MS512A/MS512_2024S1_lista_svd.pdf",
+    "Meta/References/Statistical Inference.md",
+    "Documents/2024S1_MS512A",
+    "Documents/2024S1_ME210A",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
     "Meta/References/MS512_2024S1A.md",
-    "Meta/References/Model-based clustering and classification for Data Science.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Meta/References/Exercícios de Probabilidade.md",
     "Meta/References/Design and Analysis of Experiments.md",
@@ -195,15 +183,13 @@
     "Notes/202406250922.md",
     "Notes/202406250711.md",
     "Notes/202406250645.md",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Meta/References/dsfsd.md",
     "Notes/202406141313.md",
     "Notes/202406141226.md",
     "Notes/202406141207.md",
-    "Notes/202406120923.md",
-    "Notes/202406120852.md",
-    "Documents/ME623/ME623_parte05.pdf",
-    "Documents/ME623/ME623_parte01.pdf",
+    "Documents/2024S1_ME623A/ME623_parte05.pdf",
+    "Documents/2024S1_ME623A/ME623_parte01.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
@@ -213,9 +199,6 @@
     "Images/Pasted Image 20240624074912_854.png",
     "Images/202406060535.excalidraw.svg",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
-    "Images/~syncthing~202406250645.excalidraw.md.tmp",
-    "Images/~syncthing~202406261218.excalidraw.md.tmp",
-    "Notes/~syncthing~202406261218.md.tmp",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240624074924_106.png",
     "Images/Pasted Image 20240623160521_964.png",
