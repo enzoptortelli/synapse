@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/Untitled.md",
+                "file": "Meta/References/ME623 (parte 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Untitled.md",
+                "file": "Meta/References/ME623 (parte 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Untitled.md",
+                "file": "Meta/References/ME623 (parte 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Untitled.md"
+                "file": "Meta/References/ME623 (parte 1).md"
               }
             }
           },
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,8 +156,12 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
+    "Meta/References/ME623 (lista 2).md",
+    "Notes/202406191013.md",
+    "Meta/References/2024S1_ME623A.md",
+    "Documents/ME623/ME623_parte05.pdf",
+    "Documents/ME623/ME623_parte01.pdf",
     "Meta/Templates/Problem-solution.md",
-    "Meta/References/Untitled.md",
     "Meta/Templates/Question.md",
     "Meta/Templates/Reference.md",
     "Meta/Templates/Sketch.md",
@@ -190,14 +193,10 @@
     "Notes/202406080657.md",
     "Meta/References/Exercícios de Probabilidade.md",
     "Meta/References/Introdução à Inferência Estatística.md",
-    "Meta/References/Lista 5 - Probabilidade I.md",
-    "Meta/References/ME623 (parte 16).md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
     "Notes/~syncthing~202406261218.md.tmp",
-    "Images/~syncthing~202406251608.excalidraw.md.tmp",
-    "Images/~syncthing~202406260759.excalidraw.md.tmp",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240624074924_106.png",
     "Images/Pasted Image 20240623160521_964.png",
