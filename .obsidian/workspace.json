@@ -11,24 +11,15 @@
             "id": "8779fa6f2a3b2dff",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Lista_5_Prob_I_1S_2024.pdf"
-              }
-            }
-          },
-          {
-            "id": "abf4c6550f53a998",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202406060535.excalidraw.md"
+                "file": "Notes/202405172211.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202406060535.excalidraw.md",
+                "file": "Notes/202405172211.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202406060535.excalidraw.md",
+                "file": "Notes/202405172211.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202406060535.excalidraw.md"
+                "file": "Notes/202405172211.md"
               }
             }
           },
@@ -164,10 +155,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "abf4c6550f53a998",
+  "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
-    "Images/202406051814.excalidraw.md",
+    "Notes/202405171734.md",
+    "Notes/202405170738.md",
+    "Notes/202406260648.md",
+    "Notes/202406260759.md",
+    "Notes/202406261218.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/202406060535.excalidraw.md",
+    "Images/202406051814.excalidraw.md",
     "Images/202406060656.excalidraw.md",
     "Images/202406051741.excalidraw.md",
     "Images/202406261218.excalidraw.md",
@@ -180,8 +177,6 @@
     "Notes/202405172220.md",
     "Images/202405281449.excalidraw.md",
     "Notes/202406080657.md",
-    "Notes/202406260759.md",
-    "Notes/202406261218.md",
     "Meta/Templates/Problem-solution.md",
     "Meta/Templates/Method.md",
     "Meta/Templates/Problem.md",
@@ -192,12 +187,8 @@
     "Meta/References/ME623 (parte 16).md",
     "Meta/References/ME623 (parte 21).md",
     "Meta/References/Statistical Inference.md",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406250645.md",
     "Images/202406250645.excalidraw.md",
-    "Notes/202406250711.md",
-    "Images/202406250712.excalidraw.md",
-    "Notes/202406251505.md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
