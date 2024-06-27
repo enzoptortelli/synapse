@@ -3,9 +3,6 @@ tags:
   - problem-solution
   - unfinished
 ---
-# Statement 
-
-
 # Solution
 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405172211.md",
+                "file": "Meta/Templates/Problem-solution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405172211.md",
+                "file": "Meta/Templates/Problem-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405172211.md",
+                "file": "Meta/Templates/Problem-solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405172211.md"
+                "file": "Meta/Templates/Problem-solution.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "8779fa6f2a3b2dff",
   "lastOpenFiles": [
+    "Meta/Templates/Sketch.md",
+    "Meta/Templates/Reference.md",
+    "Meta/Templates/Problem-solution.md",
+    "Meta/Templates/Question.md",
+    "Notes/202405172211.md",
     "Notes/202405171734.md",
     "Notes/202405170738.md",
     "Notes/202406260648.md",
@@ -177,18 +182,13 @@
     "Notes/202405172220.md",
     "Images/202405281449.excalidraw.md",
     "Notes/202406080657.md",
-    "Meta/Templates/Problem-solution.md",
     "Meta/Templates/Method.md",
     "Meta/Templates/Problem.md",
-    "Meta/Templates/Question.md",
     "Meta/References/Exercícios de Probabilidade.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Meta/References/Lista 5 - Probabilidade I.md",
     "Meta/References/ME623 (parte 16).md",
     "Meta/References/ME623 (parte 21).md",
-    "Meta/References/Statistical Inference.md",
-    "Notes/202406250645.md",
-    "Images/202406250645.excalidraw.md",
     "Images/~syncthing~202406260648.excalidraw.md.tmp",
     "Images/~syncthing~202406250645.excalidraw.md.tmp",
     "Images/~syncthing~202406261218.excalidraw.md.tmp",
