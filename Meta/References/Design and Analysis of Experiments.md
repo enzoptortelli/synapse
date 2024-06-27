@@ -3,12 +3,13 @@ tags:
   - book
 link-tags:
   - "[[design-of-experiments]]"
+author:
+  - Douglas C. Montgomery
+edition: Ninth
+publication-date: "2017"
+link:
+  - "[[Montgomery, Design and Analysis of Experiments.pdf]]"
 ---
-**Title**: Design and Analysis of Experiments
-**Author(s)**: Douglas C. Montgomery
-**Edition**: Ninth
-**Date of publication**: 2017
 
-**Link**: [[Montgomery, Design and Analysis of Experiments.pdf]]
 
 
