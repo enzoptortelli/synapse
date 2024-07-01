@@ -34,9 +34,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "788449a68cc3be15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407011229.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407011018.md",
+                "file": "Notes/202407011229.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407011018.md",
+                "file": "Notes/202407011229.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407011018.md"
+                "file": "Notes/202407011229.md"
               }
             }
           },
@@ -172,12 +184,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1fbeb9b64c7ae61a",
+  "active": "788449a68cc3be15",
   "lastOpenFiles": [
-    "Notes/202407011147.md",
     "Notes/202407011018.md",
-    "Notes/202407010950.md",
+    "Notes/202407011229.md",
     "Notes/202407010848.md",
+    "Notes/202407010950.md",
+    "Notes/202407011147.md",
     "Images/~syncthing~202407010909.excalidraw.md.tmp",
     "Meta/tags.md",
     "Images/~syncthing~202407011004.excalidraw.md.tmp",
@@ -209,7 +222,6 @@
     "Documents/2024S1_ME210A",
     "Meta/References/Solutions Manual for Statistical Inference.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
-    "Meta/References/MS512_2024S1A.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
