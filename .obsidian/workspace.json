@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407010848.md",
+                "file": "Notes/202407011018.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202407011018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202407011018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202407011018.md"
+              }
             }
           },
           {
@@ -168,12 +172,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9d474a1eed892a04",
+  "active": "1fbeb9b64c7ae61a",
   "lastOpenFiles": [
-    "Images/~syncthing~202407010909.excalidraw.md.tmp",
+    "Notes/202407011147.md",
     "Notes/202407011018.md",
     "Notes/202407010950.md",
     "Notes/202407010848.md",
+    "Images/~syncthing~202407010909.excalidraw.md.tmp",
     "Meta/tags.md",
     "Images/~syncthing~202407011004.excalidraw.md.tmp",
     "Images/202407011004.excalidraw.md",
