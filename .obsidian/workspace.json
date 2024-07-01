@@ -4,51 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05e7d7c1dbf7557a",
+        "id": "1b2eb701ef489314",
         "type": "tabs",
         "children": [
           {
-            "id": "77cede0fa3579c78",
+            "id": "f586a7e48f00a81e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "1fbeb9b64c7ae61a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407011018.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d474a1eed892a04",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "788449a68cc3be15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407011229.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407011229.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407011229.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/202407011229.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,12 +147,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "788449a68cc3be15",
+  "active": "f586a7e48f00a81e",
   "lastOpenFiles": [
-    "Images/~syncthing~202407011240.excalidraw.md.tmp",
-    "Images/202407011240.excalidraw.md",
     "Notes/202407011018.md",
     "Notes/202407011229.md",
+    "Images/~syncthing~202407011240.excalidraw.md.tmp",
+    "Images/202407011240.excalidraw.md",
     "Notes/202407010848.md",
     "Notes/202407010950.md",
     "Notes/202407011147.md",
