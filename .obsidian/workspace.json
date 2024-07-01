@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 309.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202406280847.md",
+                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202406280847.md",
+                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202406280847.md"
+                "file": "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               }
             }
           },
@@ -183,7 +184,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1430d3c33809525a",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
     "Notes/202406280903.md",
     "Notes/202406280847.md",
