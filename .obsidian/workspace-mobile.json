@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b341e492042bf56",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202407011240.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202407011018.md",
+            "file": "Images/202407011240.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202407011018.md",
+            "file": "Images/202407011240.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202407011018.md"
+            "file": "Images/202407011240.excalidraw.md"
           }
         }
       },
@@ -140,13 +151,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f5a6c182487370d",
+  "active": "5b341e492042bf56",
   "lastOpenFiles": [
+    "Notes/202407011018.md",
+    "Images/202407011240.excalidraw.md",
     "Notes/202407011229.md",
     "Notes/202407010950.md",
     "Notes/202407011147.md",
     "Images/202407010909.excalidraw.md",
-    "Notes/202407011018.md",
     "Images/202407011004.excalidraw.md",
     "Images/202407011002.excalidraw.md",
     "Notes/202407010848.md",
@@ -169,7 +181,6 @@
     "Notes/202406251451.md",
     "Images/202406251608.excalidraw.md",
     "Images/Pasted Image 20240626054615_333.png",
-    "Notes/202406250922.md",
     "Images/Pasted Image 20240626054228_728.png",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240623160521_964.png",
