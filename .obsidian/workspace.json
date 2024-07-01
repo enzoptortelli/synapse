@@ -34,9 +34,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "fe29f3eec9d80db0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407010950.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202407010950.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202407010950.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202407010950.md"
+              }
             }
           },
           {
@@ -168,11 +184,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9d474a1eed892a04",
+  "active": "fe29f3eec9d80db0",
   "lastOpenFiles": [
+    "Notes/202407010950.md",
+    "Notes/202407010848.md",
     "Images/~syncthing~202407010909.excalidraw.md.tmp",
     "Images/202407010909.excalidraw.md",
-    "Notes/202407010848.md",
     "Notes/202407010857.md",
     "Meta/Link-tag/markov chain.md",
     "Meta/Link-tag/stochastic process.md",
