@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ab57446c71756268",
+            "id": "bd9f8283f7d6e5e9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202407011002.excalidraw.md"
+                "file": "Images/202407011004.excalidraw.md"
               }
             }
           },
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407011002.excalidraw.md",
+            "file": "Images/202407011004.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407011002.excalidraw.md",
+            "file": "Images/202407011004.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202407011002.excalidraw.md"
+            "file": "Images/202407011004.excalidraw.md"
           }
         }
       },
@@ -161,9 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab57446c71756268",
+  "active": "bd9f8283f7d6e5e9",
   "lastOpenFiles": [
     "Notes/202407010950.md",
+    "Images/202407011004.excalidraw.md",
     "Images/202407011002.excalidraw.md",
     "Notes/202407010848.md",
     "Images/202407010909.excalidraw.md",
@@ -191,7 +192,6 @@
     "Images/202406251729.excalidraw.md",
     "Notes/202406251608.md",
     "Notes/202406251727.md",
-    "Notes/202406251727.sync-conflict-20240625-172939-27YQRKY.md",
     "Images/Pasted Image 20240625072117_189.png",
     "Images/Pasted Image 20240623160521_964.png",
     "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
