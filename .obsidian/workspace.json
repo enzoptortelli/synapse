@@ -87,7 +87,7 @@
               "state": {
                 "file": "Notes/202407011229.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +154,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "633695c6ee407a94",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
-    "Images/~syncthing~202407020938.excalidraw.md.tmp",
     "Notes/202407020938.md",
+    "Notes/202407011018.md",
+    "Notes/202407011229.md",
+    "Notes/202406260759.md",
+    "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
+    "Meta/References/2024S1_ME210A.md",
+    "Notes/202406260648.md",
+    "Notes/202406250645.md",
+    "Images/~syncthing~202407020938.excalidraw.md.tmp",
     "Notes/~syncthing~202407020938.md.tmp",
     "Images/202407020938.excalidraw.md",
     "Images/~syncthing~202407011240.excalidraw.md.tmp",
@@ -177,8 +183,6 @@
     "Images/202407011002.excalidraw.md",
     "Images/Pasted image 20240618082934.png",
     "Images/Pasted Image 20240619094035_679.png",
-    "Notes/202407011018.md",
-    "Notes/202407011229.md",
     "Images/202407011240.excalidraw.md",
     "Notes/202407010848.md",
     "Notes/202407010950.md",
@@ -191,13 +195,8 @@
     "Images/~syncthing~202407011002.excalidraw.md.tmp",
     "Images/202407010909.excalidraw.md",
     "Notes/202407010857.md",
-    "Meta/Link-tag/markov chain.md",
-    "Meta/Link-tag/stochastic process.md",
     "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Notes/202406280903.md",
-    "Notes/202406280847.md",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
