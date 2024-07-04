@@ -11,11 +11,9 @@
             "id": "633695c6ee407a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Meta/References/2024S1_ME210A.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202407041004.excalidraw.md"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/2024S1_ME210A.md",
+                "file": "Images/202407041004.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/2024S1_ME210A.md",
+                "file": "Images/202407041004.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/2024S1_ME210A.md"
+                "file": "Images/202407041004.excalidraw.md"
               }
             }
           },
@@ -168,10 +166,11 @@
   },
   "active": "633695c6ee407a94",
   "lastOpenFiles": [
+    "Images/Pasted image 20240520202824.png",
+    "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
     "Images/202407041004.excalidraw.md",
     "Meta/References/2024S1_ME623A.md",
-    "Meta/References/2024S1_ME210A.md",
     "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202407011229.md",
     "Notes/202407020938.md",
