@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407020938.md",
+                "file": "Notes/202407051012.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "61987d4b2bb20319",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202407051016.excalidraw.md"
               }
             }
           },
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202407020938.md",
+            "file": "Images/202407051016.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202407020938.md",
+            "file": "Images/202407051016.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202407020938.md"
+            "file": "Images/202407051016.excalidraw.md"
           }
         }
       },
@@ -150,16 +161,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f5a6c182487370d",
+  "active": "61987d4b2bb20319",
   "lastOpenFiles": [
+    "Notes/202407051012.md",
+    "Images/202407051016.excalidraw.md",
+    "Notes/202407020938.md",
+    "Images/202407050859.excalidraw.md",
+    "Images/202407020938.excalidraw.md",
     "Notes/202407051001.md",
     "Images/202407050940.excalidraw.md",
-    "Images/202407050859.excalidraw.md",
-    "Notes/202407020938.md",
     "Notes/202407050926.md",
     "Notes/202407050921.md",
     "Notes/202407050922.md",
-    "Images/202407020938.excalidraw.md",
     "Notes/202407011229.md",
     "Images/202407050802.excalidraw.md",
     "Images/202407041004.excalidraw.md",
@@ -176,8 +189,6 @@
     "Notes/202406250645.md",
     "Notes/202406240747.md",
     "Notes/202406232242.md",
-    "Notes/202406231821.md",
-    "Notes/202406231607.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
