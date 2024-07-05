@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97d6f2518b11259d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051031.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407051025.md",
+                "file": "Notes/202407051031.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407051025.md",
+                "file": "Notes/202407051031.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407051025.md"
+                "file": "Notes/202407051031.md"
               }
             }
           },
@@ -204,10 +216,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7ffd3c41ab9d3112",
+  "active": "97d6f2518b11259d",
   "lastOpenFiles": [
-    "Notes/202407050922.md",
     "Notes/202407051025.md",
+    "Notes/202407051031.md",
+    "Notes/202407050922.md",
     "Notes/202407010848.md",
     "Notes/202406280847.md",
     "Notes/202406280903.md",
@@ -250,7 +263,6 @@
     "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406260759.md",
     "Notes/202406260648.md",
-    "Notes/202406250645.md",
-    "Notes/202406250922.md"
+    "Notes/202406250645.md"
   ]
 }
