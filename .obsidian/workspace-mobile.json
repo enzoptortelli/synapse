@@ -103,7 +103,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "230415fbb1f61459",
@@ -170,7 +171,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f5a6c182487370d",
+  "active": "d61445486b64ef3d",
   "lastOpenFiles": [
     "Images/202407051128.excalidraw.md",
     "Notes/202407051125.md",
