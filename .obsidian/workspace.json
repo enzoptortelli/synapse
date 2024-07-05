@@ -11,10 +11,8 @@
             "id": "633695c6ee407a94",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202407041004.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -95,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202407041004.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202407041004.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/202407041004.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,10 +160,20 @@
   },
   "active": "633695c6ee407a94",
   "lastOpenFiles": [
+    "Images/202407041004.excalidraw.md",
     "Images/Pasted image 20240520202824.png",
+    "Images/Pasted image 20240520202856.png",
+    "Images/Pasted image 20240520202912.png",
+    "Images/Pasted image 20240520203000.png",
+    "Images/Pasted image 20240520203100.png",
+    "Images/Pasted image 20240520203213.png",
+    "Images/Pasted image 20240520203312.png",
+    "Images/Pasted Image 20240614172502_477.jpg",
+    "Images/Pasted Image 20240614172528_460.jpg",
+    "Images/Pasted Image 20240626054228_728.png",
+    "Images/202407020938.excalidraw.md",
     "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
-    "Images/202407041004.excalidraw.md",
     "Meta/References/2024S1_ME623A.md",
     "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202407011229.md",
@@ -180,13 +184,8 @@
     "Notes/202406250645.md",
     "Images/~syncthing~202407020938.excalidraw.md.tmp",
     "Notes/~syncthing~202407020938.md.tmp",
-    "Images/202407020938.excalidraw.md",
     "Images/~syncthing~202407011240.excalidraw.md.tmp",
     "Notes/202406250922.md",
-    "Images/Pasted image 20240520203213.png",
-    "Images/Pasted image 20240521062928.png",
-    "Images/Pasted image 20240607113227.png",
-    "Images/Pasted Image 20240614172517_487.jpg",
     "Images/202405221255.excalidraw.md",
     "Images/202405221332.excalidraw.md",
     "Images/202405250611.excalidraw.md",
@@ -195,8 +194,6 @@
     "Images/202406190940.excalidraw.md",
     "Images/202406250712.excalidraw.md",
     "Images/202407011002.excalidraw.md",
-    "Images/Pasted image 20240618082934.png",
-    "Images/Pasted Image 20240619094035_679.png",
     "Images/202407011240.excalidraw.md",
     "Notes/202407010848.md",
     "Notes/202407010950.md",
@@ -207,10 +204,6 @@
     "Images/202407011004.excalidraw.md",
     "Notes/~syncthing~202407010950.md.tmp",
     "Images/~syncthing~202407011002.excalidraw.md.tmp",
-    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/Pasted Image 20240626054615_333.png",
-    "Images/Pasted Image 20240626054228_728.png",
-    "Images/Pasted Image 20240624074912_854.png"
+    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
   ]
 }

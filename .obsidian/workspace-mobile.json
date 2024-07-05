@@ -18,41 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "87083887ddb052f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407020938.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc8f16b5bb44befb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202407041004.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "92338a9844651cac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202407020938.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407041004.excalidraw.md",
+            "file": "Notes/202407011229.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407041004.excalidraw.md",
+            "file": "Notes/202407011229.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202407041004.excalidraw.md"
+            "file": "Notes/202407011229.md"
           }
         }
       },
@@ -173,14 +140,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dc8f16b5bb44befb",
+  "active": "6f5a6c182487370d",
   "lastOpenFiles": [
+    "Images/202407020938.excalidraw.md",
+    "Notes/202407011229.md",
     "Notes/202407020938.md",
     "Images/202407041004.excalidraw.md",
     "Notes/202407041004.md",
-    "Images/202407020938.excalidraw.md",
     "Images/202407020919.excalidraw.md",
-    "Notes/202407011229.md",
     "Notes/202407011018.md",
     "Images/202407011240.excalidraw.md",
     "Notes/202407010950.md",
