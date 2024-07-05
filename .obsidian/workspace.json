@@ -124,9 +124,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35b816efd64bf10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051125.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -192,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407051118.md",
+                "file": "Notes/202407051125.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407051118.md",
+                "file": "Notes/202407051125.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407051118.md"
+                "file": "Notes/202407051125.md"
               }
             }
           },
@@ -262,15 +274,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "467f15015899870e",
+  "active": "35b816efd64bf10b",
   "lastOpenFiles": [
-    "Images/202407051123.excalidraw.md",
+    "Images/202407051128.excalidraw.md",
+    "Notes/~syncthing~202407051125.md.tmp",
+    "Notes/202407051125.md",
+    "Notes/202407051118.md",
     "Images/~syncthing~202407051123.excalidraw.md.tmp",
+    "Images/202407051123.excalidraw.md",
     "Notes/~syncthing~202407051118.md.tmp",
     "Notes/202407051059.md",
     "Notes/202407051052.md",
     "Notes/202407051031.md",
-    "Notes/202407051118.md",
     "Notes/202407050922.md",
     "Notes/202407010848.md",
     "Notes/202407051025.md",
@@ -295,12 +310,9 @@
     "Meta/References/2024S1_ME623A.md",
     "Images/202407020938.excalidraw.md",
     "Notes/202407050921.md",
-    "Notes/~syncthing~202407050921.md.tmp",
     "Images/202407050859.excalidraw.md",
     "Images/202407050802.excalidraw.md",
-    "Meta/References/Statistical Inference.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/202407041004.excalidraw.md",
     "Images/Pasted image 20240520202824.png",
     "Images/Pasted image 20240520202856.png",
     "Images/Pasted image 20240520202912.png",

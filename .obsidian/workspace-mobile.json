@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407051118.md",
+                "file": "Notes/202407051125.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4d6d0daae0750395",
+            "id": "387fc0ce0dcee109",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202407051123.excalidraw.md"
+                "file": "Images/202407051128.excalidraw.md"
               }
             }
           },
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407051123.excalidraw.md",
+            "file": "Images/202407051128.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407051123.excalidraw.md",
+            "file": "Images/202407051128.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202407051123.excalidraw.md"
+            "file": "Images/202407051128.excalidraw.md"
           }
         }
       },
@@ -171,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d6d0daae0750395",
+  "active": "387fc0ce0dcee109",
   "lastOpenFiles": [
+    "Notes/202407051125.md",
+    "Images/202407051128.excalidraw.md",
     "Notes/202407051118.md",
     "Images/202407051123.excalidraw.md",
     "Notes/202407051012.md",
@@ -198,8 +200,6 @@
     "Notes/202407011018.md",
     "Images/202407011240.excalidraw.md",
     "Notes/202407010950.md",
-    "Notes/202407011147.md",
-    "Images/202407010909.excalidraw.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
