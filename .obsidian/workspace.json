@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "633695c6ee407a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407050922.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d91aa6b78caba0cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/2024S1_ME623A.md",
+                "file": "Notes/202407050922.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,20 +170,24 @@
   },
   "active": "e2d43a0c90ebd9a3",
   "lastOpenFiles": [
-    "Notes/202407050926.md",
+    "Images/202407050940.excalidraw.md",
+    "Notes/~syncthing~202407020938.md.tmp",
+    "Images/~syncthing~202407050940.excalidraw.md.tmp",
     "Notes/202407050922.md",
+    "Notes/202407020938.md",
+    "Notes/202407050926.md",
+    "Meta/References/2024S1_ME623A.md",
+    "Images/202407020938.excalidraw.md",
     "Notes/202407011229.md",
     "Notes/202407011018.md",
     "Notes/202407010950.md",
     "Notes/202407010848.md",
     "Notes/202406280903.md",
-    "Notes/202407020938.md",
     "Notes/202407050921.md",
     "Notes/~syncthing~202407050921.md.tmp",
     "Images/~syncthing~202407050859.excalidraw.md.tmp",
     "Images/202407050859.excalidraw.md",
     "Images/~syncthing~202407020938.excalidraw.md.tmp",
-    "Images/202407020938.excalidraw.md",
     "Images/~syncthing~202407050802.excalidraw.md.tmp",
     "Images/202407050802.excalidraw.md",
     "Meta/References/Statistical Inference.md",
@@ -212,12 +204,10 @@
     "Images/Pasted Image 20240614172528_460.jpg",
     "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
-    "Meta/References/2024S1_ME623A.md",
     "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406260759.md",
     "Notes/202406260648.md",
     "Notes/202406250645.md",
-    "Notes/~syncthing~202407020938.md.tmp",
     "Images/~syncthing~202407011240.excalidraw.md.tmp",
     "Notes/202406250922.md",
     "Images/202405221255.excalidraw.md",
@@ -225,8 +215,6 @@
     "Images/202405250611.excalidraw.md",
     "Images/202406041516.excalidraw.md",
     "Images/202406201435.excalidraw.md",
-    "Images/202406190940.excalidraw.md",
-    "Images/~syncthing~202407010909.excalidraw.md.tmp",
-    "Images/~syncthing~202407011004.excalidraw.md.tmp"
+    "Images/~syncthing~202407010909.excalidraw.md.tmp"
   ]
 }
