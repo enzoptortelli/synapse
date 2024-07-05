@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01762e3c8df694e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex-cheatsheet.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407051031.md",
+                "file": "Documents/latex-cheatsheet.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407051031.md",
+                "file": "Documents/latex-cheatsheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407051031.md"
+                "file": "Documents/latex-cheatsheet.pdf"
               }
             }
           },
@@ -216,10 +226,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "97d6f2518b11259d",
+  "active": "01762e3c8df694e0",
   "lastOpenFiles": [
-    "Notes/202407051025.md",
     "Notes/202407051031.md",
+    "Documents/latex-cheatsheet.pdf",
+    "Notes/202407051025.md",
     "Notes/202407050922.md",
     "Notes/202407010848.md",
     "Notes/202406280847.md",
@@ -260,9 +271,7 @@
     "Images/Pasted Image 20240614172528_460.jpg",
     "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
-    "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
     "Notes/202406260759.md",
-    "Notes/202406260648.md",
-    "Notes/202406250645.md"
+    "Notes/202406260648.md"
   ]
 }
