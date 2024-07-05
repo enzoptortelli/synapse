@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "49173c5204abdcbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202407050802.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202407011229.md",
+            "file": "Images/202407050802.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202407011229.md",
+            "file": "Images/202407050802.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202407011229.md"
+            "file": "Images/202407050802.excalidraw.md"
           }
         }
       },
@@ -140,10 +151,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f5a6c182487370d",
+  "active": "49173c5204abdcbc",
   "lastOpenFiles": [
-    "Images/202407020938.excalidraw.md",
     "Notes/202407011229.md",
+    "Images/202407050802.excalidraw.md",
+    "Images/202407020938.excalidraw.md",
     "Notes/202407020938.md",
     "Images/202407041004.excalidraw.md",
     "Notes/202407041004.md",
@@ -168,7 +180,6 @@
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/202406261218.excalidraw.md",
     "Notes/202406260759.md",
-    "Images/202406260759.excalidraw.md",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
     "Images/Pasted Image 20240625072117_189.png",

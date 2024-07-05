@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407011229.md",
+                "file": "Notes/202407020938.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407011229.md",
+                "file": "Notes/202407020938.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407011229.md",
+                "file": "Notes/202407020938.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407011229.md"
+                "file": "Notes/202407020938.md"
               }
             }
           },
@@ -168,7 +168,14 @@
   },
   "active": "633695c6ee407a94",
   "lastOpenFiles": [
+    "Notes/202407011229.md",
+    "Notes/202407011018.md",
+    "Notes/202407010950.md",
+    "Notes/202407010848.md",
     "Notes/202407020938.md",
+    "Notes/202406280903.md",
+    "Images/202407050802.excalidraw.md",
+    "Images/~syncthing~202407050802.excalidraw.md.tmp",
     "Meta/References/Statistical Inference.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/202407041004.excalidraw.md",
@@ -186,8 +193,6 @@
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
     "Meta/References/2024S1_ME623A.md",
     "Documents/2024S1_ME210A/Lista_5_Prob_I_1S_2024.pdf",
-    "Notes/202407011229.md",
-    "Notes/202407011018.md",
     "Notes/202406260759.md",
     "Notes/202406260648.md",
     "Notes/202406250645.md",
@@ -204,15 +209,10 @@
     "Images/202406250712.excalidraw.md",
     "Images/202407011002.excalidraw.md",
     "Images/202407011240.excalidraw.md",
-    "Notes/202407010848.md",
-    "Notes/202407010950.md",
     "Notes/202407011147.md",
     "Images/~syncthing~202407010909.excalidraw.md.tmp",
-    "Meta/tags.md",
     "Images/~syncthing~202407011004.excalidraw.md.tmp",
-    "Images/202407011004.excalidraw.md",
     "Notes/~syncthing~202407010950.md.tmp",
-    "Images/~syncthing~202407011002.excalidraw.md.tmp",
-    "Documents/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+    "Images/~syncthing~202407011002.excalidraw.md.tmp"
   ]
 }
