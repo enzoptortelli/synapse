@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407051031.md",
+                "file": "Notes/202407051059.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,14 +107,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407051059.md",
+                "file": "Notes/202407051052.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "467f15015899870e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051118.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407051059.md",
+                "file": "Notes/202407051118.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407051059.md",
+                "file": "Notes/202407051118.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407051059.md"
+                "file": "Notes/202407051118.md"
               }
             }
           },
@@ -250,15 +262,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8fb0f86e494158b2",
+  "active": "467f15015899870e",
   "lastOpenFiles": [
-    "Notes/202407051052.md",
+    "Images/202407051123.excalidraw.md",
+    "Images/~syncthing~202407051123.excalidraw.md.tmp",
+    "Notes/~syncthing~202407051118.md.tmp",
     "Notes/202407051059.md",
+    "Notes/202407051052.md",
+    "Notes/202407051031.md",
+    "Notes/202407051118.md",
     "Notes/202407050922.md",
     "Notes/202407010848.md",
     "Notes/202407051025.md",
     "Notes/202407051012.md",
-    "Notes/202407051031.md",
     "Documents/latex-cheatsheet.pdf",
     "Notes/202406280847.md",
     "Notes/202406280903.md",
@@ -281,7 +297,6 @@
     "Notes/202407050921.md",
     "Notes/~syncthing~202407050921.md.tmp",
     "Images/202407050859.excalidraw.md",
-    "Images/~syncthing~202407050802.excalidraw.md.tmp",
     "Images/202407050802.excalidraw.md",
     "Meta/References/Statistical Inference.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
@@ -294,9 +309,6 @@
     "Images/Pasted image 20240520203213.png",
     "Images/Pasted image 20240520203312.png",
     "Images/Pasted Image 20240614172502_477.jpg",
-    "Images/Pasted Image 20240614172528_460.jpg",
-    "Meta/References/2024S1_ME210A.md",
-    "Images/~syncthing~202407041004.excalidraw.md.tmp",
-    "Notes/202406260759.md"
+    "Images/Pasted Image 20240614172528_460.jpg"
   ]
 }
