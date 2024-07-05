@@ -88,9 +88,33 @@
                 "file": "Documents/latex-cheatsheet.pdf"
               }
             }
+          },
+          {
+            "id": "b7bf859c6d081261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051052.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fb0f86e494158b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051059.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -156,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/latex-cheatsheet.pdf",
+                "file": "Notes/202407051059.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/latex-cheatsheet.pdf",
+                "file": "Notes/202407051059.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/latex-cheatsheet.pdf"
+                "file": "Notes/202407051059.md"
               }
             }
           },
@@ -226,10 +250,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "01762e3c8df694e0",
+  "active": "8fb0f86e494158b2",
   "lastOpenFiles": [
-    "Notes/202407051031.md",
+    "Notes/202407051059.md",
+    "Notes/202407051052.md",
     "Documents/latex-cheatsheet.pdf",
+    "Notes/202407051031.md",
     "Notes/202407051025.md",
     "Notes/202407050922.md",
     "Notes/202407010848.md",
@@ -271,7 +297,6 @@
     "Images/Pasted Image 20240614172528_460.jpg",
     "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
-    "Notes/202406260759.md",
-    "Notes/202406260648.md"
+    "Notes/202406260759.md"
   ]
 }
