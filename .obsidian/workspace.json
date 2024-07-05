@@ -11,9 +11,11 @@
             "id": "633695c6ee407a94",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202407020938.excalidraw.md"
+                "file": "Notes/202407020938.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202407020938.excalidraw.md",
+                "file": "Notes/202407020938.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202407020938.excalidraw.md",
+                "file": "Notes/202407020938.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202407020938.excalidraw.md"
+                "file": "Notes/202407020938.md"
               }
             }
           },
@@ -151,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +169,8 @@
   },
   "active": "633695c6ee407a94",
   "lastOpenFiles": [
+    "Images/~syncthing~202407020938.excalidraw.md.tmp",
+    "Images/202407020938.excalidraw.md",
     "Notes/202407020938.md",
     "Images/~syncthing~202407050802.excalidraw.md.tmp",
     "Notes/202407011229.md",
@@ -186,7 +191,6 @@
     "Images/Pasted image 20240520203312.png",
     "Images/Pasted Image 20240614172502_477.jpg",
     "Images/Pasted Image 20240614172528_460.jpg",
-    "Images/202407020938.excalidraw.md",
     "Meta/References/2024S1_ME210A.md",
     "Images/~syncthing~202407041004.excalidraw.md.tmp",
     "Meta/References/2024S1_ME623A.md",
@@ -194,7 +198,6 @@
     "Notes/202406260759.md",
     "Notes/202406260648.md",
     "Notes/202406250645.md",
-    "Images/~syncthing~202407020938.excalidraw.md.tmp",
     "Notes/~syncthing~202407020938.md.tmp",
     "Images/~syncthing~202407011240.excalidraw.md.tmp",
     "Notes/202406250922.md",
