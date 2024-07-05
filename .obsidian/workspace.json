@@ -11,11 +11,9 @@
             "id": "633695c6ee407a94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202407020938.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202407020938.excalidraw.md"
               }
             }
           },
@@ -97,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407020938.md",
+                "file": "Images/202407020938.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407020938.md",
+                "file": "Images/202407020938.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407020938.md"
+                "file": "Images/202407020938.excalidraw.md"
               }
             }
           },
@@ -168,12 +166,12 @@
   },
   "active": "633695c6ee407a94",
   "lastOpenFiles": [
-    "Notes/202407011229.md",
     "Notes/202407020938.md",
+    "Images/~syncthing~202407050802.excalidraw.md.tmp",
+    "Notes/202407011229.md",
     "Notes/202407010848.md",
     "Notes/202407010950.md",
     "Notes/202407011018.md",
-    "Images/~syncthing~202407050802.excalidraw.md.tmp",
     "Notes/202406280903.md",
     "Images/202407050802.excalidraw.md",
     "Meta/References/Statistical Inference.md",
