@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407020938.md",
+                "file": "Notes/202407050922.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2d43a0c90ebd9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407020938.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,19 +180,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "633695c6ee407a94",
+  "active": "e2d43a0c90ebd9a3",
   "lastOpenFiles": [
+    "Notes/202407050926.md",
+    "Notes/202407050922.md",
+    "Notes/202407011229.md",
+    "Notes/202407011018.md",
+    "Notes/202407010950.md",
+    "Notes/202407010848.md",
+    "Notes/202406280903.md",
+    "Notes/202407020938.md",
+    "Notes/202407050921.md",
+    "Notes/~syncthing~202407050921.md.tmp",
     "Images/~syncthing~202407050859.excalidraw.md.tmp",
     "Images/202407050859.excalidraw.md",
-    "Notes/202407011229.md",
-    "Notes/202407020938.md",
     "Images/~syncthing~202407020938.excalidraw.md.tmp",
     "Images/202407020938.excalidraw.md",
     "Images/~syncthing~202407050802.excalidraw.md.tmp",
-    "Notes/202407010848.md",
-    "Notes/202407010950.md",
-    "Notes/202407011018.md",
-    "Notes/202406280903.md",
     "Images/202407050802.excalidraw.md",
     "Meta/References/Statistical Inference.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
@@ -209,10 +226,7 @@
     "Images/202406041516.excalidraw.md",
     "Images/202406201435.excalidraw.md",
     "Images/202406190940.excalidraw.md",
-    "Images/202406250712.excalidraw.md",
-    "Images/202407011002.excalidraw.md",
     "Images/~syncthing~202407010909.excalidraw.md.tmp",
-    "Images/~syncthing~202407011004.excalidraw.md.tmp",
-    "Notes/~syncthing~202407010950.md.tmp"
+    "Images/~syncthing~202407011004.excalidraw.md.tmp"
   ]
 }
