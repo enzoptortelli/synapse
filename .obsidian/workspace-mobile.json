@@ -11,9 +11,11 @@
             "id": "86eabc250caff2bb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202407090951.excalidraw.md"
+                "file": "Notes/202407141919.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407090951.excalidraw.md",
+            "file": "Notes/202407141919.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407090951.excalidraw.md",
+            "file": "Notes/202407141919.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202407090951.excalidraw.md"
+            "file": "Notes/202407141919.md"
           }
         }
       },
@@ -140,13 +142,16 @@
   },
   "active": "86eabc250caff2bb",
   "lastOpenFiles": [
+    "Notes/202407051118.md",
+    "Notes/202407141919.md",
+    "Notes/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf.md",
+    "Notes/202407051125.md",
+    "Notes/202407091612.md",
     "Images/202407090951.excalidraw.md",
     "Images/202407081943.excalidraw.md",
     "Images/202407051128.excalidraw.md",
     "Images/202407051016.excalidraw.md",
     "Images/202407050859.excalidraw.md",
-    "Notes/202407051125.md",
-    "Notes/202407051118.md",
     "Images/202407051123.excalidraw.md",
     "Notes/202407051012.md",
     "Notes/202407051059.md",
@@ -164,9 +169,6 @@
     "Notes/202407011229.md",
     "Images/202407050802.excalidraw.md",
     "Images/202407041004.excalidraw.md",
-    "Notes/202407041004.md",
-    "Images/202407020919.excalidraw.md",
-    "Notes/202407011018.md",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted Image 20240626054228_728.png",
