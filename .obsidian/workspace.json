@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f677aec8ea28e152",
+        "id": "83c2dcc333e1e1d4",
         "type": "tabs",
         "children": [
           {
-            "id": "ffcadc58ec7e93d3",
+            "id": "dcfa4e74b6cd724d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Livro_Elcio_Lebensztayn.pdf"
-              }
-            }
-          },
-          {
-            "id": "e47d3524858ea8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407051125.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +150,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e47d3524858ea8e7",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
     "Notes/202407141922.md",
     "Notes/202407051125.md",
