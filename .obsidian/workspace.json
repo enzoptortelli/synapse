@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "16b69b719bac3a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407150955.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407150951.md",
+                "file": "Notes/202407150955.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407150951.md",
+                "file": "Notes/202407150955.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407150951.md"
+                "file": "Notes/202407150955.md"
               }
             }
           },
@@ -179,8 +191,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3282bd8d7b0cf595",
+  "active": "16b69b719bac3a07",
   "lastOpenFiles": [
+    "Notes/202407150955.md",
+    "Notes/202407150951.md",
     "Notes/202407051001.md",
     "Notes/202407051012.md",
     "Notes/202407051025.md",
@@ -189,7 +203,6 @@
     "Notes/202407051059.md",
     "Notes/202407051118.md",
     "Notes/202407051125.md",
-    "Notes/202407150951.md",
     "Notes/202405181653.md",
     "Notes/202405181656.md",
     "Notes/202407011229.md",
@@ -206,7 +219,6 @@
     "Meta/Link-tag/markov chain.md",
     "Notes/202407141922.md",
     "Images/202407141922.excalidraw.md",
-    "Notes/202407091612.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/MS512_2024S1_lista_autopar.pdf",
