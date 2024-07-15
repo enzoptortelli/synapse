@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202405181653.md",
+                "file": "Notes/202407051125.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3282bd8d7b0cf595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407150951.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202405181653.md",
+                "file": "Notes/202407150951.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202405181653.md",
+                "file": "Notes/202407150951.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202405181653.md"
+                "file": "Notes/202407150951.md"
               }
             }
           },
@@ -167,21 +179,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "6f226728a0b9f972",
+  "active": "3282bd8d7b0cf595",
   "lastOpenFiles": [
-    "Notes/202405181656.md",
-    "Notes/202407051125.md",
+    "Notes/202407051001.md",
+    "Notes/202407051012.md",
+    "Notes/202407051025.md",
+    "Notes/202407051031.md",
+    "Notes/202407051052.md",
+    "Notes/202407051059.md",
     "Notes/202407051118.md",
+    "Notes/202407051125.md",
+    "Notes/202407150951.md",
+    "Notes/202405181653.md",
+    "Notes/202405181656.md",
     "Notes/202407011229.md",
     "Notes/202407011018.md",
     "Notes/202407020938.md",
     "Notes/202407050922.md",
-    "Notes/202407051001.md",
-    "Notes/202407051025.md",
-    "Notes/202407051059.md",
-    "Notes/202407051052.md",
-    "Notes/202407051031.md",
-    "Notes/202407051012.md",
     "Notes/202406232242.md",
     "Notes/202406240747.md",
     "Notes/202407010950.md",
@@ -193,14 +207,12 @@
     "Notes/202407141922.md",
     "Images/202407141922.excalidraw.md",
     "Notes/202407091612.md",
-    "Notes/202407141919.md",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Meta/References/Statistical Inference.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
