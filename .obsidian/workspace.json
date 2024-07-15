@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0c61a480f5ce0457",
+        "id": "631c0298ee3229fe",
         "type": "tabs",
         "children": [
           {
-            "id": "6f226728a0b9f972",
+            "id": "f329402ea6b75d6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407150955.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "752e6a5f00943bb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407151355.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "914e2cc13c7d1406",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407150955.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407151355.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407151355.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/202407151355.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,13 +146,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "752e6a5f00943bb1",
+  "active": "f329402ea6b75d6b",
   "lastOpenFiles": [
-    "Images/202407151359.excalidraw.md",
     "Notes/202407150955.md",
     "Notes/202407151355.md",
-    "Notes/202407150951.md",
     "Notes/202407151048.md",
+    "Images/202407151359.excalidraw.md",
+    "Notes/202407150951.md",
     "Notes/202407051125.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
