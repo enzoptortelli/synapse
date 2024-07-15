@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407151728.md",
+                "file": "Notes/202407151619.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407151728.md",
+                "file": "Notes/202407151619.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407151728.md",
+                "file": "Notes/202407151619.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407151728.md"
+                "file": "Notes/202407151619.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "aa1de6883f73685d",
   "lastOpenFiles": [
-    "Notes/202407151619.md",
     "Notes/202407151728.md",
+    "Notes/202407151619.md",
     "Notes/202407151355.md",
     "Notes/202407151048.md",
     "Notes/202407051031.md",
