@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "0dbcda20487022c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe89a4d50fc4eda0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2016d6e89a4521e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407151355.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f18d25952c7a2769",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d61445486b64ef3d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabeticalReverse"
+          }
+        }
+      },
+      {
+        "id": "6c5546b9da56d1cf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "[\"link-tags\":eigenpair] -tag:#problem-solution tag:#class-notes",
+            "matchingCase": true,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabeticalReverse"
+          }
+        }
+      },
+      {
+        "id": "5814d359307e4734",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3600c4887eaede5d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "230415fbb1f61459",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "54b680dc0ca474df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Notes/202407151355.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1548b593c971e2fd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Notes/202407151355.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cfe2c4914bd10db0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Notes/202407151355.md"
+          }
+        }
+      },
+      {
+        "id": "32394f45d554f62e",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "2016d6e89a4521e4",
+  "lastOpenFiles": [
+    "Notes/202407151619.md",
+    "Notes/202407151355.md",
+    "Notes/202407151615.md",
+    "Images/202407151359.excalidraw.md",
+    "Notes/202407151505.md",
+    "Notes/202407151425.md",
+    "Notes/202407051059.md",
+    "Notes/202407151048.md",
+    "Notes/202407150955.md",
+    "Images/202407151005.excalidraw.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202407141922.md",
+    "Notes/202407051125.md",
+    "Notes/202407051118.md",
+    "Images/202407141922.excalidraw.md",
+    "Notes/202407141919.md",
+    "Notes/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf.md",
+    "Notes/202407091612.md",
+    "Images/202407090951.excalidraw.md",
+    "Images/202407081943.excalidraw.md",
+    "Images/202407051128.excalidraw.md",
+    "Images/202407051016.excalidraw.md",
+    "Images/202407050859.excalidraw.md",
+    "Images/202407051123.excalidraw.md",
+    "Notes/202407051012.md",
+    "Notes/202407051052.md",
+    "Documents/latex-cheatsheet.pdf",
+    "Notes/202407051031.md",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Images/Pasted Image 20240626054615_333.png",
+    "Images/Pasted Image 20240626054228_728.png",
+    "Images/Pasted Image 20240625072117_189.png",
+    "Images/Pasted Image 20240623160521_964.png",
+    "Documents/MS512_2024S1_lista_sistemas-nao-lineares.pdf",
+    "Documents/MS512_2024S1_lista_svd.pdf",
+    "Documents/Temp/PTT-20240620-WA0025.opus",
+    "Documents/Temp/PTT-20240620-WA0021.opus",
+    "Documents/Temp/PTT-20240620-WA0018.opus",
+    "Documents/Temp/PTT-20240620-WA0017.opus",
+    "Documents/Temp/PTT-20240620-WA0011.opus",
+    "Images/Pasted Image 20240619094152_848.png",
+    "Images/Pasted Image 20240619094035_679.png",
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
+    "Images/Pasted image 20240607113227.png",
+    "Images/Pasted image 20240607113201.png",
+    "Images/Pasted image 20240607084650.png"
+  ]
+}
