@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407151048.md",
+                "file": "Notes/202407151615.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407151048.md",
+                "file": "Notes/202407151615.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407151048.md",
+                "file": "Notes/202407151615.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407151048.md"
+                "file": "Notes/202407151615.md"
               }
             }
           },
@@ -169,14 +169,17 @@
   "active": "f329402ea6b75d6b",
   "lastOpenFiles": [
     "Notes/202407151355.md",
+    "Notes/202407150955.md",
     "Notes/202407151048.md",
+    "Notes/202407051052.md",
+    "Notes/202407150951.md",
+    "Notes/202407051118.md",
+    "Notes/202407051125.md",
+    "Notes/202407051059.md",
     "Notes/202407051031.md",
     "Notes/202407151505.md",
     "Notes/202407151425.md",
-    "Notes/202407150955.md",
     "Images/202407151359.excalidraw.md",
-    "Notes/202407150951.md",
-    "Notes/202407051125.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
@@ -191,9 +194,6 @@
     "Notes/202407051001.md",
     "Notes/202407051012.md",
     "Notes/202407051025.md",
-    "Notes/202407051052.md",
-    "Notes/202407051059.md",
-    "Notes/202407051118.md",
     "Notes/202405181653.md",
     "Notes/202405181656.md",
     "Notes/202407011229.md",
