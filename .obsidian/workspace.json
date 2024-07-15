@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f226728a0b9f972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202405181653.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407051125.md",
+                "file": "Notes/202405181653.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407051125.md",
+                "file": "Notes/202405181653.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407051125.md"
+                "file": "Notes/202405181653.md"
               }
             }
           },
@@ -154,10 +167,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "69febfb0a956efc6",
+  "active": "6f226728a0b9f972",
   "lastOpenFiles": [
-    "Notes/202407051118.md",
+    "Notes/202405181656.md",
     "Notes/202407051125.md",
+    "Notes/202407051118.md",
     "Notes/202407011229.md",
     "Notes/202407011018.md",
     "Notes/202407020938.md",
@@ -187,7 +201,6 @@
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Meta/References/Statistical Inference.md",
-    "Notes/Statistical Inference -- George Casella; Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
