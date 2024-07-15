@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6e924a99728e2e09",
+        "id": "fe89a4d50fc4eda0",
         "type": "tabs",
         "children": [
           {
-            "id": "2514399438b552b8",
+            "id": "2016d6e89a4521e4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202407151359.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c53c77929e3f5371",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202407151359.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407151359.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407151359.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202407151359.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -148,13 +132,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2514399438b552b8",
+  "active": "2016d6e89a4521e4",
   "lastOpenFiles": [
     "Notes/202407151355.md",
+    "Images/202407151359.excalidraw.md",
     "Notes/202407151505.md",
     "Notes/202407151425.md",
     "Notes/202407051059.md",
-    "Images/202407151359.excalidraw.md",
     "Notes/202407151048.md",
     "Notes/202407150955.md",
     "Images/202407151005.excalidraw.md",
