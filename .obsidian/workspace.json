@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/latex_symbols.pdf",
+                "file": "Notes/202407161131.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/latex_symbols.pdf",
+                "file": "Notes/202407161131.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Notes/202407161131.md"
               }
             }
           },
@@ -226,21 +226,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2f0b9d1e30d609f8",
+  "active": "2bd7e1f63737b0b1",
   "lastOpenFiles": [
-    "Notes/202407161131.md",
-    "Documents/latex_symbols.pdf",
     "Notes/202407161121.md",
+    "Notes/202407161131.md",
+    "Notes/202407160844.md",
+    "Notes/202407150951.md",
+    "Notes/202407160926.md",
+    "Notes/202407160924.md",
+    "Documents/latex_symbols.pdf",
     "recorrência.md",
     "Notes/202407151355.md",
-    "Notes/202407160844.md",
-    "Notes/202407160924.md",
-    "Notes/202407160926.md",
     "Notes/202407051059.md",
     "Notes/202407051118.md",
     "Notes/202407150955.md",
     "Notes/202407151048.md",
-    "Notes/202407150951.md",
     "Images/202407160911.excalidraw.md",
     "Images/202407160849.excalidraw.md",
     "Images/202407160824.excalidraw.md",
