@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28746209be85b9bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407160924.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8fdec9537f8b332f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407151355.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c60132d1065ef748",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407150951.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407160844.md",
+                "file": "Notes/202407151355.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407160844.md",
+                "file": "Notes/202407151355.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407160844.md"
+                "file": "Notes/202407151355.md"
               }
             }
           },
@@ -156,11 +192,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b68078a33d112377",
+  "active": "8fdec9537f8b332f",
   "lastOpenFiles": [
-    "Notes/202407151048.md",
     "Notes/202407160844.md",
     "Notes/202407151355.md",
+    "Notes/202407151048.md",
+    "Notes/202407160924.md",
+    "Notes/202407160926.md",
+    "Notes/202407150951.md",
     "Images/202407160911.excalidraw.md",
     "Images/202407160849.excalidraw.md",
     "Images/202407160824.excalidraw.md",
@@ -174,7 +213,6 @@
     "Notes/202407151615.md",
     "Notes/202407150955.md",
     "Notes/202407051052.md",
-    "Notes/202407150951.md",
     "Notes/202407051118.md",
     "Notes/202407051125.md",
     "Notes/202407051059.md",
@@ -192,8 +230,6 @@
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Images/202407151005.excalidraw.md",
-    "Notes/202407051001.md",
-    "Notes/202407051012.md",
     "Images/Pasted image 20240607113227.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240520202824.png",
