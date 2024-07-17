@@ -112,9 +112,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3aeba944fb52fa0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407170929.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -180,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407170917.md",
+                "file": "Notes/202407170929.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407170917.md",
+                "file": "Notes/202407170929.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407170917.md"
+                "file": "Notes/202407170929.md"
               }
             }
           },
@@ -238,10 +250,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a8fcf000b4620fb1",
+  "active": "3aeba944fb52fa0d",
   "lastOpenFiles": [
-    "Images/202407170920.excalidraw.md",
+    "Notes/202407170929.md",
     "Notes/202407170917.md",
+    "Images/202407170920.excalidraw.md",
     "Notes/202407170906.md",
     "Documents/latex_symbols.pdf",
     "Notes/202407161131.md",
@@ -266,7 +279,6 @@
     "Images/202407160849.excalidraw.md",
     "Images/202407160824.excalidraw.md",
     "Notes/202407151759.md",
-    "Notes/202407151619.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
