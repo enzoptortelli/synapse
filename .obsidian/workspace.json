@@ -100,9 +100,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8fcf000b4620fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407170917.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407170906.md",
+                "file": "Notes/202407170917.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407170906.md",
+                "file": "Notes/202407170917.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407170906.md"
+                "file": "Notes/202407170917.md"
               }
             }
           },
@@ -226,17 +238,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "edf72b649b8aa7f8",
+  "active": "a8fcf000b4620fb1",
   "lastOpenFiles": [
-    "Notes/202407161131.md",
+    "Images/202407170920.excalidraw.md",
+    "Notes/202407170917.md",
     "Notes/202407170906.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202407161131.md",
     "Meta/References/2024S1_ME623A.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
     "Meta/References/MS512_2024S1A.md",
     "Notes/202407160844.md",
     "Images/202407161258.excalidraw.md",
-    "Documents/latex_symbols.pdf",
     "Notes/202407051125.md",
     "Notes/202407150951.md",
     "Notes/202407150955.md",
@@ -253,8 +267,6 @@
     "Images/202407160824.excalidraw.md",
     "Notes/202407151759.md",
     "Notes/202407151619.md",
-    "Notes/202407151756.md",
-    "Notes/202407151755.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
