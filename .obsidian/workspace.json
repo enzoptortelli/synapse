@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407160844.md",
+                "file": "Notes/202407161131.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,9 +88,21 @@
                 "file": "Documents/latex_symbols.pdf"
               }
             }
+          },
+          {
+            "id": "edf72b649b8aa7f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407170906.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407160844.md",
+                "file": "Notes/202407170906.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407160844.md",
+                "file": "Notes/202407170906.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407160844.md"
+                "file": "Notes/202407170906.md"
               }
             }
           },
@@ -214,9 +226,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b68078a33d112377",
+  "active": "edf72b649b8aa7f8",
   "lastOpenFiles": [
+    "Notes/202407170906.md",
     "Notes/202407161131.md",
+    "Meta/References/2024S1_ME623A.md",
+    "Meta/References/Introdução à Inferência Estatística.md",
+    "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
+    "Meta/References/MS512_2024S1A.md",
+    "Notes/202407160844.md",
     "Images/202407161258.excalidraw.md",
     "Documents/latex_symbols.pdf",
     "Notes/202407051125.md",
@@ -227,7 +245,6 @@
     "Notes/202407160924.md",
     "Notes/202407160926.md",
     "Notes/202407161121.md",
-    "Notes/202407160844.md",
     "recorrência.md",
     "Notes/202407051059.md",
     "Notes/202407051118.md",
@@ -238,10 +255,6 @@
     "Notes/202407151619.md",
     "Notes/202407151756.md",
     "Notes/202407151755.md",
-    "Notes/202407151728.md",
-    "Notes/202407151757.md",
-    "Notes/202407051031.md",
-    "Notes/202407151615.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
