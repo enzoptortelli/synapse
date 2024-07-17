@@ -11,9 +11,11 @@
             "id": "a632264ad10e4192",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202407171606.excalidraw.md"
+                "file": "Notes/202407171117.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202407171606.excalidraw.md",
+            "file": "Notes/202407171117.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202407171606.excalidraw.md",
+            "file": "Notes/202407171117.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202407171606.excalidraw.md"
+            "file": "Notes/202407171117.md"
           }
         }
       },
@@ -140,10 +142,17 @@
   },
   "active": "a632264ad10e4192",
   "lastOpenFiles": [
+    "Images/Notes_240717_170521_3 (1).jpg",
+    "Images/Notes_240717_170521_2 (1).jpg",
+    "Images/Notes_240717_170521_1 (1).jpg",
+    "Notes/202407171117.md",
+    "Images/Pasted image 20240618082934.png",
+    "Images/Pasted Image 20240626054615_333.png",
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
+    "Images/202407171640.excalidraw.md",
     "Images/202407171606.excalidraw.md",
     "Notes/202407170917.md",
     "Images/202407171139.excalidraw.md",
-    "Notes/202407171117.md",
     "Notes/202407171105.md",
     "Images/202407170939.excalidraw.md",
     "Notes/202407170929.md",
@@ -163,8 +172,6 @@
     "Notes/202407151759.md",
     "Notes/202407151619.md",
     "Notes/202407151756.md",
-    "Notes/202407151755.md",
-    "Notes/202407151728.md",
-    "Notes/202405170738.md"
+    "Notes/202407151755.md"
   ]
 }
