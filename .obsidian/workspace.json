@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "28746209be85b9bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407160924.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8fdec9537f8b332f",
             "type": "leaf",
             "state": {
@@ -102,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407161131.md",
+                "file": "Notes/202407160844.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407161131.md",
+                "file": "Notes/202407160844.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407161131.md"
+                "file": "Notes/202407160844.md"
               }
             }
           },
@@ -226,11 +214,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2bd7e1f63737b0b1",
+  "active": "b68078a33d112377",
   "lastOpenFiles": [
-    "Notes/202407051125.md",
     "Notes/202407161131.md",
     "Images/202407161258.excalidraw.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202407051125.md",
     "Notes/202407150951.md",
     "Notes/202407150955.md",
     "Notes/202407151048.md",
@@ -239,7 +228,6 @@
     "Notes/202407160926.md",
     "Notes/202407161121.md",
     "Notes/202407160844.md",
-    "Documents/latex_symbols.pdf",
     "recorrência.md",
     "Notes/202407051059.md",
     "Notes/202407051118.md",
@@ -254,7 +242,6 @@
     "Notes/202407151757.md",
     "Notes/202407051031.md",
     "Notes/202407151615.md",
-    "Notes/202407051052.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
