@@ -4,83 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "f7fe996e289cad48",
+        "id": "00f0581bac9f27cb",
         "type": "tabs",
         "children": [
           {
-            "id": "aa1de6883f73685d",
+            "id": "a581bf9187a0ccfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407151355.md",
+                "file": "Notes/202407171105.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b68078a33d112377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407161131.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fdec9537f8b332f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407160926.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c60132d1065ef748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407150951.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "274e7e073b5d75c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407161121.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bd7e1f63737b0b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407161131.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f0b9d1e30d609f8",
+            "id": "855e9f2717054cbe",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -90,43 +30,19 @@
             }
           },
           {
-            "id": "edf72b649b8aa7f8",
+            "id": "06e3346d18cacc9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407170917.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8fcf000b4620fb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407170917.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3aeba944fb52fa0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407170917.md",
+                "file": "Notes/202407171117.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407170917.md",
+                "file": "Notes/202407171117.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -209,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407170917.md",
+                "file": "Notes/202407171117.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407170917.md"
+                "file": "Notes/202407171117.md"
               }
             }
           },
@@ -250,15 +166,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "edf72b649b8aa7f8",
+  "active": "06e3346d18cacc9f",
   "lastOpenFiles": [
-    "Notes/202407170906.md",
+    "Notes/202407171117.md",
+    "Notes/202407171105.md",
+    "Documents/latex_symbols.pdf",
     "Notes/202407170917.md",
     "Notes/202407170929.md",
+    "Notes/202407151355.md",
+    "Notes/202407161131.md",
+    "Notes/202407160926.md",
+    "Notes/202407150951.md",
+    "Notes/202407161121.md",
+    "Notes/202407170906.md",
     "Images/202407170939.excalidraw.md",
     "Images/202407170920.excalidraw.md",
-    "Documents/latex_symbols.pdf",
-    "Notes/202407161131.md",
     "Meta/References/2024S1_ME623A.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
@@ -266,19 +188,13 @@
     "Notes/202407160844.md",
     "Images/202407161258.excalidraw.md",
     "Notes/202407051125.md",
-    "Notes/202407150951.md",
     "Notes/202407150955.md",
     "Notes/202407151048.md",
-    "Notes/202407151355.md",
     "Notes/202407160924.md",
-    "Notes/202407160926.md",
-    "Notes/202407161121.md",
     "recorrência.md",
     "Notes/202407051059.md",
     "Notes/202407051118.md",
     "Images/202407160911.excalidraw.md",
-    "Images/202407160849.excalidraw.md",
-    "Images/202407160824.excalidraw.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
