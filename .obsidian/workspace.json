@@ -11,8 +11,12 @@
             "id": "e455f01e58c4dda1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/ME623A_2024S1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Meta/References/ME623A_2024S1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Meta/References/ME623A_2024S1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/teste note.md"
+                "file": "Meta/References/ME623A_2024S1.md"
               }
             }
           },
@@ -137,8 +143,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "e455f01e58c4dda1",
   "lastOpenFiles": [
+    "Meta/References/ME210A_2024S1.md",
+    "Meta/References/ME623A_2024S1.md",
+    "Meta/References/MS512_2024S1A.md",
+    "Notes/202406251451.md",
+    "Meta/References/Applied Linear Regression.md",
+    "Meta/References/Design and Analysis of Experiments.md",
+    "Meta/References/Exercícios de Probabilidade.md",
+    "MS512_2024S1_lista_sistemas-nao-lineares.pdf.md",
+    "Meta/References/Statistical Inference.md",
+    "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/teste note.md",
     "Notes/202407171105.md",
     "Notes/202407171117.md",
@@ -160,15 +176,6 @@
     "Notes/202407170906.md",
     "Images/202407170939.excalidraw.md",
     "Images/202407170920.excalidraw.md",
-    "Meta/References/2024S1_ME623A.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
-    "Meta/References/Pinguins em Terra Vitória descobrindo o número de espécies por meio da clusterização k-medoids.md",
-    "Meta/References/MS512_2024S1A.md",
-    "Notes/202407160844.md",
-    "Images/202407161258.excalidraw.md",
-    "Notes/202407051125.md",
-    "Notes/202407150955.md",
-    "Notes/202407151048.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Documents/Livro_Elcio_Lebensztayn.pdf",
@@ -177,7 +184,6 @@
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Documents/ALSM_5Ed_Kutner.pdf",
     "Images/Pasted image 20240607113227.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240520202824.png",
