@@ -23,9 +23,11 @@
             "id": "882afdd692010260",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista_1.pdf"
+                "file": "Notes/202408061619.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista_1.pdf",
+                "file": "Notes/202408061619.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista_1.pdf",
+                "file": "Notes/202408061619.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista_1.pdf"
+                "file": "Notes/202408061619.md"
               }
             }
           },
@@ -157,6 +159,9 @@
   },
   "active": "882afdd692010260",
   "lastOpenFiles": [
+    "Meta/References/ME501A_2024S2.md",
+    "Notes/202408061619.md",
+    "Documents/ME501A_2024S2/lista_1.pdf",
     "Notes/202408061402.md",
     "Documents/ME501A_2024S2",
     "Notes/202408061240.md",
@@ -194,8 +199,6 @@
     "Images/202407171139.excalidraw.md",
     "Documents/latex_symbols.pdf",
     "Notes/202407170917.md",
-    "Notes/202407170929.md",
-    "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
     "Images/Pasted image 20240607113227.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240520202824.png",
