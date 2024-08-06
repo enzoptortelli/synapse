@@ -11,9 +11,11 @@
             "id": "18cca17da145422e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20240520202824.png"
+                "file": "Notes/202408061402.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -42,7 +44,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:unfinished",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/Pasted image 20240520202824.png",
+            "file": "Notes/202408061402.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/Pasted image 20240520202824.png",
+            "file": "Notes/202408061402.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/Pasted image 20240520202824.png"
+            "file": "Notes/202408061402.md"
           }
         }
       },
@@ -140,6 +142,18 @@
   },
   "active": "18cca17da145422e",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista_1.pdf",
+    "Documents/ME501A_2024S2",
+    "Documents/ME502A_2024S2",
+    "Documents/Untitled",
+    "Documents/lista_1.pdf",
+    "Notes/202408061240.md",
+    "Notes/202407171117.md",
+    "Notes/202408061402.md",
+    "Images/202408061402.excalidraw.md",
+    "Images/Pasted image 20240520202824.png",
+    "Meta/References/MA502P_2024S2.md",
+    "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
     "Images/Pasted Image 20240626054615_333.png",
     "Documents/ME651/Atividade 1 - Sistema de Conhecimento Profundo.pdf",
     "Documents/ME651/Conhecimento Profundo.pdf",
@@ -152,7 +166,6 @@
     "Notes/teste note.md",
     "Images/202407170939.excalidraw.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Notes/202407171117.md",
     "Notes/202407171105.md",
     "Images/202407221837.excalidraw.md",
     "Images/Notes_240717_170521_3 (1).jpg",
@@ -169,10 +182,6 @@
     "Notes/202407160844.md",
     "Notes/202407161131.md",
     "Notes/202407170906.md",
-    "Images/202407161258.excalidraw.md",
-    "Images/202407160911.excalidraw.md",
-    "Notes/202407161121.md",
-    "Notes/202407160926.md",
-    "Notes/202407160924.md"
+    "Images/202407161258.excalidraw.md"
   ]
 }

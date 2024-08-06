@@ -23,9 +23,9 @@
             "id": "882afdd692010260",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Documents/ME501A_2024S2/lista_1.pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/MA502P_2024S2.md",
+                "file": "Documents/ME501A_2024S2/lista_1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/MA502P_2024S2.md",
+                "file": "Documents/ME501A_2024S2/lista_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/MA502P_2024S2.md"
+                "file": "Documents/ME501A_2024S2/lista_1.pdf"
               }
             }
           },
@@ -157,9 +157,13 @@
   },
   "active": "882afdd692010260",
   "lastOpenFiles": [
+    "Notes/202408061402.md",
+    "Documents/ME501A_2024S2",
+    "Notes/202408061240.md",
+    "Images/202408061402.excalidraw.md",
+    "Notes/202407171117.md",
     "Meta/References/MS512_2024S1A.md",
     "Meta/References/MA502P_2024S2.md",
-    "Notes/202408061240.md",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
     "Meta/References/ME651A_2024S2.md",
     "Documents/ME651/Conhecimento Profundo.pdf",
@@ -181,7 +185,6 @@
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Notes/teste note.md",
     "Notes/202407171105.md",
-    "Notes/202407171117.md",
     "Images/Notes_240717_170521_1 (1).jpg",
     "Images/202406260759.excalidraw.md",
     "Images/Notes_240717_170521_2 (1).jpg",
@@ -192,11 +195,7 @@
     "Documents/latex_symbols.pdf",
     "Notes/202407170917.md",
     "Notes/202407170929.md",
-    "Notes/202407151355.md",
-    "Notes/202407161131.md",
-    "Notes/202407160926.md",
     "Documents/Introdução à Inferência Estatística -- Heleno Bolfarine, Mônica Carneiro Sandoval -- 1, 2001 -- SBM -- 9788585818135 -- 5766.pdf",
-    "Documents/Lista_5_Prob_I_1S_2024.pdf",
     "Images/Pasted image 20240607113227.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240520202824.png",
