@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "00f0581bac9f27cb",
+        "id": "92f44dd05a9d186e",
         "type": "tabs",
         "children": [
           {
-            "id": "a581bf9187a0ccfc",
+            "id": "e455f01e58c4dda1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407171105.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "855e9f2717054cbe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              }
-            }
-          },
-          {
-            "id": "06e3346d18cacc9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407171117.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407171117.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407171117.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407171117.md"
+                "file": "Notes/teste note.md"
               }
             }
           },
@@ -166,17 +137,18 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "06e3346d18cacc9f",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
-    "Images/Notes_240717_170521_1 (1).jpg",
+    "Notes/teste note.md",
+    "Notes/202407171105.md",
     "Notes/202407171117.md",
+    "Images/Notes_240717_170521_1 (1).jpg",
     "Images/202406260759.excalidraw.md",
     "Images/Notes_240717_170521_2 (1).jpg",
     "Images/Notes_240717_170521_3 (1).jpg",
     "Images/202407171640.excalidraw.md",
     "Images/202407171606.excalidraw.md",
     "Images/202407171139.excalidraw.md",
-    "Notes/202407171105.md",
     "Documents/latex_symbols.pdf",
     "Notes/202407170917.md",
     "Notes/202407170929.md",
