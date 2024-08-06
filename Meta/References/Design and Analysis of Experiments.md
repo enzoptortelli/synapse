@@ -2,7 +2,7 @@
 tags:
   - book
 link-tags:
-  - "[[design-of-experiments]]"
+  - "[[design of experiments]]"
 author:
   - Douglas C. Montgomery
 edition: Ninth

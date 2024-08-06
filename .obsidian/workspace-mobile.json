@@ -11,8 +11,10 @@
             "id": "18cca17da145422e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20240520202824.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/Pasted image 20240520202824.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/Pasted image 20240520202824.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/Pasted image 20240520202824.png"
+          }
         }
       },
       {
@@ -132,8 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128ab3a513e068d0",
+  "active": "18cca17da145422e",
   "lastOpenFiles": [
+    "Images/Pasted Image 20240626054615_333.png",
+    "Documents/ME651/Atividade 1 - Sistema de Conhecimento Profundo.pdf",
+    "Documents/ME651/Conhecimento Profundo.pdf",
+    "Documents/ME651",
+    "Meta/Link-tag/design of experiments.md",
+    "Meta/Link-tag/statistical quality control.md",
+    "Meta/References/ME651A_2024S2.md",
+    "Meta/References/ME210A_2024S1.md",
+    "Meta/References/ME623A_2024S1.md",
     "Notes/teste note.md",
     "Images/202407170939.excalidraw.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
@@ -144,7 +159,6 @@
     "Images/Notes_240717_170521_2 (1).jpg",
     "Images/Notes_240717_170521_1 (1).jpg",
     "Images/Pasted image 20240618082934.png",
-    "Images/Pasted Image 20240626054615_333.png",
     "Images/202407171640.excalidraw.md",
     "Images/202407171606.excalidraw.md",
     "Notes/202407170917.md",
@@ -159,12 +173,6 @@
     "Images/202407160911.excalidraw.md",
     "Notes/202407161121.md",
     "Notes/202407160926.md",
-    "Notes/202407160924.md",
-    "Images/202407160849.excalidraw.md",
-    "Notes/202407151048.md",
-    "Images/202407160824.excalidraw.md",
-    "Notes/202407151759.md",
-    "Notes/202407151619.md",
-    "Notes/202407151756.md"
+    "Notes/202407160924.md"
   ]
 }
