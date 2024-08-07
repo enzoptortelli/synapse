@@ -11,8 +11,12 @@
             "id": "f3670ebc4755904f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407010848.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202407010848.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202407010848.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202407010848.md"
+              }
             }
           },
           {
@@ -137,13 +145,20 @@
   },
   "active": "f3670ebc4755904f",
   "lastOpenFiles": [
+    "Notes/202407010950.md",
+    "Notes/202407011018.md",
+    "Notes/202407010848.md",
+    "Notes/202407020938.md",
+    "Notes/202407051001.md",
+    "Notes/202407051059.md",
+    "Notes/202407051012.md",
+    "Notes/202408071611.md",
+    "Notes/202408071612.md",
+    "Notes/202408071613.md",
     "Images/E4_240807_092836_2.jpg",
     "Notes/202408071557.md",
-    "Notes/202408071613.md",
-    "Notes/202408071612.md",
     "Notes/202408071558.md",
     "Notes/202408071559.md",
-    "Notes/202408071611.md",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
     "Images/E4_240807_092836_1.jpg",
@@ -160,12 +175,7 @@
     "Notes/202408061730.md",
     "Notes/202408061402.md",
     "Notes/202408061619.md",
-    "Notes/202407020938.md",
     "Notes/202407011229.md",
-    "Notes/202407011018.md",
-    "Notes/202407010950.md",
-    "Notes/202407010848.md",
-    "Notes/202407051001.md",
     "Notes/202407050922.md",
     "Notes/202407051125.md",
     "Notes/202408061240.md",
@@ -175,7 +185,6 @@
     "Notes/202407170917.md",
     "Notes/202407170906.md",
     "Notes/202407161131.md",
-    "Notes/202407161121.md",
     "Documents/ME501A_2024S2/lista_1.pdf",
     "Documents/ME501A_2024S2",
     "Documents/ME651/Conhecimento Profundo.pdf",
