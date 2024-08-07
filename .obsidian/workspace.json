@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/ME501B_2024S2.md",
+                "file": "Meta/References/ME501A_2024S2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/ME501B_2024S2.md",
+                "file": "Meta/References/ME501A_2024S2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/ME501B_2024S2.md",
+                "file": "Meta/References/ME501A_2024S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/ME501B_2024S2.md"
+                "file": "Meta/References/ME501A_2024S2.md"
               }
             }
           },
@@ -143,14 +143,22 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "f3670ebc4755904f",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista4.pdf",
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/Lista_5_Prob_I_1S_2024.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Meta/References/ME501B_2024S2.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408071623.md",
-    "Documents/ME501B_2024S2/lista1.pdf",
-    "Documents/ME501B_2024S2/lista1_gabaritopdf",
-    "Documents/ME501B_2024S2",
-    "Meta/References/ME501B_2024S2.md",
     "Notes/202407010848.md",
     "Images/202408071623.excalidraw.md",
     "Notes/202407010950.md",
@@ -175,10 +183,6 @@
     "Images/L1e1_240806_164541.jpg",
     "Images/E10_240807_144159.jpg",
     "Images/E9_240807_135608.jpg",
-    "Images/E7_240807_122726.zip",
-    "Images/E6_240807_120903.zip",
-    "Images/E9_240807_135608.zip",
-    "Images/E10_240807_144159.zip",
     "Notes/202408061730.md",
     "Notes/202408061402.md",
     "Notes/202408061619.md",
@@ -186,10 +190,6 @@
     "Notes/202407050922.md",
     "Notes/202407051125.md",
     "Notes/202408061240.md",
-    "Notes/202407171117.md",
-    "Notes/202407171105.md",
-    "Documents/ME501A_2024S2/lista_1.pdf",
-    "Documents/ME501A_2024S2",
-    "Documents/ME651/Conhecimento Profundo.pdf"
+    "Notes/202407171117.md"
   ]
 }
