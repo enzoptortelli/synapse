@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d35006161b646266",
+        "id": "34df96403055044d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f45d1b297f7a4f0",
+            "id": "bae30b633a83224b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408061619.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ae48aa7790dd0a9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/L1e2_240806_173147.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/L1e2_240806_173147.jpg",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/L1e2_240806_173147.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Images/L1e2_240806_173147.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -154,16 +135,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6ae48aa7790dd0a9",
+  "active": "bae30b633a83224b",
   "lastOpenFiles": [
-    "Images/L1e2_240806_171312.jpg",
-    "Images/L1e2_240806_173147.jpg",
-    "Notes/202408061730.md",
     "Notes/202408061619.md",
+    "Images/Pasted image 20240520202824.png",
+    "Images/L1e2_240806_173147.jpg",
+    "Images/L1e1_240806_164541.jpg",
+    "Images/L1e2_240806_171312.jpg",
+    "Notes/202408061730.md",
     "Notes/202408061402.md",
     "Images/202408061402.excalidraw.md",
     "Notes/202407010848.md",
-    "Images/L1e1_240806_164541.jpg",
     "Meta/Link-tag/markov chain.md",
     "Notes/202407171117.md",
     "Documents/ME501A_2024S2/lista_1.pdf",
@@ -199,7 +181,6 @@
     "Images/Notes_240717_170521_3 (1).jpg",
     "Documents/latex_symbols.pdf",
     "Images/Pasted image 20240607113227.png",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/Pasted image 20240520202824.png"
+    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg"
   ]
 }
