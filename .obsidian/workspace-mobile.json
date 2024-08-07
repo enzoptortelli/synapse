@@ -11,11 +11,9 @@
             "id": "18cca17da145422e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/202408061619.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Notes_240807_084623.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408061619.md",
+            "file": "Images/Notes_240807_084623.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408061619.md",
+            "file": "Images/Notes_240807_084623.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408061619.md"
+            "file": "Images/Notes_240807_084623.jpg"
           }
         }
       },
@@ -142,11 +140,11 @@
   },
   "active": "18cca17da145422e",
   "lastOpenFiles": [
+    "Notes/202408061619.md",
     "Notes/202408061730.md",
     "Images/202408061620.excalidraw.md",
     "Images/L1e2_240806_171312.jpg",
     "Images/L1e1_240806_164541.jpg",
-    "Notes/202408061619.md",
     "Notes/202408061402.md",
     "Notes/202408061240.md",
     "Meta/References/ME501A_2024S2.md",
