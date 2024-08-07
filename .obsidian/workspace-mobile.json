@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "ded416da9b0623bd",
+        "id": "d1d5c8960950f210",
         "type": "tabs",
         "children": [
           {
-            "id": "18cca17da145422e",
+            "id": "b557a918ae12b842",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Notes_240807_084623.jpg"
+                "file": "Notes/202408071623.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "899be4775317ebbb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408071623.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/Notes_240807_084623.jpg",
+            "file": "Images/202408071623.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/Notes_240807_084623.jpg",
+            "file": "Images/202408071623.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/Notes_240807_084623.jpg"
+            "file": "Images/202408071623.excalidraw.md"
           }
         }
       },
@@ -138,8 +151,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18cca17da145422e",
+  "active": "899be4775317ebbb",
   "lastOpenFiles": [
+    "Notes/202408071623.md",
+    "Images/202408071623.excalidraw.md",
+    "Images/Notes_240807_084623.jpg",
+    "Notes/202408071612.md",
+    "Notes/202408071613.md",
+    "Notes/202408071611.md",
+    "Images/E10_240807_144159.jpg",
+    "Images/E9_240807_135608.jpg",
+    "Images/E7_240807_122726.jpg",
+    "Images/E6_240807_120903.jpg",
     "Notes/202408061619.md",
     "Notes/202408061730.md",
     "Images/202408061620.excalidraw.md",
@@ -170,19 +193,9 @@
     "Meta/References/ME623A_2024S1.md",
     "Notes/teste note.md",
     "Images/202407170939.excalidraw.md",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Notes/202407171105.md",
     "Images/202407221837.excalidraw.md",
-    "Images/Notes_240717_170521_3 (1).jpg",
-    "Images/Notes_240717_170521_2 (1).jpg",
-    "Images/Notes_240717_170521_1 (1).jpg",
-    "Images/Pasted image 20240618082934.png",
     "Images/202407171640.excalidraw.md",
-    "Images/202407171606.excalidraw.md",
-    "Notes/202407170917.md",
-    "Images/202407171139.excalidraw.md",
-    "Notes/202407170929.md",
-    "Notes/202407151355.md",
-    "Images/202407170920.excalidraw.md"
+    "Images/202407171606.excalidraw.md"
   ]
 }
