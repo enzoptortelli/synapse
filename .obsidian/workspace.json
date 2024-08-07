@@ -45,11 +45,9 @@
             "id": "b87862d4d1b7ec02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notes/202408071559.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Notes_240807_084623.jpg"
               }
             }
           }
@@ -83,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "E6",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -100,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408071559.md",
+                "file": "Images/Notes_240807_084623.jpg",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408071559.md",
+                "file": "Images/Notes_240807_084623.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408071559.md"
+                "file": "Images/Notes_240807_084623.jpg"
               }
             }
           },
@@ -178,21 +177,30 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b87862d4d1b7ec02",
+  "active": "5da5bb20117be825",
   "lastOpenFiles": [
+    "Images/L1e2_240806_173147.jpg",
+    "Images/L1e1_240806_164541.jpg",
+    "Images/E5_240807_100520_2.jpg",
+    "Images/E5_240807_100520_1.jpg",
+    "Images/E4_240807_092836_2.jpg",
+    "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
+    "Images/E4_240807_092836_1.jpg",
+    "Images/Notes_240807_084623.jpg",
+    "Images/Pasted image 20240520202824.png",
+    "Images/Pasted image 20240520202912.png",
+    "Images/Pasted image 20240520203312.png",
     "Notes/202408071559.md",
+    "Images/E7_240807_122726.zip",
+    "Images/E6_240807_120903.zip",
+    "Images/E9_240807_135608.zip",
+    "Images/E10_240807_144159.zip",
     "Notes/202408071558.md",
     "Notes/202408071557.md",
-    "Images/E4_240807_092836_2.jpg",
-    "Images/E4_240807_092836_1.jpg",
-    "Images/L1e2_240806_173147.jpg",
-    "Images/Notes_240807_084623.jpg",
     "Notes/202408061730.md",
     "Notes/202408061402.md",
     "Notes/202408061619.md",
     "Notes/202407020938.md",
-    "Images/E5_240807_100520_1.jpg",
-    "Images/E5_240807_100520_2.jpg",
     "Notes/202407011229.md",
     "Notes/202407011018.md",
     "Notes/202407010950.md",
@@ -211,20 +219,11 @@
     "Notes/202407160926.md",
     "Notes/202407160924.md",
     "Notes/202407160844.md",
-    "Notes/202407151355.md",
-    "Images/Pasted image 20240520202824.png",
-    "Images/L1e1_240806_164541.jpg",
-    "Images/L1e2_240806_171312.jpg",
     "Documents/ME501A_2024S2/lista_1.pdf",
     "Documents/ME501A_2024S2",
-    "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
     "Documents/ME651/Conhecimento Profundo.pdf",
     "Documents/ME651/Atividade 1 - Sistema de Conhecimento Profundo.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Documents/ALSM_5Ed_Kutner.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/ME651",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Documents/latex_symbols.pdf"
+    "Documents/ALSM_5Ed_Kutner.pdf"
   ]
 }
