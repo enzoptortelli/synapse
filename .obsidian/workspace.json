@@ -143,11 +143,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
-    "Notes/202407010848.md",
-    "Meta/References/ME501B_2024S2.md",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408071623.md",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabaritopdf",
+    "Documents/ME501B_2024S2",
+    "Meta/References/ME501B_2024S2.md",
+    "Notes/202407010848.md",
     "Images/202408071623.excalidraw.md",
     "Notes/202407010950.md",
     "Notes/202407011018.md",
@@ -184,12 +188,8 @@
     "Notes/202408061240.md",
     "Notes/202407171117.md",
     "Notes/202407171105.md",
-    "Notes/202407170929.md",
     "Documents/ME501A_2024S2/lista_1.pdf",
     "Documents/ME501A_2024S2",
-    "Documents/ME651/Conhecimento Profundo.pdf",
-    "Documents/ME651/Atividade 1 - Sistema de Conhecimento Profundo.pdf",
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Documents/ALSM_5Ed_Kutner.pdf"
+    "Documents/ME651/Conhecimento Profundo.pdf"
   ]
 }
