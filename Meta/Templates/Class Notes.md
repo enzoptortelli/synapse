@@ -2,10 +2,9 @@
 tags:
   - class-notes
   - unfinished
-link-tags:
+link-tags: 
+reference:
 ---
-# (class name here)
-
 _{{date: dddd, MMMM Do}}_
 
 # Notes
