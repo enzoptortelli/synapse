@@ -11,11 +11,24 @@
             "id": "23ebd51962b28338",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408081201.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "1c6646c1d42cd4cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408091406.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/202408091406.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/202408091406.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/202408091406.excalidraw.md"
+          }
         }
       },
       {
@@ -132,9 +149,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128ab3a513e068d0",
+  "active": "1c6646c1d42cd4cb",
   "lastOpenFiles": [
+    "Images/202408081201.excalidraw.md",
+    "Images/202408091406.excalidraw.md",
     "Notes/202408091337.md",
+    "Images/Pasted image 20240809133943.png",
+    "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
@@ -145,7 +166,6 @@
     "Images/202408061402.excalidraw.md",
     "Notes/202408081149.md",
     "Notes/202408081201.md",
-    "Images/202408081201.excalidraw.md",
     "Images/202408081149.excalidraw.md",
     "Notes/202408081048.md",
     "Images/202408081048.excalidraw.md",
@@ -171,14 +191,11 @@
     "Meta/References/Untitled.md",
     "Images/202408071623.excalidraw.md",
     "Images/Notes_240807_084623.jpg",
-    "Notes/202408071612.md",
     "Images/E10_240807_144159.jpg",
     "Images/E9_240807_135608.jpg",
     "Images/E7_240807_122726.jpg",
     "Images/E6_240807_120903.jpg",
     "Images/L1e2_240806_171312.jpg",
-    "Images/L1e1_240806_164541.jpg",
-    "Images/Pasted image 20240520202824.png",
-    "Images/Pasted Image 20240626054615_333.png"
+    "Images/L1e1_240806_164541.jpg"
   ]
 }
