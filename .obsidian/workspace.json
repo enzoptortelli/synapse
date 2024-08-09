@@ -16,8 +16,21 @@
                 "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
               }
             }
+          },
+          {
+            "id": "6e5bfd2777f57220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408091337.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408091337.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408091337.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Notes/202408091337.md"
               }
             }
           },
@@ -142,15 +155,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "6e5bfd2777f57220",
   "lastOpenFiles": [
+    "Images/Pasted image 20240809133808.png",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+    "Notes/202408091337.md",
     "Meta/References/Curso de análise vol. 1.md",
     "Meta/References/ME651A_2024S2.md",
     "Meta/References/ME623A_2024S1.md",
     "Meta/References/Introdução à Inferência Estatística.md",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
     "Documents/ME651A_2024S2/01 ME651_24.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408081201.md",
     "Images/202408081201.excalidraw.md",
@@ -175,8 +190,6 @@
     "Images/202408080820.excalidraw.md",
     "Notes/202408071612.md",
     "Notes/202408071613.md",
-    "Notes/202408071558.md",
-    "Notes/202408061730.md",
     "Documents/MS512_2024S1_lista_autopar.pdf",
     "Documents/MA502P_2024S2",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
