@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408091337.md",
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408091337.md",
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408091337.md"
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
               }
             }
           },
@@ -155,11 +154,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "6e5bfd2777f57220",
+  "active": "f3670ebc4755904f",
   "lastOpenFiles": [
+    "Notes/202408091337.md",
     "Images/Pasted image 20240809133808.png",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Notes/202408091337.md",
     "Meta/References/Curso de análise vol. 1.md",
     "Meta/References/ME651A_2024S2.md",
     "Meta/References/ME623A_2024S1.md",
@@ -201,7 +200,6 @@
     "Images/E5_240807_100520_1.jpg",
     "Images/E5_240807_100520_2.jpg",
     "Images/L1e1_240806_164541.jpg",
-    "Images/E10_240807_144159.jpg",
-    "Images/E9_240807_135608.jpg"
+    "Images/E10_240807_144159.jpg"
   ]
 }
