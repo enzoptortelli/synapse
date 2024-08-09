@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9dcd432062ca31ee",
+        "id": "24ed4e2af4b50a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "600570e3d231e555",
+            "id": "23ebd51962b28338",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -132,9 +132,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "600570e3d231e555",
+  "active": "23ebd51962b28338",
   "lastOpenFiles": [
+    "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
+    "Documents/ME651A_2024S2/01 ME651_24.pdf",
+    "Meta/References/Curso de análise vol. 1.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408061402.md",
     "Images/202408061402.excalidraw.md",
@@ -163,14 +167,11 @@
     "Images/202408080846.excalidraw.md",
     "Images/202408080820.excalidraw.md",
     "Images/202408080839.excalidraw.md",
-    "Documents/MA502P_2024S2",
-    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Meta/References/ME501B_2024S2.md",
     "Meta/References/Untitled.md",
     "Images/202408071623.excalidraw.md",
     "Images/Notes_240807_084623.jpg",
     "Notes/202408071612.md",
-    "Notes/202408071613.md",
     "Images/E10_240807_144159.jpg",
     "Images/E9_240807_135608.jpg",
     "Images/E7_240807_122726.jpg",
