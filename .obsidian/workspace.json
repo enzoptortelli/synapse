@@ -11,15 +11,24 @@
             "id": "f3670ebc4755904f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Meta/References/Introduction to Probability Models.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
+            "id": "4aaa79df31cbe733",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/References/Introduction to Probability Models.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/References/Introduction to Probability Models.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/References/Introduction to Probability Models.md"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -144,13 +153,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Meta/References/Introduction to Probability Models.md",
     "Images/202408121106.excalidraw.md",
     "Meta/References/Introduction to stochastic processes with R.md",
-    "Meta/References/Introduction to Probability Models.md",
     "Notes/202408081201.md",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
@@ -183,7 +193,6 @@
     "Images/202408080902.excalidraw.md",
     "Images/202408080856.excalidraw.md",
     "Images/202408080846.excalidraw.md",
-    "Images/202408080839.excalidraw.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
