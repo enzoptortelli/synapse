@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408121105.md",
+                "file": "Notes/202408121110.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b12a1357aa001cc",
+            "id": "23aca23cd3a90a66",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408121106.excalidraw.md"
+                "file": "Images/202408121110.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408121106.excalidraw.md",
+            "file": "Images/202408121110.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408121106.excalidraw.md",
+            "file": "Images/202408121110.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408121106.excalidraw.md"
+            "file": "Images/202408121110.excalidraw.md"
           }
         }
       },
@@ -151,12 +151,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b12a1357aa001cc",
+  "active": "23aca23cd3a90a66",
   "lastOpenFiles": [
+    "Notes/202408121110.md",
+    "Images/202408121110.excalidraw.md",
+    "Notes/202408071623.md",
     "Notes/202408121105.md",
     "Images/202408121106.excalidraw.md",
     "Meta/References/ME501B_2024S2.md",
-    "Notes/202408071623.md",
     "Notes/202408081201.md",
     "Notes/202408081048.md",
     "Notes/202408081149.md",
@@ -191,8 +193,6 @@
     "Documents/ME651A_2024S2/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.pdf",
     "Documents/ME651A_2024S2/Conhecimento Profundo.pdf",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
-    "Notes/202408080936.md",
-    "Notes/202408080820.md",
     "Images/Notes_240807_084623.jpg",
     "Images/E10_240807_144159.jpg",
     "Images/E9_240807_135608.jpg",

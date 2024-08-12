@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
               }
             }
           },
@@ -153,10 +152,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4aaa79df31cbe733",
+  "active": "f3670ebc4755904f",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Notes/202408121110.md",
+    "Images/202408121110.excalidraw.md",
     "Meta/References/Introduction to Probability Models.md",
     "Images/202408121106.excalidraw.md",
     "Meta/References/Introduction to stochastic processes with R.md",
@@ -183,7 +184,6 @@
     "Documents/ME651A_2024S2/Atividade 1 - Sistema de Conhecimento Profundo.pdf",
     "Documents/ME651A_2024S2/Conhecimento Profundo.pdf",
     "Notes/202408061240.md",
-    "Documents/ME651A_2024S2/Atividade 1 - resposta.pdf",
     "Notes/202408071623.md",
     "Notes/202408080820.md",
     "Notes/202408080936.md",
@@ -191,8 +191,6 @@
     "Images/202408081015.excalidraw.md",
     "Images/202408080936.excalidraw.md",
     "Images/202408080902.excalidraw.md",
-    "Images/202408080856.excalidraw.md",
-    "Images/202408080846.excalidraw.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
