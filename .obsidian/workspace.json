@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
               }
             }
           },
@@ -153,10 +152,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4aaa79df31cbe733",
+  "active": "f3670ebc4755904f",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408121120.excalidraw.md",
     "Notes/202408121110.md",
     "Images/202408121110.excalidraw.md",
