@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -152,11 +153,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408121120.excalidraw.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408121110.md",
     "Images/202408121110.excalidraw.md",
     "Meta/References/Introduction to Probability Models.md",
@@ -191,7 +192,6 @@
     "Notes/202408081015.md",
     "Images/202408081015.excalidraw.md",
     "Images/202408080936.excalidraw.md",
-    "Images/202408080902.excalidraw.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
