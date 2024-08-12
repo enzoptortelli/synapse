@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
               }
             }
           },
@@ -31,11 +31,26 @@
             "id": "6e5bfd2777f57220",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408121052.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0070f2d89ef832b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -160,11 +175,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "c0070f2d89ef832b",
   "lastOpenFiles": [
+    "Notes/202408121052.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
+    "Notes/202408121050.md",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/202408091406.excalidraw.md",
     "Notes/202408091337.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Meta/References/Curso de análise vol. 1.md",
@@ -194,12 +214,6 @@
     "Images/202408080856.excalidraw.md",
     "Images/202408080846.excalidraw.md",
     "Images/202408080839.excalidraw.md",
-    "Images/202408080820.excalidraw.md",
-    "Notes/202408071612.md",
-    "Notes/202408071613.md",
-    "Documents/MS512_2024S1_lista_autopar.pdf",
-    "Documents/MA502P_2024S2",
-    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
