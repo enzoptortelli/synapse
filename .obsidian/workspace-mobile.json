@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "23aca23cd3a90a66",
+            "id": "c8922d4c5dd90f57",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408121110.excalidraw.md"
+                "file": "Images/202408121120.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408121110.excalidraw.md",
+            "file": "Images/202408121120.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408121110.excalidraw.md",
+            "file": "Images/202408121120.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408121110.excalidraw.md"
+            "file": "Images/202408121120.excalidraw.md"
           }
         }
       },
@@ -151,12 +151,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23aca23cd3a90a66",
+  "active": "c8922d4c5dd90f57",
   "lastOpenFiles": [
     "Notes/202408121110.md",
+    "Images/202408121120.excalidraw.md",
+    "Notes/202408071623.md",
     "Images/202408121110.excalidraw.md",
     "Images/202408121106.excalidraw.md",
-    "Notes/202408071623.md",
     "Notes/202408121105.md",
     "Meta/References/ME501B_2024S2.md",
     "Notes/202408081201.md",
@@ -187,7 +188,6 @@
     "Images/202408081149.excalidraw.md",
     "Images/202408081048.excalidraw.md",
     "Notes/202408081015.md",
-    "Images/202408081015.excalidraw.md",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.pdf",
     "Documents/ME651A_2024S2/Atividade 1 - resposta.pdf",
     "Documents/ME651A_2024S2/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.pdf",
