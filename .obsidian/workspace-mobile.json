@@ -11,24 +11,15 @@
             "id": "23ebd51962b28338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202408081201.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "1c6646c1d42cd4cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202408091406.excalidraw.md"
+                "file": "Notes/202408081201.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408091406.excalidraw.md",
+            "file": "Notes/202408081201.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408091406.excalidraw.md",
+            "file": "Notes/202408081201.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408091406.excalidraw.md"
+            "file": "Notes/202408081201.md"
           }
         }
       },
@@ -149,11 +140,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c6646c1d42cd4cb",
+  "active": "23ebd51962b28338",
   "lastOpenFiles": [
+    "Notes/202408081149.md",
+    "Notes/202408081201.md",
+    "Images/Pasted Image 20240626054615_333.png",
+    "Notes/202408091337.md",
     "Images/202408081201.excalidraw.md",
     "Images/202408091406.excalidraw.md",
-    "Notes/202408091337.md",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
@@ -164,8 +158,6 @@
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408061402.md",
     "Images/202408061402.excalidraw.md",
-    "Notes/202408081149.md",
-    "Notes/202408081201.md",
     "Images/202408081149.excalidraw.md",
     "Notes/202408081048.md",
     "Images/202408081048.excalidraw.md",
@@ -189,13 +181,11 @@
     "Images/202408080839.excalidraw.md",
     "Meta/References/ME501B_2024S2.md",
     "Meta/References/Untitled.md",
-    "Images/202408071623.excalidraw.md",
     "Images/Notes_240807_084623.jpg",
     "Images/E10_240807_144159.jpg",
     "Images/E9_240807_135608.jpg",
     "Images/E7_240807_122726.jpg",
     "Images/E6_240807_120903.jpg",
-    "Images/L1e2_240806_171312.jpg",
-    "Images/L1e1_240806_164541.jpg"
+    "Images/L1e2_240806_171312.jpg"
   ]
 }
