@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408130828.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408130828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+                "file": "Notes/202408130828.md"
               }
             }
           },
@@ -185,11 +185,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f2f7ea8ee183070e",
+  "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
@@ -214,7 +215,6 @@
     "Meta/References/Introdução à Inferência Estatística.md",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
     "Documents/ME651A_2024S2/01 ME651_24.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Images/202408081201.excalidraw.md",
     "Images/202408081149.excalidraw.md",
     "Notes/202408081149.md",
