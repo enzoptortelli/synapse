@@ -23,9 +23,11 @@
             "id": "6efcaf5e758a7128",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Notes/202408131707.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+            "file": "Notes/202408131707.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+            "file": "Notes/202408131707.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+            "file": "Notes/202408131707.md"
           }
         }
       },
@@ -153,13 +155,17 @@
   },
   "active": "6efcaf5e758a7128",
   "lastOpenFiles": [
+    "Notes/202408061402.md",
+    "Notes/202408131707.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Meta/References/ME501B_2024S2.md",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
     "Notes/202408121404.md",
     "Meta/References/ME731A_2024S2.md",
     "Notes/202408121158.md",
     "Notes/202408081201.md",
     "Notes/202408121110.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Meta/References/ME918A_2024S2.md",
     "Images/202408121407.excalidraw.md",
     "Images/202408121158.excalidraw.md",
@@ -168,7 +174,6 @@
     "Images/202408121110.excalidraw.md",
     "Images/202408121106.excalidraw.md",
     "Notes/202408121105.md",
-    "Meta/References/ME501B_2024S2.md",
     "Notes/202408081048.md",
     "Notes/202408081149.md",
     "Meta/References/Introduction to Probability Models.md",
@@ -180,9 +185,6 @@
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Notes/202408121050.md",
     "Images/Pasted Image 20240626054615_333.png",
-    "Notes/202408091337.md",
-    "Images/202408081201.excalidraw.md",
-    "Images/202408091406.excalidraw.md",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",

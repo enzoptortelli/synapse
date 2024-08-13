@@ -33,9 +33,9 @@
             "id": "f2f7ea8ee183070e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+                "file": "Images/Notes_240807_084623.jpg"
               }
             }
           },
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408130828.md",
+                "file": "Images/Notes_240807_084623.jpg",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408130828.md",
+                "file": "Images/Notes_240807_084623.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408130828.md"
+                "file": "Images/Notes_240807_084623.jpg"
               }
             }
           },
@@ -187,15 +187,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9e0094bb1e3a54bc",
+  "active": "f2f7ea8ee183070e",
   "lastOpenFiles": [
+    "Images/20240808_240808_155343_1.jpg",
+    "Images/Notes_240807_084623.jpg",
+    "Images/20240808_240808_155343_4.jpg",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+    "Images/20240808_240808_155343_2.jpg",
+    "Images/20240808_240808_155343_3.jpg",
+    "Notes/202408131707.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202408130828.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
     "Meta/References/ME731A_2024S2.md",
     "Notes/202408121404.md",
-    "Notes/202408130828.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408121158.md",
@@ -225,15 +231,8 @@
     "Notes/202408081048.md",
     "Images/202408081048.excalidraw.md",
     "Notes/202408061240.md",
-    "Notes/202408071623.md",
-    "Notes/202408080820.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
-    "Images/Notes_240807_084623.jpg",
-    "Images/E4_240807_092836_1.jpg",
-    "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
-    "Images/E5_240807_100520_1.jpg",
-    "Images/E5_240807_100520_2.jpg",
-    "Images/L1e1_240806_164541.jpg"
+    "Images/E4_240807_092836_1.jpg"
   ]
 }
