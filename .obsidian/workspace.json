@@ -60,7 +60,23 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "95909de2d4961f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "792c6929a22956c7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408130828.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408130828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Notes/202408130828.md"
               }
             }
           },
@@ -185,11 +201,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "9e0094bb1e3a54bc",
+  "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
-    "Notes/202408130828.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+    "Notes/202408130828.md",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
