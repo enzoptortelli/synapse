@@ -28,9 +28,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2484889778886b67",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408130828.md",
+                "file": "Documents/latex_symbols.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408130828.md",
+                "file": "Documents/latex_symbols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408130828.md"
+                "file": "Documents/latex_symbols.pdf"
               }
             }
           },
@@ -155,10 +165,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4aaa79df31cbe733",
+  "active": "2484889778886b67",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408130828.md",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408121158.md",
     "Images/202408121158.excalidraw.md",
