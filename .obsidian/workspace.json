@@ -21,9 +21,11 @@
             "id": "4aaa79df31cbe733",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Notes/202408130828.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Notes/202408130828.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Notes/202408130828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Notes/202408130828.md"
               }
             }
           },
@@ -155,10 +157,11 @@
   },
   "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Notes/202408130828.md",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408121158.md",
     "Images/202408121158.excalidraw.md",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Images/202408121120.excalidraw.md",
     "Notes/202408121110.md",
     "Images/202408121110.excalidraw.md",
@@ -191,7 +194,6 @@
     "Notes/202408071623.md",
     "Notes/202408080820.md",
     "Notes/202408080936.md",
-    "Notes/202408081015.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/Notes_240807_084623.jpg",
