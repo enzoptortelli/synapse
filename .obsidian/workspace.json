@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/latex_symbols.pdf",
+                "file": "Notes/202408130828.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/latex_symbols.pdf",
+                "file": "Notes/202408130828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Notes/202408130828.md"
               }
             }
           },
@@ -165,8 +165,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2484889778886b67",
+  "active": "4aaa79df31cbe733",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
     "Notes/202408130828.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
