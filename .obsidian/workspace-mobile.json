@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6efcaf5e758a7128",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408121404.md",
+            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408121404.md",
+            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408121404.md"
+            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
           }
         }
       },
@@ -140,15 +151,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12022b9ff32fee40",
+  "active": "6efcaf5e758a7128",
   "lastOpenFiles": [
-    "Images/202408121407.excalidraw.md",
+    "Notes/202408130828.md",
     "Notes/202408121404.md",
-    "Meta/References/ME918A_2024S2.md",
+    "Meta/References/ME731A_2024S2.md",
     "Notes/202408121158.md",
-    "Images/202408121158.excalidraw.md",
     "Notes/202408081201.md",
     "Notes/202408121110.md",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+    "Meta/References/ME918A_2024S2.md",
+    "Images/202408121407.excalidraw.md",
+    "Images/202408121158.excalidraw.md",
     "Images/202408121120.excalidraw.md",
     "Notes/202408071623.md",
     "Images/202408121110.excalidraw.md",
@@ -172,11 +186,8 @@
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME651A_2024S2/01 ME651_24.pdf",
-    "Meta/References/Curso de análise vol. 1.md",
-    "Meta/References/MA502P_2024S2.md",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.pdf",
     "Documents/ME651A_2024S2/Atividade 1 - resposta.pdf",
     "Documents/ME651A_2024S2/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.pdf",
