@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3670ebc4755904f",
+            "id": "af697c11669011cf",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           },
@@ -142,11 +142,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f3670ebc4755904f",
+  "active": "af697c11669011cf",
   "lastOpenFiles": [
+    "Meta/References/Applied Multivariate Statistical Analysis.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408130828.md",
     "Documents/latex_symbols.pdf",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408121404.md",
     "Notes/202408131707.md",
     "Notes/202408131711.md",
@@ -173,7 +175,6 @@
     "Images/202408121106.excalidraw.md",
     "Meta/References/Introduction to stochastic processes with R.md",
     "Notes/202408081201.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202408091406.excalidraw.md",
     "Notes/202408091337.md",
     "Images/Pasted image 20240809133943.png",
@@ -185,7 +186,6 @@
     "Images/202408081201.excalidraw.md",
     "Images/202408081149.excalidraw.md",
     "Notes/202408081149.md",
-    "Notes/202408081048.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/E4_240807_092836_1.jpg"
