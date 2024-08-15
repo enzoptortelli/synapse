@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "00d4f76c869ca9f8",
+        "id": "e1d25ea87d5012c6",
         "type": "tabs",
         "children": [
           {
-            "id": "af697c11669011cf",
+            "id": "2b5c2d43185f7918",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
+            "id": "7606a3a17e250c62",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           }
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Documents/ME501B_2024S2/lista1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
               }
             }
           },
@@ -142,21 +152,40 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "af697c11669011cf",
+  "active": "2b5c2d43185f7918",
   "lastOpenFiles": [
-    "Meta/References/Applied Multivariate Statistical Analysis.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Images/202407160849.excalidraw.md",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
-    "Notes/202408130828.md",
+    "Images/202408150855_0.excalidraw.md",
+    "Images/202408121407.excalidraw.md",
+    "Images/202408121120.excalidraw.md",
+    "Images/202408150855.excalidraw.md",
+    "Images/202407160911.excalidraw.md",
+    "Images/202407161258.excalidraw.md",
+    "Images/202407170920.excalidraw.md",
+    "Images/202407170939.excalidraw.md",
+    "Images/202408061402.excalidraw.md",
+    "Images/202408071623.excalidraw.md",
+    "Images/202408080839.excalidraw.md",
+    "Images/202408080846.excalidraw.md",
+    "Images/202408080902.excalidraw.md",
+    "Images/202408081015.excalidraw.md",
+    "Images/202408081048.excalidraw.md",
+    "Images/202408081149.excalidraw.md",
+    "Images/202408081201.excalidraw.md",
+    "Notes/202408080820.md",
+    "Notes/202408080936.md",
+    "Notes/202408081015.md",
+    "Notes/202408081149.md",
+    "Notes/202408081201.md",
+    "Notes/202408121158.md",
+    "Images/202408121158.excalidraw.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
-    "Notes/202408121404.md",
-    "Notes/202408131707.md",
-    "Notes/202408131711.md",
-    "Meta/References/ME731A_2024S2.md",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
-    "Documents/MA502P_2024S2/Untitled.md",
     "Documents/MA502P_2024S2/Notas de aula",
     "Images/Notes_240807_084623.jpg",
     "Images/20240808_240808_155343_1.jpg",
@@ -165,27 +194,8 @@
     "Images/20240808_240808_155343_2.jpg",
     "Images/20240808_240808_155343_3.jpg",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Notes/202408121158.md",
-    "Images/202408121158.excalidraw.md",
-    "Images/202408121120.excalidraw.md",
-    "Notes/202408121110.md",
-    "Images/202408121110.excalidraw.md",
-    "Meta/References/Introduction to Probability Models.md",
-    "Images/202408121106.excalidraw.md",
-    "Meta/References/Introduction to stochastic processes with R.md",
-    "Notes/202408081201.md",
-    "Images/202408091406.excalidraw.md",
-    "Notes/202408091337.md",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
-    "Meta/References/Curso de análise vol. 1.md",
-    "Meta/References/ME651A_2024S2.md",
-    "Meta/References/ME623A_2024S1.md",
-    "Meta/References/Introdução à Inferência Estatística.md",
-    "Images/202408081201.excalidraw.md",
-    "Images/202408081149.excalidraw.md",
-    "Notes/202408081149.md",
     "Images/E4_240807_092836_2.jpg",
     "Images/L1e2_240806_173147.jpg",
     "Images/E4_240807_092836_1.jpg"

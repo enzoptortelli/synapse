@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b3b895e4196f9eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408150855_0.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408121404.md",
+            "file": "Images/202408150855_0.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408121404.md",
+            "file": "Images/202408150855_0.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408121404.md"
+            "file": "Images/202408150855_0.excalidraw.md"
           }
         }
       },
@@ -140,13 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a84b0cf3b258107",
+  "active": "0b3b895e4196f9eb",
   "lastOpenFiles": [
+    "Notes/202408121404.md",
+    "Images/202408150855_0.excalidraw.md",
+    "Images/202408150855.excalidraw.md",
     "Meta/References/ME731A_2024S2.md",
     "Images/202407020919.excalidraw.md",
     "Images/202406260759.excalidraw.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
-    "Notes/202408121404.md",
     "Notes/202408131707.md",
     "Audios/2024_08_13_19_14_38.m4a",
     "Notes/202408131711.md",
@@ -172,8 +185,6 @@
     "Notes/202408081048.md",
     "Notes/202408081149.md",
     "Meta/References/Introduction to Probability Models.md",
-    "Meta/References/Introduction to stochastic processes with R.md",
-    "Notes/202408121052.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Images/Pasted Image 20240626054615_333.png",
