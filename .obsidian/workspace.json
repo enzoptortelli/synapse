@@ -11,8 +11,42 @@
             "id": "7a9a465dfa2ae6f1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408130828.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "722a86543a59c954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c5201f9e38dd9158",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c4534a79cc63d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202408130828.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202408130828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202408130828.md"
+              }
             }
           },
           {
@@ -137,12 +175,15 @@
   },
   "active": "7a9a465dfa2ae6f1",
   "lastOpenFiles": [
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
+    "Notes/202408150943.md",
+    "Notes/202408151204.md",
     "Notes/202407051031.md",
     "Notes/202407150955.md",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202407020938.md",
     "Images/202408150958.excalidraw.md",
-    "Notes/202408151204.md",
     "Images/202408150855_0.excalidraw.md",
     "Images/202408150958.excalidraw.png",
     "Images/Notes_240807_084623.jpg",
@@ -150,7 +191,6 @@
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202407051025.md",
-    "Notes/202408150943.md",
     "Notes/202407171105.md",
     "Images/202407160849.excalidraw.md",
     "Images/202408121407.excalidraw.md",
@@ -167,7 +207,6 @@
     "Images/202408080902.excalidraw.md",
     "Images/202408081015.excalidraw.md",
     "Images/202408081048.excalidraw.md",
-    "Images/202408081149.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
