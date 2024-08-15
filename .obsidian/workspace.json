@@ -57,9 +57,9 @@
             "id": "7606a3a17e250c62",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Images/202408150958.excalidraw.md"
+                "file": "Images/Pasted image 20240809133943.png"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202408150958.excalidraw.md",
+                "file": "Images/Pasted image 20240809133943.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202408150958.excalidraw.md",
+                "file": "Images/Pasted image 20240809133943.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202408150958.excalidraw.md"
+                "file": "Images/Pasted image 20240809133943.png"
               }
             }
           },
@@ -191,9 +191,11 @@
   },
   "active": "7606a3a17e250c62",
   "lastOpenFiles": [
+    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+    "Images/202408150958.excalidraw.md",
+    "Images/202408150958.excalidraw.png",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
-    "Images/202408150958.excalidraw.md",
     "Notes/202407150955.md",
     "Notes/202407051031.md",
     "Notes/202407020938.md",
@@ -234,7 +236,6 @@
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Images/E4_240807_092836_2.jpg",
-    "Images/L1e2_240806_173147.jpg",
-    "Images/E4_240807_092836_1.jpg"
+    "Images/L1e2_240806_173147.jpg"
   ]
 }
