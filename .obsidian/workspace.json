@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -188,10 +189,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2b5c2d43185f7918",
+  "active": "7606a3a17e250c62",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Images/202408150958.excalidraw.md",
     "Notes/202407150955.md",
     "Notes/202407051031.md",
