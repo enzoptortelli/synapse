@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "9a813e9f055dddc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407051025.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7606a3a17e250c62",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -152,11 +165,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2b5c2d43185f7918",
+  "active": "7606a3a17e250c62",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Notes/202407051025.md",
     "Images/202407160849.excalidraw.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408150855_0.excalidraw.md",
     "Images/202408121407.excalidraw.md",
     "Images/202408121120.excalidraw.md",
@@ -180,7 +194,6 @@
     "Notes/202408081149.md",
     "Notes/202408081201.md",
     "Notes/202408121158.md",
-    "Images/202408121158.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
