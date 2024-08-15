@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "ce2092a7070c879f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407020938.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a813e9f055dddc5",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Notes/202407020938.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Notes/202407020938.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Notes/202407020938.md"
               }
             }
           },
@@ -165,12 +177,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7606a3a17e250c62",
+  "active": "ce2092a7070c879f",
   "lastOpenFiles": [
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202407051025.md",
-    "Images/202407160849.excalidraw.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Images/202407160849.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
     "Images/202408121407.excalidraw.md",
     "Images/202408121120.excalidraw.md",
