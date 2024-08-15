@@ -11,8 +11,12 @@
             "id": "3a84b0cf3b258107",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408121404.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Notes/202408121404.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Notes/202408121404.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Notes/202408121404.md"
+          }
         }
       },
       {
@@ -134,6 +142,10 @@
   },
   "active": "3a84b0cf3b258107",
   "lastOpenFiles": [
+    "Meta/References/ME731A_2024S2.md",
+    "Images/202407020919.excalidraw.md",
+    "Images/202406260759.excalidraw.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408121404.md",
     "Notes/202408131707.md",
     "Audios/2024_08_13_19_14_38.m4a",
@@ -146,7 +158,6 @@
     "Meta/References/ME501B_2024S2.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
-    "Meta/References/ME731A_2024S2.md",
     "Notes/202408121158.md",
     "Notes/202408081201.md",
     "Notes/202408121110.md",
@@ -163,14 +174,12 @@
     "Meta/References/Introduction to Probability Models.md",
     "Meta/References/Introduction to stochastic processes with R.md",
     "Notes/202408121052.md",
-    "Meta/References/202408121052.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME651A_2024S2/01 ME651_24.pdf",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
     "Images/Notes_240807_084623.jpg",
