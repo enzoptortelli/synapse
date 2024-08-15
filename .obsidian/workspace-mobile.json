@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "0b3b895e4196f9eb",
+            "id": "9350fd0848d32d9c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408150855_0.excalidraw.md"
+                "file": "Images/202408150958.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408150855_0.excalidraw.md",
+            "file": "Images/202408150958.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408150855_0.excalidraw.md",
+            "file": "Images/202408150958.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408150855_0.excalidraw.md"
+            "file": "Images/202408150958.excalidraw.md"
           }
         }
       },
@@ -151,11 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b3b895e4196f9eb",
+  "active": "9350fd0848d32d9c",
   "lastOpenFiles": [
-    "Notes/202408150943.md",
     "Notes/202408121404.md",
+    "Images/202408150958.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
+    "Notes/202408150943.md",
     "Images/202408150855.excalidraw.md",
     "Meta/References/ME731A_2024S2.md",
     "Images/202407020919.excalidraw.md",
@@ -184,7 +185,6 @@
     "Images/202408121106.excalidraw.md",
     "Notes/202408121105.md",
     "Notes/202408081048.md",
-    "Notes/202408081149.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Images/Pasted Image 20240626054615_333.png",
