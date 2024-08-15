@@ -57,9 +57,9 @@
             "id": "7606a3a17e250c62",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Images/202408150958.excalidraw.md"
               }
             }
           }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Images/202408150958.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Images/202408150958.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Images/202408150958.excalidraw.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "7606a3a17e250c62",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408150958.excalidraw.md",
     "Notes/202407150955.md",
     "Notes/202407051031.md",
