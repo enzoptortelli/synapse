@@ -30,36 +30,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c5201f9e38dd9158",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "44c4534a79cc63d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           },
           {
-            "id": "c72fa1f9202f4e12",
+            "id": "fae06bd8d8bee13f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -183,16 +166,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "44c4534a79cc63d0",
+  "active": "fae06bd8d8bee13f",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
+    "Notes/202408121110.md",
+    "Meta/References/ME501B_2024S2.md",
+    "Notes/202408081015.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408151545.md",
+    "Documents/latex_symbols.pdf",
     "Notes/202408130828.md",
     "Notes/202408150943.md",
     "Notes/202408151204.md",
     "Notes/202407051031.md",
     "Notes/202407150955.md",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202407020938.md",
     "Images/202408150958.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
@@ -200,7 +190,6 @@
     "Images/Notes_240807_084623.jpg",
     "Images/Pasted image 20240809133943.png",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202407051025.md",
     "Notes/202407171105.md",
     "Images/202407160849.excalidraw.md",
@@ -213,14 +202,9 @@
     "Images/202407170939.excalidraw.md",
     "Images/202408061402.excalidraw.md",
     "Images/202408071623.excalidraw.md",
-    "Images/202408080839.excalidraw.md",
-    "Images/202408080846.excalidraw.md",
-    "Images/202408080902.excalidraw.md",
-    "Images/202408081015.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/MA502P_2024S2/Notas de aula",
     "Images/20240808_240808_155343_1.jpg",
     "Images/20240808_240808_155343_4.jpg",
