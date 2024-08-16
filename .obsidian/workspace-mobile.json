@@ -11,11 +11,19 @@
             "id": "3a84b0cf3b258107",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Meta/References/MA502P_2024S2.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME501A_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
+            "id": "6207340a57114691",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1_gabarito.pdf"
               }
             }
           }
@@ -85,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Meta/References/MA502P_2024S2.md",
+            "file": "Documents/ME501A_2024S2/lista1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Meta/References/MA502P_2024S2.md",
+            "file": "Documents/ME501A_2024S2/lista1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Meta/References/MA502P_2024S2.md"
+            "file": "Documents/ME501A_2024S2/lista1.pdf"
           }
         }
       },
@@ -142,8 +150,10 @@
   },
   "active": "3a84b0cf3b258107",
   "lastOpenFiles": [
-    "Notes/202408061402.md",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
     "Meta/References/MA502P_2024S2.md",
+    "Notes/202408061402.md",
     "Notes/202408131707.md",
     "Notes/202408121404.md",
     "Notes/202408151204.md",
@@ -173,14 +183,12 @@
     "Notes/202408071623.md",
     "Images/202408121110.excalidraw.md",
     "Images/202408121106.excalidraw.md",
-    "Notes/202408121105.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Images/Pasted Image 20240626054615_333.png",
     "Images/Pasted image 20240809133943.png",
     "Images/Pasted image 20240809133808.png",
     "Documents/ME651A_2024S2/02 ME651_24_ESTRATÉGIA DE MEDIÇÃO.pdf",
-    "Documents/ME651A_2024S2/01 ME651_24.pdf",
     "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
     "Images/Notes_240807_084623.jpg",
     "Images/E10_240807_144159.jpg",
