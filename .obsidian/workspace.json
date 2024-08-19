@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408190952.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408190952.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
+                "file": "Notes/202408190952.md"
               }
             }
           },
@@ -195,8 +195,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a0e413590b7e77ad",
+  "active": "e30eff85546afdd0",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408191139.md",
     "Images/202408191139.excalidraw.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -206,7 +207,6 @@
     "Images/Pasted image 20240819111409.png",
     "Images/Pasted image 20240819111159.png",
     "Images/Pasted image 20240819110840.png",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/Pasted image 20240819101559.png",
     "Images/Pasted image 20240819101220.png",
@@ -241,7 +241,6 @@
     "Images/202408150958.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
-    "Notes/202407051025.md",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf"
   ]
 }
