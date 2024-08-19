@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "91238655353b5cb2",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
               }
             }
           },
@@ -195,11 +194,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a0e413590b7e77ad",
+  "active": "c006bc343f22b8c5",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408190952.md",
     "Notes/202408191139.md",
     "Images/202408191139.excalidraw.md",
