@@ -36,18 +36,6 @@
                 "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
-          },
-          {
-            "id": "de661620ad1bd1d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408190838.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -176,10 +164,10 @@
   },
   "active": "03d973fd1958c60a",
   "lastOpenFiles": [
-    "Notes/202408190838.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408190838.md",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/202408190839.excalidraw.md",
     "Meta/References/ME501A_2024S2.md",
     "Documents/ME501B_2024S2/lista1.pdf",
