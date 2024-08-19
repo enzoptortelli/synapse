@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Notes/202408190952.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Notes/202408190952.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Notes/202408190952.md"
               }
             }
           },
@@ -194,11 +194,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "03d973fd1958c60a",
+  "active": "e30eff85546afdd0",
   "lastOpenFiles": [
+    "Images/Pasted image 20240819100400.png",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
     "Images/Pasted image 20240819100120.png",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/Pasted image 20240819095641.png",
     "Images/Pasted image 20240819095616.png",
     "Images/Pasted image 20240819095536.png",
