@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408190838.md",
+                "file": "Notes/202408191139.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7d8a8425f948c12f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408191139.excalidraw.md"
               }
             }
           },
@@ -29,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408190838.md",
+            "file": "Images/202408191139.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408190838.md",
+            "file": "Images/202408191139.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408190838.md"
+            "file": "Images/202408191139.excalidraw.md"
           }
         }
       },
@@ -150,11 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a84b0cf3b258107",
+  "active": "7d8a8425f948c12f",
   "lastOpenFiles": [
+    "Notes/202408191139.md",
+    "Images/202408191139.excalidraw.md",
     "Notes/202408190952.md",
-    "Images/202408190839.excalidraw.md",
     "Notes/202408190838.md",
+    "Images/Pasted image 20240819111610.png",
+    "Images/Pasted image 20240819111529.png",
+    "Images/Pasted image 20240819111409.png",
+    "Images/Pasted image 20240819111159.png",
+    "Images/Pasted image 20240819110840.png",
+    "Images/Pasted image 20240819101559.png",
+    "Images/Pasted image 20240819101220.png",
+    "Images/Pasted image 20240819101142.png",
+    "Images/Pasted image 20240819101050.png",
+    "Images/Pasted image 20240819100400.png",
+    "Images/202408190839.excalidraw.md",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
@@ -185,18 +208,6 @@
     "Meta/References/ME918A_2024S2.md",
     "Images/202408121407.excalidraw.md",
     "Images/202408121158.excalidraw.md",
-    "Images/202408121120.excalidraw.md",
-    "Notes/202408071623.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Images/Pasted Image 20240626054615_333.png",
-    "Images/Pasted image 20240809133943.png",
-    "Images/Pasted image 20240809133808.png",
-    "Images/Atividade 1 - Sistema de Conhecimento Profundo_240806_123531.jpg",
-    "Images/Notes_240807_084623.jpg",
-    "Images/E10_240807_144159.jpg",
-    "Images/E9_240807_135608.jpg",
-    "Images/E7_240807_122726.jpg",
-    "Images/E6_240807_120903.jpg",
-    "Images/L1e2_240806_171312.jpg"
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
   ]
 }

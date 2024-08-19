@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "91238655353b5cb2",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -195,11 +195,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "03d973fd1958c60a",
+  "active": "a0e413590b7e77ad",
   "lastOpenFiles": [
+    "Notes/202408191139.md",
+    "Images/202408191139.excalidraw.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
     "Images/Pasted image 20240819111610.png",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
     "Images/Pasted image 20240819111159.png",
@@ -240,7 +242,6 @@
     "Images/202408150855_0.excalidraw.md",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Notes/202407051025.md",
-    "Images/202407160849.excalidraw.md",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf"
   ]
 }
