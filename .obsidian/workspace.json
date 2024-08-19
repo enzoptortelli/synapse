@@ -9,16 +9,6 @@
         "dimension": 56.53495440729483,
         "children": [
           {
-            "id": "c006bc343f22b8c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
-              }
-            }
-          },
-          {
             "id": "03d973fd1958c60a",
             "type": "leaf",
             "state": {
@@ -29,12 +19,46 @@
             }
           },
           {
+            "id": "c006bc343f22b8c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+              }
+            }
+          },
+          {
             "id": "a0e413590b7e77ad",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Documents/ME501A_2024S2/lista2.pdf"
+              }
+            }
+          },
+          {
+            "id": "e1dd88cefe7793b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/ME501A_2024S2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1468689455dcf3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408190838.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -120,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945,
-    "collapsed": true
+    "width": 309.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -197,11 +220,13 @@
   },
   "active": "a0e413590b7e77ad",
   "lastOpenFiles": [
+    "Notes/202408191139.md",
+    "Meta/References/ME501A_2024S2.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Notes/202408190952.md",
+    "Notes/202408190838.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202408190952.md",
-    "Notes/202408191139.md",
     "Images/202408191139.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
@@ -221,9 +246,7 @@
     "Notes/202408080820.md",
     "Notes/202408151204.md",
     "Notes/202408151545.md",
-    "Notes/202408190838.md",
     "Images/202408190839.excalidraw.md",
-    "Meta/References/ME501A_2024S2.md",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408130828.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
