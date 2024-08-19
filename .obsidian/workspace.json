@@ -4,65 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "e7ba2281387e36b7",
+        "id": "6ca8a456c5ff3cb3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a9a465dfa2ae6f1",
+            "id": "005ee15bb758062e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
+              }
+            }
+          },
+          {
+            "id": "de661620ad1bd1d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408130828.md",
+                "file": "Notes/202408190838.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "722a86543a59c954",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fae06bd8d8bee13f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
-              }
-            }
-          },
-          {
-            "id": "715c9df81dc663bb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "65a7add3c0155988",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -186,17 +153,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "715c9df81dc663bb",
+  "active": "005ee15bb758062e",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Notes/202408130828.md",
-    "Notes/202408151545.md",
+    "Images/202408190839.excalidraw.md",
+    "Notes/202408190838.md",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
+    "Notes/202408130828.md",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Notes/202408151545.md",
     "Notes/202408121110.md",
     "Meta/References/ME501B_2024S2.md",
     "Notes/202408081015.md",
     "Meta/References/MA502P_2024S2.md",
-    "Meta/References/ME501A_2024S2.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202408150943.md",
@@ -220,14 +191,11 @@
     "Images/202407161258.excalidraw.md",
     "Images/202407170920.excalidraw.md",
     "Images/202407170939.excalidraw.md",
-    "Images/202408061402.excalidraw.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf",
     "Documents/MA502P_2024S2/Notas de aula",
     "Images/20240808_240808_155343_1.jpg",
     "Images/20240808_240808_155343_4.jpg",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/20240808_240808_155343_2.jpg",
     "Images/20240808_240808_155343_3.jpg",
     "Images/Pasted image 20240809133808.png",
