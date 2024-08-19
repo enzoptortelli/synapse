@@ -6,7 +6,7 @@
       {
         "id": "00ae8535f3f58249",
         "type": "tabs",
-        "dimension": 54.14663461538461,
+        "dimension": 56.53495440729483,
         "children": [
           {
             "id": "c006bc343f22b8c5",
@@ -56,7 +56,7 @@
       {
         "id": "91238655353b5cb2",
         "type": "tabs",
-        "dimension": 45.85336538461539,
+        "dimension": 43.46504559270517,
         "children": [
           {
             "id": "e30eff85546afdd0",
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 309.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -198,6 +199,8 @@
   "lastOpenFiles": [
     "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/Pasted image 20240819101559.png",
     "Images/Pasted image 20240819101220.png",
     "Images/Pasted image 20240819101142.png",
@@ -207,8 +210,6 @@
     "Images/Pasted image 20240819095641.png",
     "Images/Pasted image 20240819095616.png",
     "Images/Pasted image 20240819095536.png",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202407171117.md",
     "Meta/Link-tag/markov chain.md",
     "Notes/202407171105.md",
