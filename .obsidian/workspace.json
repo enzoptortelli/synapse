@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408190952.md"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -194,11 +194,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e30eff85546afdd0",
+  "active": "03d973fd1958c60a",
   "lastOpenFiles": [
-    "Images/Pasted image 20240819101220.png",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Images/Pasted image 20240819101559.png",
+    "Images/Pasted image 20240819101220.png",
     "Images/Pasted image 20240819101142.png",
     "Images/Pasted image 20240819101050.png",
     "Images/Pasted image 20240819100400.png",
@@ -236,8 +237,6 @@
     "Images/202408150958.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
     "Images/202408150958.excalidraw.png",
-    "Images/Notes_240807_084623.jpg",
-    "Images/Pasted image 20240809133943.png",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Notes/202407051025.md",
     "Images/202407160849.excalidraw.md",
