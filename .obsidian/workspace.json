@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "715c9df81dc663bb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              }
+            }
+          },
+          {
             "id": "65a7add3c0155988",
             "type": "leaf",
             "state": {
@@ -52,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           },
@@ -176,12 +186,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "fae06bd8d8bee13f",
+  "active": "715c9df81dc663bb",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408130828.md",
     "Notes/202408151545.md",
     "Documents/ME501B_2024S2/lista1.pdf",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408121110.md",
     "Meta/References/ME501B_2024S2.md",
     "Notes/202408081015.md",
