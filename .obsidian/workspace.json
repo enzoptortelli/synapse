@@ -4,91 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "00ae8535f3f58249",
+        "id": "66f00e05f41ea491",
         "type": "tabs",
-        "dimension": 56.53495440729483,
         "children": [
           {
-            "id": "03d973fd1958c60a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "c006bc343f22b8c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
-              }
-            }
-          },
-          {
-            "id": "a0e413590b7e77ad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
-              }
-            }
-          },
-          {
-            "id": "e1dd88cefe7793b1",
+            "id": "0ecda3fc82646e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/ME501A_2024S2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1468689455dcf3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408190838.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ec265831621de38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408190952.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "91238655353b5cb2",
-        "type": "tabs",
-        "dimension": 43.46504559270517,
-        "children": [
-          {
-            "id": "e30eff85546afdd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Notes/202408151545.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -218,16 +143,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a0e413590b7e77ad",
+  "active": "0ecda3fc82646e43",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
+    "Notes/202408151204.md",
+    "Notes/202408190838.md",
+    "Meta/References/Análise Real Volume 1.md",
+    "Notes/202408151545.md",
+    "Notes/202408190952.md",
     "Notes/202408191139.md",
     "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
-    "Notes/202408190952.md",
-    "Notes/202408190838.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408191139.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
@@ -245,8 +173,6 @@
     "Notes/202408081048.md",
     "Notes/202408080936.md",
     "Notes/202408080820.md",
-    "Notes/202408151204.md",
-    "Notes/202408151545.md",
     "Images/202408190839.excalidraw.md",
     "Notes/202408130828.md",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
