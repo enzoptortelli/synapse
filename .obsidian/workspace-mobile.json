@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408200916.md",
+                "file": "Notes/202408200924.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "456da36a47769d70",
+            "id": "0362a791a7db8450",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408200916.excalidraw.md"
+                "file": "Images/202408200924.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408200916.excalidraw.md",
+            "file": "Images/202408200924.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408200916.excalidraw.md",
+            "file": "Images/202408200924.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408200916.excalidraw.md"
+            "file": "Images/202408200924.excalidraw.md"
           }
         }
       },
@@ -151,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "456da36a47769d70",
+  "active": "0362a791a7db8450",
   "lastOpenFiles": [
+    "Notes/202408200924.md",
+    "Images/202408200924.excalidraw.md",
     "Notes/202408200916.md",
     "Images/202408200916.excalidraw.md",
     "Notes/202408081149.md",
@@ -191,9 +193,7 @@
     "Images/202408150855.excalidraw.md",
     "Meta/References/ME731A_2024S2.md",
     "Images/202407020919.excalidraw.md",
-    "Images/202406260759.excalidraw.md",
     "Audios/2024_08_13_19_14_38.m4a",
-    "Notes/202408131711.md",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf",
     "Documents/MA502P_2024S2/Notas de aula",
