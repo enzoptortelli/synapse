@@ -77,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "8775f87a45e5f38d",
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -228,8 +228,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a6142e2367a150b4",
+  "active": "9850a419a752ffc4",
   "lastOpenFiles": [
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Images/202408200934.excalidraw.md",
+    "Notes/202408200934.md",
     "Images/Pasted image 20240819111610.png",
     "Notes/202408200929.md",
     "Images/202408200929.excalidraw.md",
@@ -247,7 +250,6 @@
     "Notes/202408191139.md",
     "Notes/202408190952.md",
     "Notes/202408081048.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408151545.md",
     "Notes/202408151204.md",
     "Notes/202408150943.md",
@@ -259,8 +261,6 @@
     "Notes/202408080936.md",
     "Notes/202408081015.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Notes/202408131707.md",
-    "Notes/202408190838.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
