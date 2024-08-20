@@ -55,16 +55,6 @@
             }
           },
           {
-            "id": "b48f460acf00b872",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted image 20240819111610.png"
-              }
-            }
-          },
-          {
             "id": "72628e8d2cc4c3bb",
             "type": "leaf",
             "state": {
@@ -87,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "8775f87a45e5f38d",
@@ -180,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Pasted image 20240819111610.png",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Pasted image 20240819111610.png",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Pasted image 20240819111610.png"
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
               }
             }
           },
@@ -238,8 +228,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b48f460acf00b872",
+  "active": "a6142e2367a150b4",
   "lastOpenFiles": [
+    "Images/Pasted image 20240819111610.png",
+    "Notes/202408200929.md",
+    "Images/202408200929.excalidraw.md",
     "Notes/202408200924.md",
     "Images/202408200924.excalidraw.md",
     "Notes/202408200916.md",
@@ -249,7 +242,6 @@
     "Images/test.md",
     "Images/Pasted Image 20240820080937_704 1.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/Pasted image 20240819111610.png",
     "Notes/202408081201.md",
     "Images/202408081048.excalidraw.md",
     "Notes/202408191139.md",
@@ -269,13 +261,10 @@
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408131707.md",
     "Notes/202408190838.md",
-    "Meta/References/Análise Real Volume 1.md",
-    "Meta/References/ME501A_2024S2.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
-    "Images/202408191139.excalidraw.md",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
     "Images/Pasted image 20240819111159.png",
