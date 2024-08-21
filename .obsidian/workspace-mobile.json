@@ -8,14 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8e07e246967f67fb",
+            "id": "4c7e94b2ebaceaa5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
+            "id": "0bdcc82f4e2bc21f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+              }
+            }
+          },
+          {
+            "id": "bedb3683534e5187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202407150951.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "057fe6af3209f424",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+              }
+            }
+          },
+          {
+            "id": "54d6d69ecf5ea11a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +126,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Documents/MA502P_2024S2/lista_1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +143,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Documents/MA502P_2024S2/lista_1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +154,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Documents/MA502P_2024S2/lista_1.pdf"
+          }
         }
       },
       {
@@ -132,8 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e07e246967f67fb",
+  "active": "0bdcc82f4e2bc21f",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Notes/202407150951.md",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202408200934.md",
     "Notes/202408200946.md",
     "Notes/202408201053.md",
@@ -153,7 +208,6 @@
     "Notes/202408081048.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408191139.md",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Images/test.md",
     "Notes/202408190952.md",
     "Images/202408081201.excalidraw.md",
@@ -171,14 +225,8 @@
     "Images/Pasted image 20240819100400.png",
     "Images/202408190839.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Documents/ME501A_2024S2/lista1.pdf",
-    "Notes/202408061402.md",
-    "Notes/202408131707.md",
     "Audios/2024_08_13_19_14_38.m4a",
     "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
-    "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf",
-    "Documents/MA502P_2024S2/Notas de aula",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+    "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf"
   ]
 }
