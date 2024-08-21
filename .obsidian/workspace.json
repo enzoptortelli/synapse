@@ -4,102 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "66f00e05f41ea491",
+        "id": "16f0df10994455de",
         "type": "tabs",
-        "dimension": 45.012019230769226,
         "children": [
           {
-            "id": "0ecda3fc82646e43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408130828.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9850a419a752ffc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ad73e6f4584f526",
+            "id": "e83f4fcf992130b8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           },
           {
-            "id": "daa16b37c1a15795",
+            "id": "c65c80354b1b9134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/MA502P_2024S2.md",
+                "file": "Notes/202408190952.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "72628e8d2cc4c3bb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202408081048.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f4c6f01af8f390ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408191139.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8775f87a45e5f38d",
-        "type": "tabs",
-        "dimension": 54.987980769230774,
-        "children": [
-          {
-            "id": "a6142e2367a150b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "edd6e4bb185a2dce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
               }
             }
           }
@@ -170,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408190952.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+                "file": "Notes/202408190952.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Notes/202408190952.md"
               }
             }
           },
@@ -228,24 +154,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "edd6e4bb185a2dce",
+  "active": "c65c80354b1b9134",
   "lastOpenFiles": [
+    "Notes/202408200916.md",
+    "Notes/202408191139.md",
+    "Notes/202408200924.md",
+    "Notes/202408200929.md",
+    "Notes/202408200934.md",
+    "Notes/202408200946.md",
+    "Notes/202408201053.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
     "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
-    "Notes/202408201053.md",
     "Images/202408201053.excalidraw.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Notes/202408200946.md",
     "Images/202408200946.excalidraw.md",
     "Images/202408200934.excalidraw.md",
-    "Notes/202408200934.md",
     "Images/Pasted image 20240819111610.png",
-    "Notes/202408200929.md",
     "Images/202408200929.excalidraw.md",
-    "Notes/202408200924.md",
     "Images/202408200924.excalidraw.md",
-    "Notes/202408200916.md",
     "Images/202408200916.excalidraw.md",
     "Images/Pasted Image 20240820080937_704.png",
     "Meta/References/MA502P_2024S2.md",
@@ -254,14 +182,12 @@
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Notes/202408081201.md",
     "Images/202408081048.excalidraw.md",
-    "Notes/202408191139.md",
     "Notes/202408190952.md",
     "Notes/202408081048.md",
     "Notes/202408151204.md",
     "Notes/202408150943.md",
     "Notes/202408131711.md",
     "Notes/202408081149.md",
-    "Notes/202408121110.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -273,7 +199,6 @@
     "Images/Pasted image 20240819101559.png",
     "Images/Pasted image 20240819101220.png",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf"
   ]

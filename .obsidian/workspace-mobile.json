@@ -4,63 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1ada445ad0ee5f95",
+        "id": "84f3cf596d619b9b",
         "type": "tabs",
         "children": [
           {
-            "id": "4c7e94b2ebaceaa5",
+            "id": "61f51bf60012123b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista1.pdf"
-              }
-            }
-          },
-          {
-            "id": "0bdcc82f4e2bc21f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "bedb3683534e5187",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202407150951.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "057fe6af3209f424",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
-              }
-            }
-          },
-          {
-            "id": "54d6d69ecf5ea11a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/MA502P_2024S2/lista_1.pdf",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/MA502P_2024S2/lista_1.pdf",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/MA502P_2024S2/lista_1.pdf"
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
           }
         }
       },
@@ -181,13 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bdcc82f4e2bc21f",
+  "active": "61f51bf60012123b",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/lista1.pdf",
-    "Notes/202407150951.md",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Notes/202407150951.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202408200934.md",
     "Notes/202408200946.md",
@@ -206,7 +164,6 @@
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408081201.md",
     "Notes/202408081048.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408191139.md",
     "Images/test.md",
     "Notes/202408190952.md",
