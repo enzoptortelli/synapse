@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1ad30ca95c28a7a1",
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
               }
             }
           },
@@ -205,11 +205,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "400fa6115b5a1ef6",
+  "active": "324505a658155dbe",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202408190952.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202408221056.md",
     "Images/202408221057.excalidraw.md",
