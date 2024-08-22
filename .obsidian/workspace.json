@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408190952.md"
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           },
@@ -154,8 +153,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c65c80354b1b9134",
+  "active": "e83f4fcf992130b8",
   "lastOpenFiles": [
+    "Notes/202408190952.md",
     "Notes/202408200916.md",
     "Notes/202408191139.md",
     "Notes/202408200924.md",
@@ -182,7 +182,6 @@
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Notes/202408081201.md",
     "Images/202408081048.excalidraw.md",
-    "Notes/202408190952.md",
     "Notes/202408081048.md",
     "Notes/202408151204.md",
     "Notes/202408150943.md",
