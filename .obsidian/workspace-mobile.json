@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "777795306dd5f0ce",
+            "id": "9328d5d14a185ccf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Images/202408221057.excalidraw.md"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           }
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408221057.excalidraw.md",
+            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408221057.excalidraw.md",
+            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +137,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408221057.excalidraw.md"
+            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
           }
         }
       },
@@ -163,16 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "777795306dd5f0ce",
+  "active": "9328d5d14a185ccf",
   "lastOpenFiles": [
-    "Notes/202408221056.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Images/202408221057.excalidraw.md",
+    "Notes/202408221232.md",
+    "Images/202408221232.excalidraw.md",
+    "Notes/202408221056.md",
+    "Notes/202408201053.md",
+    "Notes/202408190952.md",
     "Notes/202408221013.md",
     "Images/202408221014.excalidraw.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
-    "Notes/202408201053.md",
     "Images/202408201053.excalidraw.md",
     "Meta/References/MA502P_2024S2.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
@@ -196,10 +200,6 @@
     "Images/202408081149.excalidraw.md",
     "Notes/202408081201.md",
     "Notes/202408081048.md",
-    "Notes/202408191139.md",
-    "Images/test.md",
-    "Notes/202408190952.md",
-    "Images/202408081201.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
@@ -209,7 +209,6 @@
     "Images/Pasted image 20240819101220.png",
     "Images/Pasted image 20240819101142.png",
     "Audios/2024_08_13_19_14_38.m4a",
-    "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf",
-    "Documents/MA502P_2024S2/Notas de aula/20240808_240808_155343.pdf"
+    "Documents/MA502P_2024S2/Notas de aula/20240813_240813_155057.pdf"
   ]
 }
