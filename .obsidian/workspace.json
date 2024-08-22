@@ -11,8 +11,22 @@
             "id": "4d39ed9cf6fd2a81",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5575e03ca514f79",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +123,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202408151545.md"
+              }
             }
           },
           {
@@ -137,13 +155,14 @@
   },
   "active": "4d39ed9cf6fd2a81",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408190952.md",
     "Notes/202408191139.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Notes/202408190952.md",
     "Notes/202408221056.md",
     "Images/202408221057.excalidraw.md",
     "Notes/202408221013.md",
@@ -160,7 +179,6 @@
     "Notes/202408201053.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
-    "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Images/202408201053.excalidraw.md",
     "Images/202408200946.excalidraw.md",
