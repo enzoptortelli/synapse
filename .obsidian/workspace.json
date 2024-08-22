@@ -31,7 +31,35 @@
             }
           },
           {
-            "id": "a5aaf47c98a0843e",
+            "id": "400fa6115b5a1ef6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
+              }
+            }
+          },
+          {
+            "id": "324505a658155dbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1ad30ca95c28a7a1",
+        "type": "tabs",
+        "dimension": 57.488653555219365,
+        "children": [
+          {
+            "id": "d04c2624d7a760eb",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -41,30 +69,14 @@
             }
           },
           {
-            "id": "400fa6115b5a1ef6",
+            "id": "d6fef585d06bd321",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "1ad30ca95c28a7a1",
-        "type": "tabs",
-        "dimension": 57.48865355521936,
-        "children": [
-          {
-            "id": "d04c2624d7a760eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Notes/202408191139.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -118,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 309.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -179,8 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +207,20 @@
   },
   "active": "400fa6115b5a1ef6",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
+    "Notes/202408221013.md",
+    "Images/202408221014.excalidraw.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/latex_symbols.pdf",
+    "Notes/202408191139.md",
+    "Meta/References/ME501A_2024S2.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408200916.md",
-    "Notes/202408191139.md",
     "Notes/202408200924.md",
     "Notes/202408200929.md",
     "Notes/202408200934.md",
@@ -231,9 +247,6 @@
     "Notes/202408081048.md",
     "Notes/202408151204.md",
     "Notes/202408150943.md",
-    "Notes/202408131711.md",
-    "Notes/202408081149.md",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
