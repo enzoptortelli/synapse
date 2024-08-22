@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "5a79ad8feac94319",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
             "id": "ea3b6df7a806d9b4",
             "type": "leaf",
             "state": {
@@ -129,8 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945,
-    "collapsed": true
+    "width": 309.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -206,12 +215,13 @@
   },
   "active": "c65c80354b1b9134",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Notes/202408190952.md",
-    "Documents/latex_symbols.pdf",
-    "Notes/202408191139.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/latex_symbols.pdf",
+    "Notes/202408190952.md",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408191139.md",
     "Notes/202408221056.md",
     "Images/202408221057.excalidraw.md",
     "Notes/202408221013.md",
@@ -220,7 +230,6 @@
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
-    "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408200916.md",
     "Notes/202408200924.md",
     "Notes/202408200929.md",
