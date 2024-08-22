@@ -6,7 +6,7 @@
       {
         "id": "16f0df10994455de",
         "type": "tabs",
-        "dimension": 47.29567307692308,
+        "dimension": 42.511346444780635,
         "children": [
           {
             "id": "c65c80354b1b9134",
@@ -55,7 +55,7 @@
       {
         "id": "1ad30ca95c28a7a1",
         "type": "tabs",
-        "dimension": 52.70432692307693,
+        "dimension": 57.48865355521936,
         "children": [
           {
             "id": "d04c2624d7a760eb",
@@ -178,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +194,7 @@
   },
   "active": "c65c80354b1b9134",
   "lastOpenFiles": [
+    "Images/Pasted image 20240822081057.png",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
     "Images/Pasted image 20240822075223.png",
