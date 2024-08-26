@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408260856.md",
+                "file": "Notes/202408260936.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "12af8a6baf8f8601",
+            "id": "10c769ee2b1b644c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408260857.excalidraw.md"
+                "file": "Images/202408260937.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408260857.excalidraw.md",
+            "file": "Images/202408260937.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408260857.excalidraw.md",
+            "file": "Images/202408260937.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408260857.excalidraw.md"
+            "file": "Images/202408260937.excalidraw.md"
           }
         }
       },
@@ -151,8 +151,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12af8a6baf8f8601",
+  "active": "10c769ee2b1b644c",
   "lastOpenFiles": [
+    "Notes/202408260936.md",
+    "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
     "Images/202408260857.excalidraw.md",
     "Notes/202408201053.md",
@@ -189,8 +191,6 @@
     "Images/202408200934.excalidraw.md",
     "Notes/202408200929.md",
     "Notes/202408200924.md",
-    "Images/202408200929.excalidraw.md",
-    "Images/202408200924.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",

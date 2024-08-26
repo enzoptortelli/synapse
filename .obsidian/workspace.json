@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -189,15 +190,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5f4c2d99499b169d",
+  "active": "b2291825cf54d991",
   "lastOpenFiles": [
-    "Notes/202408151545.md",
-    "Meta/References/MA502P_2024S2.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
-    "Notes/202408260856.md",
-    "Images/202408260857.excalidraw.md",
     "Notes/202408200946.md",
     "Notes/202408201053.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Notes/202408260936.md",
+    "Images/202408260937.excalidraw.md",
+    "Notes/202408151545.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202408260856.md",
+    "Images/202408260857.excalidraw.md",
     "Notes/202408061402.md",
     "Notes/202408200934.md",
     "Notes/202408131707.md",
@@ -225,9 +228,7 @@
     "Notes/202408130828.md",
     "Images/202408201053.excalidraw.md",
     "Images/202408200946.excalidraw.md",
-    "Images/202408200934.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
-    "Images/202408200929.excalidraw.md",
     "Images/Pasted Image 20240820080937_704.png",
     "Images/Pasted Image 20240820080937_704 1.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
