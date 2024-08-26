@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
               }
             }
           },
@@ -190,8 +189,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b2291825cf54d991",
+  "active": "5f4c2d99499b169d",
   "lastOpenFiles": [
+    "Notes/202408151545.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408061402.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
@@ -203,7 +203,6 @@
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/latex_symbols.pdf",
-    "Notes/202408151545.md",
     "Notes/202408190952.md",
     "Notes/202408191139.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
