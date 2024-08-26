@@ -11,9 +11,11 @@
             "id": "6030a43bc4024f43",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202408200946.excalidraw.md"
+                "file": "Notes/202408200946.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408200946.excalidraw.md",
+            "file": "Notes/202408200946.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408200946.excalidraw.md",
+            "file": "Notes/202408200946.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408200946.excalidraw.md"
+            "file": "Notes/202408200946.md"
           }
         }
       },
@@ -140,6 +142,7 @@
   },
   "active": "6030a43bc4024f43",
   "lastOpenFiles": [
+    "Images/202408200946.excalidraw.md",
     "Notes/202408200946.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408200934.md",
@@ -170,7 +173,6 @@
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202407150951.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
-    "Images/202408200946.excalidraw.md",
     "Images/202408200934.excalidraw.md",
     "Notes/202408200929.md",
     "Notes/202408200924.md",
