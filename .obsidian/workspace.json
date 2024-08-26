@@ -4,33 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6ef0ea2ea43f25",
+        "id": "7de1480c86c2762f",
         "type": "tabs",
         "children": [
           {
-            "id": "eb05a885bf21fe1b",
+            "id": "5f4c2d99499b169d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista1.pdf"
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
               }
             }
           },
           {
-            "id": "5f9323e9e80fb8d4",
+            "id": "0afb359a45fe2c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202407150955.md",
+                "file": "Meta/References/MA502P_2024S2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01b123b39359b107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408200946.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75e5f789b6701171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408201053.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202407150955.md",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202407150955.md",
+                "file": "Documents/MA502P_2024S2/lista_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202407150955.md"
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
               }
             }
           },
@@ -154,8 +177,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "5f9323e9e80fb8d4",
+  "active": "5f4c2d99499b169d",
   "lastOpenFiles": [
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202408200946.md",
+    "Notes/202408200934.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Notes/202408201053.md",
+    "Notes/202408131707.md",
+    "Notes/202407150955.md",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/latex_symbols.pdf",
@@ -176,12 +206,8 @@
     "Notes/202408200916.md",
     "Notes/202408200924.md",
     "Notes/202408200929.md",
-    "Notes/202408200934.md",
-    "Notes/202408200946.md",
-    "Notes/202408201053.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408130828.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Images/202408201053.excalidraw.md",
     "Images/202408200946.excalidraw.md",
     "Images/202408200934.excalidraw.md",
@@ -190,17 +216,13 @@
     "Images/202408200924.excalidraw.md",
     "Images/202408200916.excalidraw.md",
     "Images/Pasted Image 20240820080937_704.png",
-    "Meta/References/MA502P_2024S2.md",
     "Images/test.md",
     "Images/Pasted Image 20240820080937_704 1.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Notes/202408081201.md",
-    "Images/202408081048.excalidraw.md",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
     "Images/Pasted image 20240819111159.png",
-    "Images/Pasted image 20240819110840.png",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+    "Images/Pasted image 20240819110840.png"
   ]
 }
