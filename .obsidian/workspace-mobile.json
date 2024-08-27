@@ -11,13 +11,26 @@
             "id": "6030a43bc4024f43",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408270840.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45b47b7a422cb015",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202408221232.excalidraw.md"
+                "file": "Images/202408270840.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408221232.excalidraw.md",
+            "file": "Images/202408270840.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408221232.excalidraw.md",
+            "file": "Images/202408270840.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408221232.excalidraw.md"
+            "file": "Images/202408270840.excalidraw.md"
           }
         }
       },
@@ -138,9 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6030a43bc4024f43",
+  "active": "45b47b7a422cb015",
   "lastOpenFiles": [
+    "Notes/202408270840.md",
+    "Images/202408270840.excalidraw.md",
     "Notes/202408221232.md",
+    "Images/202408221232.excalidraw.md",
     "Notes/202408260936.md",
     "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
@@ -166,7 +182,6 @@
     "Notes/202408221056.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Images/202408221057.excalidraw.md",
-    "Images/202408221232.excalidraw.md",
     "Notes/202408221013.md",
     "Images/202408221014.excalidraw.md",
     "Images/Pasted image 20240822081057.png",
@@ -176,8 +191,6 @@
     "Notes/202407150951.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Images/202408200934.excalidraw.md",
-    "Notes/202408200929.md",
-    "Notes/202408200924.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
