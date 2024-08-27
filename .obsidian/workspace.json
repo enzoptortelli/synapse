@@ -41,16 +41,6 @@
             }
           },
           {
-            "id": "3874981dea2f7a71",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202408221232.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "0337b936d8e7cb17",
             "type": "leaf",
             "state": {
@@ -60,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "7ea6560e909a37e9",
@@ -159,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -218,20 +207,23 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0337b936d8e7cb17",
+  "active": "1021c702dd8cc4b4",
   "lastOpenFiles": [
+    "Meta/References/ME501A_2024S2.md",
+    "Images/202408221232.excalidraw.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202408190952.md",
+    "Images/Pasted image 20240827104936.png",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
     "Images/Pasted image 20240827091717.png",
     "Images/Pasted image 20240827091629.png",
     "Notes/202408260936.md",
-    "Images/202408221232.excalidraw.md",
-    "Meta/References/ME501A_2024S2.md",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202408221232.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408270840.md",
     "Images/202408270840.excalidraw.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
@@ -243,8 +235,6 @@
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408151545.md",
     "Meta/References/MA502P_2024S2.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
     "Images/202408260857.excalidraw.md",
@@ -263,7 +253,6 @@
     "Notes/202408200924.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted Image 20240820080937_704.png",
-    "Images/Pasted Image 20240820080937_704 1.png",
-    "Images/SmartSelect_20240608_065124_Graphing Calc.jpg"
+    "Images/Pasted Image 20240820080937_704 1.png"
   ]
 }
