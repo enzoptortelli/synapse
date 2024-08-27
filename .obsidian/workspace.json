@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7ea6560e909a37e9",
@@ -81,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408190952.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf",
+                "file": "Notes/202408190952.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
+                "file": "Notes/202408190952.md"
               }
             }
           },
@@ -205,20 +207,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1021c702dd8cc4b4",
+  "active": "c65de09b01a4a49f",
   "lastOpenFiles": [
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408270840.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Images/202408271652.excalidraw.md",
     "Notes/202408271652.md",
-    "Notes/202408270840.md",
     "Notes/202408271444.md",
     "Notes/202408271533.md",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202408260936.md",
     "Images/202408271445.excalidraw.md",
     "Images/202408271533.excalidraw.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
     "Images/202408221232.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
