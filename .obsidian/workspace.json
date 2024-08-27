@@ -6,6 +6,7 @@
       {
         "id": "5ebb3102e3354478",
         "type": "tabs",
+        "dimension": 48.891129032258064,
         "children": [
           {
             "id": "1021c702dd8cc4b4",
@@ -50,18 +51,6 @@
             }
           },
           {
-            "id": "c65de09b01a4a49f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408260936.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0337b936d8e7cb17",
             "type": "leaf",
             "state": {
@@ -73,6 +62,38 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "7ea6560e909a37e9",
+        "type": "tabs",
+        "dimension": 51.108870967741936,
+        "children": [
+          {
+            "id": "90ad8481fdfb4be6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408260936.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65de09b01a4a49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408190952.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408260936.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -155,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408260936.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408260936.md"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -183,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,15 +218,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c65de09b01a4a49f",
+  "active": "0337b936d8e7cb17",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202408260936.md",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
-    "Images/202408221232.excalidraw.md",
-    "Notes/202408221232.md",
-    "Meta/References/ME501A_2024S2.md",
     "Notes/202408190952.md",
+    "Images/Pasted image 20240827091717.png",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Images/Pasted image 20240827091629.png",
+    "Notes/202408260936.md",
+    "Images/202408221232.excalidraw.md",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Notes/202408221232.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408270840.md",
     "Images/202408270840.excalidraw.md",
@@ -240,8 +264,6 @@
     "Images/Pasted Image 20240820080937_704 1.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/Pasted image 20240819111529.png",
-    "Images/Pasted image 20240819111409.png",
-    "Images/Pasted image 20240819111159.png",
-    "Images/Pasted image 20240819110840.png"
+    "Images/Pasted image 20240819111409.png"
   ]
 }
