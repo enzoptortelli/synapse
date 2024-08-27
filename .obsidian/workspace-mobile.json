@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0506edb294d722d5",
+        "id": "c22a1096d3f816e4",
         "type": "tabs",
         "children": [
           {
-            "id": "45b47b7a422cb015",
+            "id": "d0e873712e418dc0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202408270840.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408270840.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408270840.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202408270840.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -138,13 +132,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45b47b7a422cb015",
+  "active": "d0e873712e418dc0",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Notes/202408271444.md",
+    "Images/202408271445.excalidraw.md",
+    "Images/202408270840.excalidraw.md",
+    "Notes/202408271533.md",
+    "Images/202408190839.excalidraw.md",
+    "Notes/202408190838.md",
+    "Images/202408271533.excalidraw.md",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Images/202408200946.excalidraw.md",
+    "Notes/202408200946.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202408200934.md",
+    "Notes/202408190952.md",
+    "Meta/References/ME501A_2024S2.md",
     "Images/202408221232.excalidraw.md",
     "Notes/202408221232.md",
     "Notes/202408260936.md",
     "Notes/202408270840.md",
-    "Images/202408270840.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
@@ -155,33 +167,15 @@
     "Images/202408260857.excalidraw.md",
     "Notes/202408201053.md",
     "Images/202408201053.excalidraw.md",
-    "Meta/References/MA502P_2024S2.md",
-    "Notes/202408200946.md",
-    "Images/202408200946.excalidraw.md",
-    "Notes/202408200934.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202408190952.md",
     "Notes/202408150943.md",
-    "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
-    "Meta/References/ME501A_2024S2.md",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Images/202408150855_0.excalidraw.md",
     "Meta/References/ME501B_2024S2.md",
-    "Notes/202408151204.md",
-    "Notes/202408221056.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Images/202408221057.excalidraw.md",
-    "Notes/202408221013.md",
-    "Images/202408221014.excalidraw.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Notes/202407150951.md",
-    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png"
