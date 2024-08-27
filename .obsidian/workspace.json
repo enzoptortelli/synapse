@@ -52,6 +52,26 @@
             }
           },
           {
+            "id": "f387cb4d44004074",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+              }
+            }
+          },
+          {
+            "id": "f69c60d01fc93fb5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
             "id": "073489fa18aeaa6d",
             "type": "leaf",
             "state": {
@@ -86,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -152,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
               }
             }
           },
@@ -210,12 +230,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b2291825cf54d991",
+  "active": "f387cb4d44004074",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista1.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+    "Notes/202408151545.md",
     "Meta/References/MA502P_2024S2.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/latex_symbols.pdf",
-    "Notes/202408151545.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408200946.md",
     "Notes/202408201053.md",
@@ -239,7 +261,6 @@
     "Notes/202408221013.md",
     "Images/202408221014.excalidraw.md",
     "Meta/References/ME501A_2024S2.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Notes/202408200916.md",
@@ -252,7 +273,6 @@
     "Images/Pasted Image 20240820080937_704.png",
     "Images/Pasted Image 20240820080937_704 1.png",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png",
     "Images/Pasted image 20240819111159.png",
