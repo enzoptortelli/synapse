@@ -4,109 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7de1480c86c2762f",
+        "id": "5ebb3102e3354478",
         "type": "tabs",
         "children": [
           {
-            "id": "5f4c2d99499b169d",
+            "id": "1021c702dd8cc4b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/MA502P_2024S2/lista_1.pdf"
-              }
-            }
-          },
-          {
-            "id": "4d5ae416cc98d042",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "0afb359a45fe2c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/References/MA502P_2024S2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2291825cf54d991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f387cb4d44004074",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
-              }
-            }
-          },
-          {
-            "id": "f69c60d01fc93fb5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1.pdf"
-              }
-            }
-          },
-          {
-            "id": "073489fa18aeaa6d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              }
-            }
-          },
-          {
-            "id": "01b123b39359b107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408200946.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75e5f789b6701171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408201053.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -189,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -230,17 +135,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f387cb4d44004074",
+  "active": "1021c702dd8cc4b4",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista2.pdf",
+    "Notes/202408201053.md",
+    "Notes/202408200946.md",
+    "Documents/latex_symbols.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408151545.md",
     "Meta/References/MA502P_2024S2.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Notes/202408200946.md",
-    "Notes/202408201053.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408260936.md",
     "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
@@ -255,7 +162,6 @@
     "Notes/202408191139.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408221056.md",
     "Images/202408221057.excalidraw.md",
     "Notes/202408221013.md",
