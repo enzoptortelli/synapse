@@ -11,11 +11,58 @@
             "id": "1021c702dd8cc4b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
+              }
+            }
+          },
+          {
+            "id": "530edda4ad3e89c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/ME501A_2024S2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c65de09b01a4a49f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408190952.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0337b936d8e7cb17",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              }
+            }
+          },
+          {
+            "id": "17200db1e867d4f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202408190952.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202408190952.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202408190952.md"
+              }
             }
           },
           {
@@ -135,8 +186,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "1021c702dd8cc4b4",
+  "active": "c65de09b01a4a49f",
   "lastOpenFiles": [
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Notes/202408221232.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Notes/202408201053.md",
@@ -156,17 +212,12 @@
     "Notes/202408200934.md",
     "Notes/202408131707.md",
     "Notes/202407150955.md",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408190952.md",
     "Notes/202408191139.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202408221056.md",
     "Images/202408221057.excalidraw.md",
     "Notes/202408221013.md",
     "Images/202408221014.excalidraw.md",
-    "Meta/References/ME501A_2024S2.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Notes/202408200916.md",
@@ -174,7 +225,6 @@
     "Notes/202408200929.md",
     "Notes/202408130828.md",
     "Images/202408201053.excalidraw.md",
-    "Images/202408200946.excalidraw.md",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted Image 20240820080937_704.png",
     "Images/Pasted Image 20240820080937_704 1.png",

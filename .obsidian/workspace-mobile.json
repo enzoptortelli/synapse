@@ -11,11 +11,9 @@
             "id": "6030a43bc4024f43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202408260936.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202408221232.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408260936.md",
+            "file": "Images/202408221232.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408260936.md",
+            "file": "Images/202408221232.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408260936.md"
+            "file": "Images/202408221232.excalidraw.md"
           }
         }
       },
@@ -142,8 +140,9 @@
   },
   "active": "6030a43bc4024f43",
   "lastOpenFiles": [
-    "Images/202408260937.excalidraw.md",
+    "Notes/202408221232.md",
     "Notes/202408260936.md",
+    "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
     "Images/202408260857.excalidraw.md",
     "Notes/202408201053.md",
@@ -167,7 +166,6 @@
     "Notes/202408221056.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Images/202408221057.excalidraw.md",
-    "Notes/202408221232.md",
     "Images/202408221232.excalidraw.md",
     "Notes/202408221013.md",
     "Images/202408221014.excalidraw.md",
