@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f3e431009a280cd4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202408271652.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202408271652.excalidraw.md",
+            "file": "Notes/202408271652.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202408271652.excalidraw.md",
+            "file": "Notes/202408271652.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202408271652.excalidraw.md"
+            "file": "Notes/202408271652.md"
           }
         }
       },
@@ -151,10 +140,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3e431009a280cd4",
+  "active": "d0e873712e418dc0",
   "lastOpenFiles": [
-    "Notes/202408271652.md",
     "Images/202408271652.excalidraw.md",
+    "Notes/202408271652.md",
     "Notes/202408270840.md",
     "Images/202408270840.excalidraw.md",
     "Documents/ME501A_2024S2/lista2.pdf",
