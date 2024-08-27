@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408270840.md",
+                "file": "Notes/202408271652.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3e431009a280cd4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202408271652.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408270840.md",
+            "file": "Images/202408271652.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408270840.md",
+            "file": "Images/202408271652.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408270840.md"
+            "file": "Images/202408271652.excalidraw.md"
           }
         }
       },
@@ -140,10 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0e873712e418dc0",
+  "active": "f3e431009a280cd4",
   "lastOpenFiles": [
-    "Images/202408270840.excalidraw.md",
+    "Notes/202408271652.md",
+    "Images/202408271652.excalidraw.md",
     "Notes/202408270840.md",
+    "Images/202408270840.excalidraw.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -179,7 +192,6 @@
     "Notes/202408150943.md",
     "Documents/ME501B_2024S2/lista1.pdf",
     "Images/202408150855_0.excalidraw.md",
-    "Meta/References/ME501B_2024S2.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
