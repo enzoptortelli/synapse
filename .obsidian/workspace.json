@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "7ea6560e909a37e9",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408190952.md"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -207,11 +207,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c65de09b01a4a49f",
+  "active": "0337b936d8e7cb17",
   "lastOpenFiles": [
+    "Notes/202408190952.md",
+    "Notes/202408260936.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202408190952.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408270840.md",
     "Images/202408271652.excalidraw.md",
@@ -219,7 +220,6 @@
     "Notes/202408271444.md",
     "Notes/202408271533.md",
     "Meta/References/ME501A_2024S2.md",
-    "Notes/202408260936.md",
     "Images/202408271445.excalidraw.md",
     "Images/202408271533.excalidraw.md",
     "Images/202408221232.excalidraw.md",
