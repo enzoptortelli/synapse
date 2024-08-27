@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "7ea6560e909a37e9",
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -208,15 +207,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0337b936d8e7cb17",
+  "active": "1021c702dd8cc4b4",
   "lastOpenFiles": [
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Meta/References/ME501A_2024S2.md",
     "Images/202408221232.excalidraw.md",
     "Notes/202408190952.md",
     "Images/Pasted image 20240827104936.png",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Images/Pasted image 20240827094813.png",
