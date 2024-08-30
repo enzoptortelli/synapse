@@ -4,22 +4,73 @@
     "type": "split",
     "children": [
       {
-        "id": "c22a1096d3f816e4",
+        "id": "47998c9c40131e0c",
         "type": "tabs",
         "children": [
           {
-            "id": "d0e873712e418dc0",
+            "id": "f4adb7703317bf8f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista2_gabarito.pdf"
+              }
+            }
+          },
+          {
+            "id": "f5409b6aa57e5c4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408270840.md",
+                "file": "Notes/202408190952.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b568f7828b0b5414",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1.pdf"
+              }
+            }
+          },
+          {
+            "id": "f92dc6b4aa805e7e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1_gabarito.pdf"
+              }
+            }
+          },
+          {
+            "id": "d63e78f2996dd9c4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+              }
+            }
+          },
+          {
+            "id": "4b6ed148db1f4f6a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MA502P_2024S2/lista_1.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408270840.md",
+            "file": "Documents/ME501A_2024S2/lista1.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408270840.md",
+            "file": "Documents/ME501A_2024S2/lista1.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408270840.md"
+            "file": "Documents/ME501A_2024S2/lista1.pdf"
           }
         }
       },
@@ -140,51 +191,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0e873712e418dc0",
+  "active": "b568f7828b0b5414",
   "lastOpenFiles": [
-    "Notes/202408271652.md",
-    "Images/202408271652.excalidraw.md",
-    "Notes/202408270840.md",
-    "Images/202408270840.excalidraw.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Notes/202408190952.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista2.pdf",
+    "Images/202408201053.excalidraw.md",
+    "Notes/202408201053.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202408200946.md",
+    "Images/202408200946.excalidraw.md",
+    "Notes/202408260856.md",
+    "Images/202408260857.excalidraw.md",
+    "Notes/202408260936.md",
+    "Images/202408260937.excalidraw.md",
     "Notes/202408271444.md",
-    "Images/202408271445.excalidraw.md",
     "Notes/202408271533.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Notes/202408270840.md",
+    "Notes/202408271652.md",
+    "Images/202408271652.excalidraw.md",
+    "Images/202408270840.excalidraw.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Images/202408271445.excalidraw.md",
     "Images/202408190839.excalidraw.md",
     "Notes/202408190838.md",
     "Images/202408271533.excalidraw.md",
-    "Documents/ME501A_2024S2/lista1.pdf",
-    "Images/202408200946.excalidraw.md",
-    "Notes/202408200946.md",
-    "Meta/References/MA502P_2024S2.md",
     "Notes/202408200934.md",
-    "Notes/202408190952.md",
     "Meta/References/ME501A_2024S2.md",
     "Images/202408221232.excalidraw.md",
     "Notes/202408221232.md",
-    "Notes/202408260936.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
     "Images/Pasted image 20240827091717.png",
     "Images/Pasted image 20240827091629.png",
-    "Images/202408260937.excalidraw.md",
-    "Notes/202408260856.md",
-    "Images/202408260857.excalidraw.md",
-    "Notes/202408201053.md",
-    "Images/202408201053.excalidraw.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202408150943.md",
-    "Documents/ME501B_2024S2/lista1.pdf",
-    "Images/202408150855_0.excalidraw.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Images/Pasted image 20240819111610.png",
     "Images/Pasted image 20240819111529.png",
     "Images/Pasted image 20240819111409.png"
