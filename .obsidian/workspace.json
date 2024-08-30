@@ -21,9 +21,11 @@
             "id": "1cc8b9ae446dc2ce",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Notes/202408300704.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -56,6 +58,16 @@
               "type": "pdf",
               "state": {
                 "file": "Documents/latex_symbols.pdf"
+              }
+            }
+          },
+          {
+            "id": "581647e6d74cb0da",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -208,13 +220,14 @@
   },
   "active": "f5b9ccd63138a2b4",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
-    "Notes/202408300533.md",
     "Documents/latex_symbols.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Notes/202408300533.md",
+    "Notes/202408300704.md",
+    "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Notes/202408190952.md",
     "Notes/202408260936.md",
     "Notes/202408270840.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
@@ -247,7 +260,6 @@
     "Notes/202408061402.md",
     "Notes/202408200934.md",
     "Notes/202408131707.md",
-    "Notes/202407150955.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Images/Pasted image 20240819111610.png",
