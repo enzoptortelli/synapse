@@ -8,60 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d9284eeffb7dbb5c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "1cc8b9ae446dc2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408300704.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5b9ccd63138a2b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408300533.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82d35047e853a610",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista1.pdf"
-              }
-            }
-          },
-          {
-            "id": "0a22b79af7c2ad2f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              }
-            }
-          },
-          {
             "id": "581647e6d74cb0da",
             "type": "leaf",
             "state": {
@@ -82,14 +28,12 @@
             }
           },
           {
-            "id": "ec2084a8eebb65a6",
+            "id": "d6d9adfde27cbd0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202408300533.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           }
@@ -160,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408300533.md",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408300533.md",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408300533.md"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -218,24 +162,25 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f5b9ccd63138a2b4",
+  "active": "d6d9adfde27cbd0f",
   "lastOpenFiles": [
-    "Notes/202408300704.md",
-    "Notes/202408300533.md",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Notes/202408190952.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408271652.md",
+    "Notes/202408271533.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Notes/202408300704.md",
+    "Notes/202408300533.md",
+    "Images/202408301425.excalidraw.md",
+    "Notes/202408190952.md",
     "Notes/202408260936.md",
     "Notes/202408270840.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Images/202408271652.excalidraw.md",
-    "Notes/202408271652.md",
     "Notes/202408271444.md",
-    "Notes/202408271533.md",
     "Meta/References/ME501A_2024S2.md",
     "Images/202408271445.excalidraw.md",
     "Images/202408271533.excalidraw.md",
@@ -259,7 +204,6 @@
     "Images/202408260857.excalidraw.md",
     "Notes/202408061402.md",
     "Notes/202408200934.md",
-    "Notes/202408131707.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Images/Pasted image 20240819111610.png",
