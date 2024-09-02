@@ -25,9 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/References/ME501B_2024S2.md",
+                "file": "Notes/202409020943.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "000ba07514f1d300",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202409020944.excalidraw.md"
               }
             }
           },
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Meta/References/ME501B_2024S2.md",
+            "file": "Images/202409020944.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Meta/References/ME501B_2024S2.md",
+            "file": "Images/202409020944.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Meta/References/ME501B_2024S2.md"
+            "file": "Images/202409020944.excalidraw.md"
           }
         }
       },
@@ -163,10 +173,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b6ed148db1f4f6a",
+  "active": "000ba07514f1d300",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/lista1.pdf",
+    "Notes/202409020943.md",
+    "Images/202409020944.excalidraw.md",
     "Meta/References/ME501B_2024S2.md",
+    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202408150943.md",
     "Images/202408150855_0.excalidraw.md",
     "Images/202408301425.excalidraw.md",
@@ -199,7 +211,6 @@
     "Images/202408270840.excalidraw.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202408271445.excalidraw.md",
-    "Images/202408190839.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",

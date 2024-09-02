@@ -28,7 +28,7 @@
             }
           },
           {
-            "id": "d6d9adfde27cbd0f",
+            "id": "0b2b02d3a50faf73",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/ME501A_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408190952.md"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -186,11 +186,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2a9455f23a7f87ff",
+  "active": "0b2b02d3a50faf73",
   "lastOpenFiles": [
-    "Notes/202408271652.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Notes/202408271652.md",
+    "Images/202409020944.excalidraw.md",
+    "Notes/202409020943.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
@@ -199,7 +202,6 @@
     "Notes/202408300704.md",
     "Notes/202408300533.md",
     "Images/202408301425.excalidraw.md",
-    "Notes/202408190952.md",
     "Notes/202408260936.md",
     "Notes/202408270840.md",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
@@ -226,8 +228,6 @@
     "Images/202408260937.excalidraw.md",
     "Notes/202408260856.md",
     "Images/202408260857.excalidraw.md",
-    "Notes/202408061402.md",
-    "Notes/202408200934.md",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Images/Pasted image 20240819111610.png",
