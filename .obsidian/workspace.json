@@ -60,9 +60,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b15124458ba72a95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -128,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408190952.md",
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408190952.md"
+                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
               }
             }
           },
@@ -186,15 +196,16 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2a9455f23a7f87ff",
+  "active": "b15124458ba72a95",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408190952.md",
+    "Notes/202408271652.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
-    "Notes/202408271652.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/202409020944.excalidraw.md",
     "Notes/202409020943.md",
-    "Notes/202408190952.md",
     "Documents/latex_symbols.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408271533.md",
@@ -204,7 +215,6 @@
     "Images/202408301425.excalidraw.md",
     "Notes/202408260936.md",
     "Notes/202408270840.md",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/202408271652.excalidraw.md",
     "Notes/202408271444.md",
     "Meta/References/ME501A_2024S2.md",
