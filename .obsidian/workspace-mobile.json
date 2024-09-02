@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409021003.md",
+                "file": "Notes/202409021040.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eaa04831523caab7",
+            "id": "64e462f49ea754ee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202409021003.excalidraw.md"
+                "file": "Images/202409021041.excalidraw.md"
               }
             }
           },
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409021003.excalidraw.md",
+            "file": "Images/202409021041.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409021003.excalidraw.md",
+            "file": "Images/202409021041.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409021003.excalidraw.md"
+            "file": "Images/202409021041.excalidraw.md"
           }
         }
       },
@@ -173,8 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaa04831523caab7",
+  "active": "64e462f49ea754ee",
   "lastOpenFiles": [
+    "Notes/202409021040.md",
+    "Images/202409021041.excalidraw.md",
     "Notes/202409021003.md",
     "Images/202409021003.excalidraw.md",
     "Notes/202409020943.md",
@@ -208,8 +210,6 @@
     "Notes/202408271533.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202408270840.md",
-    "Notes/202408271652.md",
-    "Images/202408271652.excalidraw.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
