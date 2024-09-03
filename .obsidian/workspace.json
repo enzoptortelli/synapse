@@ -72,6 +72,16 @@
             }
           },
           {
+            "id": "c542768df51e5246",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista2_gabarito.pdf"
+              }
+            }
+          },
+          {
             "id": "b15124458ba72a95",
             "type": "leaf",
             "state": {
@@ -80,9 +90,29 @@
                 "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
               }
             }
+          },
+          {
+            "id": "de6db480492b86b1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista2.pdf"
+              }
+            }
+          },
+          {
+            "id": "721c9026b942ded9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista1.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -148,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+                "file": "Documents/ME501B_2024S2/lista2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+                "file": "Documents/ME501B_2024S2/lista2.pdf"
               }
             }
           },
@@ -206,12 +236,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b15124458ba72a95",
+  "active": "de6db480492b86b1",
   "lastOpenFiles": [
-    "Notes/202408190952.md",
-    "Notes/202408271652.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Documents/ME501B_2024S2/lista2.pdf",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Notes/202408271652.md",
+    "Notes/202408190952.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202409021040.md",
@@ -221,7 +254,6 @@
     "Images/202409020944.excalidraw.md",
     "Notes/202409020943.md",
     "Documents/latex_symbols.pdf",
-    "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408271533.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202408300704.md",
@@ -242,8 +274,6 @@
     "Images/Pasted image 20240827091629.png",
     "Notes/202408221232.md",
     "Images/202408270840.excalidraw.md",
-    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Documents/ME501B_2024S2/lista2.pdf",
     "Notes/202408201053.md",
     "Notes/202408200946.md",
     "Documents/ME501B_2024S2/lista1.pdf",
