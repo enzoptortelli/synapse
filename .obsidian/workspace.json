@@ -20,12 +20,24 @@
             }
           },
           {
+            "id": "c5b360a572dcd586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "45a7d34d89839175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409030801.md",
+                "file": "Notes/202409021040.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202409030801.md",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202409030801.md",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202409030801.md"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -166,11 +178,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "45a7d34d89839175",
+  "active": "c5b360a572dcd586",
   "lastOpenFiles": [
     "Notes/202409030839.md",
-    "Notes/202409030801.md",
     "Documents/latex_symbols.pdf",
+    "Notes/202409021040.md",
+    "Notes/202409030801.md",
     "Notes/202408151545.md",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/ME501B_2024S2/lista2.pdf",
@@ -181,7 +194,6 @@
     "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202409021040.md",
     "Images/202409021041.excalidraw.md",
     "Notes/202409021003.md",
     "Images/202409021003.excalidraw.md",
