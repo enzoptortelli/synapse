@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "df01291260d7f497",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+              }
+            }
+          },
+          {
             "id": "07d1b45ecd73b82b",
             "type": "leaf",
             "state": {
@@ -86,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
               }
             }
           },
@@ -210,11 +220,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c5b360a572dcd586",
+  "active": "df01291260d7f497",
   "lastOpenFiles": [
+    "Notes/202408151545.md",
+    "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202409030839.md",
     "Documents/latex_symbols.pdf",
-    "Notes/202408151545.md",
     "Notes/202408270840.md",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202409021040.md",
@@ -251,7 +262,6 @@
     "Images/Pasted image 20240827091629.png",
     "Notes/202408221232.md",
     "Images/202408270840.excalidraw.md",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
     "Images/Pasted image 20240819111610.png",
