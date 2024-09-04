@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "df01291260d7f497",
+  "active": "51816554f5d62152",
   "lastOpenFiles": [
+    "Documents/MA502P_2024S2/lista_2.pdf",
     "Images/202409041100.excalidraw.md",
     "Notes/202409041100.md",
     "Documents/latex_symbols.pdf",
@@ -187,7 +188,6 @@
     "Notes/202408151545.md",
     "Notes/202408130828.md",
     "Notes/202409030839.md",
-    "Documents/MA502P_2024S2/lista_2.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202409041029.md",
     "Images/202409041030.excalidraw.md",
@@ -214,7 +214,6 @@
     "Images/202408301425.excalidraw.md",
     "Notes/202408260936.md",
     "Images/202408271652.excalidraw.md",
-    "Notes/202408271444.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
