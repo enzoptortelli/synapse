@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "c5b360a572dcd586",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
-              }
-            }
-          },
-          {
             "id": "df01291260d7f497",
             "type": "leaf",
             "state": {
@@ -108,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,14 +225,14 @@
   },
   "active": "df01291260d7f497",
   "lastOpenFiles": [
-    "Notes/202408270840.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Notes/202408151545.md",
-    "Notes/202408130828.md",
-    "Notes/202409021040.md",
-    "Documents/latex_symbols.pdf",
     "Notes/202409030839.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
+    "Notes/202408151545.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202408270840.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Notes/202408130828.md",
+    "Notes/202409021040.md",
     "Notes/202409041029.md",
     "Images/202409041030.excalidraw.md",
     "Meta/References/MA502P_2024S2.md",
