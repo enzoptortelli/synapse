@@ -62,22 +62,36 @@
             }
           },
           {
-            "id": "e88616555e85ac48",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
-              }
-            }
-          },
-          {
             "id": "45a7d34d89839175",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Notes/202409021040.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7be81d15fc4330c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408130828.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51816554f5d62152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,19 +233,20 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c5b360a572dcd586",
+  "active": "df01291260d7f497",
   "lastOpenFiles": [
+    "Notes/202408270840.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
+    "Notes/202409021040.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202409030839.md",
+    "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202409041029.md",
     "Images/202409041030.excalidraw.md",
     "Meta/References/MA502P_2024S2.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
-    "Notes/202408151545.md",
-    "Notes/202409030839.md",
-    "Documents/MA502P_2024S2/lista_2.pdf",
-    "Documents/latex_symbols.pdf",
-    "Notes/202408270840.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Notes/202409021040.md",
     "Meta/References/ME501A_2024S2.md",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
@@ -255,8 +270,6 @@
     "Images/202408271652.excalidraw.md",
     "Notes/202408271444.md",
     "Images/202408271445.excalidraw.md",
-    "Images/202408271533.excalidraw.md",
-    "Images/202408221232.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
