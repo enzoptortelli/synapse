@@ -11,15 +11,24 @@
             "id": "351d242b72b60260",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202409041127.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+              }
+            }
+          },
+          {
+            "id": "8032c63356959ca4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202409041127.md",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202409041127.md",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202409041127.md"
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
           }
         }
       },
@@ -140,14 +149,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "351d242b72b60260",
+  "active": "8032c63356959ca4",
   "lastOpenFiles": [
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202409041100.md",
     "Notes/202409041127.md",
+    "Notes/202408151545.md",
     "Images/202409041100.excalidraw.md",
     "Notes/202409041029.md",
     "Images/202409041030.excalidraw.md",
-    "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
     "Images/202408301425.excalidraw.md",
     "Notes/202408150943.md",
@@ -176,7 +186,6 @@
     "Notes/202408201053.md",
     "Notes/202408200946.md",
     "Images/202408200946.excalidraw.md",
-    "Notes/202408260856.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
