@@ -11,36 +11,15 @@
             "id": "351d242b72b60260",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "8032c63356959ca4",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409051052.md",
+                "file": "Notes/202409041100.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bfbd2b164da3b388",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202409051006.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409051006.excalidraw.md",
+            "file": "Notes/202409041100.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409051006.excalidraw.md",
+            "file": "Notes/202409041100.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409051006.excalidraw.md"
+            "file": "Notes/202409041100.md"
           }
         }
       },
@@ -161,18 +140,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bfbd2b164da3b388",
+  "active": "351d242b72b60260",
   "lastOpenFiles": [
-    "Notes/202409051006.md",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202409051027.md",
-    "Images/202409051052.excalidraw.md",
+    "Notes/202409051006.md",
     "Notes/202409051052.md",
-    "Images/202409051027.excalidraw.md",
     "Images/202409051006.excalidraw.md",
+    "Images/202409051052.excalidraw.md",
+    "Images/202409051027.excalidraw.md",
     "Notes/202409050943.md",
     "Images/202409050944.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202409041100.md",
     "Notes/202409041127.md",
     "Notes/202408151545.md",
@@ -196,7 +175,6 @@
     "Images/202409021003.excalidraw.md",
     "Notes/202409020943.md",
     "Images/202409020944.excalidraw.md",
-    "Images/202408150855_0.excalidraw.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Images/Pasted image 20240827104936.png",
