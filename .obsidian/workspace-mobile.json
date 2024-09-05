@@ -23,19 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409051006.md",
+                "file": "Notes/202409051027.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a47202013fdbef45",
+            "id": "1a99560b25635e7f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202409051006.excalidraw.md"
+                "file": "Images/202409051027.excalidraw.md"
               }
             }
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409051006.excalidraw.md",
+            "file": "Images/202409051027.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409051006.excalidraw.md",
+            "file": "Images/202409051027.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409051006.excalidraw.md"
+            "file": "Images/202409051027.excalidraw.md"
           }
         }
       },
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a47202013fdbef45",
+  "active": "1a99560b25635e7f",
   "lastOpenFiles": [
+    "Notes/202409051027.md",
+    "Images/202409051027.excalidraw.md",
     "Notes/202409051006.md",
     "Images/202409051006.excalidraw.md",
     "Notes/202409050943.md",
@@ -197,8 +199,6 @@
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Notes/202408300704.md",
-    "Notes/202408300533.md",
-    "Images/202408201053.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
