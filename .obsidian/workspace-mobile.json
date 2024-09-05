@@ -23,19 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409050943.md",
+                "file": "Notes/202409051006.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dd818004694fb636",
+            "id": "a47202013fdbef45",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202409050944.excalidraw.md"
+                "file": "Images/202409051006.excalidraw.md"
               }
             }
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409050944.excalidraw.md",
+            "file": "Images/202409051006.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409050944.excalidraw.md",
+            "file": "Images/202409051006.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409050944.excalidraw.md"
+            "file": "Images/202409051006.excalidraw.md"
           }
         }
       },
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd818004694fb636",
+  "active": "a47202013fdbef45",
   "lastOpenFiles": [
+    "Notes/202409051006.md",
+    "Images/202409051006.excalidraw.md",
     "Notes/202409050943.md",
     "Images/202409050944.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
@@ -197,8 +199,6 @@
     "Notes/202408300704.md",
     "Notes/202408300533.md",
     "Images/202408201053.excalidraw.md",
-    "Notes/202408201053.md",
-    "Notes/202408200946.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
