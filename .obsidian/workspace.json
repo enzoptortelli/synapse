@@ -11,11 +11,38 @@
             "id": "f20aaea23f3d3cde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+              }
+            }
+          },
+          {
+            "id": "6085f8f628dfe7e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "daeb3f5a71121636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/MA502P_2024S2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notes/202408151545.md"
+              }
             }
           },
           {
@@ -136,13 +167,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f20aaea23f3d3cde",
+  "active": "6085f8f628dfe7e0",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
+    "Meta/References/Análise Real Volume 1.md",
     "Notes/202408151545.md",
-    "Notes/202409030839.md",
-    "Notes/202409041127.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
+    "Notes/202409050943.md",
+    "Images/202409050944.excalidraw.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202409041127.md",
+    "Documents/latex_symbols.pdf",
+    "Notes/202409030839.md",
     "Notes/202409041100.md",
     "Images/202409041100.excalidraw.md",
     "Notes/202408270840.md",
@@ -151,7 +186,6 @@
     "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202409041029.md",
     "Images/202409041030.excalidraw.md",
-    "Meta/References/MA502P_2024S2.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Meta/References/ME501A_2024S2.md",
     "Documents/ME501A_2024S2/lista1.pdf",
@@ -171,8 +205,6 @@
     "Notes/202408271533.md",
     "Notes/202408300704.md",
     "Notes/202408300533.md",
-    "Images/202408301425.excalidraw.md",
-    "Notes/202408260936.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
