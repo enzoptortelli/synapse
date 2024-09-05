@@ -23,19 +23,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409051027.md",
+                "file": "Notes/202409051052.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a99560b25635e7f",
+            "id": "bfbd2b164da3b388",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202409051027.excalidraw.md"
+                "file": "Images/202409051052.excalidraw.md"
               }
             }
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409051027.excalidraw.md",
+            "file": "Images/202409051052.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409051027.excalidraw.md",
+            "file": "Images/202409051052.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +135,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409051027.excalidraw.md"
+            "file": "Images/202409051052.excalidraw.md"
           }
         }
       },
@@ -161,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a99560b25635e7f",
+  "active": "bfbd2b164da3b388",
   "lastOpenFiles": [
+    "Notes/202409051052.md",
+    "Images/202409051052.excalidraw.md",
     "Notes/202409051027.md",
     "Images/202409051027.excalidraw.md",
     "Notes/202409051006.md",
@@ -195,10 +197,8 @@
     "Notes/202409020943.md",
     "Images/202409020944.excalidraw.md",
     "Images/202408150855_0.excalidraw.md",
-    "Meta/References/MA502P_2024S2.md",
     "Documents/MA502P_2024S2/lista_1.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Notes/202408300704.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
