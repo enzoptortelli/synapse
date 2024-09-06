@@ -28,6 +28,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "152373ab1f194eab",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -157,21 +167,21 @@
   },
   "active": "6085f8f628dfe7e0",
   "lastOpenFiles": [
+    "Documents/MA502P_2024S2/lista_2.pdf",
+    "Documents/latex_symbols.pdf",
+    "Notes/202408151545.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408081201.md",
-    "Notes/202408151545.md",
     "Notes/202409051052.md",
     "Images/202409051052.excalidraw.md",
     "Notes/202409051027.md",
     "Images/202409051027.excalidraw.md",
     "Notes/202409051006.md",
     "Images/202409051006.excalidraw.md",
-    "Documents/MA502P_2024S2/lista_2.pdf",
     "Meta/References/Análise Real Volume 1.md",
     "Notes/202409050943.md",
     "Images/202409050944.excalidraw.md",
     "Notes/202409041127.md",
-    "Documents/latex_symbols.pdf",
     "Notes/202409030839.md",
     "Notes/202409041100.md",
     "Images/202409041100.excalidraw.md",
@@ -192,7 +202,6 @@
     "Notes/202408271652.md",
     "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Images/202409021041.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
