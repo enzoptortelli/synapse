@@ -11,9 +11,11 @@
             "id": "1dc3019a57ccff72",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202409051052.excalidraw.md"
+                "file": "Notes/202409051052.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409051052.excalidraw.md",
+            "file": "Notes/202409051052.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409051052.excalidraw.md",
+            "file": "Notes/202409051052.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409051052.excalidraw.md"
+            "file": "Notes/202409051052.md"
           }
         }
       },
@@ -140,6 +142,7 @@
   },
   "active": "1dc3019a57ccff72",
   "lastOpenFiles": [
+    "Images/202409051052.excalidraw.md",
     "Notes/202409051052.md",
     "Notes/202409020943.md",
     "Notes/202409090922.md",
@@ -170,7 +173,6 @@
     "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240822.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240820.pdf",
-    "Images/202409051052.excalidraw.md",
     "Images/202409051027.excalidraw.md",
     "Notes/202409050943.md",
     "Images/202409050944.excalidraw.md",
