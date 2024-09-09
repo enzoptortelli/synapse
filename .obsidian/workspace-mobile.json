@@ -11,8 +11,10 @@
             "id": "1dc3019a57ccff72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202409051052.excalidraw.md"
+              }
             }
           }
         ]
@@ -40,7 +42,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "** exer ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -69,7 +71,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "9261d6c7d09376b3",
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Images/202409051052.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Images/202409051052.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Images/202409051052.excalidraw.md"
+          }
         }
       },
       {
@@ -134,6 +140,9 @@
   },
   "active": "1dc3019a57ccff72",
   "lastOpenFiles": [
+    "Notes/202409051052.md",
+    "Notes/202409020943.md",
+    "Notes/202409090922.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202405180655.md",
     "Notes/202405180645.md",
@@ -142,7 +151,6 @@
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409021003.md",
     "Images/202409021003.excalidraw.md",
-    "Notes/202409020943.md",
     "Images/202409020944.excalidraw.md",
     "Notes/202408270840.md",
     "Images/202408270840.excalidraw.md",
@@ -154,7 +162,6 @@
     "Meta/References/MA502P_2024S2.md",
     "Notes/202409051027.md",
     "Notes/202408200929.md",
-    "Notes/202409051052.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240905.pdf",
     "Notes/202409041100.md",
@@ -163,7 +170,6 @@
     "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240822.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240820.pdf",
-    "Documents/MA502P_2024S2/Notas de aula/20240815.pdf",
     "Images/202409051052.excalidraw.md",
     "Images/202409051027.excalidraw.md",
     "Notes/202409050943.md",
