@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409051052.md",
+                "file": "Notes/202409090932.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f08602ae3d210f6f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202409090932.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202409051052.md",
+            "file": "Images/202409090932.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202409051052.md",
+            "file": "Images/202409090932.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202409051052.md"
+            "file": "Images/202409090932.excalidraw.md"
           }
         }
       },
@@ -140,10 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dc3019a57ccff72",
+  "active": "f08602ae3d210f6f",
   "lastOpenFiles": [
-    "Images/202409051052.excalidraw.md",
+    "Notes/202409090932.md",
+    "Images/202409090932.excalidraw.md",
     "Notes/202409051052.md",
+    "Images/202409051052.excalidraw.md",
     "Notes/202409020943.md",
     "Notes/202409090922.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
@@ -176,8 +189,6 @@
     "Images/202409051027.excalidraw.md",
     "Notes/202409050943.md",
     "Images/202409050944.excalidraw.md",
-    "Notes/202409041127.md",
-    "Notes/202408151545.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
