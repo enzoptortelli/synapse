@@ -11,11 +11,9 @@
             "id": "1dc3019a57ccff72",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202409090932.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202409091010.excalidraw.md"
               }
             }
           },
@@ -29,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +148,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a017eada0bac0f22",
+  "active": "1dc3019a57ccff72",
   "lastOpenFiles": [
     "Notes/202409090932.md",
     "Images/202409091010.excalidraw.md",
