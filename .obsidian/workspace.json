@@ -11,9 +11,11 @@
             "id": "f20aaea23f3d3cde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+                "file": "Notes/202409090932.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Notes/202409090932.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Notes/202409090932.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+                "file": "Notes/202409090932.md"
               }
             }
           },
@@ -166,8 +168,11 @@
   },
   "active": "f20aaea23f3d3cde",
   "lastOpenFiles": [
-    "Notes/202409090932.md",
+    "Notes/202409100735.md",
+    "Images/202409100735.excalidraw.md",
     "Notes/202409051052.md",
+    "Notes/202409090932.md",
+    "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202409051027.md",
     "Meta/References/MA502P_2024S2.md",
     "Images/202409091010.excalidraw.md",
@@ -179,7 +184,6 @@
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408151545.md",
-    "Documents/MA502P_2024S2/lista_2.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202408081201.md",
     "Images/202409051052.excalidraw.md",
@@ -195,9 +199,7 @@
     "Images/202409041100.excalidraw.md",
     "Notes/202408270840.md",
     "Notes/202409021040.md",
-    "Notes/202408130828.md",
     "Documents/ME501A_2024S2/lista2.pdf",
-    "Notes/202409041029.md",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
