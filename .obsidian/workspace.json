@@ -11,11 +11,9 @@
             "id": "f20aaea23f3d3cde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202409090932.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
               }
             }
           },
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202409090932.md",
+                "file": "Documents/MA502P_2024S2/lista_2.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202409090932.md",
+                "file": "Documents/MA502P_2024S2/lista_2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202409090932.md"
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
               }
             }
           },
@@ -168,6 +166,7 @@
   },
   "active": "f20aaea23f3d3cde",
   "lastOpenFiles": [
+    "Notes/202409090932.md",
     "Notes/202409101033.md",
     "Images/202409101033.excalidraw.md",
     "Notes/202409100947.md",
@@ -177,7 +176,6 @@
     "Notes/202409100735.md",
     "Images/202409100735.excalidraw.md",
     "Notes/202409051052.md",
-    "Notes/202409090932.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202409051027.md",
     "Meta/References/MA502P_2024S2.md",
