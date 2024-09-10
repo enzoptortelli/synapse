@@ -13,7 +13,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf"
+              }
+            }
+          },
+          {
+            "id": "98e1e0017a75ea82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/Templates/Problem-solution.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -39,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: #problem-solution ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Meta/Templates/Problem-solution.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf",
+                "file": "Meta/Templates/Problem-solution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_2.pdf"
+                "file": "Meta/Templates/Problem-solution.md"
               }
             }
           },
@@ -164,19 +178,24 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f20aaea23f3d3cde",
+  "active": "5da5bb20117be825",
   "lastOpenFiles": [
-    "Notes/202409090932.md",
+    "Meta/tags.md",
     "Notes/202409101033.md",
-    "Images/202409101033.excalidraw.md",
     "Notes/202409100947.md",
-    "Images/202409100947.excalidraw.md",
     "Notes/202409100819.md",
-    "Images/202409100819.excalidraw.md",
     "Notes/202409100735.md",
-    "Images/202409100735.excalidraw.md",
+    "Notes/202409090932.md",
     "Notes/202409051052.md",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
+    "Documents/MA502P_2024S2/Notas de aula/20240808.pdf",
     "Documents/MA502P_2024S2/lista_2.pdf",
+    "Images/202409101033.excalidraw.md",
+    "Images/202409100947.excalidraw.md",
+    "Images/202409100819.excalidraw.md",
+    "Images/202409100735.excalidraw.md",
     "Notes/202409051027.md",
     "Meta/References/MA502P_2024S2.md",
     "Images/202409091010.excalidraw.md",
@@ -195,13 +214,8 @@
     "Notes/202409051006.md",
     "Images/202409051006.excalidraw.md",
     "Meta/References/Análise Real Volume 1.md",
-    "Notes/202409050943.md",
-    "Images/202409050944.excalidraw.md",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
