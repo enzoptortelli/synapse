@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409100947.md",
+                "file": "Notes/202409101033.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "03223c57abfc532d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202409101033.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202409100947.md",
+            "file": "Images/202409101033.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202409100947.md",
+            "file": "Images/202409101033.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202409100947.md"
+            "file": "Images/202409101033.excalidraw.md"
           }
         }
       },
@@ -140,10 +151,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1dc3019a57ccff72",
+  "active": "03223c57abfc532d",
   "lastOpenFiles": [
-    "Images/202409100947.excalidraw.md",
+    "Notes/202409101033.md",
+    "Images/202409101033.excalidraw.md",
     "Notes/202409100947.md",
+    "Images/202409100947.excalidraw.md",
     "Notes/202409100819.md",
     "Images/202409100819.excalidraw.md",
     "Notes/202409100735.md",
@@ -169,8 +182,6 @@
     "Notes/202408270840.md",
     "Images/202408270840.excalidraw.md",
     "Notes/202408221232.md",
-    "Notes/202408190952.md",
-    "Notes/202409051006.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240905.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
