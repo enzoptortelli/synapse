@@ -16,41 +16,8 @@
                 "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf"
               }
             }
-          },
-          {
-            "id": "98e1e0017a75ea82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta/Templates/Problem-solution.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3657ffa91ae2c84f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202409021041.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "152373ab1f194eab",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/202409021041.excalidraw.md",
+                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/202409021041.excalidraw.md",
+                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/202409021041.excalidraw.md"
+                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf"
               }
             }
           },
@@ -175,8 +142,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3657ffa91ae2c84f",
+  "active": "f20aaea23f3d3cde",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
+    "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
+    "Meta/Templates/Problem-solution.md",
+    "Images/202409021041.excalidraw.md",
     "Notes/202409021040.md",
     "Notes/202409021003.md",
     "Notes/202409020943.md",
@@ -185,8 +156,6 @@
     "Meta/References/MA502P_2024S2.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202409051027.md",
-    "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
-    "Meta/Templates/Problem-solution.md",
     "Meta/tags.md",
     "Notes/202409101033.md",
     "Notes/202409100947.md",
@@ -208,9 +177,6 @@
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
     "Notes/202408151545.md",
-    "Documents/latex_symbols.pdf",
-    "Notes/202408081201.md",
-    "Images/202409051052.excalidraw.md",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Images/Pasted image 20240827104936.png",
