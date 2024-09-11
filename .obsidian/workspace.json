@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -216,12 +216,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "71195ca8567fe41e",
+  "active": "39e1571f54f8b175",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
-    "Notes/202408190952.md",
+    "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408190952.md",
     "Notes/202409111150.md",
     "Images/202409111151.excalidraw.md",
     "Images/Pasted image 20240911105707.png",
@@ -252,7 +252,6 @@
     "Notes/202409100735.md",
     "Notes/202409090932.md",
     "Notes/202409051052.md",
-    "Documents/MA502P_2024S2/Notas de aula/20240808.pdf",
     "Images/202409101033.excalidraw.md",
     "Images/202409100947.excalidraw.md",
     "Images/202409100819.excalidraw.md",
