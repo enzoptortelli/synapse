@@ -79,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista3.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+                "file": "Documents/ME501A_2024S2/lista3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Documents/ME501A_2024S2/lista3.pdf"
               }
             }
           },
@@ -205,10 +206,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "83982b240f336bf1",
+  "active": "301f41f5be270945",
   "lastOpenFiles": [
-    "Notes/202408190952.md",
+    "Notes/202409111150.md",
+    "Images/202409111151.excalidraw.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408190952.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
     "Images/Pasted image 20240911102112.png",
@@ -247,7 +250,6 @@
     "Images/202409090952.excalidraw.md",
     "Images/202409090937.excalidraw.md",
     "Images/202409090932.excalidraw.md",
-    "Meta/References/ME501B_2024S2.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
