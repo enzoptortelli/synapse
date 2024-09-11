@@ -40,6 +40,16 @@
             }
           },
           {
+            "id": "71195ca8567fe41e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
+              }
+            }
+          },
+          {
             "id": "a62a45c7cb9a3a8a",
             "type": "leaf",
             "state": {
@@ -80,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf",
+                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf",
+                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf"
+                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
               }
             }
           },
@@ -206,11 +216,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "301f41f5be270945",
+  "active": "71195ca8567fe41e",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista3.pdf",
     "Notes/202409111150.md",
     "Images/202409111151.excalidraw.md",
     "Images/Pasted image 20240911105707.png",
