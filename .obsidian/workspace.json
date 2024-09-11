@@ -16,8 +16,19 @@
                 "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf"
               }
             }
+          },
+          {
+            "id": "f2c6f146d9536ae8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/Notas de aula/20240813.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -142,10 +153,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f20aaea23f3d3cde",
+  "active": "f2c6f146d9536ae8",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
+    "Documents/latex_symbols.pdf",
     "Meta/Templates/Problem-solution.md",
     "Images/202409021041.excalidraw.md",
     "Notes/202409021040.md",
