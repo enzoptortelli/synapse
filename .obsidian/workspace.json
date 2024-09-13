@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "222da30bd677581b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              }
+            }
+          },
+          {
             "id": "8b31fa2e6f6aa973",
             "type": "leaf",
             "state": {
@@ -164,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -247,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               }
             }
           },
@@ -289,8 +299,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "742b87437436119b",
+  "active": "222da30bd677581b",
   "lastOpenFiles": [
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408190952.md",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408200946.md",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501A_2024S2/lista2.pdf",
@@ -299,7 +313,6 @@
     "Notes/202408200924.md",
     "Notes/202408200916.md",
     "Notes/202408191139.md",
-    "Notes/202408190952.md",
     "Notes/202408190838.md",
     "Notes/202408151545.md",
     "Notes/202408151204.md",
@@ -310,11 +323,9 @@
     "Notes/202408121404.md",
     "Notes/202408121110.md",
     "Meta/References/ME501B_2024S2.md",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Documents/ME501B_2024S2/lista1.pdf",

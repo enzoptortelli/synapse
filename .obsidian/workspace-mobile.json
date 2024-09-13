@@ -23,19 +23,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408271533.md",
+                "file": "Notes/202408190952.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1922e5f2dcd2e67c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           },
@@ -43,24 +33,26 @@
             "id": "cfdb4ce6db675045",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf"
+                "file": "Notes/202409121750.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "06bdb3a15d821f3c",
+            "id": "42c2034ad3d6258a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista2_gabarito.pdf"
+                "file": "Documents/ME501A_2024S2/lista2.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408271533.md",
+            "file": "Documents/ME501A_2024S2/lista2.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408271533.md",
+            "file": "Documents/ME501A_2024S2/lista2.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408271533.md"
+            "file": "Documents/ME501A_2024S2/lista2.pdf"
           }
         }
       },
@@ -181,44 +173,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "128ab3a513e068d0",
+  "active": "42c2034ad3d6258a",
   "lastOpenFiles": [
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista2.pdf",
+    "Notes/202409121750.md",
+    "Images/202409121759.excalidraw.md",
+    "Images/202409121750.excalidraw.md",
+    "Notes/202409121712.md",
+    "Images/202409121712.excalidraw.md",
+    "Notes/202408190952.md",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/ME501A_2024S2/lista1.pdf",
+    "Notes/202409111150.md",
+    "Notes/202409100819.md",
+    "Notes/202409100947.md",
+    "Notes/202409101033.md",
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
+    "Notes/202408271533.md",
     "Notes/202409051052.md",
     "Notes/202408071557.md",
     "Notes/202407051012.md",
     "Notes/202407051001.md",
     "Notes/202408221013.md",
     "Notes/202407171117.md",
-    "Notes/202409101033.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista3.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Images/202409101033.excalidraw.md",
-    "Notes/202409111150.md",
     "Images/202409111151.excalidraw.md",
-    "Notes/202409100947.md",
     "Images/202409100947.excalidraw.md",
-    "Notes/202409100819.md",
     "Images/202409100819.excalidraw.md",
     "Notes/202409100735.md",
     "Images/202409091010.excalidraw.md",
     "Images/202409100735.excalidraw.md",
-    "Notes/202409090932.md",
-    "Images/202409090952.excalidraw.md",
-    "Images/202409090937.excalidraw.md",
-    "Images/202409090932.excalidraw.md",
-    "Images/202409051052.excalidraw.md",
-    "Notes/202409020943.md",
-    "Notes/202409090922.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Notes/202405180655.md",
-    "Notes/202405180645.md",
     "Documents/MA502P_2024S2/lista_2.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240905.pdf",
-    "Documents/MA502P_2024S2/Notas de aula/20240813.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
