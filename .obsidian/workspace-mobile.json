@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409160743.md",
+                "file": "Notes/202409160908.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f02a300be0fd5146",
+            "id": "07e69412bac3f5c9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202409160744.excalidraw.md"
+                "file": "Images/202409160908.excalidraw.md"
               }
             }
           },
@@ -136,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202409160744.excalidraw.md",
+            "file": "Images/202409160908.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202409160744.excalidraw.md",
+            "file": "Images/202409160908.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -165,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Images/202409160744.excalidraw.md"
+            "file": "Images/202409160908.excalidraw.md"
           }
         }
       },
@@ -191,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f02a300be0fd5146",
+  "active": "07e69412bac3f5c9",
   "lastOpenFiles": [
+    "Notes/202409160908.md",
+    "Images/202409160908.excalidraw.md",
     "Notes/202409160743.md",
     "Images/202409160744.excalidraw.md",
     "Notes/202409160706.md",
@@ -224,8 +226,6 @@
     "Notes/202408221013.md",
     "Notes/202407171117.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Images/202409101033.excalidraw.md",
-    "Images/202409111151.excalidraw.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/MA502P_2024S2/lista_2.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
