@@ -173,8 +173,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -257,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -299,8 +298,9 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "222da30bd677581b",
+  "active": "83982b240f336bf1",
   "lastOpenFiles": [
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
@@ -328,7 +328,6 @@
     "Documents/ME501A_2024S2/lista1.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
-    "Documents/ME501B_2024S2/lista1.pdf",
     "Notes/202409111150.md",
     "Images/202409111151.excalidraw.md",
     "Images/Pasted image 20240911105707.png",
