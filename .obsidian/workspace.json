@@ -53,9 +53,11 @@
             "id": "a999d36c142bb320",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202409121712.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -146,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Notes/202409121712.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Notes/202409121712.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202409121712.md"
               }
             }
           },
@@ -206,32 +208,34 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "a999d36c142bb320",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
+    "Notes/202409111150.md",
+    "Notes/202409121712.md",
+    "Notes/Untitled.md",
+    "Notes/202409160706.md",
+    "Notes/202409160743.md",
+    "Images/202409160744.excalidraw.md",
+    "Notes/202409160908.md",
+    "Notes/202409160953.md",
+    "Images/202409160953.excalidraw.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Notes/202409160953.md",
-    "Images/202409160953.excalidraw.md",
-    "Notes/202409160908.md",
     "Images/202409160908.excalidraw.md",
-    "Images/202409160744.excalidraw.md",
-    "Notes/202409160743.md",
-    "Notes/202409160706.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202408190952.md",
     "Images/202409121750.excalidraw.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Notes/202409150730.md",
     "Notes/202409121750.md",
-    "Notes/202409121712.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Notes/202408200946.md",
     "Documents/ME501B_2024S2/lista2.pdf",
-    "Documents/ME501A_2024S2/lista2.pdf",
     "Notes/202408200934.md",
     "Notes/202408200929.md",
     "Notes/202408200924.md",
@@ -242,7 +246,6 @@
     "Notes/202408151204.md",
     "Notes/202408150943.md",
     "Notes/202408131711.md",
-    "Notes/202408131707.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
     "Images/Pasted image 20240911102112.png",
