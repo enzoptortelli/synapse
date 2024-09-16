@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -196,14 +195,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "301f41f5be270945",
+  "active": "83982b240f336bf1",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202409160744.excalidraw.md",
     "Notes/202409160743.md",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista3.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202409160706.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202408190952.md",
@@ -233,7 +232,6 @@
     "Notes/202408121404.md",
     "Notes/202408121110.md",
     "Meta/References/ME501B_2024S2.md",
-    "Notes/202409111150.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
     "Images/Pasted image 20240911102112.png",
