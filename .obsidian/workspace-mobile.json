@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409160908.md",
+                "file": "Notes/202409160953.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "c5a0a339a5da77dc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202409160953.excalidraw.md"
               }
             }
           },
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202409160908.md",
+            "file": "Images/202409160953.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202409160908.md",
+            "file": "Images/202409160953.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202409160908.md"
+            "file": "Images/202409160953.excalidraw.md"
           }
         }
       },
@@ -180,10 +191,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb1a56be6ab84977",
+  "active": "c5a0a339a5da77dc",
   "lastOpenFiles": [
-    "Images/202409160908.excalidraw.md",
+    "Notes/202409160953.md",
+    "Images/202409160953.excalidraw.md",
     "Notes/202409160908.md",
+    "Images/202409160908.excalidraw.md",
     "Notes/202409160743.md",
     "Images/202409160744.excalidraw.md",
     "Notes/202409160706.md",
@@ -212,8 +225,6 @@
     "Notes/202408071557.md",
     "Notes/202407051012.md",
     "Notes/202407051001.md",
-    "Notes/202408221013.md",
-    "Notes/202407171117.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/MA502P_2024S2/lista_2.pdf",
