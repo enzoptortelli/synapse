@@ -11,8 +11,10 @@
             "id": "595ff1b63ad53c3a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+          }
         }
       },
       {
@@ -134,6 +140,10 @@
   },
   "active": "595ff1b63ad53c3a",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/ALSM_5Ed_Kutner.pdf",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/202409160953.excalidraw.md",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
@@ -165,11 +175,7 @@
     "Notes/202409051052.md",
     "Notes/202408071557.md",
     "Notes/202407051012.md",
-    "Notes/202407051001.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/MA502P_2024S2/lista_2.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",

@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202409121712.md",
+                "file": "Documents/ME501A_2024S2/lista3.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202409121712.md",
+                "file": "Documents/ME501A_2024S2/lista3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202409121712.md"
+                "file": "Documents/ME501A_2024S2/lista3.pdf"
               }
             }
           },
@@ -208,10 +208,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "64991d6b266853ef",
+  "active": "301f41f5be270945",
   "lastOpenFiles": [
-    "Notes/202409111150.md",
     "Notes/202409121712.md",
+    "Notes/202409111150.md",
     "Notes/Untitled.md",
     "Notes/202409160706.md",
     "Notes/202409160743.md",
