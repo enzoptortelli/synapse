@@ -33,11 +33,9 @@
             "id": "20e6a22f775054b4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
               }
             }
           }
@@ -108,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
               }
             }
           },
@@ -170,9 +168,11 @@
   },
   "active": "20e6a22f775054b4",
   "lastOpenFiles": [
-    "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
-    "Notes/202408130828.md",
     "Notes/202408151545.md",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
+    "Notes/202409121712.md",
+    "Notes/202408130828.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240905.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240912.pdf",
@@ -181,7 +181,6 @@
     "Documents/MA502P_2024S2/Notas de aula/20240917.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
-    "Notes/202409121712.md",
     "Notes/202409111150.md",
     "Notes/Untitled.md",
     "Notes/202409160706.md",
@@ -190,7 +189,6 @@
     "Notes/202409160908.md",
     "Notes/202409160953.md",
     "Images/202409160953.excalidraw.md",
-    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Images/202409160908.excalidraw.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202408190952.md",
