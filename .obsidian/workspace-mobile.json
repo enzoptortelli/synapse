@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+            "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf",
+            "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/ME501B_2024S2/lista1_gabarito.pdf"
+            "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
           }
         }
       },
@@ -140,6 +140,9 @@
   },
   "active": "595ff1b63ad53c3a",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista4.pdf",
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/ALSM_5Ed_Kutner.pdf",
@@ -158,7 +161,6 @@
     "Notes/202408190952.md",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Images/202409150730.excalidraw.md",
-    "Documents/ME501A_2024S2/lista3.pdf",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409121750.md",
     "Images/202409121759.excalidraw.md",
@@ -170,12 +172,10 @@
     "Notes/202409100819.md",
     "Notes/202409100947.md",
     "Notes/202409101033.md",
-    "Documents/ME501A_2024S2/lista2_gabarito.pdf",
     "Notes/202408271533.md",
     "Notes/202409051052.md",
     "Notes/202408071557.md",
     "Notes/202407051012.md",
-    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
