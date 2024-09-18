@@ -33,9 +33,11 @@
             "id": "20e6a22f775054b4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -168,10 +170,10 @@
   },
   "active": "20e6a22f775054b4",
   "lastOpenFiles": [
-    "Notes/202408151545.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
     "Notes/202409121712.md",
+    "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
+    "Notes/202408151545.md",
     "Notes/202408130828.md",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/MA502P_2024S2/Notas de aula/20240905.pdf",
