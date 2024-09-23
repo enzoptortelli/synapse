@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202409160743.md",
+                "file": "Notes/202409160953.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202409160743.md",
+                "file": "Notes/202409160953.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202409160743.md"
+                "file": "Notes/202409160953.md"
               }
             }
           },
@@ -205,14 +205,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7ec5847a307dc935",
+  "active": "93ac66a49257982f",
   "lastOpenFiles": [
     "Notes/202409160908.md",
+    "Notes/202409160743.md",
     "Notes/202409160953.md",
     "Notes/202409121712.md",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409160706.md",
-    "Notes/202409160743.md",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Notes/202409101033.md",
     "Notes/202409220949.md",
