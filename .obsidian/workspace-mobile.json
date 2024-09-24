@@ -26,6 +26,16 @@
                 "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               }
             }
+          },
+          {
+            "id": "98386bc328193f79",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -151,6 +161,8 @@
   },
   "active": "30b249a2ebbe75a6",
   "lastOpenFiles": [
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408221056.md",
@@ -161,7 +173,6 @@
     "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/ALSM_5Ed_Kutner.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Images/202409160953.excalidraw.md",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
