@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3b1a954c23a97fcd",
+        "id": "600b8aac7d9c4c95",
         "type": "tabs",
         "children": [
           {
-            "id": "c51362d6b6cc6cb4",
+            "id": "f68009ababa8435b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -18,7 +18,17 @@
             }
           },
           {
-            "id": "764d33790241852a",
+            "id": "f6e4d11601670f12",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              }
+            }
+          },
+          {
+            "id": "bf74c44aae2ca753",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -27,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,10 +162,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "764d33790241852a",
+  "active": "f68009ababa8435b",
   "lastOpenFiles": [
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Documents/ME623/ME623_parte20.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
     "Notes/202409160743.md",
@@ -179,7 +189,6 @@
     "Notes/202408151545.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408130828.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/Untitled.md",
     "Images/202409160744.excalidraw.md",
     "Images/202409160953.excalidraw.md",
