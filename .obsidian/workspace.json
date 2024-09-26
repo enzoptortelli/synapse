@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "90f3b625e1fd4869",
+        "type": "tabs",
+        "dimension": 61.208267090620026,
+        "children": [
+          {
+            "id": "bf74c44aae2ca753",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "600b8aac7d9c4c95",
         "type": "tabs",
+        "dimension": 38.79173290937997,
         "children": [
           {
             "id": "f68009ababa8435b",
@@ -28,16 +46,19 @@
             }
           },
           {
-            "id": "bf74c44aae2ca753",
+            "id": "71468c27e57802da",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202409260623.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 309.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -148,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +185,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f68009ababa8435b",
+  "active": "bf74c44aae2ca753",
   "lastOpenFiles": [
-    "Documents/ME623/ME623_parte20.pdf",
+    "Notes/202409260623.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/ME623/ME623_parte20.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
@@ -187,7 +211,6 @@
     "Notes/202409220947.md",
     "Documents/MA502P_2024S2/Notas de aula/20240903.pdf",
     "Notes/202408151545.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408130828.md",
     "Notes/Untitled.md",
     "Images/202409160744.excalidraw.md",
