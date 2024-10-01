@@ -8,59 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f68009ababa8435b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "f6e4d11601670f12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "71468c27e57802da",
+            "id": "0dadfb49a9a87255",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202409260623.md",
+                "file": "Notes/202408151545.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bf74c44aae2ca753",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "5dfa85e80dcf60ad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202408151545.md"
               }
             }
           },
@@ -187,17 +146,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bf74c44aae2ca753",
+  "active": "0dadfb49a9a87255",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
+    "Notes/202408190952.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/latex_symbols.pdf",
     "Notes/202409260623.md",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
     "Notes/202409160743.md",
-    "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501B_2024S2/lista2.pdf",
