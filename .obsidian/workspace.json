@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "bd93be5ac30c697b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              }
+            }
+          },
+          {
             "id": "0752f88a06f1e957",
             "type": "leaf",
             "state": {
@@ -167,9 +177,9 @@
   },
   "active": "0dadfb49a9a87255",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408190952.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202409260623.md",
