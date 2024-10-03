@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4.pdf",
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4.pdf",
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4.pdf"
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
               }
             }
           },
@@ -183,11 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd93be5ac30c697b",
+  "active": "633b891011bbecc9",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
-    "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Images/202410030944.excalidraw.md",
