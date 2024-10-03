@@ -31,9 +31,21 @@
             "id": "738cf31c8611c789",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202410030943.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062ed30486b5c7f7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410030944.excalidraw.md"
               }
             }
           },
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+            "file": "Images/202410030944.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+            "file": "Images/202410030944.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -153,7 +165,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+            "file": "Images/202410030944.excalidraw.md"
           }
         }
       },
@@ -179,8 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "738cf31c8611c789",
+  "active": "062ed30486b5c7f7",
   "lastOpenFiles": [
+    "Notes/202410030943.md",
+    "Images/202410030944.excalidraw.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -193,7 +208,6 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202408221056.md",
     "Documents/ME501A_2024S2/lista4.pdf",
-    "Documents/ME501B_2024S2/lista1_gabarito.pdf",
     "Images/202409160953.excalidraw.md",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
@@ -215,7 +229,6 @@
     "Notes/202409100947.md",
     "Notes/202409101033.md",
     "Notes/202408271533.md",
-    "Notes/202409051052.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
