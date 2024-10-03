@@ -31,11 +31,9 @@
             "id": "738cf31c8611c789",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202408190952.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
               }
             }
           },
@@ -126,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408190952.md",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408190952.md",
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -155,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408190952.md"
+            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
           }
         }
       },
@@ -183,6 +181,8 @@
   },
   "active": "738cf31c8611c789",
   "lastOpenFiles": [
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
@@ -192,10 +192,8 @@
     "Notes/202409260623.md",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202408221056.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501B_2024S2/lista1_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista1_gabarito.pdf",
     "Images/202409160953.excalidraw.md",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
@@ -205,7 +203,6 @@
     "Notes/202409160706.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202409150730.md",
-    "Notes/202408190952.md",
     "Images/202409150730.excalidraw.md",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409121750.md",
