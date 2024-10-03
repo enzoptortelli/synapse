@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "633b891011bbecc9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
-              }
-            }
-          },
-          {
             "id": "8095a10162335920",
             "type": "leaf",
             "state": {
@@ -58,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           },
@@ -184,15 +174,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "633b891011bbecc9",
+  "active": "1cab1ae23be8916d",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/lista4.pdf",
+    "Notes/202410030943.md",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/latex_symbols.pdf",
     "Images/202410030944.excalidraw.md",
-    "Notes/202410030943.md",
     "Notes/202408151545.md",
     "Notes/202408190952.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
@@ -207,7 +197,6 @@
     "Notes/202409121712.md",
     "Notes/202409111150.md",
     "Meta/References/ME501A_2024S2.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Images/202409160707.excalidraw.md",
     "Notes/202409160706.md",
     "Notes/202409101033.md",

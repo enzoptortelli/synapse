@@ -4,73 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5c818b8facbf5b6a",
+        "id": "3a0db535b27caa55",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb979547e0270f3",
+            "id": "ab70512954ccb3b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
-              }
-            }
-          },
-          {
-            "id": "30b249a2ebbe75a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/lista2.pdf"
-              }
-            }
-          },
-          {
-            "id": "738cf31c8611c789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202410030943.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "062ed30486b5c7f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202410030944.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f73a4c1beb34acb3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista3_gabarito.pdf"
-              }
-            }
-          },
-          {
-            "id": "98386bc328193f79",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410030944.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Images/202410030944.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -164,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Images/202410030944.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -191,21 +132,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "062ed30486b5c7f7",
+  "active": "ab70512954ccb3b6",
   "lastOpenFiles": [
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Notes/202410030943.md",
+    "Documents/ME501B_2024S2/lista2.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410030944.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408190952.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
-    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202409260623.md",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202408221056.md",
     "Documents/ME501A_2024S2/lista4.pdf",
     "Images/202409160953.excalidraw.md",
@@ -228,7 +169,6 @@
     "Notes/202409100819.md",
     "Notes/202409100947.md",
     "Notes/202409101033.md",
-    "Notes/202408271533.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
