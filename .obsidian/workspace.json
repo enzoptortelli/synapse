@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945,
-    "collapsed": true
+    "width": 309.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -197,10 +196,12 @@
   },
   "active": "fe21402ba29d7045",
   "lastOpenFiles": [
+    "Notes/202410030943.md",
+    "conflict-files-obsidian-git.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Notes/202410030943.md",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
@@ -208,14 +209,12 @@
     "Images/202410030944.excalidraw.md",
     "Notes/202408151545.md",
     "Notes/202408190952.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202409260623.md",
     "Documents/ME623/ME623_parte20.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Notes/202409160953.md",
     "Notes/202409160908.md",
     "Notes/202409160743.md",
-    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Notes/202409121712.md",
     "Notes/202409111150.md",
     "Meta/References/ME501A_2024S2.md",
@@ -232,7 +231,6 @@
     "Images/202409121750.excalidraw.md",
     "Notes/202409150730.md",
     "Notes/202409121750.md",
-    "Notes/202408200946.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
     "Images/Pasted image 20240911102112.png",
