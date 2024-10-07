@@ -16,8 +16,19 @@
                 "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               }
             }
+          },
+          {
+            "id": "4134598e414d83b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "600b8aac7d9c4c95",
@@ -152,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202410070710.md",
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202410070710.md",
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202410070710.md"
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               }
             }
           },
@@ -212,10 +223,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59b82e16bff522db",
+  "active": "4134598e414d83b3",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
     "Notes/202410070710.md",
+    "Documents/latex_symbols.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202410060827.md",
