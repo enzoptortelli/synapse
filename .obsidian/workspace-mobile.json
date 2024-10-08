@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Documents/ME501B_2024S2/l3.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+            "file": "Documents/ME501B_2024S2/l3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+            "file": "Documents/ME501B_2024S2/l3.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+            "file": "Documents/ME501B_2024S2/l3.pdf"
           }
         }
       },
@@ -140,6 +140,12 @@
   },
   "active": "ab70512954ccb3b6",
   "lastOpenFiles": [
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Notes/202410070710.md",
+    "Images/20241006083936.jpg",
+    "Images/Pasted image 20241006082848.png",
+    "Notes/202410060827.md",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Notes/202410030943.md",
@@ -147,7 +153,6 @@
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410030944.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408190952.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
@@ -173,8 +178,6 @@
     "Images/202409121712.excalidraw.md",
     "Notes/202409111150.md",
     "Notes/202409100819.md",
-    "Notes/202409100947.md",
-    "Notes/202409101033.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
@@ -182,8 +185,6 @@
     "Images/Pasted image 20240827091629.png",
     "Images/Pasted image 20240822081057.png",
     "Images/Pasted image 20240822075223.png",
-    "Images/Pasted image 20240819111610.png",
-    "Images/Pasted image 20240819111529.png",
-    "Images/Pasted image 20240819111409.png"
+    "Images/Pasted image 20240819111610.png"
   ]
 }

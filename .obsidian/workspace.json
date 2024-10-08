@@ -4,33 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "970834a6d4650a00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4660b1d555c2405f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "4134598e414d83b3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "600b8aac7d9c4c95",
         "type": "tabs",
         "children": [
@@ -45,59 +18,26 @@
             }
           },
           {
-            "id": "0752f88a06f1e957",
+            "id": "dcdb96558400d9b4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
               }
             }
           },
           {
-            "id": "fe21402ba29d7045",
+            "id": "9d0d9f0b2497c8c8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
-              }
-            }
-          },
-          {
-            "id": "8095a10162335920",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/lista3.pdf"
-              }
-            }
-          },
-          {
-            "id": "59b82e16bff522db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8adf40e76d116a8b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Documents/ME501A_2024S2/lista4.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Documents/ME501A_2024S2/lista4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Documents/ME501A_2024S2/lista4.pdf"
               }
             }
           },
@@ -223,11 +163,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4134598e414d83b3",
+  "active": "bd93be5ac30c697b",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista4.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202410070710.md",
     "Documents/latex_symbols.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202410060827.md",
     "Images/20241006083936.jpg",
@@ -237,9 +180,6 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202410030943.md",
     "conflict-files-obsidian-git.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Images/202410030944.excalidraw.md",
     "Notes/202408151545.md",
