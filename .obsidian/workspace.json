@@ -65,6 +65,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2b7b769c54999fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              }
+            }
           }
         ]
       }
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Notes/202410070710.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+                "file": "Notes/202410070710.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Notes/202410070710.md"
               }
             }
           },
@@ -192,14 +202,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ebe0c548d97725c9",
+  "active": "9507bc383d0d69bd",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
     "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202410060827.md",
     "Images/20241006083936.jpg",
