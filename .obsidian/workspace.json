@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f74acc1d23fbbc9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202410060827.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -206,8 +218,9 @@
   },
   "active": "c89dd2f21d2e5bea",
   "lastOpenFiles": [
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202410060827.md",
     "Notes/202410070710.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/has-inverse-is-bijective.pdf",
@@ -218,7 +231,6 @@
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Notes/202410060827.md",
     "Images/20241006083936.jpg",
     "Meta/References/Statistical Inference.md",
     "Meta/References/Untitled.md",
