@@ -21,9 +21,11 @@
             "id": "156af055c88f66eb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202408081201.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+            "file": "Notes/202408081201.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+            "file": "Notes/202408081201.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+            "file": "Notes/202408081201.md"
           }
         }
       },
@@ -151,6 +153,15 @@
   },
   "active": "156af055c88f66eb",
   "lastOpenFiles": [
+    "Meta/References/MA502P_2024S2.md",
+    "Notes/202408131707.md",
+    "Notes/202408200916.md",
+    "Notes/202408200934.md",
+    "Notes/202408131711.md",
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Notes/202408151545.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/has-inverse-is-bijective.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/ME501B_2024S2/l3.pdf",
     "Images/Pasted image 20241009055845.png",
@@ -164,11 +175,8 @@
     "Documents/ME501B_2024S2/lista2.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410030944.excalidraw.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Notes/202408190952.md",
     "Documents/ME501B_2024S2/lista2_gabarito.pdf",
-    "Documents/ME501A_2024S2/lista3.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202409260623.md",
     "Notes/202408221056.md",
     "Images/202409160953.excalidraw.md",
@@ -184,11 +192,6 @@
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409121750.md",
     "Images/202409121759.excalidraw.md",
-    "Images/202409121750.excalidraw.md",
-    "Notes/202409121712.md",
-    "Images/202409121712.excalidraw.md",
-    "Notes/202409111150.md",
-    "Notes/202409100819.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
