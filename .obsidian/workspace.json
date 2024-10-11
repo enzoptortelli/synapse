@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(mc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -134,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,7 +214,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5da5bb20117be825",
+  "active": "64991d6b266853ef",
   "lastOpenFiles": [
     "Notes/202410070710.md",
     "Documents/(McGraw-Hill series in probability and statistics) Alexander McFarlane Mood, Franklin A. Graybill, Duane C. Boes - Introduction to the theory of statistics-McGraw-Hill (1974).djvu",
