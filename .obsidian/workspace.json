@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5b63e607d917a2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "95f4f84ff06e9236",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "600b8aac7d9c4c95",
         "type": "tabs",
         "children": [
@@ -30,6 +14,48 @@
               "type": "pdf",
               "state": {
                 "file": "Documents/ME501A_2024S2/lista4.pdf"
+              }
+            }
+          },
+          {
+            "id": "8977a74de995ea07",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              }
+            }
+          },
+          {
+            "id": "a1ea58ac8815ebb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/References/ME501A_2024S2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cf7ede14f51fa98",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista4.pdf"
+              }
+            }
+          },
+          {
+            "id": "8eff0271f6bfd32c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
               }
             }
           },
@@ -54,6 +80,26 @@
             }
           },
           {
+            "id": "9f4c30076b994aa8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              }
+            }
+          },
+          {
+            "id": "15066b4cdb39c40d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              }
+            }
+          },
+          {
             "id": "ec17c01eb3ba3f57",
             "type": "leaf",
             "state": {
@@ -64,7 +110,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/ME501B_2024S2/l3.pdf",
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/ME501B_2024S2/l3.pdf",
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/ME501B_2024S2/l3.pdf"
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
               }
             }
           },
@@ -175,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,29 +235,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec17c01eb3ba3f57",
+  "active": "8eff0271f6bfd32c",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/lista4.pdf",
+    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/lista3.pdf",
+    "Meta/References/ME501A_2024S2.md",
+    "Documents/latex_symbols.pdf",
     "Documents/ME501B_2024S2/gab_lista 3.pdf",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202410030943.md",
     "Documents/ME501B_2024S2/Gabartito Lista 4 2015.pdf",
     "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Notes/202410070710.md",
     "Documents/ME501B_2024S2/l4_15.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
-    "Documents/ME501A_2024S2/lista4.pdf",
     "Meta/References/Introduction to the Theory of Statistics.md",
     "Notes/202410060827.md",
-    "Documents/(McGraw-Hill series in probability and statistics) Boes, Duane C._ Graybill, Franklin A._ Mood, Alexander M - Introduction to the theory of statistics [by] Alexander M. Mood, Franklin A. Graybill [and.pdf",
     "Notes/202410110954.md",
-    "Documents/(McGraw-Hill series in probability and statistics) Alexander McFarlane Mood, Franklin A. Graybill, Duane C. Boes - Introduction to the theory of statistics-McGraw-Hill (1974).djvu",
-    "Documents/has-inverse-is-bijective.pdf",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Meta/References/Statistical Inference.md",
     "Images/Pasted image 20241006082848.png",
-    "Notes/202410030943.md",
     "conflict-files-obsidian-git.md",
     "Images/202410030944.excalidraw.md",
     "Notes/202408190952.md",
@@ -222,7 +268,6 @@
     "Notes/202409160743.md",
     "Notes/202409121712.md",
     "Notes/202409111150.md",
-    "Meta/References/ME501A_2024S2.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202409160706.md",
     "Notes/202409101033.md",
