@@ -20,6 +20,28 @@
             }
           },
           {
+            "id": "83f6d3f23d21d276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac183da9fc985b05",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/MA502P_2024S2/lista_3.pdf"
+              }
+            }
+          },
+          {
             "id": "54059e11ec55c38c",
             "type": "leaf",
             "state": {
@@ -29,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_3.pdf",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Documents/MA502P_2024S2/lista_3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/202408151545.md"
+                "file": "Documents/MA502P_2024S2/lista_3.pdf"
               }
             }
           },
@@ -155,22 +178,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb711bb94f561bd3",
+  "active": "ac183da9fc985b05",
   "lastOpenFiles": [
-    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/MA502P_2024S2/lista_5.pdf",
+    "Documents/MA502P_2024S2/lista_4.pdf",
+    "Documents/MA502P_2024S2/lista_3.pdf",
+    "Notes/202410070710.md",
     "Notes/202408151545.md",
+    "Documents/ME501B_2024S2/l3.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Notes/202410070710.md",
     "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Documents/ME501A_2024S2/lista4.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/lista3.pdf",
     "Meta/References/ME501A_2024S2.md",
-    "Documents/ME501B_2024S2/gab_lista 3.pdf",
     "Notes/202410030943.md",
-    "Documents/ME501B_2024S2/Gabartito Lista 4 2015.pdf",
     "Meta/References/Introduction to the Theory of Statistics.md",
     "Notes/202410060827.md",
     "Notes/202410110954.md",
