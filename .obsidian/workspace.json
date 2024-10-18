@@ -16,7 +16,9 @@
                 "file": "Notes/202408151545.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "202408151545"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Notes/202410070710.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "202410070710"
             }
           },
           {
@@ -38,7 +42,21 @@
               "type": "pdf",
               "state": {
                 "file": "Documents/MA502P_2024S2/lista_3.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "lista_3"
+            }
+          },
+          {
+            "id": "e26969e119ef95a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           },
           {
@@ -48,11 +66,13 @@
               "type": "pdf",
               "state": {
                 "file": "Documents/latex_symbols.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_symbols"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -72,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -87,7 +109,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabeticalReverse"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -95,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_3.pdf",
+                "file": "Notes/202408151545.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +152,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 202408151545"
             }
           },
           {
@@ -135,10 +163,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_3.pdf",
+                "file": "Notes/202408151545.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 202408151545"
             }
           },
           {
@@ -147,8 +177,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documents/MA502P_2024S2/lista_3.pdf"
-              }
+                "file": "Notes/202408151545.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202408151545"
             }
           },
           {
@@ -156,10 +188,23 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "896e1296e6f4a54a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,7 +223,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac183da9fc985b05",
+  "active": "896e1296e6f4a54a",
   "lastOpenFiles": [
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/MA502P_2024S2/lista_5.pdf",
