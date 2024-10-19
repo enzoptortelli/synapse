@@ -6,6 +6,7 @@
       {
         "id": "a2e187e9d4f711a1",
         "type": "tabs",
+        "dimension": 59.88213961922031,
         "children": [
           {
             "id": "d98f045c756d5c52",
@@ -17,6 +18,27 @@
               },
               "icon": "lucide-file-text",
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8a2e18b454691075",
+        "type": "tabs",
+        "dimension": 40.11786038077969,
+        "children": [
+          {
+            "id": "4c11438b549c2762",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202410070710"
             }
           }
         ]
@@ -180,11 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b7373c6b67a8332",
+  "active": "d98f045c756d5c52",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
     "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_5.pdf",
     "Documents/MA502P_2024S2/lista_4.pdf",
