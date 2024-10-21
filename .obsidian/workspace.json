@@ -11,15 +11,28 @@
             "id": "a8f271603b5bf6b6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Documents/SmartSelect_20241021_090517.jpg"
+                "file": "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf"
               },
-              "icon": "lucide-image",
-              "title": "SmartSelect_20241021_090517"
+              "icon": "lucide-file-text",
+              "title": "Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li"
+            }
+          },
+          {
+            "id": "faab5784719cb43b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +223,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8f271603b5bf6b6",
+  "active": "faab5784719cb43b",
   "lastOpenFiles": [
-    "Notes/202410110954.md",
+    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
+    "Notes/202410110954.md",
     "Notes/202410070710.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
@@ -225,7 +239,6 @@
     "Documents/MA502P_2024S2/lista_3.pdf",
     "Documents/ME501B_2024S2/l3.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202410030943.md",
     "Meta/References/Introduction to the Theory of Statistics.md",
