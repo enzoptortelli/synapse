@@ -4,65 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2e187e9d4f711a1",
+        "id": "0c8090566f5a1f38",
         "type": "tabs",
-        "dimension": 59.882139619220304,
         "children": [
           {
-            "id": "d98f045c756d5c52",
+            "id": "a8f271603b5bf6b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "04349aa03e405d2e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8a2e18b454691075",
-        "type": "tabs",
-        "dimension": 40.11786038077969,
-        "children": [
-          {
-            "id": "4c11438b549c2762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202410070710"
-            }
-          },
-          {
-            "id": "b3a21ef978510762",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "latex_symbols"
+              "title": "New tab"
             }
           }
         ]
@@ -256,12 +208,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c11438b549c2762",
+  "active": "a8f271603b5bf6b6",
   "lastOpenFiles": [
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Notes/202410070710.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
+    "Notes/202410070710.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_5.pdf",
