@@ -14,23 +14,87 @@
               "type": "pdf",
               "state": {
                 "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
-              }
+              },
+              "icon": "lucide-file-text",
+              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
             }
           },
           {
             "id": "156af055c88f66eb",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/l3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "l3"
+            }
+          },
+          {
+            "id": "42d702fa00d81d32",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408081201.md",
+                "file": "Notes/202408151545.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "202408151545"
+            }
+          },
+          {
+            "id": "15eff905668f002d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "b01e70d27c1cd662",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lista4_gabarito"
+            }
+          },
+          {
+            "id": "12dabef78abc8218",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/lista4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "lista4"
+            }
+          },
+          {
+            "id": "c860872119b2bc01",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Documents/SmartSelect_20241021_090517.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "SmartSelect_20241021_090517"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -46,7 +110,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabeticalReverse"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -55,13 +121,15 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "** exer ",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -72,7 +140,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -80,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -96,7 +168,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408081201.md",
+            "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -104,7 +176,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -113,10 +187,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/202408081201.md",
+            "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -125,8 +201,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/202408081201.md"
-          }
+            "file": "Documents/ME501A_2024S2/lista4_gabarito.pdf"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -134,7 +212,29 @@
         "type": "leaf",
         "state": {
           "type": "review-queue-list-view",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "15d72becf5ef9b6a",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "c5c6d35252ef072d",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
         }
       }
     ],
@@ -151,32 +251,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "156af055c88f66eb",
+  "active": "128ab3a513e068d0",
   "lastOpenFiles": [
+    "Documents/ME501B_2024S2/l4_15.pdf",
+    "Documents/MA502P_2024S2/lista_3.pdf",
+    "Documents/MA502P_2024S2/lista_4.pdf",
+    "Documents/MA502P_2024S2/lista_5.pdf",
+    "Documents/ME501B_2024S2/gab_lista 3.pdf",
+    "Documents/ME501B_2024S2/Gabartito Lista 4 2015.pdf",
+    "Documents/ME501A_2024S2/lista4_gabarito.pdf",
+    "Documents/ME501A_2024S2/lista4.pdf",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408131707.md",
     "Notes/202408200916.md",
     "Notes/202408200934.md",
     "Notes/202408131711.md",
-    "Documents/MA502P_2024S2/lista_1.pdf",
-    "Notes/202408151545.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Documents/has-inverse-is-bijective.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/ME501B_2024S2/l3.pdf",
     "Images/Pasted image 20241009055845.png",
     "Notes/202410070710.md",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
     "Notes/202410060827.md",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Documents/ME501A_2024S2/lista3_gabarito.pdf",
     "Notes/202410030943.md",
-    "Documents/ME501B_2024S2/lista2.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410030944.excalidraw.md",
     "Notes/202408190952.md",
-    "Documents/ME501B_2024S2/lista2_gabarito.pdf",
     "Notes/202409260623.md",
     "Notes/202408221056.md",
     "Images/202409160953.excalidraw.md",
@@ -190,8 +292,6 @@
     "Notes/202409150730.md",
     "Images/202409150730.excalidraw.md",
     "Meta/References/ME501A_2024S2.md",
-    "Notes/202409121750.md",
-    "Images/202409121759.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",

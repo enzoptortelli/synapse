@@ -11,10 +11,12 @@
             "id": "a8f271603b5bf6b6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Documents/SmartSelect_20241021_090517.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "SmartSelect_20241021_090517"
             }
           }
         ]
@@ -210,10 +212,12 @@
   },
   "active": "a8f271603b5bf6b6",
   "lastOpenFiles": [
+    "Notes/202410110954.md",
+    "Documents/SmartSelect_20241021_090517.jpg",
+    "Notes/202410070710.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
-    "Notes/202410070710.md",
     "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202408151545.md",
     "Documents/MA502P_2024S2/lista_5.pdf",
@@ -226,7 +230,6 @@
     "Notes/202410030943.md",
     "Meta/References/Introduction to the Theory of Statistics.md",
     "Notes/202410060827.md",
-    "Notes/202410110954.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Meta/References/Statistical Inference.md",
@@ -253,7 +256,6 @@
     "Images/Pasted image 20240911102112.png",
     "Images/Pasted image 20240911102008.png",
     "Images/Pasted image 20240911085337.png",
-    "Images/Pasted image 20240911084314.png",
-    "Images/Pasted image 20240827104936.png"
+    "Images/Pasted image 20240911084314.png"
   ]
 }
