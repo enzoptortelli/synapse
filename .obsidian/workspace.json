@@ -25,14 +25,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
+              "title": "Lista4-ProcEst-2024"
+            }
+          },
+          {
+            "id": "296fe7fc0d78ca0c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resp-Lista4-ProcEst-2024"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,22 +235,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "faab5784719cb43b",
+  "active": "296fe7fc0d78ca0c",
   "lastOpenFiles": [
-    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista1-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista2-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Programa-ProcEst.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista1-ProcEst-2024.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Notes/202410110954.md",
     "Notes/202410070710.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/latex_symbols.pdf",
-    "Documents/Real analysis a long-form mathematics textbook -- Cummings, Jay, author -- 2021 -- [Sacramento, CA] LongFormMath.com -- 9781.pdf",
     "Notes/202408151545.md",
-    "Documents/MA502P_2024S2/lista_5.pdf",
-    "Documents/MA502P_2024S2/lista_4.pdf",
-    "Documents/MA502P_2024S2/lista_3.pdf",
-    "Documents/ME501B_2024S2/l3.pdf",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202410030943.md",
     "Meta/References/Introduction to the Theory of Statistics.md",
