@@ -4,107 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8090566f5a1f38",
+        "id": "856da2caf4d8d7f8",
         "type": "tabs",
+        "dimension": 29.963735267452403,
         "children": [
           {
-            "id": "a8f271603b5bf6b6",
+            "id": "2b8b6929a0bb3f0a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf"
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li"
-            }
-          },
-          {
-            "id": "93fb3275b5022bb2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
-            }
-          },
-          {
-            "id": "faab5784719cb43b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lista4-ProcEst-2024"
-            }
-          },
-          {
-            "id": "296fe7fc0d78ca0c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Resp-Lista4-ProcEst-2024"
-            }
-          },
-          {
-            "id": "690fe2cbcdedabff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Resp-Lista5-ProcEst-2024"
-            }
-          },
-          {
-            "id": "1f19b8f9722923ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lista5-ProcEst-2024"
-            }
-          },
-          {
-            "id": "4c25a983a916448b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/l3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "l3"
-            }
-          },
-          {
-            "id": "a128c421949136a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501B_2024S2/gab_lista 3.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "gab_lista 3"
+              "icon": "lucide-file",
+              "title": "202410070710"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "896397c0a434b41b",
+        "type": "tabs",
+        "dimension": 70.0362647325476,
+        "children": [
+          {
+            "id": "44b0a6628cf0a878",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -305,24 +242,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c78d97a19ea5853",
+  "active": "44b0a6628cf0a878",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
+    "Notes/202410070710.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501B_2024S2/l3.pdf",
     "Documents/ME501B_2024S2/gab_lista 3.pdf",
     "Notes/202410211042.md",
-    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Images/202410211043.excalidraw.md",
     "Documents/ME501A_2024S2/Lista1-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista2-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Notes/202410110954.md",
-    "Notes/202410070710.md",
     "Notes/202408151545.md",
     "Meta/References/ME501A_2024S2.md",
     "Notes/202410030943.md",
