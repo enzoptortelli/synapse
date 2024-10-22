@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "93fb3275b5022bb2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
+            }
+          },
+          {
             "id": "faab5784719cb43b",
             "type": "leaf",
             "state": {
@@ -44,6 +56,30 @@
             }
           },
           {
+            "id": "690fe2cbcdedabff",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resp-Lista5-ProcEst-2024"
+            }
+          },
+          {
+            "id": "1f19b8f9722923ec",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lista5-ProcEst-2024"
+            }
+          },
+          {
             "id": "4c25a983a916448b",
             "type": "leaf",
             "state": {
@@ -56,21 +92,19 @@
             }
           },
           {
-            "id": "eeed10c269aa9541",
+            "id": "a128c421949136a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202410211042.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/ME501B_2024S2/gab_lista 3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "202410211042"
+              "icon": "lucide-file-text",
+              "title": "gab_lista 3"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,12 +271,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0c78d97a19ea5853",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -261,20 +305,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c25a983a916448b",
+  "active": "0c78d97a19ea5853",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
-    "Images/202410211043.excalidraw.md",
-    "Notes/202410211042.md",
-    "Documents/ME501B_2024S2/l3.pdf",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/ME501B_2024S2/gab_lista 3.pdf",
+    "Notes/202410211042.md",
+    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
+    "Images/202410211043.excalidraw.md",
     "Documents/ME501A_2024S2/Lista1-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista2-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Notes/202410110954.md",
     "Notes/202410070710.md",
