@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "6a7cc48edc2814ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410220703.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410220703.excalidraw"
+            }
+          },
+          {
             "id": "15eff905668f002d",
             "type": "leaf",
             "state": {
@@ -215,11 +227,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15eff905668f002d",
+  "active": "6a7cc48edc2814ae",
   "lastOpenFiles": [
+    "Notes/202408151545.md",
+    "Images/202410220703.excalidraw.md",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410211043.excalidraw.md",
     "Notes/202410211042.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
@@ -228,9 +244,6 @@
     "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista2-ProcEst-2024.pdf",
-    "Notes/202408151545.md",
     "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408131707.md",
@@ -256,7 +269,6 @@
     "Notes/202409160706.md",
     "Images/202409160707.excalidraw.md",
     "Notes/202409150730.md",
-    "Images/202409150730.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
