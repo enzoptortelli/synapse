@@ -12,12 +12,14 @@
             "id": "2b8b6929a0bb3f0a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202410220703.excalidraw.md"
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "202410220703.excalidraw"
+              "icon": "lucide-file",
+              "title": "202410070710"
             }
           }
         ]
@@ -312,13 +314,13 @@
   },
   "active": "2b8b6929a0bb3f0a",
   "lastOpenFiles": [
+    "Images/202410220703.excalidraw.md",
     "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
-    "Images/202410220703.excalidraw.md",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
     "Documents/ME501B_2024S2/l3.pdf",
