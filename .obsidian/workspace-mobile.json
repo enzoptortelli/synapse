@@ -61,16 +61,18 @@
             "id": "15eff905668f002d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "202408151545"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410220703.excalidraw.md",
+            "file": "Notes/202408151545.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -227,13 +229,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a7cc48edc2814ae",
+  "active": "15eff905668f002d",
   "lastOpenFiles": [
-    "Notes/202408151545.md",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410220703.excalidraw.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408151545.md",
     "Documents/ME501B_2024S2/l3.pdf",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410211043.excalidraw.md",
     "Notes/202410211042.md",
     "Documents/SmartSelect_20241021_090517.jpg",
@@ -242,7 +245,6 @@
     "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
@@ -268,7 +270,6 @@
     "Images/202409160744.excalidraw.md",
     "Notes/202409160706.md",
     "Images/202409160707.excalidraw.md",
-    "Notes/202409150730.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
