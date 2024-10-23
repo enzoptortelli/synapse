@@ -11,12 +11,26 @@
             "id": "ab70512954ccb3b6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
+              "icon": "lucide-file",
+              "title": "202410070710"
+            }
+          },
+          {
+            "id": "e8777b4f36e60837",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410230622.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410230622.excalidraw"
             }
           },
           {
@@ -33,7 +47,8 @@
               "title": "202408151545"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+            "file": "Images/202410230622.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -190,16 +205,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab70512954ccb3b6",
+  "active": "e8777b4f36e60837",
   "lastOpenFiles": [
-    "Images/202410230603.excalidraw.md",
     "Notes/202410070710.md",
-    "Images/202410220703.excalidraw.md",
-    "Notes/202408151545.md",
-    "Documents/ME501B_2024S2/l3.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Images/202410230622.excalidraw.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408151545.md",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
+    "Images/202410230603.excalidraw.md",
+    "Images/202410220703.excalidraw.md",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410211043.excalidraw.md",
     "Notes/202410211042.md",
     "Documents/SmartSelect_20241021_090517.jpg",
@@ -231,7 +247,6 @@
     "Notes/202409160743.md",
     "Images/202409160744.excalidraw.md",
     "Notes/202409160706.md",
-    "Images/202409160707.excalidraw.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
