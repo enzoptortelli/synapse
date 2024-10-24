@@ -101,7 +101,8 @@
               "title": "Lista5-ProcEst-2024"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,12 +289,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "213f081a95a4a763",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -312,16 +323,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b8b6929a0bb3f0a",
+  "active": "213f081a95a4a763",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202410070710.md",
     "Images/202410230622.excalidraw.md",
     "Images/202410230603.excalidraw.md",
     "Images/202410220703.excalidraw.md",
-    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
