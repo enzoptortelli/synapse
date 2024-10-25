@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202408151545.md",
+                "file": "Notes/202410070710.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202408151545"
+              "title": "202410070710"
+            }
+          },
+          {
+            "id": "ce188ef0e6f19936",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410250615.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410250615.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202408151545.md",
+            "file": "Images/202410250615.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -188,11 +201,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3fa4e60c469d80e",
+  "active": "ce188ef0e6f19936",
   "lastOpenFiles": [
-    "Notes/202408130828.md",
-    "Notes/202408151545.md",
     "Notes/202410070710.md",
+    "Images/202410250615.excalidraw.md",
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
     "Images/202410240853.excalidraw.md",
     "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
     "Images/202410240801.excalidraw.md",
@@ -229,7 +243,6 @@
     "Notes/202408221056.md",
     "Images/202409160953.excalidraw.md",
     "Notes/202409160953.md",
-    "Notes/202409160908.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
     "Images/Pasted image 20240827092446.png",
