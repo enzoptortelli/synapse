@@ -11,29 +11,30 @@
             "id": "c3fa4e60c469d80e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
-            }
-          },
-          {
-            "id": "7a9c69399e175daf",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202410251836.md",
+                "file": "Notes/202410070710.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410251836"
+              "title": "202410070710"
+            }
+          },
+          {
+            "id": "f42debd8ee98978a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410260637.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410260637.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
+            "file": "Images/202410260637.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,13 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3fa4e60c469d80e",
+  "active": "f42debd8ee98978a",
   "lastOpenFiles": [
-    "Notes/202408151545.md",
-    "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
-    "Notes/202408130828.md",
-    "Notes/202410251836.md",
     "Notes/202410070710.md",
+    "Images/202410260637.excalidraw.md",
+    "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
+    "Notes/202410251836.md",
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
     "Images/202410250615.excalidraw.md",
     "Images/202410240853.excalidraw.md",
     "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
