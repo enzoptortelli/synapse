@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "040546f00ef18fe5",
+        "id": "b85c7ba4d2b7fef2",
         "type": "tabs",
         "children": [
           {
-            "id": "c3fa4e60c469d80e",
+            "id": "c18e9001b63184b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202410070710"
-            }
-          },
-          {
-            "id": "f42debd8ee98978a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202410260637.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202410260637.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410260637.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42debd8ee98978a",
+  "active": "c18e9001b63184b5",
   "lastOpenFiles": [
     "Notes/202410070710.md",
     "Images/202410260637.excalidraw.md",
