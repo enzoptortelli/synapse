@@ -103,6 +103,18 @@
               "icon": "lucide-file-text",
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
+          },
+          {
+            "id": "35c1373cee32cdd3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+            }
           }
         ],
         "currentTab": 2
@@ -366,10 +378,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cab0416741b5e86",
+  "active": "49d4c99611d3cf55",
   "lastOpenFiles": [
-    "Notes/202410070710.md",
+    "Images/202410280720.excalidraw.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202410070710.md",
     "Images/202410270821.excalidraw.md",
     "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
@@ -384,7 +398,6 @@
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Images/202410250615.excalidraw.md",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410240853.excalidraw.md",
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
