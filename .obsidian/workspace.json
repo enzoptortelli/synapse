@@ -332,12 +332,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "62c5f09c1237319c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -356,11 +366,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d4c99611d3cf55",
+  "active": "8cab0416741b5e86",
   "lastOpenFiles": [
+    "Notes/202410070710.md",
     "Images/202410270821.excalidraw.md",
     "Documents/latex_symbols.pdf",
-    "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202408151545.md",
     "Images/Screenshot_20241026_070441.jpg",

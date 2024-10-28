@@ -11,14 +11,12 @@
             "id": "c18e9001b63184b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
               },
-              "icon": "lucide-file",
-              "title": "202410070710"
+              "icon": "lucide-file-text",
+              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
             }
           }
         ]
@@ -95,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -220,8 +218,8 @@
   },
   "active": "c18e9001b63184b5",
   "lastOpenFiles": [
-    "Images/202410270821.excalidraw.md",
     "Notes/202410070710.md",
+    "Images/202410270821.excalidraw.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/Screenshot_20241026_070441_Samsung capture.jpg",
