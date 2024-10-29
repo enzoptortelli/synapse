@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "053eb2e37459039d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202410290604.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202410290604.excalidraw"
-            }
-          },
-          {
             "id": "cd2d81003410e50a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410290604.excalidraw.md",
+            "file": "Notes/202410070710.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -261,10 +248,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053eb2e37459039d",
+  "active": "c18e9001b63184b5",
   "lastOpenFiles": [
-    "Notes/202410070710.md",
     "Images/202410290604.excalidraw.md",
+    "Notes/202410070710.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
