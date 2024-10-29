@@ -59,15 +59,7 @@
               "icon": "lucide-file-text",
               "title": "Resp-Lista5-ProcEst-2024"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "896397c0a434b41b",
-        "type": "tabs",
-        "dimension": 56.79963735267452,
-        "children": [
+          },
           {
             "id": "ae97b230f3a924ff",
             "type": "leaf",
@@ -79,7 +71,15 @@
               "icon": "lucide-file-text",
               "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "896397c0a434b41b",
+        "type": "tabs",
+        "dimension": 56.79963735267452,
+        "children": [
           {
             "id": "e99945092e473447",
             "type": "leaf",
@@ -93,31 +93,21 @@
             }
           },
           {
-            "id": "8cab0416741b5e86",
+            "id": "bd00150df2b63575",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Notes/202408190952.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "35c1373cee32cdd3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "202408190952"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -388,15 +378,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "49d4c99611d3cf55",
+  "active": "ae97b230f3a924ff",
   "lastOpenFiles": [
+    "Notes/202408190952.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
+    "Notes/202410070710.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Images/Pasted image 20241029064919.png",
     "Images/202410290604.excalidraw.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Notes/202410070710.md",
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410270821.excalidraw.md",
     "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
@@ -408,9 +402,7 @@
     "Notes/202410110954.md",
     "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
     "Notes/202410060827.md",
-    "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Images/202410250615.excalidraw.md",
-    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Images/202410240853.excalidraw.md",
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
@@ -420,7 +412,6 @@
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
     "Documents/ME501B_2024S2/l3.pdf",
-    "Documents/ME501B_2024S2/gab_lista 3.pdf",
     "Images/202410211043.excalidraw.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Meta/References/ME501A_2024S2.md",
@@ -434,7 +425,6 @@
     "Images/202410030944.excalidraw.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
-    "Images/Pasted image 20240911102112.png",
-    "Images/Pasted image 20240911102008.png"
+    "Images/Pasted image 20240911102112.png"
   ]
 }
