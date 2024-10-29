@@ -11,12 +11,26 @@
             "id": "c18e9001b63184b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
+              "icon": "lucide-file",
+              "title": "202410070710"
+            }
+          },
+          {
+            "id": "053eb2e37459039d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410290604.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410290604.excalidraw"
             }
           },
           {
@@ -29,7 +43,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
+            "file": "Images/202410290604.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -246,10 +261,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18e9001b63184b5",
+  "active": "053eb2e37459039d",
   "lastOpenFiles": [
-    "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Notes/202410070710.md",
+    "Images/202410290604.excalidraw.md",
+    "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
     "Images/202410270821.excalidraw.md",
