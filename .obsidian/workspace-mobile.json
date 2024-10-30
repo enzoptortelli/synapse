@@ -11,26 +11,12 @@
             "id": "c18e9001b63184b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
               },
-              "icon": "lucide-file",
-              "title": "202410070710"
-            }
-          },
-          {
-            "id": "149c6f709e2a8131",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202410300741.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202410300741.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li"
             }
           },
           {
@@ -43,8 +29,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410300741.excalidraw.md",
+            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -271,7 +256,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "149c6f709e2a8131",
+  "active": "c18e9001b63184b5",
   "lastOpenFiles": [
     "Notes/202410070710.md",
     "Images/202410300741.excalidraw.md",
