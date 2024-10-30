@@ -6,22 +6,8 @@
       {
         "id": "856da2caf4d8d7f8",
         "type": "tabs",
-        "dimension": 43.20036264732548,
+        "dimension": 50,
         "children": [
-          {
-            "id": "2b8b6929a0bb3f0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202408151545"
-            }
-          },
           {
             "id": "49d4c99611d3cf55",
             "type": "leaf",
@@ -34,6 +20,18 @@
               },
               "icon": "lucide-file",
               "title": "202410070710"
+            }
+          },
+          {
+            "id": "31a7cf26deed5373",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
           },
           {
@@ -72,54 +70,26 @@
               "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
-        "id": "896397c0a434b41b",
+        "id": "d4f0febb93c080e5",
         "type": "tabs",
-        "dimension": 56.79963735267452,
+        "dimension": 50,
         "children": [
           {
-            "id": "e99945092e473447",
+            "id": "809498d0526a7c8c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf"
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lista5-ProcEst-2024"
-            }
-          },
-          {
-            "id": "bd00150df2b63575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408190952.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202408190952"
-            }
-          },
-          {
-            "id": "6c8ee5f649f6a3b3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "latex_symbols"
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -400,22 +370,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fbb355cea8992705",
+  "active": "49d4c99611d3cf55",
   "lastOpenFiles": [
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202410070710.md",
     "Documents/latex_symbols.pdf",
-    "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408190952.md",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
-    "Notes/202410070710.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Images/Pasted image 20241029064919.png",
     "Images/202410290604.excalidraw.md",
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
     "Images/202410270821.excalidraw.md",
-    "Notes/202408151545.md",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/202410260637.excalidraw.md",
