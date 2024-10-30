@@ -105,6 +105,18 @@
               "icon": "lucide-file",
               "title": "202408190952"
             }
+          },
+          {
+            "id": "6c8ee5f649f6a3b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_symbols"
+            }
           }
         ],
         "currentTab": 1
@@ -354,12 +366,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fbb355cea8992705",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "horizontal",
@@ -378,8 +400,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae97b230f3a924ff",
+  "active": "fbb355cea8992705",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
     "Notes/202408190952.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
@@ -392,7 +415,6 @@
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
     "Images/202410270821.excalidraw.md",
-    "Documents/latex_symbols.pdf",
     "Notes/202408151545.md",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
@@ -422,7 +444,6 @@
     "Meta/References/Statistical Inference.md",
     "Images/Pasted image 20241006082848.png",
     "conflict-files-obsidian-git.md",
-    "Images/202410030944.excalidraw.md",
     "Images/Pasted image 20240911105707.png",
     "Images/Pasted image 20240911102411.png",
     "Images/Pasted image 20240911102112.png"
