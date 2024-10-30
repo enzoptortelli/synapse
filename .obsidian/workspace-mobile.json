@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a329fede4f60dce6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410300708.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410300708.excalidraw"
+            }
+          },
+          {
             "id": "cd2d81003410e50a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,6 +243,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "250b32b016b5680c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -248,11 +271,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18e9001b63184b5",
+  "active": "a329fede4f60dce6",
   "lastOpenFiles": [
+    "Notes/202410070710.md",
+    "Images/202410300708.excalidraw.md",
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/Pasted image 20241029064919.png",
     "Images/202410290604.excalidraw.md",
-    "Notes/202410070710.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Images/202410280753.excalidraw.md",
     "Images/202410280720.excalidraw.md",
@@ -262,14 +291,11 @@
     "Images/Screenshot_20241026_070441_Samsung capture.jpg",
     "Images/202410260637.excalidraw.md",
     "Notes/202410251836.md",
-    "Notes/202408151545.md",
-    "Notes/202408130828.md",
     "Images/202410250615.excalidraw.md",
     "Images/202410240853.excalidraw.md",
     "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Images/202410230603.excalidraw.md",
     "Images/202410220703.excalidraw.md",
@@ -280,8 +306,6 @@
     "Documents/SmartSelect_20241021_090517.jpg",
     "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408131707.md",
@@ -294,7 +318,6 @@
     "Notes/202410060827.md",
     "Images/Pasted image 20240827104936.png",
     "Images/Pasted image 20240827094813.png",
-    "Images/Pasted image 20240827092446.png",
-    "Images/Pasted image 20240827091717.png"
+    "Images/Pasted image 20240827092446.png"
   ]
 }
