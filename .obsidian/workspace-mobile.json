@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "197093d835debd64",
+            "id": "149c6f709e2a8131",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202410300729.excalidraw.md"
+                "file": "Images/202410300741.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "202410300729.excalidraw"
+              "title": "202410300741.excalidraw"
             }
           },
           {
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410300729.excalidraw.md",
+            "file": "Images/202410300741.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -271,9 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "197093d835debd64",
+  "active": "149c6f709e2a8131",
   "lastOpenFiles": [
     "Notes/202410070710.md",
+    "Images/202410300741.excalidraw.md",
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
     "Images/202410300708.excalidraw.md",
@@ -312,7 +313,6 @@
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408131707.md",
     "Notes/202408200916.md",
-    "Notes/202408200934.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
