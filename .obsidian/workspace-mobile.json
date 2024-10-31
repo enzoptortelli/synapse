@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "ad5b1b3fa85add14",
+            "id": "bb413e635b9b8212",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Images/202410310638.excalidraw.md"
+                "file": "Images/202410310657.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "202410310638.excalidraw"
+              "title": "202410310657.excalidraw"
             }
           },
           {
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410310638.excalidraw.md",
+            "file": "Images/202410310657.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -281,9 +281,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad5b1b3fa85add14",
+  "active": "bb413e635b9b8212",
   "lastOpenFiles": [
     "Notes/202410070710.md",
+    "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
@@ -322,7 +323,6 @@
     "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
     "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
-    "Notes/202408131707.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
