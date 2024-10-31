@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "9287535046ec465e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202410310730.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202410310730.excalidraw"
+            }
+          },
+          {
             "id": "cd2d81003410e50a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202410070710.md",
+            "file": "Images/202410310730.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -268,10 +281,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c18e9001b63184b5",
+  "active": "9287535046ec465e",
   "lastOpenFiles": [
-    "Images/202410300708.excalidraw.md",
     "Notes/202410070710.md",
+    "Images/202410310730.excalidraw.md",
+    "Images/202410300708.excalidraw.md",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
@@ -309,7 +323,6 @@
     "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
     "Notes/202408081201.md",
-    "Meta/References/MA502P_2024S2.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",

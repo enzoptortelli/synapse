@@ -58,8 +58,7 @@
               "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d4f0febb93c080e5",
@@ -114,7 +113,8 @@
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -405,10 +405,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3d6057582a9e8b98",
+  "active": "49d4c99611d3cf55",
   "lastOpenFiles": [
-    "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Images/202410310730.excalidraw.md",
+    "Notes/202410070710.md",
+    "Documents/latex_symbols.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
@@ -418,7 +420,6 @@
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Images/202410300714.excalidraw.md",
     "Images/202410300708.excalidraw.md",
-    "Documents/latex_symbols.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202408151545.md",
     "Notes/202408190952.md",
@@ -442,7 +443,6 @@
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
     "Images/202410230603.excalidraw.md",
-    "Images/202410220703.excalidraw.md",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
     "Documents/SmartSelect_20241021_090517.jpg",
