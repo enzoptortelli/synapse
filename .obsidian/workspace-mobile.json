@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
+                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li"
+              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
             }
           },
           {
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
+            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -238,6 +238,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "58ac506ab61395d9",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -258,12 +268,12 @@
   },
   "active": "c18e9001b63184b5",
   "lastOpenFiles": [
+    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Notes/202410070710.md",
     "Images/202410300741.excalidraw.md",
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
     "Images/202410300708.excalidraw.md",
-    "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408151545.md",
     "Notes/202408130828.md",
@@ -297,7 +307,6 @@
     "Notes/202408081201.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408131707.md",
-    "Notes/202408200916.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
