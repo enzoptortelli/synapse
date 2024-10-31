@@ -11,12 +11,14 @@
             "id": "c18e9001b63184b5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Images/202410300708.excalidraw.md"
+                "file": "Notes/202410070710.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "202410300708.excalidraw"
+              "icon": "lucide-file",
+              "title": "202410070710"
             }
           },
           {
@@ -103,7 +105,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202410300708.excalidraw.md",
+            "file": "Notes/202410070710.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -268,6 +270,7 @@
   },
   "active": "c18e9001b63184b5",
   "lastOpenFiles": [
+    "Images/202410300708.excalidraw.md",
     "Notes/202410070710.md",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
@@ -276,7 +279,6 @@
     "Images/202410300741.excalidraw.md",
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
-    "Images/202410300708.excalidraw.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408151545.md",
     "Notes/202408130828.md",
