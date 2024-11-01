@@ -258,6 +258,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f9f20bbacfbcbef3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -276,7 +286,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd2d81003410e50a",
+  "active": "f9f20bbacfbcbef3",
   "lastOpenFiles": [
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202410310730.excalidraw.md",
