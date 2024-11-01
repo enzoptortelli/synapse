@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
+              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
             }
           }
         ]
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -238,6 +238,26 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "39d2ba640f6c67a6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "dda9a22100c31493",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -258,6 +278,7 @@
   },
   "active": "cd2d81003410e50a",
   "lastOpenFiles": [
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202410310730.excalidraw.md",
     "Notes/202410070710.md",
     "Images/202410300708.excalidraw.md",
@@ -268,7 +289,6 @@
     "Images/202410300741.excalidraw.md",
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408151545.md",
     "Notes/202408130828.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -297,7 +317,6 @@
     "Documents/SmartSelect_20241021_090517.jpg",
     "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
-    "Notes/202408081201.md",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
