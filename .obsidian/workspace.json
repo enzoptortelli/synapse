@@ -35,18 +35,6 @@
             }
           },
           {
-            "id": "d33ce5239b0c981b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202410300741.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202410300741.excalidraw"
-            }
-          },
-          {
             "id": "d2fe6a898c3bed06",
             "type": "leaf",
             "state": {
@@ -59,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5c42f0184756ef71",
@@ -399,9 +387,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f03e898a5eaba9a",
+  "active": "3eb4e3ed71421b69",
   "lastOpenFiles": [
     "Notes/202410070710.md",
+    "Images/202410300741.excalidraw.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Images/202410310730.excalidraw.md",
@@ -412,7 +401,6 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
-    "Images/202410300741.excalidraw.md",
     "Images/202410300729.excalidraw.md",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
