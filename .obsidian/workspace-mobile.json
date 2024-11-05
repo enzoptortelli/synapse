@@ -27,14 +27,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+                "file": "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+              "title": "Resp-Lista6-ProcEst-2024"
+            }
+          },
+          {
+            "id": "31db99c00461c3cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501B_2024S2/gab_lista 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "gab_lista 3"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+            "file": "Documents/ME501B_2024S2/gab_lista 3.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -293,6 +305,16 @@
         "state": {
           "type": "review-queue-list-view",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "606fe85a45ff59d3",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
           "icon": "SpacedRepIcon",
           "title": "Notes Review Queue"
         }
@@ -311,10 +333,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0af8bb9a70805ef",
+  "active": "31db99c00461c3cd",
   "lastOpenFiles": [
-    "Notes/202410070710.md",
+    "Documents/ME501B_2024S2/l3.pdf",
+    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202410070710.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202410310730.excalidraw.md",
@@ -345,13 +370,11 @@
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Images/202410230603.excalidraw.md",
     "Images/202410220703.excalidraw.md",
-    "Documents/ME501B_2024S2/l3.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410211043.excalidraw.md",
     "Notes/202410211042.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Documents/ME501A_2024S2/Lista8-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista8-ProcEst-2024.pdf",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
