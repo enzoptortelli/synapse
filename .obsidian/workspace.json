@@ -6,7 +6,6 @@
       {
         "id": "718b139def5e3093",
         "type": "tabs",
-        "dimension": 46.41885766092475,
         "children": [
           {
             "id": "be90e482481c1993",
@@ -35,6 +34,30 @@
             }
           },
           {
+            "id": "7cf81026d4d428fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "a0b638e58ea07828",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "570ab1b53b1a2b9f",
             "type": "leaf",
             "state": {
@@ -59,74 +82,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "5c42f0184756ef71",
-        "type": "tabs",
-        "dimension": 53.58114233907525,
-        "children": [
-          {
-            "id": "3eb4e3ed71421b69",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "6fdd41a334de068a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
-            }
-          },
-          {
-            "id": "ac85d8050694d88a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
-            }
-          },
-          {
-            "id": "810a30a5e1d3d121",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
-            }
-          },
-          {
-            "id": "ffd8e1be3734cfa7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Resp-Lista6-ProcEst-2024"
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -433,12 +389,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "30d3fb4ad9e5a4c4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -457,11 +423,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "935ff0b603690d46",
+  "active": "30d3fb4ad9e5a4c4",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Notes/202410070710.md",
     "Notes/202411050749.md",
     "casell.md",
-    "Notes/202410070710.md",
     "Notes/202410211042.md",
     "Notes/202410070710.sync-conflict-20241105-074805-DYYBLR3.md",
     "Images/202411050740.excalidraw.md",
@@ -469,13 +437,11 @@
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Images/202410300741.excalidraw.md",
     "Images/202410310730.excalidraw.md",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
     "Notes/202408151545.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
     "Images/202410300729.excalidraw.md",
@@ -497,7 +463,6 @@
     "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
     "Notes/202410060827.md",
     "Images/202410250615.excalidraw.md",
-    "Images/202410240853.excalidraw.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
