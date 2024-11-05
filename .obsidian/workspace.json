@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5c42f0184756ef71",
@@ -102,8 +102,7 @@
               "title": "Resp-Lista6-ProcEst-2024"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -434,14 +433,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b99b9bd5ec2ad46e",
+  "active": "935ff0b603690d46",
   "lastOpenFiles": [
-    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
+    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Images/202410300741.excalidraw.md",
     "Images/202410310730.excalidraw.md",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
@@ -456,7 +455,6 @@
     "Images/202410300714.excalidraw.md",
     "Images/202410300708.excalidraw.md",
     "Notes/202408190952.md",
-    "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Images/Pasted image 20241029064919.png",
     "Images/202410290604.excalidraw.md",
     "Images/202410280753.excalidraw.md",
