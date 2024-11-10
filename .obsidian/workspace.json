@@ -35,18 +35,6 @@
             }
           },
           {
-            "id": "8a6a3d51b185bda9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Pinguins_em_Terra_Vitória.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Pinguins_em_Terra_Vitória"
-            }
-          },
-          {
             "id": "7cf81026d4d428fc",
             "type": "leaf",
             "state": {
@@ -83,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a993002c46c64818",
@@ -103,6 +91,30 @@
             }
           },
           {
+            "id": "e516651e38fdf1b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "90f1f12517314264",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Bouveyron - Model based clustering and classification for data science.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Bouveyron - Model based clustering and classification for data science"
+            }
+          },
+          {
             "id": "19a4d3fd2c931cdb",
             "type": "leaf",
             "state": {
@@ -115,7 +127,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,14 +264,16 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
-    "Notes/202410070710.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Pinguins_em_Terra_Vitória.pdf",
+    "Notes/202410070710.md",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Notes/202411050749.md",

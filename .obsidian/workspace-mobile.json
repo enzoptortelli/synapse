@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
+              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
             }
           },
           {
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+            "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -360,8 +360,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17ad0e617cafe3da",
+  "active": "879ee5db67e29deb",
   "lastOpenFiles": [
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
@@ -373,7 +374,6 @@
     "Documents/ME501B_2024S2/l3.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202410310730.excalidraw.md",
     "Images/202410300708.excalidraw.md",
     "Images/202410310657.excalidraw.md",
