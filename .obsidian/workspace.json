@@ -251,16 +251,17 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "935ff0b603690d46",
   "lastOpenFiles": [
-    "Images/202410230603.excalidraw.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202410070710.md",
+    "Images/202410230603.excalidraw.md",
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
@@ -294,7 +295,6 @@
     "Images/202410260637.excalidraw.md",
     "Notes/202410251836.md",
     "Notes/202410110954.md",
-    "Notes/202410070710.sync-conflict-20241024-085309-DYYBLR3.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
