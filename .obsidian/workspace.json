@@ -251,11 +251,10 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "935ff0b603690d46",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Images/202410230603.excalidraw.md",
     "Notes/202410070710.md",
