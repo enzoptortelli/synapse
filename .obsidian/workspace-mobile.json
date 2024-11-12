@@ -18,21 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
             }
-          },
-          {
-            "id": "4b1da1a54885fba2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202411110827.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202411110827.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202411110827.excalidraw.md",
+            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -349,14 +336,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b1da1a54885fba2",
+  "active": "ad309998a15d545e",
   "lastOpenFiles": [
+    "Images/202411110827.excalidraw.md",
     "Notes/202411110826.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
-    "Images/202411110827.excalidraw.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
     "Notes/202411050749.md",
     "Notes/202410070710.md",
