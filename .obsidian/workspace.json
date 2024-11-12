@@ -6,7 +6,7 @@
       {
         "id": "718b139def5e3093",
         "type": "tabs",
-        "dimension": 45.14959202175884,
+        "dimension": 60.45310015898251,
         "children": [
           {
             "id": "935ff0b603690d46",
@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "6bec1620709cd6bf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lista7-ProcEst-2024"
+            }
+          },
+          {
             "id": "d2fe6a898c3bed06",
             "type": "leaf",
             "state": {
@@ -64,8 +76,20 @@
       {
         "id": "a993002c46c64818",
         "type": "tabs",
-        "dimension": 54.85040797824116,
+        "dimension": 39.546899841017485,
         "children": [
+          {
+            "id": "6e63dfc25b3555cf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
+            }
+          },
           {
             "id": "8316950380895d2b",
             "type": "leaf",
@@ -76,6 +100,18 @@
               },
               "icon": "lucide-file-text",
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "a23ee5f6302268e2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resp-Lista6-ProcEst-2024"
             }
           },
           {
@@ -126,8 +162,7 @@
               "title": "Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945
+    "width": 309.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -264,12 +300,16 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "570ab1b53b1a2b9f",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
+    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Images/202411110827.excalidraw.md",
@@ -278,18 +318,14 @@
     "Images/202410230603.excalidraw.md",
     "Images/202410240801.excalidraw.md",
     "Images/202410230622.excalidraw.md",
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/Pinguins_em_Terra_Vitória.pdf",
-    "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Notes/202411050749.md",
     "casell.md",
     "Notes/202410211042.md",
     "Notes/202410070710.sync-conflict-20241105-074805-DYYBLR3.md",
     "Images/202411050740.excalidraw.md",
     "Documents/latex_symbols.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Images/202410300741.excalidraw.md",
     "Images/202410310730.excalidraw.md",
     "Documents/ME501A_2024S2/Resp-Lista5-ProcEst-2024.pdf",
