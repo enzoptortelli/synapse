@@ -6,7 +6,7 @@
       {
         "id": "718b139def5e3093",
         "type": "tabs",
-        "dimension": 60.45310015898251,
+        "dimension": 53.89507154213037,
         "children": [
           {
             "id": "935ff0b603690d46",
@@ -75,7 +75,7 @@
       {
         "id": "a993002c46c64818",
         "type": "tabs",
-        "dimension": 39.546899841017485,
+        "dimension": 46.10492845786963,
         "children": [
           {
             "id": "6e63dfc25b3555cf",
@@ -282,6 +282,8 @@
   },
   "active": "be90e482481c1993",
   "lastOpenFiles": [
+    "Images/202411120718.excalidraw.md",
+    "Notes/202411120717.md",
     "Notes/202410070710.md",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
@@ -319,7 +321,6 @@
     "Images/202410270821.excalidraw.md",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
-    "Images/202410260637.excalidraw.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
