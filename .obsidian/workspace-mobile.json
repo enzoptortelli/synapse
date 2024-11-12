@@ -23,12 +23,12 @@
             "id": "4b1da1a54885fba2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+                "file": "Images/202411110827.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
+              "icon": "excalidraw-icon",
+              "title": "202411110827.excalidraw"
             }
           }
         ],
@@ -106,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+            "file": "Images/202411110827.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -351,13 +351,13 @@
   },
   "active": "4b1da1a54885fba2",
   "lastOpenFiles": [
+    "Notes/202411110826.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
-    "Notes/202411110826.md",
     "Images/202411110827.excalidraw.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202411050749.md",
     "Notes/202410070710.md",
     "Notes/202410070710.sync-conflict-20241105-074805-DYYBLR3.md",
