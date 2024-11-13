@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202411120717.md",
+                "file": "Notes/202411130821.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202411120717"
+              "title": "202411130821"
+            }
+          },
+          {
+            "id": "58c40dc93788ad40",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202411130821.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202411130821.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,10 +351,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ad309998a15d545e",
+  "active": "58c40dc93788ad40",
   "lastOpenFiles": [
-    "Images/202411120718.excalidraw.md",
+    "Notes/202411130821.md",
+    "Images/202411130821.excalidraw.md",
     "Notes/202411120717.md",
+    "Images/202411120718.excalidraw.md",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Notes/202411110826.md",
@@ -377,7 +392,6 @@
     "Images/202410260637.excalidraw.md",
     "Notes/202410251836.md",
     "Images/202410250615.excalidraw.md",
-    "Images/202410240853.excalidraw.md",
     "Documents/SmartSelect_20241021_090517.jpg",
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
