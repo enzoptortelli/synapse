@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "202411130821"
             }
-          },
-          {
-            "id": "58c40dc93788ad40",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202411130821.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202411130821.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,10 +338,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58c40dc93788ad40",
+  "active": "ad309998a15d545e",
   "lastOpenFiles": [
-    "Notes/202411130821.md",
     "Images/202411130821.excalidraw.md",
+    "Notes/202411130821.md",
     "Notes/202411120717.md",
     "Images/202411120718.excalidraw.md",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
