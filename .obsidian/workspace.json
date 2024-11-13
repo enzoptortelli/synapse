@@ -12,14 +12,12 @@
             "id": "935ff0b603690d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Notes/202410070710.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/202410280753.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "202410070710"
+              "icon": "excalidraw-icon",
+              "title": "202410280753.excalidraw"
             }
           },
           {
@@ -82,8 +80,7 @@
               "title": "latex_symbols"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "a993002c46c64818",
@@ -306,18 +303,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be90e482481c1993",
+  "active": "935ff0b603690d46",
   "lastOpenFiles": [
+    "Notes/202410070710.md",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202411130835.md",
     "Images/202411130836.excalidraw.md",
     "Notes/202411130821.md",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Images/202411130821.excalidraw.md",
     "Notes/202411120717.md",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Notes/202410070710.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408151545.md",
     "Images/202411120718.excalidraw.md",
@@ -343,7 +340,6 @@
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
     "Images/202410300708.excalidraw.md",
-    "Notes/202408190952.md",
     "Images/Pasted image 20241029064919.png",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
