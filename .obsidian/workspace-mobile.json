@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "202411120717"
             }
-          },
-          {
-            "id": "789c3daf5cd653b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202411120718.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202411120718.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,12 +338,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "789c3daf5cd653b2",
+  "active": "ad309998a15d545e",
   "lastOpenFiles": [
+    "Images/202411120718.excalidraw.md",
     "Notes/202411120717.md",
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
-    "Images/202411120718.excalidraw.md",
     "Notes/202411110826.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202411110827.excalidraw.md",
