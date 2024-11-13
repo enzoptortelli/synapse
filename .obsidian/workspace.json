@@ -6,7 +6,7 @@
       {
         "id": "718b139def5e3093",
         "type": "tabs",
-        "dimension": 53.89507154213037,
+        "dimension": 53.89507154213036,
         "children": [
           {
             "id": "935ff0b603690d46",
@@ -88,7 +88,7 @@
       {
         "id": "a993002c46c64818",
         "type": "tabs",
-        "dimension": 46.10492845786963,
+        "dimension": 46.10492845786964,
         "children": [
           {
             "id": "6e63dfc25b3555cf",
@@ -139,6 +139,32 @@
             }
           },
           {
+            "id": "f07cd6fb752d8547",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
+            }
+          },
+          {
+            "id": "631dec7de0f6f8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202408151545"
+            }
+          },
+          {
             "id": "19a4d3fd2c931cdb",
             "type": "leaf",
             "state": {
@@ -151,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -292,10 +318,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f132e21277733e55",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202408151545.md",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Images/202411120718.excalidraw.md",
     "Notes/202411120717.md",
     "Notes/202410070710.md",
@@ -316,10 +344,8 @@
     "Notes/202410211042.md",
     "Notes/202410070710.sync-conflict-20241105-074805-DYYBLR3.md",
     "Images/202411050740.excalidraw.md",
-    "Documents/latex_symbols.pdf",
     "Images/202410300741.excalidraw.md",
     "Images/202410310730.excalidraw.md",
-    "Notes/202408151545.md",
     "Images/202410310657.excalidraw.md",
     "Images/202410310638.excalidraw.md",
     "Images/202410300729.excalidraw.md",
