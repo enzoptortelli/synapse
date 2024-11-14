@@ -37,12 +37,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202410070710.md",
+                "file": "Notes/202411141514.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202410070710"
+              "title": "202411141514"
+            }
+          },
+          {
+            "id": "45607d9adaefaf9d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/202411141515.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "202411141515.excalidraw"
             }
           },
           {
@@ -58,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202410070710.md",
+            "file": "Images/202411141515.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -375,15 +387,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f52423df014b4c25",
+  "active": "45607d9adaefaf9d",
   "lastOpenFiles": [
+    "Notes/202411141514.md",
+    "Images/202411141515.excalidraw.md",
+    "Notes/202410070710.md",
+    "Documents/latex_symbols.pdf",
     "Notes/202411140627.md",
     "Images/202411140627.excalidraw.md",
     "Notes/202411141015.md",
     "Images/202411141015.excalidraw.md",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Notes/202410070710.md",
     "Notes/202411130835.md",
     "Images/202411130836.excalidraw.md",
     "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
@@ -402,7 +417,6 @@
     "Notes/202411050749.md",
     "Notes/202410070710.sync-conflict-20241105-074805-DYYBLR3.md",
     "Images/202411050740.excalidraw.md",
-    "Documents/ME501B_2024S2/gab_lista 3.pdf",
     "Images/202410310730.excalidraw.md",
     "Images/202410300708.excalidraw.md",
     "Images/202410310657.excalidraw.md",
@@ -411,9 +425,7 @@
     "Images/202410300729.excalidraw.md",
     "Images/202410300714.excalidraw.md",
     "Notes/202408151545.md",
-    "Notes/202408130828.md",
     "Images/Pasted image 20241029064919.png",
-    "Images/202410290604.excalidraw.md",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/Screenshot_20241026_070441_Samsung capture.jpg",
     "Documents/SmartSelect_20241021_090517.jpg",
