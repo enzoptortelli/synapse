@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "45607d9adaefaf9d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Images/202411141515.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "202411141515.excalidraw"
-            }
-          },
-          {
             "id": "d72711d6f4dc7ecb",
             "type": "leaf",
             "state": {
@@ -70,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Images/202411141515.excalidraw.md",
+            "file": "Notes/202411141514.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -387,10 +375,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "45607d9adaefaf9d",
+  "active": "f52423df014b4c25",
   "lastOpenFiles": [
-    "Notes/202411141514.md",
     "Images/202411141515.excalidraw.md",
+    "Notes/202411141514.md",
     "Notes/202410070710.md",
     "Documents/latex_symbols.pdf",
     "Notes/202411140627.md",
