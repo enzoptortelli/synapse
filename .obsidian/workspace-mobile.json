@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+                "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
+              "title": "[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li"
             }
           },
           {
@@ -43,8 +43,7 @@
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "8482bcb3b477a6f7",
@@ -172,7 +171,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/202410070710.md",
+            "file": "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -415,14 +414,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e6b8357ececc761",
+  "active": "f2b14beeebb8ae31",
   "lastOpenFiles": [
+    "Documents/(Undergraduate Texts in Mathematics) Ghorpade S.R., Limaye B.V - A course in calculus and real analysis-Springer (2018).pdf",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202410070710.md",
     "Notes/202411150941.md",
     "Images/202411150941.excalidraw.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202411150901.md",
     "Images/202411150901.excalidraw.md",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202411150844.md",
     "Images/202411150844.excalidraw.md",
     "Notes/202411140627.md",
@@ -430,7 +432,6 @@
     "Images/202411141015.excalidraw.md",
     "Notes/202411141015.md",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
-    "Notes/202410070710.md",
     "Notes/202411141514.md",
     "Images/202411141515.excalidraw.md",
     "Documents/latex_symbols.pdf",
@@ -444,7 +445,6 @@
     "Documents/ME501A_2024S2/Lista5-ProcEst-2024.pdf",
     "Documents/ME501A_2024S2/Lista6-ProcEst-2024.pdf",
     "Notes/202411110826.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Images/202411110827.excalidraw.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
