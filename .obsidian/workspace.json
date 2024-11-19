@@ -32,9 +32,21 @@
               "icon": "lucide-file",
               "title": "202408151545"
             }
+          },
+          {
+            "id": "f2e9347b9c3318ff",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +187,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "631dec7de0f6f8a3",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Documents/(Undergraduate Texts in Mathematics) Ghorpade S.R., Limaye B.V - A course in calculus and real analysis-Springer (2018).pdf",
     "Images/202411150941.excalidraw.md",
