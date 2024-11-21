@@ -48,6 +48,42 @@
             }
           },
           {
+            "id": "212389820301c0e5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
+            }
+          },
+          {
+            "id": "633788db2d4d7002",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Resp-Lista7-ProcEst-2024"
+            }
+          },
+          {
+            "id": "7587ea256a0e7ef0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Montgomery, Design and Analysis of Experiments.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Montgomery, Design and Analysis of Experiments"
+            }
+          },
+          {
             "id": "d43f30ad3c9de83d",
             "type": "leaf",
             "state": {
@@ -60,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -197,14 +233,18 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "7587ea256a0e7ef0",
   "lastOpenFiles": [
-    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
+    "Documents/ME623/ME623_parte22.pdf",
+    "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf",
+    "Documents/Montgomery, Design and Analysis of Experiments.pdf",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Notes/202408151545.md",
+    "Documents/Applied multivariate statistical analysis -- Richard A_ Johnson -- 2014 -- Pearson -- 1299960308 -- 7acf7c12d0f3b3cee739f3a746440265 -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202409121712.md",
     "Notes/202409160743.md",
@@ -234,10 +274,6 @@
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/Resp-Lista6-ProcEst-2024.pdf",
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
-    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
     "Images/Pasted image 20241029064919.png",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
