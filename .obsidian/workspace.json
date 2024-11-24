@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "0d8994fd8c7d28ed",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_symbols"
+            }
+          },
+          {
             "id": "17201bfd8e8105c4",
             "type": "leaf",
             "state": {
@@ -76,7 +88,8 @@
               "title": "latex_symbols"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "0d8994fd8c7d28ed",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
     "Notes/202410070710.md",
+    "Documents/latex_symbols.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
     "Documents/Ghosh-NonAttainabilityChebyshevBounds-1977.pdf",
