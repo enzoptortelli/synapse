@@ -35,12 +35,14 @@
             "id": "6c419caf29e100e7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf"
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li"
+              "icon": "lucide-file",
+              "title": "202408151545"
             }
           }
         ],
@@ -181,13 +183,14 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "6c419caf29e100e7",
   "lastOpenFiles": [
-    "Documents/Ross, Sheldon M - Introduction to probability models-Elsevier,Academic Press (2010).pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
+    "Documents/Ross, Sheldon M - Introduction to probability models-Elsevier,Academic Press (2010).pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
     "Notes/202410070710.md",
