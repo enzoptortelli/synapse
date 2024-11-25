@@ -44,6 +44,18 @@
               "icon": "lucide-file",
               "title": "202408151545"
             }
+          },
+          {
+            "id": "b692fd1d29344243",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_symbols"
+            }
           }
         ],
         "currentTab": 2
@@ -189,20 +201,19 @@
   },
   "active": "6c419caf29e100e7",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
+    "Notes/202408151545.md",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/Ross, Sheldon M - Introduction to probability models-Elsevier,Academic Press (2010).pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
     "Notes/202410070710.md",
     "Notes/202411240903.md",
-    "Documents/latex_symbols.pdf",
     "Documents/Ghosh-NonAttainabilityChebyshevBounds-1977.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_parte22.pdf",
     "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
-    "Documents/ME501A_2024S2/Lista7-ProcEst-2024.pdf",
-    "Notes/202408151545.md",
     "Notes/202409121712.md",
     "Notes/202409160743.md",
     "Notes/202410060827.md",
