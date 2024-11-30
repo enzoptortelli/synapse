@@ -168,7 +168,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+            "file": "Notes/202408151545.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -411,8 +411,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df5643586410962d",
+  "active": "17ad0e617cafe3da",
   "lastOpenFiles": [
+    "test1.txt",
     "Images/202411301206.excalidraw.md",
     "Notes/202408151545.md",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
@@ -448,7 +449,6 @@
     "Notes/202411120717.md",
     "Images/202411120718.excalidraw.md",
     "Notes/202411110826.md",
-    "Images/202411110827.excalidraw.md",
     "Images/Pasted image 20241029064919.png",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/Screenshot_20241026_070441_Samsung capture.jpg",
