@@ -4,55 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "abc1267e1f2b609b",
+        "id": "740dcd501f672f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "4104258a86dbec27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202408151545"
-            }
-          },
-          {
-            "id": "7932f76ea8cd11ea",
+            "id": "735ba3bfc3b9c625",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
-            }
-          },
-          {
-            "id": "6c419caf29e100e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
-            }
-          },
-          {
-            "id": "b692fd1d29344243",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "latex_symbols"
             }
           }
         ]
@@ -192,19 +154,18 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4104258a86dbec27",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202408151545.md",
     "test1.txt",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Images/202411301206.excalidraw.md",
-    "Notes/202408151545.md",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Documents/Ross, Sheldon M - Introduction to probability models-Elsevier,Academic Press (2010).pdf",
     "Notes/202410070710.md",
@@ -212,7 +173,6 @@
     "Documents/Ghosh-NonAttainabilityChebyshevBounds-1977.pdf",
     "Documents/Montgomery, Design and Analysis of Experiments.pdf",
     "Documents/ME623/ME623_parte22.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista7-ProcEst-2024.pdf",
     "Notes/202409121712.md",
     "Notes/202409160743.md",
     "Notes/202410060827.md",
