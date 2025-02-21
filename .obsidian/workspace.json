@@ -11,10 +11,14 @@
             "id": "735ba3bfc3b9c625",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/202502211055.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "202502211055"
             }
           }
         ]
@@ -158,8 +162,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "735ba3bfc3b9c625",
   "lastOpenFiles": [
+    "Notes/202502211055.md",
     "Documents/latex_symbols.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Notes/202408151545.md",
