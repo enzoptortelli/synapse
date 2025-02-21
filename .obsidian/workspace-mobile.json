@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58d2f2e30cccf920",
+            "id": "f1ca8df672788bcb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf"
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Resp-Lista4-ProcEst-2024"
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
           },
           {
-            "id": "f1ca8df672788bcb",
+            "id": "75bf07e71d662351",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -30,21 +30,9 @@
               "icon": "lucide-file-text",
               "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
             }
-          },
-          {
-            "id": "78c8776586766d4b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Proschan-ExpectUnexpectedConditional-1998.pdf",
+            "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -361,23 +349,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78c8776586766d4b",
+  "active": "17ad0e617cafe3da",
   "lastOpenFiles": [
-    "Documents/(McGraw-Hill series in probability and statistics) Boes, Duane C._ Graybill, Franklin A._ Mood, Alexander M - Introduction to the theory of statistics [by] Alexander M. Mood, Franklin A. Graybill [and.pdf",
-    "Documents/(Undergraduate Texts in Mathematics) Ghorpade S.R., Limaye B.V - A course in calculus and real analysis-Springer (2018).pdf",
-    "Documents/Proschan-ExpectUnexpectedConditional-1998.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
+    "Documents/ATC-May-2024_smaller.pdf",
+    "Documents/[Tage Frid Teaches Woodworking 1] Tage Frid - Tage Frid Teaches Woodworking Joinery - Tools and Techniques 1 (Taunton Press) - libgen.li.pdf",
+    "Documents/Bob Flexner - Understanding Wood Finishing, 3rd Revised Edition (Fox Chapel Publishing) - libgen.li.epub",
+    "Documents/Modern Furniture Projects (Best of Fine Woodworking) -- Fine Woodworking Magazine; John Kelsey -- The Best of fine woodworking, Newtown, Conn, -- 9780942391916 -- c8970d6715f3c0a225b9c52bdd1b463f -- Anna’s Archive.pdf",
+    "Documents/Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li.pdf",
+    "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
+    "Documents/(McGraw-Hill series in probability and statistics) Boes, Duane C._ Graybill, Franklin A._ Mood, Alexander M - Introduction to the theory of statistics [by] Alexander M. Mood, Franklin A. Graybill [and.pdf",
+    "Documents/(Undergraduate Texts in Mathematics) Ghorpade S.R., Limaye B.V - A course in calculus and real analysis-Springer (2018).pdf",
     "Notes/202412131213.md",
     "Images/202412131213.excalidraw.md",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/ME501A_2024S2/Lista4-ProcEst-2024.pdf",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
     "Images/202409160953.excalidraw.md",
     "Notes/202408190838.md",
-    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
-    "Documents/ME501B_2024S2/l3.pdf",
-    "Documents/ME501A_2024S2/Resp-Lista3-ProcEst-2024.pdf",
     "Images/202409160953.excalidraw.png",
     "Images/Notes_240807_084623.jpg",
     "Images/202411150941.excalidraw.md",
@@ -387,7 +376,6 @@
     "Meta/References/ME501A_2024S2.md",
     "Notes/202409160706.md",
     "Notes/202409111150.md",
-    "Documents/ME501A_2024S2/Lista3-ProcEst-2024.pdf",
     "Notes/202408260936.md",
     "Images/202408271652.excalidraw.md",
     "Notes/202408271652.md",
