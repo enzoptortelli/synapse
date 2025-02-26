@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "202502211055"
             }
+          },
+          {
+            "id": "daf3f99647684fae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735ba3bfc3b9c625",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Notes/202502211055.md",
     "Documents/latex_symbols.pdf",
