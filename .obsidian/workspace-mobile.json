@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
+              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
             }
           }
         ],
@@ -47,7 +47,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabeticalReverse"
+            "sortOrder": "alphabeticalReverse",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -106,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+            "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -351,8 +352,10 @@
   },
   "active": "17ad0e617cafe3da",
   "lastOpenFiles": [
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Temp/Conceitos e EDA-1.pdf",
+    "Documents/Temp",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/ME501A_2024S2/Resp-Lista4-ProcEst-2024.pdf",
     "Documents/ATC-May-2024_smaller.pdf",
     "Documents/[Tage Frid Teaches Woodworking 1] Tage Frid - Tage Frid Teaches Woodworking Joinery - Tools and Techniques 1 (Taunton Press) - libgen.li.pdf",
@@ -360,8 +363,6 @@
     "Documents/Modern Furniture Projects (Best of Fine Woodworking) -- Fine Woodworking Magazine; John Kelsey -- The Best of fine woodworking, Newtown, Conn, -- 9780942391916 -- c8970d6715f3c0a225b9c52bdd1b463f -- Anna’s Archive.pdf",
     "Documents/Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li.pdf",
     "Documents/Statistical Inference as Severe Testing How to Get Beyond the Statistics Wars.pdf",
-    "Documents/(McGraw-Hill series in probability and statistics) Boes, Duane C._ Graybill, Franklin A._ Mood, Alexander M - Introduction to the theory of statistics [by] Alexander M. Mood, Franklin A. Graybill [and.pdf",
-    "Documents/(Undergraduate Texts in Mathematics) Ghorpade S.R., Limaye B.V - A course in calculus and real analysis-Springer (2018).pdf",
     "Notes/202412131213.md",
     "Images/202412131213.excalidraw.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
