@@ -76,9 +76,21 @@
               "icon": "lucide-file-text",
               "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
             }
+          },
+          {
+            "id": "f59938f4538e13d8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,7 +232,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "306f987e885ed8f9",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Documents/Temp/Screenshot_20250313_102608.png",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
