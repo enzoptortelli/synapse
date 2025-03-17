@@ -196,11 +196,10 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "306f987e885ed8f9",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
