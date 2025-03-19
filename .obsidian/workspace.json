@@ -49,15 +49,18 @@
             "id": "306f987e885ed8f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/ALSM_5Ed_Kutner.pdf"
+                "file": "Notes/202408151545.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ALSM_5Ed_Kutner"
+              "icon": "lucide-file",
+              "title": "202408151545"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +113,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,23 +203,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735ba3bfc3b9c625",
+  "active": "306f987e885ed8f9",
   "lastOpenFiles": [
     "Documents/ALSM_5Ed_Kutner.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Notes/202502211055.md",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Temp/Screenshot_20250313_102608.png",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Notes/202408151545.md",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Notes/202502211055.md",
     "Documents/latex_symbols.pdf",
     "test1.txt",
     "Images/202411301206.excalidraw.md",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
-    "Documents/Ross, Sheldon M - Introduction to probability models-Elsevier,Academic Press (2010).pdf",
     "Notes/202410070710.md",
     "Notes/202411240903.md",
     "Notes/202409121712.md",
