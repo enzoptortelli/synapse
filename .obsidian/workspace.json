@@ -70,6 +70,30 @@
             }
           },
           {
+            "id": "d210bcc7e92b10f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
+            }
+          },
+          {
+            "id": "6648031440761bc9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/fino-analise-real-volume-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "fino-analise-real-volume-1"
+            }
+          },
+          {
             "id": "306f987e885ed8f9",
             "type": "leaf",
             "state": {
@@ -94,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -236,15 +260,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "765b87c76f620c85",
+  "active": "6648031440761bc9",
   "lastOpenFiles": [
-    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Notes/202408151545.md",
-    "Notes/202502211055.md",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/fino-analise-real-volume-1.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
+    "Notes/202502211055.md",
+    "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Notes/202408151545.md",
     "Documents/ALSM_5Ed_Kutner.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/Temp/Screenshot_20250313_102608.png",
@@ -252,7 +277,6 @@
     "test1.txt",
     "Images/202411301206.excalidraw.md",
     "Documents/Pukelsheim-ThreeSigmaRule-1994.pdf",
-    "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Notes/202410070710.md",
     "Notes/202411240903.md",
     "Notes/202409121712.md",
