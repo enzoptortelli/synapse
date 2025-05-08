@@ -9,18 +9,6 @@
         "dimension": 48.32275611967361,
         "children": [
           {
-            "id": "5d99eac9f94a24a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li"
-            }
-          },
-          {
             "id": "99d1d956e0cd575f",
             "type": "leaf",
             "state": {
@@ -30,30 +18,6 @@
               },
               "icon": "lucide-file-text",
               "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
-            }
-          },
-          {
-            "id": "82868e9c75a1936f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Understanding_Analysis-solutions.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Understanding_Analysis-solutions"
-            }
-          },
-          {
-            "id": "c780807d71774fc6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "latex_symbols"
             }
           },
           {
@@ -69,53 +33,27 @@
             }
           },
           {
-            "id": "e217bc8a0d0e7aa9",
+            "id": "fc4db38f6f0fe92c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf"
+                "file": "Documents/Understanding_Analysis-solutions.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive"
+              "title": "Understanding_Analysis-solutions"
             }
           },
           {
-            "id": "d210bcc7e92b10f3",
+            "id": "f2a631ce7303a000",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf"
+                "file": "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd"
-            }
-          },
-          {
-            "id": "6648031440761bc9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/fino-analise-real-volume-1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "fino-analise-real-volume-1"
-            }
-          },
-          {
-            "id": "306f987e885ed8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/202408151545.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202408151545"
+              "title": "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer)"
             }
           },
           {
@@ -286,25 +224,26 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e191d27813a84de6",
+  "active": "fc4db38f6f0fe92c",
   "lastOpenFiles": [
+    "Documents/A0_3500501_MM.pdf",
+    "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "Documents/Understanding_Analysis-solutions.pdf",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Notes/202408151545.md",
+    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
+    "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/lista3.pdf",
     "Documents/fino-analise-real-volume-1.pdf",
-    "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Notes/202408151545.md",
-    "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
     "Documents/Robert P. Dobrow - Introduction to stochastic processes with R (2016, John Wiley & Sons) - libgen.li.pdf",
     "Notes/202504171720.md",
     "Notes/202502211055.md",
-    "Documents/ALSM_5Ed_Kutner.pdf",
-    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/Temp/Screenshot_20250313_102608.png",
     "Images/202411301206.excalidraw.md",
     "Notes/202410070710.md",
