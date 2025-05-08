@@ -36,12 +36,14 @@
             "id": "fc4db38f6f0fe92c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Documents/Understanding_Analysis-solutions.pdf"
+                "file": "Notes/202505081223.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Understanding_Analysis-solutions"
+              "icon": "lucide-file",
+              "title": "202505081223"
             }
           },
           {
@@ -230,10 +232,11 @@
   },
   "active": "fc4db38f6f0fe92c",
   "lastOpenFiles": [
+    "Documents/Understanding_Analysis-solutions.pdf",
+    "Notes/202505081223.md",
     "Documents/theory and applications of correspondence analysis.pdf",
     "Documents/A0_3500501_MM.pdf",
     "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
-    "Documents/Understanding_Analysis-solutions.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Notes/202408151545.md",
@@ -241,7 +244,6 @@
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/lista3.pdf",
-    "Documents/fino-analise-real-volume-1.pdf",
     "Notes/202504171720.md",
     "Notes/202502211055.md",
     "Documents/Temp/Screenshot_20250313_102608.png",
@@ -266,7 +268,6 @@
     "Images/202411150941.excalidraw.md",
     "Images/202411150901.excalidraw.md",
     "Images/202411150844.excalidraw.md",
-    "Images/202411141515.excalidraw.md",
     "Images/Pasted image 20241029064919.png",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
