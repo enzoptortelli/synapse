@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "ec4e95dffa69b4e8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/latex_symbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_symbols"
+            }
+          },
+          {
             "id": "f2a631ce7303a000",
             "type": "leaf",
             "state": {
@@ -69,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "a49753c2eb31330e",
@@ -226,14 +238,13 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc4db38f6f0fe92c",
+  "active": "ec4e95dffa69b4e8",
   "lastOpenFiles": [
-    "Documents/Understanding_Analysis-solutions.pdf",
     "Notes/202505081223.md",
+    "Documents/Understanding_Analysis-solutions.pdf",
     "Documents/theory and applications of correspondence analysis.pdf",
     "Documents/A0_3500501_MM.pdf",
     "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
