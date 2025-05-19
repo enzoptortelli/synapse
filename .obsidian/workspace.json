@@ -6,7 +6,6 @@
       {
         "id": "740dcd501f672f7e",
         "type": "tabs",
-        "dimension": 75.48543689320388,
         "children": [
           {
             "id": "99d1d956e0cd575f",
@@ -21,7 +20,7 @@
             }
           },
           {
-            "id": "c813738d7f8de09e",
+            "id": "8aeb1eda447c14a8",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -68,26 +67,8 @@
               "title": "[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer)"
             }
           }
-        ]
-      },
-      {
-        "id": "a49753c2eb31330e",
-        "type": "tabs",
-        "dimension": 24.514563106796118,
-        "children": [
-          {
-            "id": "e191d27813a84de6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.51103591918945,
-    "collapsed": true
+    "width": 309.51103591918945
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -230,12 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99d1d956e0cd575f",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
-    "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/Understanding_Analysis-solutions.pdf",
+    "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
     "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "Documents/latex_symbols.pdf",
     "Notes/202505081223.md",
