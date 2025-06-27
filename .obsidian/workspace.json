@@ -206,11 +206,13 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "8aeb1eda447c14a8",
   "lastOpenFiles": [
+    "Documents/Temp/Screenshot_20250627_085523.png",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
@@ -223,7 +225,6 @@
     "Notes/202408151545.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
-    "Documents/lista3.pdf",
     "Notes/202504171720.md",
     "Notes/202502211055.md",
     "Documents/Temp/Screenshot_20250313_102608.png",
