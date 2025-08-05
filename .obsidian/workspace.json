@@ -13,22 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+                "file": "Documents/MA502P_2024S2/lista_2.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
-            }
-          },
-          {
-            "id": "8aeb1eda447c14a8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/latex_symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "latex_symbols"
+              "title": "lista_2"
             }
           },
           {
@@ -67,8 +55,7 @@
               "title": "latex_symbols"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,24 +193,29 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
+    "Documents/MA502P_2024S2/lista_1.pdf",
+    "Notes/202408080820.md",
+    "Meta/References/MA502P_2024S2.md",
+    "Documents/Temp/lista_1.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Notes/202408151545.md",
+    "Notes/202408130828.md",
+    "Documents/latex_symbols.pdf",
     "Documents/Temp/Screenshot_20250627_085523.png",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
-    "Documents/latex_symbols.pdf",
     "Documents/Understanding_Analysis-solutions.pdf",
     "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "Notes/202505081223.md",
     "Documents/theory and applications of correspondence analysis.pdf",
     "Documents/A0_3500501_MM.pdf",
-    "Notes/202408151545.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
     "Notes/202504171720.md",
     "Notes/202502211055.md",
     "Documents/Temp/Screenshot_20250313_102608.png",
@@ -245,9 +237,6 @@
     "Notes/202411150844.md",
     "Notes/202411150901.md",
     "Notes/202411150941.md",
-    "Images/202411150941.excalidraw.md",
-    "Images/202411150901.excalidraw.md",
-    "Images/202411150844.excalidraw.md",
     "Images/Pasted image 20241029064919.png",
     "Images/Screenshot_20241026_070441.jpg",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
@@ -255,7 +244,6 @@
     "Images/Pasted image 20241009055845.png",
     "Images/20241006083936.jpg",
     "Images/Pasted image 20241006082848.png",
-    "Images/Pasted image 20240911105707.png",
-    "Images/Pasted image 20240911102411.png"
+    "Images/Pasted image 20240911105707.png"
   ]
 }
