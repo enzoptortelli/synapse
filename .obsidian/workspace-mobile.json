@@ -63,10 +63,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+                "file": "Documents/Foundations of Modern Probability.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
+              "title": "Foundations of Modern Probability"
             }
           },
           {
@@ -154,8 +154,8 @@
             "sortOrder": "frequency",
             "useHierarchy": true
           },
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "tag"
         }
       },
       {
@@ -415,6 +415,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
@@ -426,9 +427,11 @@
   },
   "active": "17ad0e617cafe3da",
   "lastOpenFiles": [
+    "Documents/the-myth-of-statistical-inference.pdf",
+    "Documents/theory and applications of correspondence analysis.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Sheldon M. Ross - Introduction to Probability Models (2023, Academic Press) - libgen.li.pdf",
     "Meta/Link-tag/bayesian.md",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Multidimensional-Newton.pdf",
     "Documents/An Introduction to Categorical Data Analysis, 3rd Edition -- Agresti, Alan -- Wiley series in probability and statistics, Third edition, -- John Wiley -- 9781119405269 -- b7f0341782f7f40880dcf24fd88c6e4c -- Anna’s Archive.pdf",
     "Documents/[Projeto Euclídes] Elon Lages Lima - Curso de Análise 1 (2014, IMPA) - libgen.li.pdf",
@@ -440,8 +443,6 @@
     "Notes/202504271726.md",
     "Notes/202408151545.md",
     "Documents/Analise_Real--Elon_Lages_Lima--vol_1-Livro-fino_10thEd.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/Temp/Conceitos e EDA-1.pdf",
     "Notes/202412131213.md",
     "Images/202412131213.excalidraw.md",
     "Images/SmartSelect_20240608_065124_Graphing Calc.jpg",
