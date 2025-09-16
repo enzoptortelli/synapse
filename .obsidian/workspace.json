@@ -47,12 +47,12 @@
             "id": "a108137d9cbc497e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Documents/Foundations of Modern Probability.pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file-text",
+              "title": "Foundations of Modern Probability"
             }
           }
         ],
@@ -199,25 +199,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "a108137d9cbc497e",
   "lastOpenFiles": [
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
+    "Audios/PTT-20250916-WA0008.opus",
+    "Audios/PTT-20250916-WA0007.opus",
+    "Audios/PTT-20250916-WA0005.opus",
+    "Audios/PTT-20250916-WA0006.opus",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/Sampling Theory and Practice.pdf",
+    "Documents/Thorsten Dickhaus (auth.) - Simultaneous Statistical Inference_ With Applications in the Life Sciences (2014, Springer) [10.1007_978-3-642-45182-9] - libgen.li.pdf",
+    "Documents/Understanding_Analysis-solutions.pdf",
+    "Documents/Wilkinson & the Task Force on Statistical Inference, 1999.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/MA502P_2024S2/lista_2.pdf",
-    "Documents/MA502P_2024S2/lista_1.pdf",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
-    "Documents/Temp/lista_1.pdf",
     "Notes/202408151545.md",
     "Notes/202408130828.md",
-    "Documents/latex_symbols.pdf",
     "Documents/Temp/Screenshot_20250627_085523.png",
-    "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
-    "Documents/Understanding_Analysis-solutions.pdf",
-    "Documents/[Undergraduate Texts in Mathematics] Stephen Abbott - Understanding Analysis (2015, Springer).pdf",
     "Notes/202505081223.md",
-    "Documents/theory and applications of correspondence analysis.pdf",
-    "Documents/A0_3500501_MM.pdf",
     "Notes/202504171720.md",
     "Notes/202502211055.md",
     "Documents/Temp/Screenshot_20250313_102608.png",
