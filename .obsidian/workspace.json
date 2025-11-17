@@ -195,11 +195,10 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a108137d9cbc497e",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
     "Audios/PTT-20250916-WA0008.opus",
     "Audios/PTT-20250916-WA0007.opus",
