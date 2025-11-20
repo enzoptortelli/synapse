@@ -49,14 +49,26 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/Foundations of Modern Probability.pdf"
+                "file": "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Foundations of Modern Probability"
+              "title": "An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "bd5d2c68ac512b94",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,11 +207,14 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
+    "Documents/Livro_MLG.pdf",
+    "Documents/Foundations of Modern Probability.pdf",
     "Audios/PTT-20250916-WA0008.opus",
     "Audios/PTT-20250916-WA0007.opus",
     "Audios/PTT-20250916-WA0005.opus",
@@ -209,8 +224,6 @@
     "Documents/Thorsten Dickhaus (auth.) - Simultaneous Statistical Inference_ With Applications in the Life Sciences (2014, Springer) [10.1007_978-3-642-45182-9] - libgen.li.pdf",
     "Documents/Understanding_Analysis-solutions.pdf",
     "Documents/Wilkinson & the Task Force on Statistical Inference, 1999.pdf",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
-    "Documents/MA502P_2024S2/lista_2.pdf",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408151545.md",
