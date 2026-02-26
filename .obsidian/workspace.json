@@ -135,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "josee",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -156,8 +156,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,8 +246,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5da5bb20117be825",
+  "active": "1cc8f5d8b38388fa",
   "lastOpenFiles": [
+    "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
     "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
@@ -263,7 +263,6 @@
     "Audios/PTT-20250916-WA0007.opus",
     "Audios/PTT-20250916-WA0005.opus",
     "Audios/PTT-20250916-WA0006.opus",
-    "Documents/Sampling Theory and Practice.pdf",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408151545.md",
