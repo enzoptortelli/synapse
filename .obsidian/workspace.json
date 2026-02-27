@@ -70,18 +70,6 @@
             }
           },
           {
-            "id": "d515f3d9664286db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive"
-            }
-          },
-          {
             "id": "b7381991949684e9",
             "type": "leaf",
             "state": {
@@ -94,6 +82,30 @@
             }
           },
           {
+            "id": "ecd7393a77a214df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive"
+            }
+          },
+          {
+            "id": "6c0ef476939aedc7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "George Casella and Roger Berger - Solutions Manual for Statistical Inference"
+            }
+          },
+          {
             "id": "8cf3158ec07edb9b",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -242,16 +255,16 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc8f5d8b38388fa",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
-    "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
-    "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
+    "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
+    "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
+    "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
     "Notes/202511200930.md",
     "Notes/202511200921.md",
     "Notes/202511200924.md",
@@ -262,7 +275,6 @@
     "Audios/PTT-20250916-WA0008.opus",
     "Audios/PTT-20250916-WA0007.opus",
     "Audios/PTT-20250916-WA0005.opus",
-    "Audios/PTT-20250916-WA0006.opus",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408151545.md",
