@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf"
+                "file": "Documents/Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li"
+              "title": "Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li"
             }
           },
           {
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5
+    "width": 833.5
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -258,14 +258,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4aae9d18bff657a3",
+  "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
-    "Documents/latex_symbols.pdf",
+    "Documents/Modern Furniture Projects (Best of Fine Woodworking) -- Fine Woodworking Magazine; John Kelsey -- The Best of fine woodworking, Newtown, Conn, -- 9780942391916 -- c8970d6715f3c0a225b9c52bdd1b463f -- Anna’s Archive.pdf",
+    "Documents/R. Bruce Hoadley - Understanding Wood_ A Craftsman’s Guide to Wood Technology (2000, The Taunton Press) - libgen.li.pdf",
+    "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
+    "Documents/latex_symbols.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
-    "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
     "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
     "Notes/202511200930.md",
     "Notes/202511200921.md",
@@ -273,8 +275,6 @@
     "Untitled.md",
     "Documents/Livro_MLG.pdf",
     "Documents/Foundations of Modern Probability.pdf",
-    "Audios/PTT-20250916-WA0008.opus",
-    "Audios/PTT-20250916-WA0007.opus",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408151545.md",
