@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Documents/latex_symbols.pdf"
+                "file": "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "latex_symbols"
+              "title": "[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li"
             }
           },
           {
@@ -106,18 +106,6 @@
             }
           },
           {
-            "id": "7f05b01fa5faf5d2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "8cf3158ec07edb9b",
             "type": "leaf",
             "state": {
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,15 +255,15 @@
       "zk-prefixer:Create new unique note": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dbc661d6119cc20",
+  "active": "4aae9d18bff657a3",
   "lastOpenFiles": [
+    "Documents/latex_symbols.pdf",
     "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
+    "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
     "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
@@ -283,7 +271,6 @@
     "Notes/202511200921.md",
     "Notes/202511200924.md",
     "Untitled.md",
-    "Documents/latex_symbols.pdf",
     "Documents/Livro_MLG.pdf",
     "Documents/Foundations of Modern Probability.pdf",
     "Audios/PTT-20250916-WA0008.opus",
