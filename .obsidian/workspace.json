@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "4aae9d18bff657a3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documents/Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li"
-            }
-          },
-          {
-            "id": "a2112feed5d1c3e6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
-            }
-          },
-          {
             "id": "a108137d9cbc497e",
             "type": "leaf",
             "state": {
@@ -116,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -173,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 833.5
+    "width": 509.5
   },
   "right": {
     "id": "e5335a972d5245df",
@@ -260,21 +236,20 @@
   },
   "active": "9dbc661d6119cc20",
   "lastOpenFiles": [
+    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
+    "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
+    "Notes/202511200924.md",
+    "Documents/Editors of Fine Woodworking - Fine Woodworking Chests and Cabinets (Taunton Press) - libgen.li.pdf",
     "Documents/Modern Furniture Projects (Best of Fine Woodworking) -- Fine Woodworking Magazine; John Kelsey -- The Best of fine woodworking, Newtown, Conn, -- 9780942391916 -- c8970d6715f3c0a225b9c52bdd1b463f -- Anna’s Archive.pdf",
     "Documents/R. Bruce Hoadley - Understanding Wood_ A Craftsman’s Guide to Wood Technology (2000, The Taunton Press) - libgen.li.pdf",
     "Documents/[Springer Texts in Statistics Series] Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani - An Introduction To Statistical Learning_ With Applications In R (2013, Springer Science + Business Media) - libgen.li.pdf",
-    "Documents/Statistical Inference -- George Casella_ Roger L. Berger -- Duxbury Advanced Series, 2nd, 2002 -- Cengage Learning -- 9780534243128 -- bb16c72c13c0b5ed2816617e8341cf5e -- Anna’s Archive.pdf",
-    "Documents/An Introduction to Generalized Linear Models (Chapman & -- Annette J Dobson; Adrian G Barnett; Taylor & Francis -- Chapman & Hall Statistics Texts, 4, -- 9781138741515 -- 83eff9c53352993c1c1c41f570651d7f -- Anna’s Archive.pdf",
     "Documents/latex_symbols.pdf",
     "Documents/George Casella and Roger Berger - Solutions Manual for Statistical Inference.pdf",
     "Documents/Bouveyron - Model based clustering and classification for data science.pdf",
     "Documents/[Adaptive Computation and Machine Learning _1] Murphy, Kevin P. - Machine Learning_ A Probabilistic Perspective (2012, The MIT Press) - libgen.li.epub",
     "Notes/202511200930.md",
     "Notes/202511200921.md",
-    "Notes/202511200924.md",
     "Untitled.md",
-    "Documents/Livro_MLG.pdf",
-    "Documents/Foundations of Modern Probability.pdf",
     "Notes/202408080820.md",
     "Meta/References/MA502P_2024S2.md",
     "Notes/202408151545.md",
